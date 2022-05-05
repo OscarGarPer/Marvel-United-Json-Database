@@ -7,7 +7,7 @@
   },
   "characters": [
     {
-      "img": "heroes/Adam-Warlock.jpg",
+      "img": "en/heroes/Adam-Warlock.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Adam Warlock",
@@ -24,7 +24,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock01.jpg",
+          "img": "en/heroes/Adam-Warlock01.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -45,7 +45,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock02.jpg",
+          "img": "en/heroes/Adam-Warlock02.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -67,7 +67,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock03.jpg",
+          "img": "en/heroes/Adam-Warlock03.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -89,7 +89,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock04.jpg",
+          "img": "en/heroes/Adam-Warlock04.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -111,7 +111,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock05.jpg",
+          "img": "en/heroes/Adam-Warlock05.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -133,7 +133,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock06.jpg",
+          "img": "en/heroes/Adam-Warlock06.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -154,7 +154,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock07.jpg",
+          "img": "en/heroes/Adam-Warlock07.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -175,29 +175,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock08.jpg",
-          "title": {
-            "text": "Adam Warlock",
-            "locText": "Adam Warlock"
-          },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
-          "actions": [
-            "W",
-            "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Adam-Warlock09.jpg",
+          "img": "en/heroes/Adam-Warlock08.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -219,7 +197,29 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock10.jpg",
+          "img": "en/heroes/Adam-Warlock09.jpg",
+          "title": {
+            "text": "Adam Warlock",
+            "locText": "Adam Warlock"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Adam-Warlock10.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -250,7 +250,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock11.jpg",
+          "img": "en/heroes/Adam-Warlock11.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"
@@ -281,7 +281,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Adam-Warlock12.jpg",
+          "img": "en/heroes/Adam-Warlock12.jpg",
           "title": {
             "text": "Adam Warlock",
             "locText": "Adam Warlock"

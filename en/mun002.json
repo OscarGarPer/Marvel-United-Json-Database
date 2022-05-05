@@ -5,7 +5,7 @@
       "text": "Rise Of The Black Panther",
       "locText":"Rise Of The Black Panther"
     },
-    "rulebook": "https://google.com",
+  "rulebook": "https://cmon-files.s3.amazonaws.com/pdf/assets_item/resource/202/Marvel_United_Rulebook.pdf",
     "tokens": [
       "endangeredLocation1",
       "endangeredLocation1",
@@ -18,7 +18,7 @@
     ],
     "locations": [
       {
-        "img": "locations/golden-city.jpg",
+        "img": "en/locations/golden-city.jpg",
         "title": {
           "text": "Golden City",
           "locText":"Golden City"
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "img": "locations/great-mound.jpg",
+        "img": "en/locations/great-mound.jpg",
         "title": {
           "text": "Great Mound",
           "locText":"Great Mound"
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "img": "locations/jabari-village.jpg",
+        "img": "en/locations/jabari-village.jpg",
         "title": {
           "text": "Jabari Village",
           "locText":"Jabari Village"
@@ -78,7 +78,7 @@
         ]
       },
       {
-        "img": "locations/royal-palace.jpg",
+        "img": "en/locations/royal-palace.jpg",
         "title": {
           "text": "Royal Palace",
           "locText":"Royal Palace"
@@ -99,7 +99,7 @@
         ]
       },
       {
-        "img": "locations/shuris-lab.jpg",
+        "img": "en/locations/shuris-lab.jpg",
         "title": {
           "text": "Shuri's Lab",
           "locText":"Shuri's Lab"
@@ -118,7 +118,7 @@
         ]
       },
       {
-        "img": "locations/warrior-falls.jpg",
+        "img": "en/locations/warrior-falls.jpg",
         "title": {
           "text": "Warrior Falls",
           "locText":"Warrior Falls"
@@ -141,7 +141,7 @@
     ],
     "challenges": [
       {
-        "img": "challenges/endangered-locations.jpg",
+        "img": "en/challenges/endangered-locations.jpg",
         "title": {
           "text": "Endangered Locations Challenge",
           "locText":"Endangered Locations Challenge"
@@ -156,7 +156,7 @@
     "cards": null,
     "characters": [
       {
-        "img": "heroes/Black-Panther.jpg",
+        "img": "en/heroes/Black-Panther.jpg",
         "loyalty": "hero",
         "name": {
           "text": "Black Panther",
@@ -173,7 +173,7 @@
         "cards": [
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther01.jpg",
+            "img": "en/heroes/Black-Panther01.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -195,7 +195,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther02.jpg",
+            "img": "en/heroes/Black-Panther02.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -217,7 +217,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther03.jpg",
+            "img": "en/heroes/Black-Panther03.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -238,7 +238,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther04.jpg",
+            "img": "en/heroes/Black-Panther04.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -259,7 +259,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther05.jpg",
+            "img": "en/heroes/Black-Panther05.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -281,7 +281,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther06.jpg",
+            "img": "en/heroes/Black-Panther06.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -303,7 +303,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther07.jpg",
+            "img": "en/heroes/Black-Panther07.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -325,7 +325,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther08.jpg",
+            "img": "en/heroes/Black-Panther08.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -346,7 +346,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther09.jpg",
+            "img": "en/heroes/Black-Panther09.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -368,7 +368,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther10.jpg",
+            "img": "en/heroes/Black-Panther10.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -399,7 +399,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther11.jpg",
+            "img": "en/heroes/Black-Panther11.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -430,7 +430,7 @@
           },
           {
             "cardType": "hero",
-            "img": "heroes/Black-Panther12.jpg",
+            "img": "en/heroes/Black-Panther12.jpg",
             "title": {
               "text": "Black Panther",
               "locText":"Black Panther"
@@ -481,7 +481,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Shuri01.jpg",
+      "img": "en/heroes/Shuri01.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -502,7 +502,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri02.jpg",
+      "img": "en/heroes/Shuri02.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -523,7 +523,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri03.jpg",
+      "img": "en/heroes/Shuri03.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -544,7 +544,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri04.jpg",
+      "img": "en/heroes/Shuri04.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -566,7 +566,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri05.jpg",
+      "img": "en/heroes/Shuri05.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -588,7 +588,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri06.jpg",
+      "img": "en/heroes/Shuri06.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -609,7 +609,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri07.jpg",
+      "img": "en/heroes/Shuri07.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -631,7 +631,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri08.jpg",
+      "img": "en/heroes/Shuri08.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -652,7 +652,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri09.jpg",
+      "img": "en/heroes/Shuri09.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -674,7 +674,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri10.jpg",
+      "img": "en/heroes/Shuri10.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -705,7 +705,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri10.jpg",
+      "img": "en/heroes/Shuri10.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -736,7 +736,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shuri10.jpg",
+      "img": "en/heroes/Shuri10.jpg",
       "title": {
         "text": "Shuri",
         "locText":"Shuri"
@@ -787,7 +787,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier01.jpg",
+      "img": "en/heroes/Winter-Soldier01.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -808,7 +808,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier02.jpg",
+      "img": "en/heroes/Winter-Soldier02.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -830,7 +830,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier03.jpg",
+      "img": "en/heroes/Winter-Soldier03.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -852,7 +852,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier04.jpg",
+      "img": "en/heroes/Winter-Soldier04.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -873,7 +873,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier05.jpg",
+      "img": "en/heroes/Winter-Soldier05.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -894,7 +894,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier06.jpg",
+      "img": "en/heroes/Winter-Soldier06.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -916,7 +916,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier07.jpg",
+      "img": "en/heroes/Winter-Soldier07.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -937,7 +937,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier08.jpg",
+      "img": "en/heroes/Winter-Soldier08.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -958,7 +958,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier09.jpg",
+      "img": "en/heroes/Winter-Soldier09.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -980,7 +980,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier10.jpg",
+      "img": "en/heroes/Winter-Soldier10.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -1011,7 +1011,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier10.jpg",
+      "img": "en/heroes/Winter-Soldier10.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -1042,7 +1042,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Winter-Soldier10.jpg",
+      "img": "en/heroes/Winter-Soldier10.jpg",
       "title": {
         "text": "Winter Soldier",
         "locText":"Winter Soldier"
@@ -1093,7 +1093,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP01.jpg",
+      "img": "en/villains/Killmonger-MP01.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1112,7 +1112,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP02.jpg",
+      "img": "en/villains/Killmonger-MP02.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1131,7 +1131,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP03.jpg",
+      "img": "en/villains/Killmonger-MP03.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1150,7 +1150,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP04.jpg",
+      "img": "en/villains/Killmonger-MP04.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1169,7 +1169,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP05.jpg",
+      "img": "en/villains/Killmonger-MP05.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1188,7 +1188,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP06.jpg",
+      "img": "en/villains/Killmonger-MP06.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1207,7 +1207,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP07.jpg",
+      "img": "en/villains/Killmonger-MP07.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1226,7 +1226,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP08.jpg",
+      "img": "en/villains/Killmonger-MP08.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1245,7 +1245,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP09.jpg",
+      "img": "en/villains/Killmonger-MP09.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1284,7 +1284,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP09.jpg",
+      "img": "en/villains/Killmonger-MP09.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1323,7 +1323,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP11.jpg",
+      "img": "en/villains/Killmonger-MP11.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1362,7 +1362,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Killmonger-MP11.jpg",
+      "img": "en/villains/Killmonger-MP11.jpg",
       "title": {
         "text": "Killmonger",
         "locText":"Killmonger"
@@ -1401,7 +1401,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Killmonger-T1.jpg",
+      "img": "en/villains/Killmonger-T1.jpg",
       "title": {
         "text": "Mercenaries",
         "locText":"Mercenaries"
@@ -1427,7 +1427,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Killmonger-T1.jpg",
+      "img": "en/villains/Killmonger-T1.jpg",
       "title": {
         "text": "Mercenaries",
         "locText":"Mercenaries"
@@ -1453,7 +1453,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Killmonger-T3.jpg",
+      "img": "en/villains/Killmonger-T3.jpg",
       "title": {
         "text": "Assasination Attemp",
         "locText":"Assasination Attemp"
@@ -1479,7 +1479,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Killmonger-T3.jpg",
+      "img": "en/villains/Killmonger-T3.jpg",
       "title": {
         "text": "Assasination Attemp",
         "locText":"Assasination Attemp"
@@ -1505,7 +1505,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Killmonger-T5.jpg",
+      "img": "en/villains/Killmonger-T5.jpg",
       "title": {
         "text": "Weapon Smuggling",
         "locText":"Weapon Smuggling"
@@ -1531,7 +1531,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Killmonger-T5.jpg",
+      "img": "en/villains/Killmonger-T5.jpg",
       "title": {
         "text": "Weapon Smuggling",
         "locText":"Weapon Smuggling"
@@ -1558,7 +1558,7 @@
   ],
   "dashboard": {
     "back": {
-      "img": "villains/Killmonger-B.jpg",
+      "img": "en/villains/Killmonger-B.jpg",
       "specialSetup": null,
       "superVillain": [
         "A",
@@ -1566,7 +1566,7 @@
       ]
     },
     "front": {
-      "img": "villains/Killmonger-A.jpg",
+      "img": "en/villains/Killmonger-A.jpg",
       "specialRules": null,
       "overflow": {
         "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, replace the leftmost CIVILIAN/THUG token on Killmonger's Location (if present) with a Crisis token.",

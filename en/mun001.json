@@ -9,7 +9,7 @@
   "tokens": null,
   "locations": [
     {
-      "img": "locations/avengers-mansion.jpg",
+      "img": "en/locations/avengers-mansion.jpg",
       "title": {
         "text": "Avengers Mansion",
         "locText":"Avengers Mansion"
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "img": "locations/avengers-tower.jpg",
+      "img": "en/locations/avengers-tower.jpg",
       "title": {
         "text": "Avengers Tower",
         "locText":"Avengers Tower"
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "img": "locations/stark-labs.jpg",
+      "img": "en/locations/stark-labs.jpg",
       "title": {
         "text": "Stark Labs",
         "locText":"Stark Labs"
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "img": "locations/central-park.jpg",
+      "img": "en/locations/central-park.jpg",
       "title": {
         "text": "Central Park",
         "locText":"Central Park"
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "img": "locations/shield-headquarters.jpg",
+      "img": "en/locations/shield-headquarters.jpg",
       "title": {
         "text": "S.H.I.E.L.D. Headquarters",
         "locText":"S.H.I.E.L.D. Headquarters"
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "img": "locations/shield-helicarrier.jpg",
+      "img": "en/locations/shield-helicarrier.jpg",
       "title": {
         "text": "S.H.I.E.L.D. Helicarrier",
         "locText":"S.H.I.E.L.D. Helicarrier"
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "img": "locations/times-square.jpg",
+      "img": "en/locations/times-square.jpg",
       "title": {
         "text": "Times Square",
         "locText":"Times Square"
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "img": "locations/new-york-police-headquarters.jpg",
+      "img": "en/locations/new-york-police-headquarters.jpg",
       "title": {
         "text": "New York Police Headquarters",
         "locText":"New York Police Headquarters"
@@ -171,7 +171,7 @@
   ],
 "challenges": [
   {
-    "img": "challenges/moderate.jpg",
+    "img": "en/challenges/moderate.jpg",
     "title": {
       "text": "Moderate Challenge",
       "locText":"Moderate Challenge"
@@ -183,7 +183,7 @@
     "cards": null
   },
   {
-    "img": "challenges/hard.jpg",
+    "img": "en/challenges/hard.jpg",
     "title": {
       "text": "Hard Challenge",
       "locText":"Hard Challenge"
@@ -195,7 +195,7 @@
     "cards": null
   },
   {
-    "img": "challenges/heroic.jpg",
+    "img": "en/challenges/heroic.jpg",
     "title": {
       "text": "Heroic Challenge",
       "locText":"Heroic Challenge"
@@ -227,7 +227,7 @@
     "cards": [
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man01.jpg",
+        "img": "en/heroes/Ant-Man01.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -248,7 +248,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man02.jpg",
+        "img": "en/heroes/Ant-Man02.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -270,7 +270,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man03.jpg",
+        "img": "en/heroes/Ant-Man03.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -291,7 +291,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man04.jpg",
+        "img": "en/heroes/Ant-Man04.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -313,7 +313,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man05.jpg",
+        "img": "en/heroes/Ant-Man05.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -335,7 +335,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man06.jpg",
+        "img": "en/heroes/Ant-Man06.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -356,7 +356,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man07.jpg",
+        "img": "en/heroes/Ant-Man07.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -378,7 +378,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man08.jpg",
+        "img": "en/heroes/Ant-Man08.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -399,7 +399,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man09.jpg",
+        "img": "en/heroes/Ant-Man09.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -421,7 +421,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man10.jpg",
+        "img": "en/heroes/Ant-Man10.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -452,7 +452,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man11.jpg",
+        "img": "en/heroes/Ant-Man11.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -483,7 +483,7 @@
       },
       {
         "cardType": "hero",
-        "img": "heroes/Ant-Man12.jpg",
+        "img": "en/heroes/Ant-Man12.jpg",
         "title": {
           "text": "Ant-man",
           "locText":"Ant-man"
@@ -532,7 +532,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow01.jpg",
+      "img": "en/heroes/Black-Widow01.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -553,7 +553,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow02.jpg",
+      "img": "en/heroes/Black-Widow02.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -575,7 +575,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow03.jpg",
+      "img": "en/heroes/Black-Widow03.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -596,7 +596,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow04.jpg",
+      "img": "en/heroes/Black-Widow04.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -618,7 +618,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow05.jpg",
+      "img": "en/heroes/Black-Widow05.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -640,7 +640,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow06.jpg",
+      "img": "en/heroes/Black-Widow06.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -662,7 +662,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow07.jpg",
+      "img": "en/heroes/Black-Widow07.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -684,7 +684,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow08.jpg",
+      "img": "en/heroes/Black-Widow08.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -705,7 +705,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow09.jpg",
+      "img": "en/heroes/Black-Widow09.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -727,7 +727,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow10.jpg",
+      "img": "en/heroes/Black-Widow10.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -758,7 +758,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow10.jpg",
+      "img": "en/heroes/Black-Widow10.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -789,7 +789,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Widow10.jpg",
+      "img": "en/heroes/Black-Widow10.jpg",
       "title": {
         "text": "Black Widow",
         "locText":"Black Widow"
@@ -840,7 +840,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America01.jpg",
+      "img": "en/heroes/Captain-America01.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -861,7 +861,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America02.jpg",
+      "img": "en/heroes/Captain-America02.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -883,7 +883,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America03.jpg",
+      "img": "en/heroes/Captain-America03.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -905,7 +905,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America04.jpg",
+      "img": "en/heroes/Captain-America04.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -927,7 +927,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America05.jpg",
+      "img": "en/heroes/Captain-America05.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -949,7 +949,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America06.jpg",
+      "img": "en/heroes/Captain-America06.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -971,7 +971,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America07.jpg",
+      "img": "en/heroes/Captain-America07.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -993,7 +993,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America08.jpg",
+      "img": "en/heroes/Captain-America08.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -1014,7 +1014,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America09.jpg",
+      "img": "en/heroes/Captain-America09.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -1036,7 +1036,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America10.jpg",
+      "img": "en/heroes/Captain-America10.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -1067,7 +1067,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America11.jpg",
+      "img": "en/heroes/Captain-America11.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -1098,7 +1098,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-America12.jpg",
+      "img": "en/heroes/Captain-America12.jpg",
       "title": {
         "text": "Captain America",
         "locText":"Captain America"
@@ -1149,7 +1149,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel01.jpg",
+      "img": "en/heroes/Captain-Marvel01.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1170,7 +1170,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel02.jpg",
+      "img": "en/heroes/Captain-Marvel02.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1192,7 +1192,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel03.jpg",
+      "img": "en/heroes/Captain-Marvel03.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1214,7 +1214,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel04.jpg",
+      "img": "en/heroes/Captain-Marvel04.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1236,7 +1236,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel05.jpg",
+      "img": "en/heroes/Captain-Marvel05.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1258,7 +1258,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel06.jpg",
+      "img": "en/heroes/Captain-Marvel06.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1280,7 +1280,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel07.jpg",
+      "img": "en/heroes/Captain-Marvel07.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1301,7 +1301,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel08.jpg",
+      "img": "en/heroes/Captain-Marvel08.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1322,7 +1322,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel09.jpg",
+      "img": "en/heroes/Captain-Marvel09.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1344,7 +1344,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel10.jpg",
+      "img": "en/heroes/Captain-Marvel10.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1375,7 +1375,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel10.jpg",
+      "img": "en/heroes/Captain-Marvel10.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1406,7 +1406,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Captain-Marvel10.jpg",
+      "img": "en/heroes/Captain-Marvel10.jpg",
       "title": {
         "text": "Captain Marvel",
         "locText":"Captain Marvel"
@@ -1457,7 +1457,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Hulk01.jpg",
+      "img": "en/heroes/Hulk01.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1478,7 +1478,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk02.jpg",
+      "img": "en/heroes/Hulk02.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1500,7 +1500,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk03.jpg",
+      "img": "en/heroes/Hulk03.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1522,7 +1522,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk04.jpg",
+      "img": "en/heroes/Hulk04.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1544,7 +1544,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk05.jpg",
+      "img": "en/heroes/Hulk05.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1566,7 +1566,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk06.jpg",
+      "img": "en/heroes/Hulk06.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1587,7 +1587,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk07.jpg",
+      "img": "en/heroes/Hulk07.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1608,7 +1608,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk08.jpg",
+      "img": "en/heroes/Hulk08.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1629,7 +1629,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk09.jpg",
+      "img": "en/heroes/Hulk09.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1651,7 +1651,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk10.jpg",
+      "img": "en/heroes/Hulk10.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1682,7 +1682,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk10.jpg",
+      "img": "en/heroes/Hulk10.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1713,7 +1713,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hulk10.jpg",
+      "img": "en/heroes/Hulk10.jpg",
       "title": {
         "text": "Hulk",
         "locText":"Hulk"
@@ -1764,7 +1764,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man01.jpg",
+      "img": "en/heroes/Iron-Man01.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1785,7 +1785,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man02.jpg",
+      "img": "en/heroes/Iron-Man02.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1807,7 +1807,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man03.jpg",
+      "img": "en/heroes/Iron-Man03.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1829,7 +1829,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man04.jpg",
+      "img": "en/heroes/Iron-Man04.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1851,7 +1851,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man05.jpg",
+      "img": "en/heroes/Iron-Man05.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1873,7 +1873,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man06.jpg",
+      "img": "en/heroes/Iron-Man06.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1894,7 +1894,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man07.jpg",
+      "img": "en/heroes/Iron-Man07.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1916,7 +1916,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man08.jpg",
+      "img": "en/heroes/Iron-Man08.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1937,7 +1937,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man09.jpg",
+      "img": "en/heroes/Iron-Man09.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1959,7 +1959,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man10.jpg",
+      "img": "en/heroes/Iron-Man10.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -1990,7 +1990,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man11.jpg",
+      "img": "en/heroes/Iron-Man11.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -2021,7 +2021,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Man12.jpg",
+      "img": "en/heroes/Iron-Man12.jpg",
       "title": {
         "text": "Iron Man",
         "locText":"Iron Man"
@@ -2072,7 +2072,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Wasp01.jpg",
+      "img": "en/heroes/Wasp01.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2093,7 +2093,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp02.jpg",
+      "img": "en/heroes/Wasp02.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2115,7 +2115,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp03.jpg",
+      "img": "en/heroes/Wasp03.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2136,29 +2136,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp04.jpg",
-      "title": {
-        "text": "Wasp",
-        "locText":"Wasp"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "M",
-        "A"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Wasp05.jpg",
+      "img": "en/heroes/Wasp04.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2180,7 +2158,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp06.jpg",
+      "img": "en/heroes/Wasp05.jpg",
+      "title": {
+        "text": "Wasp",
+        "locText":"Wasp"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "M",
+        "A"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Wasp06.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2201,7 +2201,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp07.jpg",
+      "img": "en/heroes/Wasp07.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2223,7 +2223,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp08.jpg",
+      "img": "en/heroes/Wasp08.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2244,7 +2244,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp09.jpg",
+      "img": "en/heroes/Wasp09.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2266,7 +2266,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp10.jpg",
+      "img": "en/heroes/Wasp10.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2297,7 +2297,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp11.jpg",
+      "img": "en/heroes/Wasp11.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2328,7 +2328,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Wasp12.jpg",
+      "img": "en/heroes/Wasp12.jpg",
       "title": {
         "text": "Wasp",
         "locText":"Wasp"
@@ -2379,7 +2379,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP01.jpg",
+      "img": "en/villains/Red-Skull-MP01.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2398,7 +2398,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP02.jpg",
+      "img": "en/villains/Red-Skull-MP02.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2417,7 +2417,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP03.jpg",
+      "img": "en/villains/Red-Skull-MP03.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2436,7 +2436,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP04.jpg",
+      "img": "en/villains/Red-Skull-MP04.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2455,7 +2455,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP05.jpg",
+      "img": "en/villains/Red-Skull-MP05.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2474,7 +2474,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP06.jpg",
+      "img": "en/villains/Red-Skull-MP06.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2493,7 +2493,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP07.jpg",
+      "img": "en/villains/Red-Skull-MP07.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2512,7 +2512,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP08.jpg",
+      "img": "en/villains/Red-Skull-MP08.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2531,7 +2531,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP09.jpg",
+      "img": "en/villains/Red-Skull-MP09.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2570,7 +2570,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP09.jpg",
+      "img": "en/villains/Red-Skull-MP09.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2609,7 +2609,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP11.jpg",
+      "img": "en/villains/Red-Skull-MP11.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2648,7 +2648,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Red-Skull-MP11.jpg",
+      "img": "en/villains/Red-Skull-MP11.jpg",
       "title": {
         "text": "Red Skull",
         "locText":"Red Skull"
@@ -2687,7 +2687,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Red-Skull-T1.jpg",
+      "img": "en/villains/Red-Skull-T1.jpg",
       "title": {
         "text": "Crossbones",
         "locText":"Crossbones"
@@ -2713,7 +2713,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Red-Skull-T2.jpg",
+      "img": "en/villains/Red-Skull-T2.jpg",
       "title": {
         "text": "Madame Hydra",
         "locText":"Madame Hydra"
@@ -2739,7 +2739,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Red-Skull-T3.jpg",
+      "img": "en/villains/Red-Skull-T3.jpg",
       "title": {
         "text": "Bob Agent of Hydra",
         "locText":"Bob Agent of Hydra"
@@ -2765,7 +2765,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Red-Skull-T4.jpg",
+      "img": "en/villains/Red-Skull-T4.jpg",
       "title": {
         "text": "Hydra Elite Troops",
         "locText":"Hydra Elite Troops"
@@ -2791,7 +2791,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Red-Skull-T5.jpg",
+      "img": "en/villains/Red-Skull-T5.jpg",
       "title": {
         "text": "Subversion",
         "locText":"Subversion"
@@ -2817,7 +2817,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Red-Skull-T6.jpg",
+      "img": "en/villains/Red-Skull-T6.jpg",
       "title": {
         "text": "Brainwashing",
         "locText":"Brainwashing"
@@ -2844,7 +2844,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Red-Skull-B.jpg",
+    "img": "en/villains/Red-Skull-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -2854,7 +2854,7 @@
     ]
   },
   "front": {
-    "img": "villains/Red-Skull-A.jpg",
+    "img": "en/villains/Red-Skull-A.jpg",
     "specialRules": null,
     "overflow": {
       "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, increase the Fear Track by 1 for each token you couldn't add.",
@@ -2891,7 +2891,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP01.jpg",
+      "img": "en/villains/Taskmaster-MP01.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -2910,7 +2910,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP02.jpg",
+      "img": "en/villains/Taskmaster-MP02.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -2929,7 +2929,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP03.jpg",
+      "img": "en/villains/Taskmaster-MP03.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -2948,7 +2948,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP04.jpg",
+      "img": "en/villains/Taskmaster-MP04.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -2967,7 +2967,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP05.jpg",
+      "img": "en/villains/Taskmaster-MP05.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -2986,7 +2986,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP06.jpg",
+      "img": "en/villains/Taskmaster-MP06.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3005,7 +3005,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP07.jpg",
+      "img": "en/villains/Taskmaster-MP07.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3024,7 +3024,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP08.jpg",
+      "img": "en/villains/Taskmaster-MP08.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3043,7 +3043,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP09.jpg",
+      "img": "en/villains/Taskmaster-MP09.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3082,7 +3082,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP10.jpg",
+      "img": "en/villains/Taskmaster-MP10.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3121,7 +3121,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP11.jpg",
+      "img": "en/villains/Taskmaster-MP11.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3160,7 +3160,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Taskmaster-MP11.jpg",
+      "img": "en/villains/Taskmaster-MP11.jpg",
       "title": {
         "text": "Taskmaster",
         "locText":"Taskmaster"
@@ -3199,7 +3199,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Taskmaster-T1.jpg",
+      "img": "en/villains/Taskmaster-T1.jpg",
       "title": {
         "text": "Elite THUGs",
         "locText":"Elite THUGs"
@@ -3225,7 +3225,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Taskmaster-T1.jpg",
+      "img": "en/villains/Taskmaster-T1.jpg",
       "title": {
         "text": "Elite THUGs",
         "locText":"Elite THUGs"
@@ -3251,7 +3251,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Taskmaster-T3.jpg",
+      "img": "en/villains/Taskmaster-T3.jpg",
       "title": {
         "text": "Explosive trap",
         "locText":"Explosive trap"
@@ -3277,7 +3277,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Taskmaster-T3.jpg",
+      "img": "en/villains/Taskmaster-T3.jpg",
       "title": {
         "text": "Explosive trap",
         "locText":"Explosive trap"
@@ -3303,7 +3303,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Taskmaster-T5.jpg",
+      "img": "en/villains/Taskmaster-T5.jpg",
       "title": {
         "text": "Entangling trap",
         "locText":"Entangling trap"
@@ -3329,7 +3329,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Taskmaster-T5.jpg",
+      "img": "en/villains/Taskmaster-T5.jpg",
       "title": {
         "text": "Entangling trap",
         "locText":"Entangling trap"
@@ -3356,7 +3356,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Taskmaster-B.jpg",
+    "img": "en/villains/Taskmaster-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -3366,7 +3366,7 @@
     ]
   },
   "front": {
-    "img": "villains/Taskmaster-A.jpg",
+    "img": "en/villains/Taskmaster-A.jpg",
     "specialRules": {
       "text": "Heroes cannot damage Taskmaster as long as ther are any Crisis tokens on any Locations.  Heroes can discard Crisis tokens from a Location with no Civilian or Thug tokens by using a Heroic Action or Attack there.",
       "locText":"Heroes cannot damage Taskmaster as long as ther are any Crisis tokens on any Locations.  Heroes can discard Crisis tokens from a Location with no Civilian or Thug tokens by using a Heroic Action or Attack there."
@@ -3406,7 +3406,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP01.jpg",
+      "img": "en/villains/Ultron-MP01.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3425,7 +3425,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP02.jpg",
+      "img": "en/villains/Ultron-MP02.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3444,7 +3444,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP03.jpg",
+      "img": "en/villains/Ultron-MP03.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3463,7 +3463,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP04.jpg",
+      "img": "en/villains/Ultron-MP04.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3482,7 +3482,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP05.jpg",
+      "img": "en/villains/Ultron-MP05.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3501,7 +3501,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP06.jpg",
+      "img": "en/villains/Ultron-MP06.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3520,7 +3520,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP07.jpg",
+      "img": "en/villains/Ultron-MP07.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3539,7 +3539,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP08.jpg",
+      "img": "en/villains/Ultron-MP08.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3558,7 +3558,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP09.jpg",
+      "img": "en/villains/Ultron-MP09.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3597,7 +3597,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP09.jpg",
+      "img": "en/villains/Ultron-MP09.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3636,7 +3636,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP11.jpg",
+      "img": "en/villains/Ultron-MP11.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3675,7 +3675,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ultron-MP11.jpg",
+      "img": "en/villains/Ultron-MP11.jpg",
       "title": {
         "text": "Ultron",
         "locText":"Ultron"
@@ -3714,7 +3714,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ultron-T1.jpg",
+      "img": "en/villains/Ultron-T1.jpg",
       "title": {
         "text": "Ultron clone",
         "locText":"Ultron clone"
@@ -3740,7 +3740,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ultron-T1.jpg",
+      "img": "en/villains/Ultron-T1.jpg",
       "title": {
         "text": "Ultron clone",
         "locText":"Ultron clone"
@@ -3766,7 +3766,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ultron-T3.jpg",
+      "img": "en/villains/Ultron-T3.jpg",
       "title": {
         "text": "Duplication",
         "locText":"Duplication"
@@ -3792,7 +3792,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ultron-T3.jpg",
+      "img": "en/villains/Ultron-T3.jpg",
       "title": {
         "text": "Duplication",
         "locText":"Duplication"
@@ -3818,7 +3818,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ultron-T5.jpg",
+      "img": "en/villains/Ultron-T5.jpg",
       "title": {
         "text": "Ultron virus",
         "locText":"Ultron virus"
@@ -3844,7 +3844,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ultron-T5.jpg",
+      "img": "en/villains/Ultron-T5.jpg",
       "title": {
         "text": "Ultron virus",
         "locText":"Ultron virus"
@@ -3871,7 +3871,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Ultron-B.jpg",
+    "img": "en/villains/Ultron-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -3879,7 +3879,7 @@
     ]
   },
   "front": {
-    "img": "villains/Ultron-A.jpg",
+    "img": "en/villains/Ultron-A.jpg",
     "specialRules": null,
     "overflow": {
       "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, add that token to the next Location clockwise instead.",

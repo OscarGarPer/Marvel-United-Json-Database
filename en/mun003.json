@@ -5,11 +5,11 @@
     "text": "Enter The Spider-Verse",
     "locText":"Enter The Spider-Verse"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
+  "rulebook": "https://cmon-files.s3.amazonaws.com/pdf/assets_item/resource/202/Marvel_United_Rulebook.pdf",
   "tokens": null,
   "locations": [
     {
-      "img": "locations/brooklyn-bridge.jpg",
+      "img": "en/locations/brooklyn-bridge.jpg",
       "title": {
         "text": "Brooklyn Bridge",
         "locText":"Brooklyn Bridge"
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "img": "locations/daily-bugle.jpg",
+      "img": "en/locations/daily-bugle.jpg",
       "title": {
         "text": "Daily Bugle",
         "locText":"Daily Bugle"
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "img": "locations/osborn-laboratories.jpg",
+      "img": "en/locations/osborn-laboratories.jpg",
       "title": {
         "text": "Osborn Laboratories",
         "locText":"Osborn Laboratories"
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "img": "locations/oscorp-tower.jpg",
+      "img": "en/locations/oscorp-tower.jpg",
       "title": {
         "text": "Oscorp Tower",
         "locText":"Oscorp Tower"
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "img": "locations/queens.jpg",
+      "img": "en/locations/queens.jpg",
       "title": {
         "text": "Queens",
         "locText":"Queens"
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "img": "locations/midtown-high-school.jpg",
+      "img": "en/locations/midtown-high-school.jpg",
       "title": {
         "text": "Midtown High School",
         "locText":"Midtown High School"
@@ -132,7 +132,7 @@
   ],
   "challenges": [
     {
-      "img": "challenges/secret-identity.jpg",
+      "img": "en/challenges/secret-identity.jpg",
       "title": {
         "text": "Secret Identity Challenge",
         "locText":"Secret Identity Challenge"
@@ -147,7 +147,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "heroes/Miles-Morales.jpg",
+      "img": "en/heroes/Miles-Morales.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Miles Morales",
@@ -164,7 +164,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales01.jpg",
+          "img": "en/heroes/Miles-Morales01.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -185,7 +185,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales02.jpg",
+          "img": "en/heroes/Miles-Morales02.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -206,7 +206,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales03.jpg",
+          "img": "en/heroes/Miles-Morales03.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -228,7 +228,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales04.jpg",
+          "img": "en/heroes/Miles-Morales04.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -250,7 +250,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales05.jpg",
+          "img": "en/heroes/Miles-Morales05.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -272,7 +272,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales06.jpg",
+          "img": "en/heroes/Miles-Morales06.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -293,7 +293,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales07.jpg",
+          "img": "en/heroes/Miles-Morales07.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -315,7 +315,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales08.jpg",
+          "img": "en/heroes/Miles-Morales08.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -336,7 +336,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales09.jpg",
+          "img": "en/heroes/Miles-Morales09.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -358,7 +358,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales10.jpg",
+          "img": "en/heroes/Miles-Morales10.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -389,7 +389,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales11.jpg",
+          "img": "en/heroes/Miles-Morales11.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -420,7 +420,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Miles-Morales12.jpg",
+          "img": "en/heroes/Miles-Morales12.jpg",
           "title": {
             "text": "Miles Morales",
             "locText":"Miles Morales"
@@ -471,7 +471,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider01.jpg",
+      "img": "en/heroes/Ghost-Spider01.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -492,7 +492,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider02.jpg",
+      "img": "en/heroes/Ghost-Spider02.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -514,7 +514,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider03.jpg",
+      "img": "en/heroes/Ghost-Spider03.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -535,29 +535,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider04.jpg",
-      "title": {
-        "text": "Ghost-Spider",
-        "locText":"Ghost-Spider"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "M",
-        "H"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Ghost-Spider05.jpg",
+      "img": "en/heroes/Ghost-Spider04.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -579,7 +557,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider06.jpg",
+      "img": "en/heroes/Ghost-Spider05.jpg",
+      "title": {
+        "text": "Ghost-Spider",
+        "locText":"Ghost-Spider"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "M",
+        "H"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Ghost-Spider06.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -600,7 +600,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider07.jpg",
+      "img": "en/heroes/Ghost-Spider07.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -622,7 +622,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider08.jpg",
+      "img": "en/heroes/Ghost-Spider08.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -643,7 +643,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider09.jpg",
+      "img": "en/heroes/Ghost-Spider09.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -665,7 +665,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider10.jpg",
+      "img": "en/heroes/Ghost-Spider10.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -696,7 +696,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider11.jpg",
+      "img": "en/heroes/Ghost-Spider11.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -727,7 +727,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Spider12.jpg",
+      "img": "en/heroes/Ghost-Spider12.jpg",
       "title": {
         "text": "Ghost-Spider",
         "locText":"Ghost-Spider"
@@ -778,7 +778,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man01.jpg",
+      "img": "en/heroes/Spider-Man01.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -800,7 +800,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man02.jpg",
+      "img": "en/heroes/Spider-Man02.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -822,7 +822,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man03.jpg",
+      "img": "en/heroes/Spider-Man03.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -843,7 +843,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man04.jpg",
+      "img": "en/heroes/Spider-Man04.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -864,7 +864,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man05.jpg",
+      "img": "en/heroes/Spider-Man05.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -886,7 +886,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man06.jpg",
+      "img": "en/heroes/Spider-Man06.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -908,7 +908,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man07.jpg",
+      "img": "en/heroes/Spider-Man07.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -930,7 +930,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man08.jpg",
+      "img": "en/heroes/Spider-Man08.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -951,7 +951,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man09.jpg",
+      "img": "en/heroes/Spider-Man09.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -973,7 +973,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man10.jpg",
+      "img": "en/heroes/Spider-Man10.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -1004,7 +1004,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man11.jpg",
+      "img": "en/heroes/Spider-Man11.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -1035,7 +1035,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man12.jpg",
+      "img": "en/heroes/Spider-Man12.jpg",
       "title": {
         "text": "Spider-Man",
         "locText":"Spider-Man"
@@ -1086,7 +1086,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP01.jpg",
+      "img": "en/villains/Green-Goblin-MP01.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1105,7 +1105,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP02.jpg",
+      "img": "en/villains/Green-Goblin-MP02.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1124,7 +1124,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP03.jpg",
+      "img": "en/villains/Green-Goblin-MP03.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1143,7 +1143,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP04.jpg",
+      "img": "en/villains/Green-Goblin-MP04.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1162,7 +1162,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP05.jpg",
+      "img": "en/villains/Green-Goblin-MP05.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1181,7 +1181,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP06.jpg",
+      "img": "en/villains/Green-Goblin-MP06.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1200,7 +1200,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP07.jpg",
+      "img": "en/villains/Green-Goblin-MP07.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1219,7 +1219,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP08.jpg",
+      "img": "en/villains/Green-Goblin-MP08.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1238,7 +1238,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP09.jpg",
+      "img": "en/villains/Green-Goblin-MP09.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1277,7 +1277,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP10.jpg",
+      "img": "en/villains/Green-Goblin-MP10.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1316,7 +1316,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP11.jpg",
+      "img": "en/villains/Green-Goblin-MP11.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1355,7 +1355,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Green-Goblin-MP12.jpg",
+      "img": "en/villains/Green-Goblin-MP12.jpg",
       "title": {
         "text": "Green Goblin",
         "locText":"Green Goblin"
@@ -1394,7 +1394,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Green-Goblin-T1.jpg",
+      "img": "en/villains/Green-Goblin-T1.jpg",
       "title": {
         "text": "Electro",
         "locText":"Electro"
@@ -1420,7 +1420,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Green-Goblin-T2.jpg",
+      "img": "en/villains/Green-Goblin-T2.jpg",
       "title": {
         "text": "Kraven",
         "locText":"Kraven"
@@ -1446,7 +1446,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Green-Goblin-T3.jpg",
+      "img": "en/villains/Green-Goblin-T3.jpg",
       "title": {
         "text": "Lizard",
         "locText":"Lizard"
@@ -1472,7 +1472,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Green-Goblin-T4.jpg",
+      "img": "en/villains/Green-Goblin-T4.jpg",
       "title": {
         "text": "Corporate THUGs",
         "locText":"Corporate THUGs"
@@ -1498,7 +1498,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Green-Goblin-T4.jpg",
+      "img": "en/villains/Green-Goblin-T4.jpg",
       "title": {
         "text": "Corporate THUGs",
         "locText":"Corporate THUGs"
@@ -1524,7 +1524,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Green-Goblin-T6.jpg",
+      "img": "en/villains/Green-Goblin-T6.jpg",
       "title": {
         "text": "Using CIVILIANs As Shield",
         "locText":"Using CIVILIANs As Shield"
@@ -1551,7 +1551,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Green-Goblin-B.jpg",
+    "img": "en/villains/Green-Goblin-B.jpg",
     "specialSetup": {
       "text": "Do not place the Threat cards and tokens on the Locations. Keep the cards in a facedown Threat deck and the tokens in a side pool.",
       "locText":"Do not place the Threat cards and tokens on the Locations. Keep the cards in a facedown Threat deck and the tokens in a side pool."
@@ -1568,7 +1568,7 @@
     ]
   },
   "front": {
-    "img": "villains/Green-Goblin-A.jpg",
+    "img": "en/villains/Green-Goblin-A.jpg",
     "specialRules": {
       "text": "When a Threat is cleared, shuffle it in the deck and add a Threat token from the pool to the Mission. Green Goblin can't be damaged if there are any CIVILIAN here. If you are in his Location, you can use HEROIC HEROIC to rescue a CIVILIAN here.",
       "locText":"When a Threat is cleared, shuffle it in the deck and add a Threat token from the pool to the Mission. Green Goblin can't be damaged if there are any CIVILIAN here. If you are in his Location, you can use HEROIC HEROIC to rescue a CIVILIAN here."

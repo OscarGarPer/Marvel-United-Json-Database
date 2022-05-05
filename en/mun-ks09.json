@@ -7,7 +7,7 @@
   },
   "characters": [
     {
-      "img": "heroes/Yondu.jpg",
+      "img": "en/heroes/Yondu.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Yondu",
@@ -24,7 +24,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Yondu01.jpg",
+          "img": "en/heroes/Yondu01.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -45,7 +45,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu02.jpg",
+          "img": "en/heroes/Yondu02.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -67,7 +67,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu03.jpg",
+          "img": "en/heroes/Yondu03.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -89,7 +89,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu04.jpg",
+          "img": "en/heroes/Yondu04.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -111,7 +111,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu05.jpg",
+          "img": "en/heroes/Yondu05.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -133,7 +133,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu06.jpg",
+          "img": "en/heroes/Yondu06.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -155,7 +155,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu07.jpg",
+          "img": "en/heroes/Yondu07.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -176,7 +176,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu08.jpg",
+          "img": "en/heroes/Yondu08.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -197,7 +197,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu09.jpg",
+          "img": "en/heroes/Yondu09.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -219,7 +219,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu10.jpg",
+          "img": "en/heroes/Yondu10.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -248,7 +248,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu11.jpg",
+          "img": "en/heroes/Yondu11.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"
@@ -279,7 +279,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Yondu12.jpg",
+          "img": "en/heroes/Yondu12.jpg",
           "title": {
             "text": "Yondu",
             "locText": "Yondu"

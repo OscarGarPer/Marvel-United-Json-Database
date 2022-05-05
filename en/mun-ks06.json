@@ -5,14 +5,14 @@
     "text": "Return Of The Sinister Six",
     "locText": "Return Of The Sinister Six"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
+  "rulebook": "https://cmon-files.s3.amazonaws.com/pdf/assets_item/resource/202/Marvel_United_Rulebook.pdf",
   "tokens": null,
   "locations": null,
   "challenges": null,
   "cards": null,
   "characters": [
     {
-      "img": "villains/Doctor-Octopus.jpg",
+      "img": "en/villains/Doctor-Octopus.jpg",
       "loyalty": "villain",
       "name": {
         "text": "Doctor Octopus",
@@ -29,7 +29,7 @@
       "cards": [
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP01.jpg",
+          "img": "en/villains/Doctor-Octopus-MP01.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -48,7 +48,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP02.jpg",
+          "img": "en/villains/Doctor-Octopus-MP02.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -67,7 +67,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP03.jpg",
+          "img": "en/villains/Doctor-Octopus-MP03.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -86,7 +86,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP04.jpg",
+          "img": "en/villains/Doctor-Octopus-MP04.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -105,7 +105,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP05.jpg",
+          "img": "en/villains/Doctor-Octopus-MP05.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -124,7 +124,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP06.jpg",
+          "img": "en/villains/Doctor-Octopus-MP06.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -143,7 +143,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP07.jpg",
+          "img": "en/villains/Doctor-Octopus-MP07.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -162,7 +162,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP08.jpg",
+          "img": "en/villains/Doctor-Octopus-MP08.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -181,7 +181,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP09.jpg",
+          "img": "en/villains/Doctor-Octopus-MP09.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -220,7 +220,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP09.jpg",
+          "img": "en/villains/Doctor-Octopus-MP09.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -259,7 +259,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP11.jpg",
+          "img": "en/villains/Doctor-Octopus-MP11.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -298,7 +298,7 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Doctor-Octopus-MP11.jpg",
+          "img": "en/villains/Doctor-Octopus-MP11.jpg",
           "title": {
             "text": "Doctor Octopus",
             "locText": "Doctor Octopus"
@@ -337,7 +337,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Doctor-Octopus-T1.jpg",
+          "img": "en/villains/Doctor-Octopus-T1.jpg",
           "title": {
             "text": "VULTURE",
             "locText": "VULTURE"
@@ -363,7 +363,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Doctor-Octopus-T2.jpg",
+          "img": "en/villains/Doctor-Octopus-T2.jpg",
           "title": {
             "text": "MYSTERIO",
             "locText": "MYSTERIO"
@@ -389,7 +389,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Doctor-Octopus-T3.jpg",
+          "img": "en/villains/Doctor-Octopus-T3.jpg",
           "title": {
             "text": "SANDMAN",
             "locText": "SANDMAN"
@@ -415,7 +415,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Doctor-Octopus-T4.jpg",
+          "img": "en/villains/Doctor-Octopus-T4.jpg",
           "title": {
             "text": "ENDANGER CIVILIANS",
             "locText": "ENDANGER CIVILIANS"
@@ -441,7 +441,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Doctor-Octopus-T4.jpg",
+          "img": "en/villains/Doctor-Octopus-T4.jpg",
           "title": {
             "text": "ENDANGER CIVILIANS",
             "locText": "ENDANGER CIVILIANS"
@@ -467,7 +467,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Doctor-Octopus-T4.jpg",
+          "img": "en/villains/Doctor-Octopus-T4.jpg",
           "title": {
             "text": "ENDANGER CIVILIANS",
             "locText": "ENDANGER CIVILIANS"
@@ -494,7 +494,7 @@
       ],
 "dashboard": {
   "back": {
-    "img": "villains/Doctor-Octopus-B.jpg",
+    "img": "en/villains/Doctor-Octopus-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -502,7 +502,7 @@
     ]
   },
   "front": {
-    "img": "villains/Doctor-Octopus-A.jpg",
+    "img": "en/villains/Doctor-Octopus-A.jpg",
     "specialRules": {
       "text": "When a Location has 3 Crisis tokens, it is destroyed. Remove it from play (if Doctor Octopus is there, he moves clockwise. Any Heroes there move to an adjacent Location of their choice). Locations adjacent to a destroyed one are considered adjacent to each other.",
       "locText": "When a Location has 3 Crisis tokens, it is destroyed. Remove it from play (if Doctor Octopus is there, he moves clockwise. Any Heroes there move to an adjacent Location of their choice). Locations adjacent to a destroyed one are considered adjacent to each other."
@@ -542,7 +542,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP01.jpg",
+      "img": "en/villains/Electro-MP01.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -561,7 +561,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP02.jpg",
+      "img": "en/villains/Electro-MP02.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -580,7 +580,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP03.jpg",
+      "img": "en/villains/Electro-MP03.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -599,7 +599,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP04.jpg",
+      "img": "en/villains/Electro-MP04.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -618,7 +618,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP05.jpg",
+      "img": "en/villains/Electro-MP05.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -637,7 +637,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP06.jpg",
+      "img": "en/villains/Electro-MP06.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -656,7 +656,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP07.jpg",
+      "img": "en/villains/Electro-MP07.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -675,7 +675,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP08.jpg",
+      "img": "en/villains/Electro-MP08.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -694,7 +694,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP09.jpg",
+      "img": "en/villains/Electro-MP09.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -733,7 +733,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP09.jpg",
+      "img": "en/villains/Electro-MP09.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -772,7 +772,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP11.jpg",
+      "img": "en/villains/Electro-MP11.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -811,7 +811,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Electro-MP11.jpg",
+      "img": "en/villains/Electro-MP11.jpg",
       "title": {
         "text": "Electro",
         "locText": "Electro"
@@ -850,7 +850,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Electro-T1.jpg",
+      "img": "en/villains/Electro-T1.jpg",
       "title": {
         "text": "HIGH VOLTAGE",
         "locText": "HIGH VOLTAGE"
@@ -876,7 +876,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Electro-T1.jpg",
+      "img": "en/villains/Electro-T1.jpg",
       "title": {
         "text": "HIGH VOLTAGE",
         "locText": "HIGH VOLTAGE"
@@ -902,7 +902,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Electro-T3.jpg",
+      "img": "en/villains/Electro-T3.jpg",
       "title": {
         "text": "RECHARGE",
         "locText": "RECHARGE"
@@ -928,7 +928,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Electro-T3.jpg",
+      "img": "en/villains/Electro-T3.jpg",
       "title": {
         "text": "RECHARGE",
         "locText": "RECHARGE"
@@ -954,7 +954,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Electro-T5.jpg",
+      "img": "en/villains/Electro-T5.jpg",
       "title": {
         "text": "OVERPOWERED",
         "locText": "OVERPOWERED"
@@ -980,7 +980,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Electro-T5.jpg",
+      "img": "en/villains/Electro-T5.jpg",
       "title": {
         "text": "OVERPOWERED",
         "locText": "OVERPOWERED"
@@ -1007,12 +1007,12 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Electro-B.jpg",
+    "img": "en/villains/Electro-B.jpg",
     "specialSetup": null,
     "superVillain": null
   },
   "front": {
-    "img": "villains/Electro-A.jpg",
+    "img": "en/villains/Electro-A.jpg",
     "specialRules": {
       "text": "If a Crisis token should be placed on a Location that already has one, place the Crisis token on the next clockwise Location instead. As long as a Location has a Crisis token on it, Heroes cannot use its End of Turn effect. When a Hero is KO'd, Electro doesn't activate his BAM! Instead, he places 1 Crisis token on that Hero's Location.",
       "locText": "If a Crisis token should be placed on a Location that already has one, place the Crisis token on the next clockwise Location instead. As long as a Location has a Crisis token on it, Heroes cannot use its End of Turn effect. When a Hero is KO'd, Electro doesn't activate his BAM! Instead, he places 1 Crisis token on that Hero's Location."
@@ -1052,7 +1052,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP01.jpg",
+      "img": "en/villains/Kraven-MP01.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1071,7 +1071,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP02.jpg",
+      "img": "en/villains/Kraven-MP02.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1090,7 +1090,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP03.jpg",
+      "img": "en/villains/Kraven-MP03.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1109,7 +1109,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP04.jpg",
+      "img": "en/villains/Kraven-MP04.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1128,7 +1128,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP05.jpg",
+      "img": "en/villains/Kraven-MP05.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1147,7 +1147,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP06.jpg",
+      "img": "en/villains/Kraven-MP06.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1166,7 +1166,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP07.jpg",
+      "img": "en/villains/Kraven-MP07.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1185,7 +1185,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP08.jpg",
+      "img": "en/villains/Kraven-MP08.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1204,7 +1204,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP09.jpg",
+      "img": "en/villains/Kraven-MP09.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1243,7 +1243,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP09.jpg",
+      "img": "en/villains/Kraven-MP09.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1282,7 +1282,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP09.jpg",
+      "img": "en/villains/Kraven-MP09.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1321,7 +1321,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kraven-MP09.jpg",
+      "img": "en/villains/Kraven-MP09.jpg",
       "title": {
         "text": "Kraven",
         "locText": "Kraven"
@@ -1360,7 +1360,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kraven-T1.jpg",
+      "img": "en/villains/Kraven-T1.jpg",
       "title": {
         "text": "TRAPS",
         "locText": "TRAPS"
@@ -1386,7 +1386,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kraven-T1.jpg",
+      "img": "en/villains/Kraven-T1.jpg",
       "title": {
         "text": "TRAPS",
         "locText": "TRAPS"
@@ -1412,7 +1412,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kraven-T1.jpg",
+      "img": "en/villains/Kraven-T1.jpg",
       "title": {
         "text": "TRAPS",
         "locText": "TRAPS"
@@ -1438,7 +1438,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kraven-T4.jpg",
+      "img": "en/villains/Kraven-T4.jpg",
       "title": {
         "text": "DECOYS",
         "locText": "DECOYS"
@@ -1464,7 +1464,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kraven-T4.jpg",
+      "img": "en/villains/Kraven-T4.jpg",
       "title": {
         "text": "DECOYS",
         "locText": "DECOYS"
@@ -1490,7 +1490,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kraven-T4.jpg",
+      "img": "en/villains/Kraven-T4.jpg",
       "title": {
         "text": "DECOYS",
         "locText": "DECOYS"
@@ -1517,7 +1517,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Kraven-B.jpg",
+    "img": "en/villains/Kraven-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -1527,7 +1527,7 @@
     ]
   },
   "front": {
-    "img": "villains/Kraven-A.jpg",
+    "img": "en/villains/Kraven-A.jpg",
     "specialRules": {
       "text": "When a Haroe is KO’d, Kraven doesn't activate his BAM! Instead, he plays another Master Plan card.",
       "locText": "When a Haroe is KO’d, Kraven doesn't activate his BAM! Instead, he plays another Master Plan card."
@@ -1567,7 +1567,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP01.jpg",
+      "img": "en/villains/Mysterio-MP01.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1586,7 +1586,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP02.jpg",
+      "img": "en/villains/Mysterio-MP02.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1605,7 +1605,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP03.jpg",
+      "img": "en/villains/Mysterio-MP03.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1624,7 +1624,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP04.jpg",
+      "img": "en/villains/Mysterio-MP04.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1643,7 +1643,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP05.jpg",
+      "img": "en/villains/Mysterio-MP05.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1662,7 +1662,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP06.jpg",
+      "img": "en/villains/Mysterio-MP06.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1681,7 +1681,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP07.jpg",
+      "img": "en/villains/Mysterio-MP07.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1700,7 +1700,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP08.jpg",
+      "img": "en/villains/Mysterio-MP08.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1719,7 +1719,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP09.jpg",
+      "img": "en/villains/Mysterio-MP09.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1758,7 +1758,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP09.jpg",
+      "img": "en/villains/Mysterio-MP09.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1797,7 +1797,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP11.jpg",
+      "img": "en/villains/Mysterio-MP11.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1836,7 +1836,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Mysterio-MP11.jpg",
+      "img": "en/villains/Mysterio-MP11.jpg",
       "title": {
         "text": "Mysterio",
         "locText": "Mysterio"
@@ -1875,7 +1875,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Mysterio-T1.jpg",
+      "img": "en/villains/Mysterio-T1.jpg",
       "title": {
         "text": "BATTLE DRONES",
         "locText": "BATTLE DRONES"
@@ -1901,7 +1901,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Mysterio-T1.jpg",
+      "img": "en/villains/Mysterio-T1.jpg",
       "title": {
         "text": "BATTLE DRONES",
         "locText": "BATTLE DRONES"
@@ -1927,7 +1927,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Mysterio-T3.jpg",
+      "img": "en/villains/Mysterio-T3.jpg",
       "title": {
         "text": "SMOKE AND MIRRORS",
         "locText": "SMOKE AND MIRRORS"
@@ -1953,7 +1953,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Mysterio-T4.jpg",
+      "img": "en/villains/Mysterio-T4.jpg",
       "title": {
         "text": "SMOKE AND MIRRORS",
         "locText": "SMOKE AND MIRRORS"
@@ -1979,7 +1979,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Mysterio-T5.jpg",
+      "img": "en/villains/Mysterio-T5.jpg",
       "title": {
         "text": "BROKEN ILLUSION",
         "locText": "BROKEN ILLUSION"
@@ -2005,7 +2005,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Mysterio-T5.jpg",
+      "img": "en/villains/Mysterio-T5.jpg",
       "title": {
         "text": "BROKEN ILLUSION",
         "locText": "BROKEN ILLUSION"
@@ -2032,7 +2032,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Mysterio-B.jpg",
+    "img": "en/villains/Mysterio-B.jpg",
     "specialSetup": {
       "text": "Shuffle the Threat cards and place them facedown on the Locations.",
       "locText": "Shuffle the Threat cards and place them facedown on the Locations."
@@ -2047,7 +2047,7 @@
     ]
   },
   "front": {
-    "img": "villains/Mysterio-A.jpg",
+    "img": "en/villains/Mysterio-A.jpg",
     "specialRules": {
       "text": "As long as there are no broken Illusion Threat cards faceup, Mysterio can't take any damage (2 Missions must still be completed before he can be damaged).  To turn a Threat card faceup, any Hero in its Location must spend a single action (of any type).",
       "locText": "As long as there are no broken Illusion Threat cards faceup, Mysterio can't take any damage (2 Missions must still be completed before he can be damaged).  To turn a Threat card faceup, any Hero in its Location must spend a single action (of any type)."
@@ -2087,7 +2087,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP01.jpg",
+      "img": "en/villains/Sandman-MP01.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2106,7 +2106,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP02.jpg",
+      "img": "en/villains/Sandman-MP02.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2125,7 +2125,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP03.jpg",
+      "img": "en/villains/Sandman-MP03.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2144,7 +2144,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP04.jpg",
+      "img": "en/villains/Sandman-MP04.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2163,7 +2163,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP05.jpg",
+      "img": "en/villains/Sandman-MP05.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2182,7 +2182,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP06.jpg",
+      "img": "en/villains/Sandman-MP06.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2201,7 +2201,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP07.jpg",
+      "img": "en/villains/Sandman-MP07.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2220,7 +2220,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP08.jpg",
+      "img": "en/villains/Sandman-MP08.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2239,7 +2239,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP09.jpg",
+      "img": "en/villains/Sandman-MP09.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2278,7 +2278,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP10.jpg",
+      "img": "en/villains/Sandman-MP10.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2317,7 +2317,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP11.jpg",
+      "img": "en/villains/Sandman-MP11.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2356,7 +2356,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sandman-MP12.jpg",
+      "img": "en/villains/Sandman-MP12.jpg",
       "title": {
         "text": "Sandman",
         "locText": "Sandman"
@@ -2395,7 +2395,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Sandman-T1.jpg",
+      "img": "en/villains/Sandman-T1.jpg",
       "title": {
         "text": "QUICKSAND",
         "locText": "QUICKSAND"
@@ -2421,7 +2421,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Sandman-T1.jpg",
+      "img": "en/villains/Sandman-T1.jpg",
       "title": {
         "text": "QUICKSAND",
         "locText": "QUICKSAND"
@@ -2447,7 +2447,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Sandman-T3.jpg",
+      "img": "en/villains/Sandman-T3.jpg",
       "title": {
         "text": "SANDSTORM",
         "locText": "SANDSTORM"
@@ -2473,7 +2473,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Sandman-T3.jpg",
+      "img": "en/villains/Sandman-T3.jpg",
       "title": {
         "text": "SANDSTORM",
         "locText": "SANDSTORM"
@@ -2499,7 +2499,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Sandman-T5.jpg",
+      "img": "en/villains/Sandman-T5.jpg",
       "title": {
         "text": "ELECTRO",
         "locText": "ELECTRO"
@@ -2525,7 +2525,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Sandman-T6.jpg",
+      "img": "en/villains/Sandman-T6.jpg",
       "title": {
         "text": "DOCTOR OCTOPUS",
         "locText": "DOCTOR OCTOPUS"
@@ -2552,7 +2552,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Sandman-B.jpg",
+    "img": "en/villains/Sandman-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -2566,7 +2566,7 @@
     ]
   },
   "front": {
-    "img": "villains/Sandman-A.jpg",
+    "img": "en/villains/Sandman-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Sandman doesn't activate his BAM! Instead, he plays another Master Plan card.",
       "locText": "When a Hero is KO'd, Sandman doesn't activate his BAM! Instead, he plays another Master Plan card."
@@ -2606,7 +2606,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP01.jpg",
+      "img": "en/villains/Vulture-MP01.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2625,7 +2625,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP02.jpg",
+      "img": "en/villains/Vulture-MP02.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2644,7 +2644,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP03.jpg",
+      "img": "en/villains/Vulture-MP03.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2663,7 +2663,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP04.jpg",
+      "img": "en/villains/Vulture-MP04.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2682,7 +2682,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP05.jpg",
+      "img": "en/villains/Vulture-MP05.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2701,7 +2701,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP06.jpg",
+      "img": "en/villains/Vulture-MP06.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2720,7 +2720,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP07.jpg",
+      "img": "en/villains/Vulture-MP07.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2739,7 +2739,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP08.jpg",
+      "img": "en/villains/Vulture-MP08.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2758,7 +2758,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP09.jpg",
+      "img": "en/villains/Vulture-MP09.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2797,7 +2797,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP09.jpg",
+      "img": "en/villains/Vulture-MP09.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2836,7 +2836,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP09.jpg",
+      "img": "en/villains/Vulture-MP09.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2875,7 +2875,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Vulture-MP09.jpg",
+      "img": "en/villains/Vulture-MP09.jpg",
       "title": {
         "text": "Vulture",
         "locText": "Vulture"
@@ -2914,7 +2914,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Vulture-T1.jpg",
+      "img": "en/villains/Vulture-T1.jpg",
       "title": {
         "text": "ELECTROMAGNETIC WINGS",
         "locText": "ELECTROMAGNETIC WINGS"
@@ -2940,7 +2940,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Vulture-T1.jpg",
+      "img": "en/villains/Vulture-T1.jpg",
       "title": {
         "text": "ELECTROMAGNETIC WINGS",
         "locText": "ELECTROMAGNETIC WINGS"
@@ -2966,7 +2966,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Vulture-T3.jpg",
+      "img": "en/villains/Vulture-T3.jpg",
       "title": {
         "text": "GRENADE BOMBING",
         "locText": "GRENADE BOMBING"
@@ -2992,7 +2992,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Vulture-T3.jpg",
+      "img": "en/villains/Vulture-T3.jpg",
       "title": {
         "text": "GRENADE BOMBING",
         "locText": "GRENADE BOMBING"
@@ -3018,7 +3018,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Vulture-T5.jpg",
+      "img": "en/villains/Vulture-T5.jpg",
       "title": {
         "text": "KRAVEN",
         "locText": "KRAVEN"
@@ -3044,7 +3044,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Vulture-T6.jpg",
+      "img": "en/villains/Vulture-T6.jpg",
       "title": {
         "text": "SANDMAN",
         "locText": "SANDMAN"
@@ -3071,7 +3071,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Vulture-B.jpg",
+    "img": "en/villains/Vulture-B.jpg",
     "specialSetup": {
       "text": "Place 3 Crisis tokens (Spoils) on each Location.",
       "locText": "Place 3 Crisis tokens (Spoils) on each Location."
@@ -3088,7 +3088,7 @@
     }
   },
   "front": {
-    "img": "villains/Vulture-A.jpg",
+    "img": "en/villains/Vulture-A.jpg",
     "specialRules": null,
     "overflow": {
       "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, steal 1 Crisis token (Spoils) from that Location.",
@@ -3125,7 +3125,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP01.jpg",
+      "img": "en/villains/Sinister-Six-MP01.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3144,7 +3144,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP02.jpg",
+      "img": "en/villains/Sinister-Six-MP02.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3163,7 +3163,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP03.jpg",
+      "img": "en/villains/Sinister-Six-MP03.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3182,7 +3182,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP04.jpg",
+      "img": "en/villains/Sinister-Six-MP04.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3201,7 +3201,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP05.jpg",
+      "img": "en/villains/Sinister-Six-MP05.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3220,7 +3220,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP06.jpg",
+      "img": "en/villains/Sinister-Six-MP06.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3239,7 +3239,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP07.jpg",
+      "img": "en/villains/Sinister-Six-MP07.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3258,7 +3258,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP08.jpg",
+      "img": "en/villains/Sinister-Six-MP08.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3277,7 +3277,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP09.jpg",
+      "img": "en/villains/Sinister-Six-MP09.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3296,7 +3296,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP10.jpg",
+      "img": "en/villains/Sinister-Six-MP10.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3315,7 +3315,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP11.jpg",
+      "img": "en/villains/Sinister-Six-MP11.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3334,7 +3334,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP12.jpg",
+      "img": "en/villains/Sinister-Six-MP12.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3353,7 +3353,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP13.jpg",
+      "img": "en/villains/Sinister-Six-MP13.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3372,7 +3372,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP14.jpg",
+      "img": "en/villains/Sinister-Six-MP14.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3391,7 +3391,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP15.jpg",
+      "img": "en/villains/Sinister-Six-MP15.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3410,7 +3410,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Sinister-Six-MP16.jpg",
+      "img": "en/villains/Sinister-Six-MP16.jpg",
       "title": {
         "text": "Sinister Six",
         "locText": "Sinister Six"
@@ -3449,7 +3449,7 @@
     },
     {
       "cardType": "other",
-      "img": "villains/Sinister-Six-T1.jpg",
+      "img": "en/villains/Sinister-Six-T1.jpg",
       "title": {
         "text": "Weak Point",
         "locText": "Weak Point"
@@ -3471,7 +3471,7 @@
     },
     {
       "cardType": "other",
-      "img": "villains/Sinister-Six-T2.jpg",
+      "img": "en/villains/Sinister-Six-T2.jpg",
       "title": {
         "text": "Weak Point",
         "locText": "Weak Point"
@@ -3493,7 +3493,7 @@
     },
     {
       "cardType": "other",
-      "img": "villains/Sinister-Six-T3.jpg",
+      "img": "en/villains/Sinister-Six-T3.jpg",
       "title": {
         "text": "Weak Point",
         "locText": "Weak Point"
@@ -3515,7 +3515,7 @@
     },
     {
       "cardType": "other",
-      "img": "villains/Sinister-Six-T4.jpg",
+      "img": "en/villains/Sinister-Six-T4.jpg",
       "title": {
         "text": "Weak Point",
         "locText": "Weak Point"
@@ -3537,7 +3537,7 @@
     },
     {
       "cardType": "other",
-      "img": "villains/Sinister-Six-T5.jpg",
+      "img": "en/villains/Sinister-Six-T5.jpg",
       "title": {
         "text": "Weak Point",
         "locText": "Weak Point"
@@ -3559,7 +3559,7 @@
     },
     {
       "cardType": "other",
-      "img": "villains/Sinister-Six-T6.jpg",
+      "img": "en/villains/Sinister-Six-T6.jpg",
       "title": {
         "text": "Weak Point",
         "locText": "Weak Point"
@@ -3582,12 +3582,12 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Sinister-Six-B.jpg",
+    "img": "en/villains/Sinister-Six-B.jpg",
     "specialSetup": null,
     "superVillain": null
   },
   "front": {
-    "img": "villains/Sinister-Six-A.jpg",
+    "img": "en/villains/Sinister-Six-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, no BAM! effect is activated. Instead, add 1 Master Plan card facedown in the Storyline. Mysterio: Heroes with any Crisis tokens must play their Hero card randomly on their turn. Then, they discard 1 Crisis token. Vulture: When he would take damage, if he has any CIVILIAN/THUG tokens, ignore any damage he would take this turn and move those tokens to this Location.",
       "locText": "When a Hero is KO'd, no BAM! effect is activated. Instead, add 1 Master Plan card facedown in the Storyline. Mysterio: Heroes with any Crisis tokens must play their Hero card randomly on their turn. Then, they discard 1 Crisis token. Vulture: When he would take damage, if he has any CIVILIAN/THUG tokens, ignore any damage he would take this turn and move those tokens to this Location."

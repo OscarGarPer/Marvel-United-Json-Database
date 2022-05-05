@@ -5,11 +5,11 @@
     "text": "Guardians Of The Galaxy Remix",
     "locText":"Guardians Of The Galaxy Remix"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
+  "rulebook": "https://cmon-files.s3.amazonaws.com/pdf/assets_item/resource/202/Marvel_United_Rulebook.pdf",
   "tokens": null,
   "locations": [
     {
-      "img": "locations/the-milano.jpg",
+      "img": "en/locations/the-milano.jpg",
       "title": {
         "text": "The Milano",
         "locText":"The Milano"
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "img": "locations/knowhere.jpg",
+      "img": "en/locations/knowhere.jpg",
       "title": {
         "text": "Knowhere",
         "locText":"Knowhere"
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "img": "locations/xandar.jpg",
+      "img": "en/locations/xandar.jpg",
       "title": {
         "text": "Xandar",
         "locText":"Xandar"
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "img": "locations/morag.jpg",
+      "img": "en/locations/morag.jpg",
       "title": {
         "text": "Morag",
         "locText":"Morag"
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "img": "locations/collectors-museum.jpg",
+      "img": "en/locations/collectors-museum.jpg",
       "title": {
         "text": "Collector's Museum",
         "locText":"Collector's Museum"
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "img": "locations/kyln.jpg",
+      "img": "en/locations/kyln.jpg",
       "title": {
         "text": "Kyln",
         "locText":"Kyln"
@@ -130,7 +130,7 @@
   ],
   "challenges": [
     {
-      "img": "challenges/plan-b.jpg",
+      "img": "en/challenges/plan-b.jpg",
       "title": {
         "text": "Plan B Challenge",
         "locText":"Plan B Challenge"
@@ -142,7 +142,7 @@
       "cards": [
         {
           "cardType": "challenge",
-          "img": "rescue-plan-b.jpg",
+          "img": "en/rescue-plan-b.jpg",
           "title": null,
           "description": null,
           "specialEffect": null,
@@ -158,7 +158,7 @@
         },
         {
           "cardType": "challenge",
-          "img": "defeat-plan-b.jpg",
+          "img": "en/defeat-plan-b.jpg",
           "title": null,
           "description": null,
           "specialEffect": null,
@@ -174,7 +174,7 @@
         },
         {
           "cardType": "challenge",
-          "img": "clear-plan-b.jpg",
+          "img": "en/clear-plan-b.jpg",
           "title": null,
           "description": null,
           "specialEffect": null,
@@ -194,7 +194,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "heroes/Groot.jpg",
+      "img": "en/heroes/Groot.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Groot",
@@ -211,7 +211,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Groot01.jpg",
+          "img": "en/heroes/Groot01.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -242,7 +242,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot01.jpg",
+          "img": "en/heroes/Groot01.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -273,7 +273,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot01.jpg",
+          "img": "en/heroes/Groot01.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -304,7 +304,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot01.jpg",
+          "img": "en/heroes/Groot01.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -335,7 +335,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot05.jpg",
+          "img": "en/heroes/Groot05.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -366,7 +366,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot05.jpg",
+          "img": "en/heroes/Groot05.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -397,7 +397,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot05.jpg",
+          "img": "en/heroes/Groot05.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -428,7 +428,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot08.jpg",
+          "img": "en/heroes/Groot08.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -459,7 +459,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot08.jpg",
+          "img": "en/heroes/Groot08.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -490,7 +490,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot08.jpg",
+          "img": "en/heroes/Groot08.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -521,7 +521,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot11.jpg",
+          "img": "en/heroes/Groot11.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -542,7 +542,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Groot12.jpg",
+          "img": "en/heroes/Groot12.jpg",
           "title": {
             "text": "Groot",
             "locText":"Groot"
@@ -584,7 +584,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Rocket01.jpg",
+      "img": "en/heroes/Rocket01.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -605,7 +605,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket02.jpg",
+      "img": "en/heroes/Rocket02.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -627,7 +627,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket03.jpg",
+      "img": "en/heroes/Rocket03.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -649,7 +649,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket04.jpg",
+      "img": "en/heroes/Rocket04.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -670,7 +670,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket05.jpg",
+      "img": "en/heroes/Rocket05.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -691,7 +691,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket06.jpg",
+      "img": "en/heroes/Rocket06.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -713,7 +713,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket07.jpg",
+      "img": "en/heroes/Rocket07.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -734,7 +734,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket08.jpg",
+      "img": "en/heroes/Rocket08.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -755,7 +755,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket09.jpg",
+      "img": "en/heroes/Rocket09.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -777,7 +777,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket10.jpg",
+      "img": "en/heroes/Rocket10.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -808,7 +808,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket11.jpg",
+      "img": "en/heroes/Rocket11.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -839,7 +839,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Rocket12.jpg",
+      "img": "en/heroes/Rocket12.jpg",
       "title": {
         "text": "Rocket",
         "locText":"Rocket"
@@ -890,7 +890,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord01.jpg",
+      "img": "en/heroes/Star-Lord01.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -912,7 +912,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord02.jpg",
+      "img": "en/heroes/Star-Lord02.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -934,7 +934,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord03.jpg",
+      "img": "en/heroes/Star-Lord03.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -955,7 +955,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord04.jpg",
+      "img": "en/heroes/Star-Lord04.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -976,7 +976,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord05.jpg",
+      "img": "en/heroes/Star-Lord05.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -998,7 +998,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord06.jpg",
+      "img": "en/heroes/Star-Lord06.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1020,7 +1020,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord07.jpg",
+      "img": "en/heroes/Star-Lord07.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1042,7 +1042,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord08.jpg",
+      "img": "en/heroes/Star-Lord08.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1063,7 +1063,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord09.jpg",
+      "img": "en/heroes/Star-Lord09.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1085,7 +1085,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord10.jpg",
+      "img": "en/heroes/Star-Lord10.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1116,7 +1116,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord10.jpg",
+      "img": "en/heroes/Star-Lord10.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1147,7 +1147,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Star-Lord10.jpg",
+      "img": "en/heroes/Star-Lord10.jpg",
       "title": {
         "text": "Star-Lord",
         "locText":"Star-Lord"
@@ -1198,7 +1198,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP01.jpg",
+      "img": "en/villains/Ronan-MP01.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1217,7 +1217,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP02.jpg",
+      "img": "en/villains/Ronan-MP02.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1236,7 +1236,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP03.jpg",
+      "img": "en/villains/Ronan-MP03.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1255,7 +1255,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP04.jpg",
+      "img": "en/villains/Ronan-MP04.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1274,7 +1274,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP05.jpg",
+      "img": "en/villains/Ronan-MP05.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1293,7 +1293,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP06.jpg",
+      "img": "en/villains/Ronan-MP06.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1312,7 +1312,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP07.jpg",
+      "img": "en/villains/Ronan-MP07.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1331,7 +1331,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP08.jpg",
+      "img": "en/villains/Ronan-MP08.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1350,7 +1350,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP09.jpg",
+      "img": "en/villains/Ronan-MP09.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1389,7 +1389,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP10.jpg",
+      "img": "en/villains/Ronan-MP10.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1428,7 +1428,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP11.jpg",
+      "img": "en/villains/Ronan-MP11.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1467,7 +1467,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ronan-MP12.jpg",
+      "img": "en/villains/Ronan-MP12.jpg",
       "title": {
         "text": "Ronan",
         "locText":"Ronan"
@@ -1506,7 +1506,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ronan-T1.jpg",
+      "img": "en/villains/Ronan-T1.jpg",
       "title": {
         "text": "KREE ELITE FORCE",
         "locText":"KREE ELITE FORCE"
@@ -1532,7 +1532,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ronan-T1.jpg",
+      "img": "en/villains/Ronan-T1.jpg",
       "title": {
         "text": "KREE ELITE FORCE",
         "locText":"KREE ELITE FORCE"
@@ -1558,7 +1558,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ronan-T3.jpg",
+      "img": "en/villains/Ronan-T3.jpg",
       "title": {
         "text": "JAILBREAK",
         "locText":"JAILBREAK"
@@ -1584,7 +1584,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ronan-T3.jpg",
+      "img": "en/villains/Ronan-T3.jpg",
       "title": {
         "text": "JAILBREAK",
         "locText":"JAILBREAK"
@@ -1610,7 +1610,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ronan-T5.jpg",
+      "img": "en/villains/Ronan-T5.jpg",
       "title": {
         "text": "SPACE AMBUSH",
         "locText":"SPACE AMBUSH"
@@ -1636,7 +1636,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ronan-T5.jpg",
+      "img": "en/villains/Ronan-T5.jpg",
       "title": {
         "text": "SPACE AMBUSH",
         "locText":"SPACE AMBUSH"
@@ -1663,7 +1663,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Ronan-B.jpg",
+    "img": "en/villains/Ronan-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -1673,7 +1673,7 @@
     ]
   },
   "front": {
-    "img": "villains/Ronan-A.jpg",
+    "img": "en/villains/Ronan-A.jpg",
     "specialRules": {
       "text": "Whenever a Hero is KO'd, they get a KO token.",
       "locText":"Whenever a Hero is KO'd, they get a KO token."

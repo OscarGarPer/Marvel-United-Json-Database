@@ -5,14 +5,14 @@
     "text": "United Promos",
     "locText": "United Promos"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
+  "rulebook": "https://cmon-files.s3.amazonaws.com/pdf/assets_item/resource/202/Marvel_United_Rulebook.pdf",
   "tokens": null,
   "locations": null,
   "challenges": null,
   "cards": null,
   "characters": [
     {
-      "img": "heroes/America-Chavez.jpg",
+      "img": "en/heroes/America-Chavez.jpg",
       "loyalty": "hero",
       "name": {
         "text": "America Chavez",
@@ -29,7 +29,7 @@
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez01.jpg",
+          "img": "en/heroes/America-Chavez01.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -50,7 +50,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez02.jpg",
+          "img": "en/heroes/America-Chavez02.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -72,7 +72,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez03.jpg",
+          "img": "en/heroes/America-Chavez03.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -94,7 +94,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez04.jpg",
+          "img": "en/heroes/America-Chavez04.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -115,7 +115,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez05.jpg",
+          "img": "en/heroes/America-Chavez05.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -137,7 +137,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez06.jpg",
+          "img": "en/heroes/America-Chavez06.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -159,7 +159,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez07.jpg",
+          "img": "en/heroes/America-Chavez07.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -181,7 +181,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez08.jpg",
+          "img": "en/heroes/America-Chavez08.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -202,7 +202,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez09.jpg",
+          "img": "en/heroes/America-Chavez09.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -224,7 +224,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez10.jpg",
+          "img": "en/heroes/America-Chavez10.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -255,7 +255,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez11.jpg",
+          "img": "en/heroes/America-Chavez11.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -286,7 +286,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/America-Chavez12.jpg",
+          "img": "en/heroes/America-Chavez12.jpg",
           "title": {
             "text": "America Chavez",
             "locText": "America Chavez"
@@ -337,7 +337,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat01.jpg",
+      "img": "en/heroes/Black-Cat01.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -358,7 +358,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat02.jpg",
+      "img": "en/heroes/Black-Cat02.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -380,7 +380,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat03.jpg",
+      "img": "en/heroes/Black-Cat03.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -402,7 +402,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat04.jpg",
+      "img": "en/heroes/Black-Cat04.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -423,7 +423,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat05.jpg",
+      "img": "en/heroes/Black-Cat05.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -444,7 +444,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat06.jpg",
+      "img": "en/heroes/Black-Cat06.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -466,7 +466,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat07.jpg",
+      "img": "en/heroes/Black-Cat07.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -497,7 +497,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat07.jpg",
+      "img": "en/heroes/Black-Cat07.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -528,7 +528,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat09.jpg",
+      "img": "en/heroes/Black-Cat09.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -559,7 +559,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat09.jpg",
+      "img": "en/heroes/Black-Cat09.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -590,7 +590,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat11.jpg",
+      "img": "en/heroes/Black-Cat11.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -621,7 +621,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Black-Cat11.jpg",
+      "img": "en/heroes/Black-Cat11.jpg",
       "title": {
         "text": "Black Cat",
         "locText": "Black Cat"
@@ -672,7 +672,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Blade01.jpg",
+      "img": "en/heroes/Blade01.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -693,7 +693,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade02.jpg",
+      "img": "en/heroes/Blade02.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -715,7 +715,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade03.jpg",
+      "img": "en/heroes/Blade03.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -737,7 +737,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade04.jpg",
+      "img": "en/heroes/Blade04.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -759,7 +759,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade05.jpg",
+      "img": "en/heroes/Blade05.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -780,29 +780,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade06.jpg",
-      "title": {
-        "text": "Blade",
-        "locText": "Blade"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "M",
-        "H"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Blade07.jpg",
+      "img": "en/heroes/Blade06.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -824,7 +802,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade08.jpg",
+      "img": "en/heroes/Blade07.jpg",
+      "title": {
+        "text": "Blade",
+        "locText": "Blade"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "M",
+        "H"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Blade08.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -845,7 +845,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade09.jpg",
+      "img": "en/heroes/Blade09.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -867,7 +867,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade10.jpg",
+      "img": "en/heroes/Blade10.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -898,7 +898,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade11.jpg",
+      "img": "en/heroes/Blade11.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -929,7 +929,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Blade12.jpg",
+      "img": "en/heroes/Blade12.jpg",
       "title": {
         "text": "Blade",
         "locText": "Blade"
@@ -980,7 +980,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil01.jpg",
+      "img": "en/heroes/Daredevil01.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1001,7 +1001,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil02.jpg",
+      "img": "en/heroes/Daredevil02.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1022,7 +1022,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil03.jpg",
+      "img": "en/heroes/Daredevil03.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1044,7 +1044,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil04.jpg",
+      "img": "en/heroes/Daredevil04.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1066,7 +1066,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil05.jpg",
+      "img": "en/heroes/Daredevil05.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1088,7 +1088,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil06.jpg",
+      "img": "en/heroes/Daredevil06.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1109,7 +1109,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil07.jpg",
+      "img": "en/heroes/Daredevil07.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1131,7 +1131,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil08.jpg",
+      "img": "en/heroes/Daredevil08.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1152,7 +1152,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil09.jpg",
+      "img": "en/heroes/Daredevil09.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1174,7 +1174,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil10.jpg",
+      "img": "en/heroes/Daredevil10.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1205,7 +1205,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil11.jpg",
+      "img": "en/heroes/Daredevil11.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1236,7 +1236,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Daredevil12.jpg",
+      "img": "en/heroes/Daredevil12.jpg",
       "title": {
         "text": "Daredevil",
         "locText": "Daredevil"
@@ -1287,7 +1287,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange01.jpg",
+      "img": "en/heroes/Doctor-Strange01.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1309,7 +1309,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange02.jpg",
+      "img": "en/heroes/Doctor-Strange02.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1331,7 +1331,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange03.jpg",
+      "img": "en/heroes/Doctor-Strange03.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1353,7 +1353,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange04.jpg",
+      "img": "en/heroes/Doctor-Strange04.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1374,7 +1374,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange05.jpg",
+      "img": "en/heroes/Doctor-Strange05.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1396,7 +1396,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange06.jpg",
+      "img": "en/heroes/Doctor-Strange06.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1417,7 +1417,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange07.jpg",
+      "img": "en/heroes/Doctor-Strange07.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1439,7 +1439,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange08.jpg",
+      "img": "en/heroes/Doctor-Strange08.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1470,7 +1470,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange09.jpg",
+      "img": "en/heroes/Doctor-Strange09.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1501,7 +1501,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange10.jpg",
+      "img": "en/heroes/Doctor-Strange10.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1532,7 +1532,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange11.jpg",
+      "img": "en/heroes/Doctor-Strange11.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1561,7 +1561,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Doctor-Strange12.jpg",
+      "img": "en/heroes/Doctor-Strange12.jpg",
       "title": {
         "text": "Doctor Strange",
         "locText": "Doctor Strange"
@@ -1612,7 +1612,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Elektra01.jpg",
+      "img": "en/heroes/Elektra01.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1633,7 +1633,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra02.jpg",
+      "img": "en/heroes/Elektra02.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1655,7 +1655,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra03.jpg",
+      "img": "en/heroes/Elektra03.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1677,7 +1677,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra04.jpg",
+      "img": "en/heroes/Elektra04.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1698,7 +1698,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra05.jpg",
+      "img": "en/heroes/Elektra05.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1719,7 +1719,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra06.jpg",
+      "img": "en/heroes/Elektra06.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1741,7 +1741,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra07.jpg",
+      "img": "en/heroes/Elektra07.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1762,7 +1762,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra08.jpg",
+      "img": "en/heroes/Elektra08.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1783,7 +1783,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra09.jpg",
+      "img": "en/heroes/Elektra09.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1805,7 +1805,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra10.jpg",
+      "img": "en/heroes/Elektra10.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1836,7 +1836,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra11.jpg",
+      "img": "en/heroes/Elektra11.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1867,7 +1867,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Elektra12.jpg",
+      "img": "en/heroes/Elektra12.jpg",
       "title": {
         "text": "Elektra",
         "locText": "Elektra"
@@ -1918,7 +1918,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Falcon01.jpg",
+      "img": "en/heroes/Falcon01.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -1939,7 +1939,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon02.jpg",
+      "img": "en/heroes/Falcon02.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -1961,7 +1961,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon03.jpg",
+      "img": "en/heroes/Falcon03.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -1982,7 +1982,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon04.jpg",
+      "img": "en/heroes/Falcon04.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2004,7 +2004,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon05.jpg",
+      "img": "en/heroes/Falcon05.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2026,7 +2026,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon06.jpg",
+      "img": "en/heroes/Falcon06.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2047,7 +2047,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon07.jpg",
+      "img": "en/heroes/Falcon07.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2069,7 +2069,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon08.jpg",
+      "img": "en/heroes/Falcon08.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2090,7 +2090,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon09.jpg",
+      "img": "en/heroes/Falcon09.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2112,7 +2112,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon10.jpg",
+      "img": "en/heroes/Falcon10.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2143,7 +2143,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon10.jpg",
+      "img": "en/heroes/Falcon10.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2174,7 +2174,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Falcon10.jpg",
+      "img": "en/heroes/Falcon10.jpg",
       "title": {
         "text": "Falcon",
         "locText": "Falcon"
@@ -2225,7 +2225,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider01.jpg",
+      "img": "en/heroes/Ghost-Rider01.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2246,7 +2246,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider02.jpg",
+      "img": "en/heroes/Ghost-Rider02.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2267,29 +2267,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider03.jpg",
-      "title": {
-        "text": "Ghost Rider",
-        "locText": "Ghost Rider"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "M",
-        "A"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Ghost-Rider04.jpg",
+      "img": "en/heroes/Ghost-Rider03.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2311,7 +2289,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider05.jpg",
+      "img": "en/heroes/Ghost-Rider04.jpg",
+      "title": {
+        "text": "Ghost Rider",
+        "locText": "Ghost Rider"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "M",
+        "A"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Ghost-Rider05.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2332,7 +2332,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider06.jpg",
+      "img": "en/heroes/Ghost-Rider06.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2354,7 +2354,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider07.jpg",
+      "img": "en/heroes/Ghost-Rider07.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2376,7 +2376,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider08.jpg",
+      "img": "en/heroes/Ghost-Rider08.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2397,7 +2397,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider09.jpg",
+      "img": "en/heroes/Ghost-Rider09.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2419,7 +2419,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider10.jpg",
+      "img": "en/heroes/Ghost-Rider10.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2450,7 +2450,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider11.jpg",
+      "img": "en/heroes/Ghost-Rider11.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2481,7 +2481,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ghost-Rider12.jpg",
+      "img": "en/heroes/Ghost-Rider12.jpg",
       "title": {
         "text": "Ghost Rider",
         "locText": "Ghost Rider"
@@ -2532,7 +2532,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye01.jpg",
+      "img": "en/heroes/Hawkeye01.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2553,7 +2553,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye02.jpg",
+      "img": "en/heroes/Hawkeye02.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2575,7 +2575,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye03.jpg",
+      "img": "en/heroes/Hawkeye03.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2597,7 +2597,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye04.jpg",
+      "img": "en/heroes/Hawkeye04.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2618,7 +2618,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye05.jpg",
+      "img": "en/heroes/Hawkeye05.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2640,7 +2640,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye06.jpg",
+      "img": "en/heroes/Hawkeye06.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2661,7 +2661,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye07.jpg",
+      "img": "en/heroes/Hawkeye07.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2683,7 +2683,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye08.jpg",
+      "img": "en/heroes/Hawkeye08.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2704,7 +2704,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye09.jpg",
+      "img": "en/heroes/Hawkeye09.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2726,7 +2726,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye10.jpg",
+      "img": "en/heroes/Hawkeye10.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2757,7 +2757,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye11.jpg",
+      "img": "en/heroes/Hawkeye11.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2788,7 +2788,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Hawkeye12.jpg",
+      "img": "en/heroes/Hawkeye12.jpg",
       "title": {
         "text": "Hawkeye",
         "locText": "Hawkeye"
@@ -2839,7 +2839,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck01.jpg",
+      "img": "en/heroes/Howard-The-Duck01.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2860,7 +2860,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck02.jpg",
+      "img": "en/heroes/Howard-The-Duck02.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2881,7 +2881,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck03.jpg",
+      "img": "en/heroes/Howard-The-Duck03.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2903,7 +2903,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck04.jpg",
+      "img": "en/heroes/Howard-The-Duck04.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2924,7 +2924,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck05.jpg",
+      "img": "en/heroes/Howard-The-Duck05.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2946,7 +2946,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck06.jpg",
+      "img": "en/heroes/Howard-The-Duck06.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2967,7 +2967,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck07.jpg",
+      "img": "en/heroes/Howard-The-Duck07.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -2988,7 +2988,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck08.jpg",
+      "img": "en/heroes/Howard-The-Duck08.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -3009,7 +3009,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck09.jpg",
+      "img": "en/heroes/Howard-The-Duck09.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -3031,7 +3031,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck10.jpg",
+      "img": "en/heroes/Howard-The-Duck10.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -3060,7 +3060,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck11.jpg",
+      "img": "en/heroes/Howard-The-Duck11.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -3089,7 +3089,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Howard-The-Duck12.jpg",
+      "img": "en/heroes/Howard-The-Duck12.jpg",
       "title": {
         "text": "Howard The Duck",
         "locText": "Howard The Duck"
@@ -3138,7 +3138,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist01.jpg",
+      "img": "en/heroes/Iron-Fist01.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3159,7 +3159,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist02.jpg",
+      "img": "en/heroes/Iron-Fist02.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3181,7 +3181,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist03.jpg",
+      "img": "en/heroes/Iron-Fist03.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3203,7 +3203,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist04.jpg",
+      "img": "en/heroes/Iron-Fist04.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3224,29 +3224,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist05.jpg",
-      "title": {
-        "text": "Iron Fist",
-        "locText": "Iron Fist"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "H",
-        "A"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Iron-Fist06.jpg",
+      "img": "en/heroes/Iron-Fist05.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3268,7 +3246,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist07.jpg",
+      "img": "en/heroes/Iron-Fist06.jpg",
+      "title": {
+        "text": "Iron Fist",
+        "locText": "Iron Fist"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "H",
+        "A"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Iron-Fist07.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3289,7 +3289,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist08.jpg",
+      "img": "en/heroes/Iron-Fist08.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3310,7 +3310,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist09.jpg",
+      "img": "en/heroes/Iron-Fist09.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3332,7 +3332,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist10.jpg",
+      "img": "en/heroes/Iron-Fist10.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3363,7 +3363,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist10.jpg",
+      "img": "en/heroes/Iron-Fist10.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3394,7 +3394,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Iron-Fist10.jpg",
+      "img": "en/heroes/Iron-Fist10.jpg",
       "title": {
         "text": "Iron Fist",
         "locText": "Iron Fist"
@@ -3445,7 +3445,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones01.jpg",
+      "img": "en/heroes/Jessica-Jones01.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3466,7 +3466,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones02.jpg",
+      "img": "en/heroes/Jessica-Jones02.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3488,7 +3488,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones03.jpg",
+      "img": "en/heroes/Jessica-Jones03.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3510,7 +3510,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones04.jpg",
+      "img": "en/heroes/Jessica-Jones04.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3531,7 +3531,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones05.jpg",
+      "img": "en/heroes/Jessica-Jones05.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3553,7 +3553,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones06.jpg",
+      "img": "en/heroes/Jessica-Jones06.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3575,7 +3575,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones07.jpg",
+      "img": "en/heroes/Jessica-Jones07.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3596,7 +3596,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones08.jpg",
+      "img": "en/heroes/Jessica-Jones08.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3617,7 +3617,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones09.jpg",
+      "img": "en/heroes/Jessica-Jones09.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3639,7 +3639,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones10.jpg",
+      "img": "en/heroes/Jessica-Jones10.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3670,7 +3670,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones11.jpg",
+      "img": "en/heroes/Jessica-Jones11.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3701,7 +3701,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Jessica-Jones12.jpg",
+      "img": "en/heroes/Jessica-Jones12.jpg",
       "title": {
         "text": "Jessica Jones",
         "locText": "Jessica Jones"
@@ -3752,7 +3752,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage01.jpg",
+      "img": "en/heroes/Luke-Cage01.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3773,7 +3773,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage02.jpg",
+      "img": "en/heroes/Luke-Cage02.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3795,7 +3795,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage03.jpg",
+      "img": "en/heroes/Luke-Cage03.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3817,7 +3817,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage04.jpg",
+      "img": "en/heroes/Luke-Cage04.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3838,7 +3838,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage05.jpg",
+      "img": "en/heroes/Luke-Cage05.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3860,7 +3860,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage06.jpg",
+      "img": "en/heroes/Luke-Cage06.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3882,7 +3882,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage07.jpg",
+      "img": "en/heroes/Luke-Cage07.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3903,7 +3903,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage08.jpg",
+      "img": "en/heroes/Luke-Cage08.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3924,7 +3924,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage09.jpg",
+      "img": "en/heroes/Luke-Cage09.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3946,7 +3946,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage10.jpg",
+      "img": "en/heroes/Luke-Cage10.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -3977,7 +3977,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage11.jpg",
+      "img": "en/heroes/Luke-Cage11.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -4008,7 +4008,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Luke-Cage12.jpg",
+      "img": "en/heroes/Luke-Cage12.jpg",
       "title": {
         "text": "Luke Cage",
         "locText": "Luke Cage"
@@ -4059,7 +4059,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Mantis01.jpg",
+      "img": "en/heroes/Mantis01.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4080,7 +4080,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis02.jpg",
+      "img": "en/heroes/Mantis02.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4102,7 +4102,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis03.jpg",
+      "img": "en/heroes/Mantis03.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4124,7 +4124,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis04.jpg",
+      "img": "en/heroes/Mantis04.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4145,7 +4145,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis05.jpg",
+      "img": "en/heroes/Mantis05.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4167,7 +4167,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis06.jpg",
+      "img": "en/heroes/Mantis06.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4188,7 +4188,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis07.jpg",
+      "img": "en/heroes/Mantis07.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4210,7 +4210,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis08.jpg",
+      "img": "en/heroes/Mantis08.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4231,7 +4231,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis09.jpg",
+      "img": "en/heroes/Mantis09.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4253,7 +4253,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis10.jpg",
+      "img": "en/heroes/Mantis10.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4284,7 +4284,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis11.jpg",
+      "img": "en/heroes/Mantis11.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4315,7 +4315,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mantis12.jpg",
+      "img": "en/heroes/Mantis12.jpg",
       "title": {
         "text": "Mantis",
         "locText": "Mantis"
@@ -4366,7 +4366,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird01.jpg",
+      "img": "en/heroes/Mockingbird01.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4387,7 +4387,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird02.jpg",
+      "img": "en/heroes/Mockingbird02.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4409,7 +4409,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird03.jpg",
+      "img": "en/heroes/Mockingbird03.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4430,7 +4430,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird04.jpg",
+      "img": "en/heroes/Mockingbird04.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4452,7 +4452,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird05.jpg",
+      "img": "en/heroes/Mockingbird05.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4474,7 +4474,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird06.jpg",
+      "img": "en/heroes/Mockingbird06.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4496,7 +4496,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird07.jpg",
+      "img": "en/heroes/Mockingbird07.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4518,7 +4518,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird08.jpg",
+      "img": "en/heroes/Mockingbird08.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4539,7 +4539,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird09.jpg",
+      "img": "en/heroes/Mockingbird09.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4561,7 +4561,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird10.jpg",
+      "img": "en/heroes/Mockingbird10.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4592,7 +4592,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird11.jpg",
+      "img": "en/heroes/Mockingbird11.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4623,7 +4623,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Mockingbird11.jpg",
+      "img": "en/heroes/Mockingbird11.jpg",
       "title": {
         "text": "Mockingbird",
         "locText": "Mockingbird"
@@ -4674,7 +4674,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight01.jpg",
+      "img": "en/heroes/Moon-Knight01.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4695,7 +4695,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight02.jpg",
+      "img": "en/heroes/Moon-Knight02.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4717,7 +4717,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight03.jpg",
+      "img": "en/heroes/Moon-Knight03.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4739,7 +4739,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight04.jpg",
+      "img": "en/heroes/Moon-Knight04.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4760,7 +4760,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight05.jpg",
+      "img": "en/heroes/Moon-Knight05.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4782,7 +4782,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight06.jpg",
+      "img": "en/heroes/Moon-Knight06.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4803,7 +4803,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight07.jpg",
+      "img": "en/heroes/Moon-Knight07.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4825,7 +4825,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight08.jpg",
+      "img": "en/heroes/Moon-Knight08.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4846,7 +4846,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight09.jpg",
+      "img": "en/heroes/Moon-Knight09.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4868,7 +4868,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight10.jpg",
+      "img": "en/heroes/Moon-Knight10.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4900,7 +4900,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight11.jpg",
+      "img": "en/heroes/Moon-Knight11.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4931,7 +4931,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Moon-Knight12.jpg",
+      "img": "en/heroes/Moon-Knight12.jpg",
       "title": {
         "text": "Moon Knight",
         "locText": "Moon Knight"
@@ -4982,7 +4982,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel01.jpg",
+      "img": "en/heroes/Ms-Marvel01.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5003,7 +5003,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel02.jpg",
+      "img": "en/heroes/Ms-Marvel02.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5025,7 +5025,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel03.jpg",
+      "img": "en/heroes/Ms-Marvel03.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5047,7 +5047,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel04.jpg",
+      "img": "en/heroes/Ms-Marvel04.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5068,7 +5068,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel05.jpg",
+      "img": "en/heroes/Ms-Marvel05.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5090,7 +5090,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel06.jpg",
+      "img": "en/heroes/Ms-Marvel06.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5111,7 +5111,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel07.jpg",
+      "img": "en/heroes/Ms-Marvel07.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5133,7 +5133,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel08.jpg",
+      "img": "en/heroes/Ms-Marvel08.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5154,7 +5154,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel09.jpg",
+      "img": "en/heroes/Ms-Marvel09.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5176,7 +5176,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel10.jpg",
+      "img": "en/heroes/Ms-Marvel10.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5207,7 +5207,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel11.jpg",
+      "img": "en/heroes/Ms-Marvel11.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5238,7 +5238,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Ms-Marvel12.jpg",
+      "img": "en/heroes/Ms-Marvel12.jpg",
       "title": {
         "text": "Ms. Marvel",
         "locText": "Ms. Marvel"
@@ -5289,7 +5289,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Nebula01.jpg",
+      "img": "en/heroes/Nebula01.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5310,7 +5310,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula02.jpg",
+      "img": "en/heroes/Nebula02.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5331,7 +5331,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula03.jpg",
+      "img": "en/heroes/Nebula03.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5352,29 +5352,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula04.jpg",
-      "title": {
-        "text": "Nebula",
-        "locText": "Nebula"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "A",
-        "A"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Nebula05.jpg",
+      "img": "en/heroes/Nebula04.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5396,7 +5374,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula06.jpg",
+      "img": "en/heroes/Nebula05.jpg",
+      "title": {
+        "text": "Nebula",
+        "locText": "Nebula"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "A",
+        "A"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Nebula06.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5418,7 +5418,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula07.jpg",
+      "img": "en/heroes/Nebula07.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5440,7 +5440,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula08.jpg",
+      "img": "en/heroes/Nebula08.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5461,7 +5461,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula09.jpg",
+      "img": "en/heroes/Nebula09.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5483,7 +5483,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula10.jpg",
+      "img": "en/heroes/Nebula10.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5514,7 +5514,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula11.jpg",
+      "img": "en/heroes/Nebula11.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5545,7 +5545,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nebula12.jpg",
+      "img": "en/heroes/Nebula12.jpg",
       "title": {
         "text": "Nebula",
         "locText": "Nebula"
@@ -5596,7 +5596,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury01.jpg",
+      "img": "en/heroes/Nick-Fury01.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5617,7 +5617,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury02.jpg",
+      "img": "en/heroes/Nick-Fury02.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5639,7 +5639,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury03.jpg",
+      "img": "en/heroes/Nick-Fury03.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5661,7 +5661,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury04.jpg",
+      "img": "en/heroes/Nick-Fury04.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5682,7 +5682,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury05.jpg",
+      "img": "en/heroes/Nick-Fury05.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5703,7 +5703,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury06.jpg",
+      "img": "en/heroes/Nick-Fury06.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5724,7 +5724,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury07.jpg",
+      "img": "en/heroes/Nick-Fury07.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5746,7 +5746,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury08.jpg",
+      "img": "en/heroes/Nick-Fury08.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5767,7 +5767,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury09.jpg",
+      "img": "en/heroes/Nick-Fury09.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5789,7 +5789,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury10.jpg",
+      "img": "en/heroes/Nick-Fury10.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5820,7 +5820,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury11.jpg",
+      "img": "en/heroes/Nick-Fury11.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5851,7 +5851,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nick-Fury12.jpg",
+      "img": "en/heroes/Nick-Fury12.jpg",
       "title": {
         "text": "Nick Fury",
         "locText": "Nick Fury"
@@ -5902,7 +5902,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Nova01.jpg",
+      "img": "en/heroes/Nova01.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -5923,7 +5923,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova02.jpg",
+      "img": "en/heroes/Nova02.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -5945,7 +5945,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova03.jpg",
+      "img": "en/heroes/Nova03.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -5966,7 +5966,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova04.jpg",
+      "img": "en/heroes/Nova04.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -5987,7 +5987,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova05.jpg",
+      "img": "en/heroes/Nova05.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6009,7 +6009,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova06.jpg",
+      "img": "en/heroes/Nova06.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6031,7 +6031,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova07.jpg",
+      "img": "en/heroes/Nova07.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6053,7 +6053,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova08.jpg",
+      "img": "en/heroes/Nova08.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6074,7 +6074,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova09.jpg",
+      "img": "en/heroes/Nova09.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6096,7 +6096,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova10.jpg",
+      "img": "en/heroes/Nova10.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6127,7 +6127,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova10.jpg",
+      "img": "en/heroes/Nova10.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6158,7 +6158,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Nova10.jpg",
+      "img": "en/heroes/Nova10.jpg",
       "title": {
         "text": "Nova",
         "locText": "Nova"
@@ -6209,7 +6209,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Okoye01.jpg",
+      "img": "en/heroes/Okoye01.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6230,7 +6230,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye02.jpg",
+      "img": "en/heroes/Okoye02.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6252,7 +6252,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye03.jpg",
+      "img": "en/heroes/Okoye03.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6274,7 +6274,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye04.jpg",
+      "img": "en/heroes/Okoye04.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6295,7 +6295,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye05.jpg",
+      "img": "en/heroes/Okoye05.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6316,7 +6316,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye06.jpg",
+      "img": "en/heroes/Okoye06.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6338,7 +6338,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye07.jpg",
+      "img": "en/heroes/Okoye07.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6359,7 +6359,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye08.jpg",
+      "img": "en/heroes/Okoye08.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6380,7 +6380,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye09.jpg",
+      "img": "en/heroes/Okoye09.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6402,7 +6402,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye10.jpg",
+      "img": "en/heroes/Okoye10.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6433,7 +6433,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye11.jpg",
+      "img": "en/heroes/Okoye11.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6465,7 +6465,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Okoye12.jpg",
+      "img": "en/heroes/Okoye12.jpg",
       "title": {
         "text": "Okoye",
         "locText": "Okoye"
@@ -6516,7 +6516,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver01.jpg",
+      "img": "en/heroes/Quicksilver01.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6538,7 +6538,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver02.jpg",
+      "img": "en/heroes/Quicksilver02.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6559,29 +6559,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver03.jpg",
-      "title": {
-        "text": "Quicksilver",
-        "locText": "Quicksilver"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "M",
-        "A"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/Quicksilver04.jpg",
+      "img": "en/heroes/Quicksilver03.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6603,7 +6581,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver05.jpg",
+      "img": "en/heroes/Quicksilver04.jpg",
+      "title": {
+        "text": "Quicksilver",
+        "locText": "Quicksilver"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "M",
+        "A"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/Quicksilver05.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6624,7 +6624,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver06.jpg",
+      "img": "en/heroes/Quicksilver06.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6646,7 +6646,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver07.jpg",
+      "img": "en/heroes/Quicksilver07.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6668,7 +6668,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver08.jpg",
+      "img": "en/heroes/Quicksilver08.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6689,7 +6689,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver09.jpg",
+      "img": "en/heroes/Quicksilver09.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6711,7 +6711,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver10.jpg",
+      "img": "en/heroes/Quicksilver10.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6743,7 +6743,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver11.jpg",
+      "img": "en/heroes/Quicksilver11.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6775,7 +6775,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Quicksilver12.jpg",
+      "img": "en/heroes/Quicksilver12.jpg",
       "title": {
         "text": "Quicksilver",
         "locText": "Quicksilver"
@@ -6827,7 +6827,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch01.jpg",
+      "img": "en/heroes/Scarlet-Witch01.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6849,7 +6849,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch02.jpg",
+      "img": "en/heroes/Scarlet-Witch02.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6871,7 +6871,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch03.jpg",
+      "img": "en/heroes/Scarlet-Witch03.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6893,7 +6893,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch04.jpg",
+      "img": "en/heroes/Scarlet-Witch04.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6914,7 +6914,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch05.jpg",
+      "img": "en/heroes/Scarlet-Witch05.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6936,7 +6936,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch06.jpg",
+      "img": "en/heroes/Scarlet-Witch06.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6958,7 +6958,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch07.jpg",
+      "img": "en/heroes/Scarlet-Witch07.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -6980,7 +6980,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch08.jpg",
+      "img": "en/heroes/Scarlet-Witch08.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -7001,7 +7001,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch09.jpg",
+      "img": "en/heroes/Scarlet-Witch09.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -7023,7 +7023,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch10.jpg",
+      "img": "en/heroes/Scarlet-Witch10.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -7052,7 +7052,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch11.jpg",
+      "img": "en/heroes/Scarlet-Witch11.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -7083,7 +7083,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Scarlet-Witch12.jpg",
+      "img": "en/heroes/Scarlet-Witch12.jpg",
       "title": {
         "text": "Scarlet Witch",
         "locText": "Scarlet Witch"
@@ -7132,7 +7132,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi01.jpg",
+      "img": "en/heroes/Shang-Chi01.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7153,7 +7153,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi02.jpg",
+      "img": "en/heroes/Shang-Chi02.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7174,7 +7174,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi03.jpg",
+      "img": "en/heroes/Shang-Chi03.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7196,7 +7196,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi04.jpg",
+      "img": "en/heroes/Shang-Chi04.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7218,7 +7218,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi05.jpg",
+      "img": "en/heroes/Shang-Chi05.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7239,7 +7239,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi06.jpg",
+      "img": "en/heroes/Shang-Chi06.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7261,7 +7261,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi07.jpg",
+      "img": "en/heroes/Shang-Chi07.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7283,7 +7283,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi08.jpg",
+      "img": "en/heroes/Shang-Chi08.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7304,7 +7304,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi09.jpg",
+      "img": "en/heroes/Shang-Chi09.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7326,7 +7326,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi10.jpg",
+      "img": "en/heroes/Shang-Chi10.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7358,7 +7358,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi10.jpg",
+      "img": "en/heroes/Shang-Chi10.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7390,7 +7390,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Shang-Chi10.jpg",
+      "img": "en/heroes/Shang-Chi10.jpg",
       "title": {
         "text": "Shang Chi",
         "locText": "Shang Chi"
@@ -7442,7 +7442,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk01.jpg",
+      "img": "en/heroes/She-Hulk01.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7464,7 +7464,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk02.jpg",
+      "img": "en/heroes/She-Hulk02.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7485,29 +7485,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk03.jpg",
-      "title": {
-        "text": "She Hulk",
-        "locText": "She Hulk"
-      },
-      "description": null,
-      "specialEffect": null,
-      "movement": null,
-      "movementText": null,
-      "bam": null,
-      "actions": [
-        "A",
-        "A"
-      ],
-      "add": null,
-      "lifePoints": null,
-      "locationEffect": null,
-      "startingHand": null,
-      "bottomDeck": null
-    },
-    {
-      "cardType": "hero",
-      "img": "heroes/She-Hulk04.jpg",
+      "img": "en/heroes/She-Hulk03.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7529,7 +7507,29 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk05.jpg",
+      "img": "en/heroes/She-Hulk04.jpg",
+      "title": {
+        "text": "She Hulk",
+        "locText": "She Hulk"
+      },
+      "description": null,
+      "specialEffect": null,
+      "movement": null,
+      "movementText": null,
+      "bam": null,
+      "actions": [
+        "A",
+        "A"
+      ],
+      "add": null,
+      "lifePoints": null,
+      "locationEffect": null,
+      "startingHand": null,
+      "bottomDeck": null
+    },
+    {
+      "cardType": "hero",
+      "img": "en/heroes/She-Hulk05.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7550,7 +7550,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk06.jpg",
+      "img": "en/heroes/She-Hulk06.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7572,7 +7572,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk07.jpg",
+      "img": "en/heroes/She-Hulk07.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7593,7 +7593,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk08.jpg",
+      "img": "en/heroes/She-Hulk08.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7615,7 +7615,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk09.jpg",
+      "img": "en/heroes/She-Hulk09.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7646,7 +7646,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk09.jpg",
+      "img": "en/heroes/She-Hulk09.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7677,7 +7677,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk09.jpg",
+      "img": "en/heroes/She-Hulk09.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7708,7 +7708,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/She-Hulk09.jpg",
+      "img": "en/heroes/She-Hulk09.jpg",
       "title": {
         "text": "She Hulk",
         "locText": "She Hulk"
@@ -7759,7 +7759,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209901.jpg",
+      "img": "en/heroes/Spider-Man-209901.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7780,7 +7780,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209902.jpg",
+      "img": "en/heroes/Spider-Man-209902.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7802,7 +7802,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209903.jpg",
+      "img": "en/heroes/Spider-Man-209903.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7824,7 +7824,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209904.jpg",
+      "img": "en/heroes/Spider-Man-209904.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7846,7 +7846,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209905.jpg",
+      "img": "en/heroes/Spider-Man-209905.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7868,7 +7868,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209906.jpg",
+      "img": "en/heroes/Spider-Man-209906.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7890,7 +7890,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209907.jpg",
+      "img": "en/heroes/Spider-Man-209907.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7911,7 +7911,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209908.jpg",
+      "img": "en/heroes/Spider-Man-209908.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7932,7 +7932,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209909.jpg",
+      "img": "en/heroes/Spider-Man-209909.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7954,7 +7954,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209910.jpg",
+      "img": "en/heroes/Spider-Man-209910.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -7985,7 +7985,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209911.jpg",
+      "img": "en/heroes/Spider-Man-209911.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -8016,7 +8016,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Man-209912.jpg",
+      "img": "en/heroes/Spider-Man-209912.jpg",
       "title": {
         "text": "Spider-Man 2099",
         "locText": "Spider-Man 2099"
@@ -8067,7 +8067,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman01.jpg",
+      "img": "en/heroes/Spider-Woman01.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8088,7 +8088,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman02.jpg",
+      "img": "en/heroes/Spider-Woman02.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8110,7 +8110,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman03.jpg",
+      "img": "en/heroes/Spider-Woman03.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8132,7 +8132,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman04.jpg",
+      "img": "en/heroes/Spider-Woman04.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8154,7 +8154,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman05.jpg",
+      "img": "en/heroes/Spider-Woman05.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8176,7 +8176,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman06.jpg",
+      "img": "en/heroes/Spider-Woman06.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8198,7 +8198,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman07.jpg",
+      "img": "en/heroes/Spider-Woman07.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8220,7 +8220,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman08.jpg",
+      "img": "en/heroes/Spider-Woman08.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8241,7 +8241,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman09.jpg",
+      "img": "en/heroes/Spider-Woman09.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8263,7 +8263,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman10.jpg",
+      "img": "en/heroes/Spider-Woman10.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8294,7 +8294,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman11.jpg",
+      "img": "en/heroes/Spider-Woman11.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8325,7 +8325,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Spider-Woman11.jpg",
+      "img": "en/heroes/Spider-Woman11.jpg",
       "title": {
         "text": "Spider-Woman",
         "locText": "Spider-Woman"
@@ -8376,7 +8376,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl01.jpg",
+      "img": "en/heroes/Squirrel-Girl01.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8397,7 +8397,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl02.jpg",
+      "img": "en/heroes/Squirrel-Girl02.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8419,7 +8419,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl03.jpg",
+      "img": "en/heroes/Squirrel-Girl03.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8441,7 +8441,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl04.jpg",
+      "img": "en/heroes/Squirrel-Girl04.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8462,7 +8462,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl05.jpg",
+      "img": "en/heroes/Squirrel-Girl05.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8483,7 +8483,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl06.jpg",
+      "img": "en/heroes/Squirrel-Girl06.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8505,7 +8505,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl07.jpg",
+      "img": "en/heroes/Squirrel-Girl07.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8526,7 +8526,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl08.jpg",
+      "img": "en/heroes/Squirrel-Girl08.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8547,7 +8547,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl09.jpg",
+      "img": "en/heroes/Squirrel-Girl09.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8569,7 +8569,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl10.jpg",
+      "img": "en/heroes/Squirrel-Girl10.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8600,7 +8600,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl11.jpg",
+      "img": "en/heroes/Squirrel-Girl11.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8631,7 +8631,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Squirrel-Girl12.jpg",
+      "img": "en/heroes/Squirrel-Girl12.jpg",
       "title": {
         "text": "Squirrel Girl",
         "locText": "Squirrel Girl"
@@ -8680,7 +8680,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Punisher01.jpg",
+      "img": "en/heroes/Punisher01.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8702,7 +8702,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher02.jpg",
+      "img": "en/heroes/Punisher02.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8724,7 +8724,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher03.jpg",
+      "img": "en/heroes/Punisher03.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8745,7 +8745,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher04.jpg",
+      "img": "en/heroes/Punisher04.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8766,7 +8766,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher05.jpg",
+      "img": "en/heroes/Punisher05.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8788,7 +8788,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher06.jpg",
+      "img": "en/heroes/Punisher06.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8809,7 +8809,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher07.jpg",
+      "img": "en/heroes/Punisher07.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8830,7 +8830,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher08.jpg",
+      "img": "en/heroes/Punisher08.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8851,7 +8851,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher09.jpg",
+      "img": "en/heroes/Punisher09.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8873,7 +8873,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher10.jpg",
+      "img": "en/heroes/Punisher10.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8904,7 +8904,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher11.jpg",
+      "img": "en/heroes/Punisher11.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8933,7 +8933,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Punisher12.jpg",
+      "img": "en/heroes/Punisher12.jpg",
       "title": {
         "text": "Punisher",
         "locText": "Punisher"
@@ -8982,7 +8982,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Venom01.jpg",
+      "img": "en/heroes/Venom01.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9003,7 +9003,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom02.jpg",
+      "img": "en/heroes/Venom02.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9025,7 +9025,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom03.jpg",
+      "img": "en/heroes/Venom03.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9047,7 +9047,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom04.jpg",
+      "img": "en/heroes/Venom04.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9069,7 +9069,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom05.jpg",
+      "img": "en/heroes/Venom05.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9090,7 +9090,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom06.jpg",
+      "img": "en/heroes/Venom06.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9112,7 +9112,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom07.jpg",
+      "img": "en/heroes/Venom07.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9134,7 +9134,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom08.jpg",
+      "img": "en/heroes/Venom08.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9155,7 +9155,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom09.jpg",
+      "img": "en/heroes/Venom09.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9177,7 +9177,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom10.jpg",
+      "img": "en/heroes/Venom10.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9208,7 +9208,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom11.jpg",
+      "img": "en/heroes/Venom11.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9239,7 +9239,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Venom12.jpg",
+      "img": "en/heroes/Venom12.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -9290,7 +9290,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/Vision01.jpg",
+      "img": "en/heroes/Vision01.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9312,7 +9312,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision02.jpg",
+      "img": "en/heroes/Vision02.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9333,7 +9333,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision03.jpg",
+      "img": "en/heroes/Vision03.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9354,7 +9354,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision04.jpg",
+      "img": "en/heroes/Vision04.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9376,7 +9376,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision05.jpg",
+      "img": "en/heroes/Vision05.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9398,7 +9398,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision06.jpg",
+      "img": "en/heroes/Vision06.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9419,7 +9419,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision07.jpg",
+      "img": "en/heroes/Vision07.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9441,7 +9441,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision08.jpg",
+      "img": "en/heroes/Vision08.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9462,7 +9462,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision09.jpg",
+      "img": "en/heroes/Vision09.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9484,7 +9484,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision10.jpg",
+      "img": "en/heroes/Vision10.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9513,7 +9513,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision11.jpg",
+      "img": "en/heroes/Vision11.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9544,7 +9544,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/Vision12.jpg",
+      "img": "en/heroes/Vision12.jpg",
       "title": {
         "text": "Vision",
         "locText": "Vision"
@@ -9595,7 +9595,7 @@
   "cards": [
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine01.jpg",
+      "img": "en/heroes/War-Machine01.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9616,7 +9616,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine02.jpg",
+      "img": "en/heroes/War-Machine02.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9638,7 +9638,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine03.jpg",
+      "img": "en/heroes/War-Machine03.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9660,7 +9660,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine04.jpg",
+      "img": "en/heroes/War-Machine04.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9682,7 +9682,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine05.jpg",
+      "img": "en/heroes/War-Machine05.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9704,7 +9704,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine06.jpg",
+      "img": "en/heroes/War-Machine06.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9725,7 +9725,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine07.jpg",
+      "img": "en/heroes/War-Machine07.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9747,7 +9747,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine08.jpg",
+      "img": "en/heroes/War-Machine08.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9768,7 +9768,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine09.jpg",
+      "img": "en/heroes/War-Machine09.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9790,7 +9790,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine10.jpg",
+      "img": "en/heroes/War-Machine10.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9821,7 +9821,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine11.jpg",
+      "img": "en/heroes/War-Machine11.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9852,7 +9852,7 @@
     },
     {
       "cardType": "hero",
-      "img": "heroes/War-Machine12.jpg",
+      "img": "en/heroes/War-Machine12.jpg",
       "title": {
         "text": "War Machine",
         "locText": "War Machine"
@@ -9903,7 +9903,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP01.jpg",
+      "img": "en/villains/Baron-Zemo-MP01.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -9922,7 +9922,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP02.jpg",
+      "img": "en/villains/Baron-Zemo-MP02.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -9941,7 +9941,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP03.jpg",
+      "img": "en/villains/Baron-Zemo-MP03.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -9960,7 +9960,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP04.jpg",
+      "img": "en/villains/Baron-Zemo-MP04.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -9979,7 +9979,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP05.jpg",
+      "img": "en/villains/Baron-Zemo-MP05.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -9998,7 +9998,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP06.jpg",
+      "img": "en/villains/Baron-Zemo-MP06.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10017,7 +10017,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP07.jpg",
+      "img": "en/villains/Baron-Zemo-MP07.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10036,7 +10036,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP08.jpg",
+      "img": "en/villains/Baron-Zemo-MP08.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10055,7 +10055,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP09.jpg",
+      "img": "en/villains/Baron-Zemo-MP09.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10094,7 +10094,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP09.jpg",
+      "img": "en/villains/Baron-Zemo-MP09.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10133,7 +10133,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP11.jpg",
+      "img": "en/villains/Baron-Zemo-MP11.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10172,7 +10172,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Baron-Zemo-MP11.jpg",
+      "img": "en/villains/Baron-Zemo-MP11.jpg",
       "title": {
         "text": "Baron Zemo",
         "locText": "Baron Zemo"
@@ -10211,7 +10211,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Baron-Zemo-T1.jpg",
+      "img": "en/villains/Baron-Zemo-T1.jpg",
       "title": {
         "text": "Beetle",
         "locText": "Beetle"
@@ -10237,7 +10237,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Baron-Zemo-T2.jpg",
+      "img": "en/villains/Baron-Zemo-T2.jpg",
       "title": {
         "text": "Fixer",
         "locText": "Fixer"
@@ -10263,7 +10263,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Baron-Zemo-T3.jpg",
+      "img": "en/villains/Baron-Zemo-T3.jpg",
       "title": {
         "text": "Goliath",
         "locText": "Goliath"
@@ -10289,7 +10289,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Baron-Zemo-T4.jpg",
+      "img": "en/villains/Baron-Zemo-T4.jpg",
       "title": {
         "text": "Moonstone",
         "locText": "Moonstone"
@@ -10315,7 +10315,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Baron-Zemo-T5.jpg",
+      "img": "en/villains/Baron-Zemo-T5.jpg",
       "title": {
         "text": "Screaning Mimi",
         "locText": "Screaning Mimi"
@@ -10341,7 +10341,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Baron-Zemo-T6.jpg",
+      "img": "en/villains/Baron-Zemo-T6.jpg",
       "title": {
         "text": "Masters Of Evil",
         "locText": "Masters Of Evil"
@@ -10368,7 +10368,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Baron-Zemo-B.jpg",
+    "img": "en/villains/Baron-Zemo-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "H",
@@ -10376,7 +10376,7 @@
     ]
   },
   "front": {
-    "img": "villains/Baron-Zemo-A.jpg",
+    "img": "en/villains/Baron-Zemo-A.jpg",
     "specialRules": {
       "text": "A Hero with any Crisis tokens at the end of their turn must use each of these tokens to cover 1 symbol on the bottom of the card they played this turn (keeping any leftovers). Symbols covered by Crisis tokens do not grant actions to Heroes.",
       "locText": "A Hero with any Crisis tokens at the end of their turn must use each of these tokens to cover 1 symbol on the bottom of the card they played this turn (keeping any leftovers). Symbols covered by Crisis tokens do not grant actions to Heroes."
@@ -10413,7 +10413,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP01.jpg",
+      "img": "en/villains/Bullseye-MP01.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10432,7 +10432,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP02.jpg",
+      "img": "en/villains/Bullseye-MP02.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10451,7 +10451,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP03.jpg",
+      "img": "en/villains/Bullseye-MP03.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10470,7 +10470,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP04.jpg",
+      "img": "en/villains/Bullseye-MP04.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10489,7 +10489,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP05.jpg",
+      "img": "en/villains/Bullseye-MP05.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10508,7 +10508,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP06.jpg",
+      "img": "en/villains/Bullseye-MP06.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10527,7 +10527,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP07.jpg",
+      "img": "en/villains/Bullseye-MP07.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10546,7 +10546,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP08.jpg",
+      "img": "en/villains/Bullseye-MP08.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10565,7 +10565,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP09.jpg",
+      "img": "en/villains/Bullseye-MP09.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10604,7 +10604,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP09.jpg",
+      "img": "en/villains/Bullseye-MP09.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10643,7 +10643,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP11.jpg",
+      "img": "en/villains/Bullseye-MP11.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10682,7 +10682,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Bullseye-MP11.jpg",
+      "img": "en/villains/Bullseye-MP11.jpg",
       "title": {
         "text": "Bullseye",
         "locText": "Bullseye"
@@ -10721,7 +10721,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Bullseye-T1.jpg",
+      "img": "en/villains/Bullseye-T1.jpg",
       "title": {
         "text": "Hiding Place",
         "locText": "Hiding Place"
@@ -10747,7 +10747,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Bullseye-T1.jpg",
+      "img": "en/villains/Bullseye-T1.jpg",
       "title": {
         "text": "Hiding Place",
         "locText": "Hiding Place"
@@ -10773,7 +10773,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Bullseye-T3.jpg",
+      "img": "en/villains/Bullseye-T3.jpg",
       "title": {
         "text": "Striking Unseen",
         "locText": "Striking Unseen"
@@ -10799,7 +10799,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Bullseye-T3.jpg",
+      "img": "en/villains/Bullseye-T3.jpg",
       "title": {
         "text": "Striking Unseen",
         "locText": "Striking Unseen"
@@ -10825,7 +10825,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Bullseye-T5.jpg",
+      "img": "en/villains/Bullseye-T5.jpg",
       "title": {
         "text": "Diversion",
         "locText": "Diversion"
@@ -10851,7 +10851,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Bullseye-T5.jpg",
+      "img": "en/villains/Bullseye-T5.jpg",
       "title": {
         "text": "Diversion",
         "locText": "Diversion"
@@ -10878,7 +10878,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Bullseye-B.jpg",
+    "img": "en/villains/Bullseye-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -10894,7 +10894,7 @@
     }
   },
   "front": {
-    "img": "villains/Bullseye-A.jpg",
+    "img": "en/villains/Bullseye-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Bullseye doesn't activate his BAM! Instead, the Hero gets a KO token.",
       "locText": "When a Hero is KO'd, Bullseye doesn't activate his BAM! Instead, the Hero gets a KO token."
@@ -10931,7 +10931,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP01.jpg",
+      "img": "en/villains/Carnage-MP01.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -10950,7 +10950,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP02.jpg",
+      "img": "en/villains/Carnage-MP02.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -10969,7 +10969,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP03.jpg",
+      "img": "en/villains/Carnage-MP03.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -10988,7 +10988,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP04.jpg",
+      "img": "en/villains/Carnage-MP04.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11007,7 +11007,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP05.jpg",
+      "img": "en/villains/Carnage-MP05.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11026,7 +11026,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP06.jpg",
+      "img": "en/villains/Carnage-MP06.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11045,7 +11045,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP07.jpg",
+      "img": "en/villains/Carnage-MP07.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11064,7 +11064,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP08.jpg",
+      "img": "en/villains/Carnage-MP08.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11083,7 +11083,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP09.jpg",
+      "img": "en/villains/Carnage-MP09.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11122,7 +11122,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP09.jpg",
+      "img": "en/villains/Carnage-MP09.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11161,7 +11161,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP09.jpg",
+      "img": "en/villains/Carnage-MP09.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11200,7 +11200,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Carnage-MP09.jpg",
+      "img": "en/villains/Carnage-MP09.jpg",
       "title": {
         "text": "Carnage",
         "locText": "Carnage"
@@ -11239,7 +11239,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Carnage-T1.jpg",
+      "img": "en/villains/Carnage-T1.jpg",
       "title": {
         "text": "Carnage's Offspring",
         "locText": "Carnage's Offspring"
@@ -11265,7 +11265,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Carnage-T1.jpg",
+      "img": "en/villains/Carnage-T1.jpg",
       "title": {
         "text": "Carnage's Offspring",
         "locText": "Carnage's Offspring"
@@ -11291,7 +11291,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Carnage-T1.jpg",
+      "img": "en/villains/Carnage-T1.jpg",
       "title": {
         "text": "Carnage's Offspring",
         "locText": "Carnage's Offspring"
@@ -11317,7 +11317,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Carnage-T4.jpg",
+      "img": "en/villains/Carnage-T4.jpg",
       "title": {
         "text": "Symbiote Ambush",
         "locText": "Symbiote Ambush"
@@ -11343,7 +11343,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Carnage-T4.jpg",
+      "img": "en/villains/Carnage-T4.jpg",
       "title": {
         "text": "Symbiote Ambush",
         "locText": "Symbiote Ambush"
@@ -11369,7 +11369,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Carnage-T4.jpg",
+      "img": "en/villains/Carnage-T4.jpg",
       "title": {
         "text": "Symbiote Ambush",
         "locText": "Symbiote Ambush"
@@ -11396,7 +11396,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Carnage-B.jpg",
+    "img": "en/villains/Carnage-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -11406,7 +11406,7 @@
     ]
   },
   "front": {
-    "img": "villains/Carnage-A.jpg",
+    "img": "en/villains/Carnage-A.jpg",
     "specialRules": {
       "text": "Whenever a Hero is KO'd, increase the Spawn track by 1.",
       "locText": "Whenever a Hero is KO'd, increase the Spawn track by 1."
@@ -11446,7 +11446,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP01.jpg",
+      "img": "en/villains/Corvus-Glaive-MP01.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11465,7 +11465,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP02.jpg",
+      "img": "en/villains/Corvus-Glaive-MP02.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11484,7 +11484,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP03.jpg",
+      "img": "en/villains/Corvus-Glaive-MP03.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11503,7 +11503,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP04.jpg",
+      "img": "en/villains/Corvus-Glaive-MP04.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11522,7 +11522,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP05.jpg",
+      "img": "en/villains/Corvus-Glaive-MP05.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11541,7 +11541,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP06.jpg",
+      "img": "en/villains/Corvus-Glaive-MP06.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11560,7 +11560,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP07.jpg",
+      "img": "en/villains/Corvus-Glaive-MP07.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11579,7 +11579,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP08.jpg",
+      "img": "en/villains/Corvus-Glaive-MP08.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11598,7 +11598,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP09.jpg",
+      "img": "en/villains/Corvus-Glaive-MP09.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11637,7 +11637,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP09.jpg",
+      "img": "en/villains/Corvus-Glaive-MP09.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11676,7 +11676,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP11.jpg",
+      "img": "en/villains/Corvus-Glaive-MP11.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11715,7 +11715,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Corvus-Glaive-MP11.jpg",
+      "img": "en/villains/Corvus-Glaive-MP11.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -11754,7 +11754,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Corvus-Glaive-T1.jpg",
+      "img": "en/villains/Corvus-Glaive-T1.jpg",
       "title": {
         "text": "CIVILIANs In Peril",
         "locText": "CIVILIANs In Peril"
@@ -11780,7 +11780,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Corvus-Glaive-T1.jpg",
+      "img": "en/villains/Corvus-Glaive-T1.jpg",
       "title": {
         "text": "CIVILIANs In Peril",
         "locText": "CIVILIANs In Peril"
@@ -11806,7 +11806,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Corvus-Glaive-T3.jpg",
+      "img": "en/villains/Corvus-Glaive-T3.jpg",
       "title": {
         "text": "Dangerous Terrain",
         "locText": "Dangerous Terrain"
@@ -11832,7 +11832,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Corvus-Glaive-T3.jpg",
+      "img": "en/villains/Corvus-Glaive-T3.jpg",
       "title": {
         "text": "Dangerous Terrain",
         "locText": "Dangerous Terrain"
@@ -11858,7 +11858,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Corvus-Glaive-T5.jpg",
+      "img": "en/villains/Corvus-Glaive-T5.jpg",
       "title": {
         "text": "Hidden Traps",
         "locText": "Hidden Traps"
@@ -11884,7 +11884,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Corvus-Glaive-T5.jpg",
+      "img": "en/villains/Corvus-Glaive-T5.jpg",
       "title": {
         "text": "Hidden Traps",
         "locText": "Hidden Traps"
@@ -11911,7 +11911,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Corvus-Glaive-B.jpg",
+    "img": "en/villains/Corvus-Glaive-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -11921,7 +11921,7 @@
     ]
   },
   "front": {
-    "img": "villains/Corvus-Glaive-A.jpg",
+    "img": "en/villains/Corvus-Glaive-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, they get a KO token.",
       "locText": "When a Hero is KO'd, they get a KO token."
@@ -11961,7 +11961,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP01.jpg",
+      "img": "en/villains/Dormammu-MP01.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -11980,7 +11980,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP02.jpg",
+      "img": "en/villains/Dormammu-MP02.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -11999,7 +11999,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP03.jpg",
+      "img": "en/villains/Dormammu-MP03.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12018,7 +12018,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP04.jpg",
+      "img": "en/villains/Dormammu-MP04.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12037,7 +12037,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP05.jpg",
+      "img": "en/villains/Dormammu-MP05.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12056,7 +12056,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP06.jpg",
+      "img": "en/villains/Dormammu-MP06.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12075,7 +12075,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP07.jpg",
+      "img": "en/villains/Dormammu-MP07.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12094,7 +12094,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP08.jpg",
+      "img": "en/villains/Dormammu-MP08.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12113,7 +12113,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP09.jpg",
+      "img": "en/villains/Dormammu-MP09.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12152,7 +12152,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP09.jpg",
+      "img": "en/villains/Dormammu-MP09.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12191,7 +12191,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP11.jpg",
+      "img": "en/villains/Dormammu-MP11.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12230,7 +12230,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Dormammu-MP11.jpg",
+      "img": "en/villains/Dormammu-MP11.jpg",
       "title": {
         "text": "Dormammu",
         "locText": "Dormammu"
@@ -12269,7 +12269,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Dormammu-T1.jpg",
+      "img": "en/villains/Dormammu-T1.jpg",
       "title": {
         "text": "Dark Dimension",
         "locText": "Dark Dimension"
@@ -12295,7 +12295,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Dormammu-T1.jpg",
+      "img": "en/villains/Dormammu-T1.jpg",
       "title": {
         "text": "Dark Dimension",
         "locText": "Dark Dimension"
@@ -12321,7 +12321,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Dormammu-T3.jpg",
+      "img": "en/villains/Dormammu-T3.jpg",
       "title": {
         "text": "Banishment",
         "locText": "Banishment"
@@ -12347,7 +12347,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Dormammu-T3.jpg",
+      "img": "en/villains/Dormammu-T3.jpg",
       "title": {
         "text": "Banishment",
         "locText": "Banishment"
@@ -12373,7 +12373,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Dormammu-T5.jpg",
+      "img": "en/villains/Dormammu-T5.jpg",
       "title": {
         "text": "Elemental Control",
         "locText": "Elemental Control"
@@ -12399,7 +12399,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Dormammu-T5.jpg",
+      "img": "en/villains/Dormammu-T5.jpg",
       "title": {
         "text": "Elemental Control",
         "locText": "Elemental Control"
@@ -12426,7 +12426,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Dormammu-B.jpg",
+    "img": "en/villains/Dormammu-B.jpg",
     "specialSetup": {
       "text": "2 Players: Remove 2 random Ritual Master Plan cards. 3 Players: Remove 1 random Ritual Master Plan card. 4 Players: No changes.",
       "locText": "2 Players: Remove 2 random Ritual Master Plan cards. 3 Players: Remove 1 random Ritual Master Plan card. 4 Players: No changes."
@@ -12443,7 +12443,7 @@
     ]
   },
   "front": {
-    "img": "villains/Dormammu-A.jpg",
+    "img": "en/villains/Dormammu-A.jpg",
     "specialRules": {
       "text": "Dormammu can never be damaged. However, he is defeated after his last Master Plan card is resolved. When 2 Missions are completed, remove the top card of the Master Plan deck from the game. When a Hero is KO'd, Dormammu doesn't activate his BAM! Instead, advance the Ritual track by the number oh Heroes.",
       "locText": "Dormammu can never be damaged. However, he is defeated after his last Master Plan card is resolved. When 2 Missions are completed, remove the top card of the Master Plan deck from the game. When a Hero is KO'd, Dormammu doesn't activate his BAM! Instead, advance the Ritual track by the number oh Heroes."
@@ -12483,7 +12483,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP01.jpg",
+      "img": "en/villains/Kang-MP01.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12502,7 +12502,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP02.jpg",
+      "img": "en/villains/Kang-MP02.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12521,7 +12521,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP03.jpg",
+      "img": "en/villains/Kang-MP03.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12540,7 +12540,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP04.jpg",
+      "img": "en/villains/Kang-MP04.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12559,7 +12559,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP05.jpg",
+      "img": "en/villains/Kang-MP05.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12578,7 +12578,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP06.jpg",
+      "img": "en/villains/Kang-MP06.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12597,7 +12597,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP07.jpg",
+      "img": "en/villains/Kang-MP07.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12636,7 +12636,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP07.jpg",
+      "img": "en/villains/Kang-MP07.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12675,7 +12675,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP07.jpg",
+      "img": "en/villains/Kang-MP07.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12714,7 +12714,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP07.jpg",
+      "img": "en/villains/Kang-MP07.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12753,7 +12753,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP07.jpg",
+      "img": "en/villains/Kang-MP07.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12792,7 +12792,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kang-MP07.jpg",
+      "img": "en/villains/Kang-MP07.jpg",
       "title": {
         "text": "Kang",
         "locText": "Kang"
@@ -12831,7 +12831,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kang-T1.jpg",
+      "img": "en/villains/Kang-T1.jpg",
       "title": {
         "text": "Time Paradox",
         "locText": "Time Paradox"
@@ -12857,7 +12857,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kang-T1.jpg",
+      "img": "en/villains/Kang-T1.jpg",
       "title": {
         "text": "Time Paradox",
         "locText": "Time Paradox"
@@ -12883,7 +12883,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kang-T3.jpg",
+      "img": "en/villains/Kang-T3.jpg",
       "title": {
         "text": "Time Hideout",
         "locText": "Time Hideout"
@@ -12909,7 +12909,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kang-T3.jpg",
+      "img": "en/villains/Kang-T3.jpg",
       "title": {
         "text": "Time Hideout",
         "locText": "Time Hideout"
@@ -12935,7 +12935,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kang-T5.jpg",
+      "img": "en/villains/Kang-T5.jpg",
       "title": {
         "text": "Time Army",
         "locText": "Time Army"
@@ -12961,7 +12961,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kang-T5.jpg",
+      "img": "en/villains/Kang-T5.jpg",
       "title": {
         "text": "Time Army",
         "locText": "Time Army"
@@ -12988,12 +12988,12 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Kang-B.jpg",
+    "img": "en/villains/Kang-B.jpg",
     "specialSetup": null,
     "superVillain": null
   },
   "front": {
-    "img": "villains/Kang-A.jpg",
+    "img": "en/villains/Kang-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Kang doesn't activate his BAM! Instead, he plays another Master Plan card.",
       "locText": "When a Hero is KO'd, Kang doesn't activate his BAM! Instead, he plays another Master Plan card."
@@ -13030,7 +13030,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP01.jpg",
+      "img": "en/villains/Kingpin-MP01.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13049,7 +13049,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP02.jpg",
+      "img": "en/villains/Kingpin-MP02.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13068,7 +13068,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP03.jpg",
+      "img": "en/villains/Kingpin-MP03.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13087,7 +13087,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP04.jpg",
+      "img": "en/villains/Kingpin-MP04.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13106,7 +13106,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP05.jpg",
+      "img": "en/villains/Kingpin-MP05.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13125,7 +13125,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP06.jpg",
+      "img": "en/villains/Kingpin-MP06.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13144,7 +13144,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP07.jpg",
+      "img": "en/villains/Kingpin-MP07.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13163,7 +13163,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP08.jpg",
+      "img": "en/villains/Kingpin-MP08.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13182,7 +13182,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP09.jpg",
+      "img": "en/villains/Kingpin-MP09.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13201,7 +13201,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP10.jpg",
+      "img": "en/villains/Kingpin-MP10.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13220,7 +13220,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP11.jpg",
+      "img": "en/villains/Kingpin-MP11.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13239,7 +13239,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Kingpin-MP12.jpg",
+      "img": "en/villains/Kingpin-MP12.jpg",
       "title": {
         "text": "Kingpin",
         "locText": "Kingpin"
@@ -13278,7 +13278,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kingpin-T1.jpg",
+      "img": "en/villains/Kingpin-T1.jpg",
       "title": {
         "text": "Bullseye ",
         "locText": "Bullseye "
@@ -13304,7 +13304,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kingpin-T2.jpg",
+      "img": "en/villains/Kingpin-T2.jpg",
       "title": {
         "text": "Corrupted Elite THUGs",
         "locText": "Corrupted Elite THUGs"
@@ -13330,7 +13330,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kingpin-T3.jpg",
+      "img": "en/villains/Kingpin-T3.jpg",
       "title": {
         "text": "Connections",
         "locText": "Connections"
@@ -13356,7 +13356,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kingpin-T3.jpg",
+      "img": "en/villains/Kingpin-T3.jpg",
       "title": {
         "text": "Connections",
         "locText": "Connections"
@@ -13382,7 +13382,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kingpin-T5.jpg",
+      "img": "en/villains/Kingpin-T5.jpg",
       "title": {
         "text": "Secrets",
         "locText": "Secrets"
@@ -13408,7 +13408,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Kingpin-T5.jpg",
+      "img": "en/villains/Kingpin-T5.jpg",
       "title": {
         "text": "Secrets",
         "locText": "Secrets"
@@ -13435,7 +13435,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Kingpin-B.jpg",
+    "img": "en/villains/Kingpin-B.jpg",
     "specialSetup": {
       "text": "Shuffle the 6 Plan tokens and place 1 on each Location, with the number facing up.",
       "locText": "Shuffle the 6 Plan tokens and place 1 on each Location, with the number facing up."
@@ -13448,7 +13448,7 @@
     ]
   },
   "front": {
-    "img": "villains/Kingpin-A.jpg",
+    "img": "en/villains/Kingpin-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Kingpin doesn't activate his BAM! Instead, he plays another Master Plan card.",
       "locText": "When a Hero is KO'd, Kingpin doesn't activate his BAM! Instead, he plays another Master Plan card."
@@ -13488,7 +13488,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP01.jpg",
+      "img": "en/villains/Modok-MP01.jpg",
       "title": {
         "text": "M.O.D.O.K.",
         "locText": "M.O.D.O.K."
@@ -13527,7 +13527,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP02.jpg",
+      "img": "en/villains/Modok-MP02.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13546,7 +13546,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP03.jpg",
+      "img": "en/villains/Modok-MP03.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13565,7 +13565,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP04.jpg",
+      "img": "en/villains/Modok-MP04.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13584,7 +13584,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP05.jpg",
+      "img": "en/villains/Modok-MP05.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13603,7 +13603,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP06.jpg",
+      "img": "en/villains/Modok-MP06.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13622,7 +13622,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP07.jpg",
+      "img": "en/villains/Modok-MP07.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13641,7 +13641,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP08.jpg",
+      "img": "en/villains/Modok-MP08.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13660,7 +13660,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP09.jpg",
+      "img": "en/villains/Modok-MP09.jpg",
       "title": {
         "text": "Modok",
         "locText": "Modok"
@@ -13679,7 +13679,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP10.jpg",
+      "img": "en/villains/Modok-MP10.jpg",
       "title": {
         "text": "M.O.D.O.K.",
         "locText": "M.O.D.O.K."
@@ -13718,7 +13718,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP11.jpg",
+      "img": "en/villains/Modok-MP11.jpg",
       "title": {
         "text": "M.O.D.O.K.",
         "locText": "M.O.D.O.K."
@@ -13757,7 +13757,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Modok-MP11.jpg",
+      "img": "en/villains/Modok-MP11.jpg",
       "title": {
         "text": "M.O.D.O.K.",
         "locText": "M.O.D.O.K."
@@ -13796,7 +13796,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Modok-T1.jpg",
+      "img": "en/villains/Modok-T1.jpg",
       "title": {
         "text": "PSIONIC POWERS",
         "locText": "PSIONIC POWERS"
@@ -13822,7 +13822,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Modok-T2.jpg",
+      "img": "en/villains/Modok-T2.jpg",
       "title": {
         "text": "TECHNOPATHY",
         "locText": "TECHNOPATHY"
@@ -13848,7 +13848,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Modok-T3.jpg",
+      "img": "en/villains/Modok-T3.jpg",
       "title": {
         "text": "ENERGY PROJECTION",
         "locText": "ENERGY PROJECTION"
@@ -13874,7 +13874,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Modok-T4.jpg",
+      "img": "en/villains/Modok-T4.jpg",
       "title": {
         "text": "CHAMELEON",
         "locText": "CHAMELEON"
@@ -13900,7 +13900,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Modok-T5.jpg",
+      "img": "en/villains/Modok-T5.jpg",
       "title": {
         "text": "SPOT",
         "locText": "SPOT"
@@ -13926,7 +13926,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Modok-T6.jpg",
+      "img": "en/villains/Modok-T6.jpg",
       "title": {
         "text": "LIVING LASER",
         "locText": "LIVING LASER"
@@ -13953,7 +13953,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/MODOK-B.jpg",
+    "img": "en/villains/MODOK-B.jpg",
     "specialSetup": {
       "text": "Set aside the Preparation Master Plan card and place it on top of the deck after shuffling it.",
       "locText": "Set aside the Preparation Master Plan card and place it on top of the deck after shuffling it."
@@ -13966,7 +13966,7 @@
     ]
   },
   "front": {
-    "img": "villains/MODOK-A.jpg",
+    "img": "en/villains/MODOK-A.jpg",
     "specialRules": {
       "text": "When M.O.D.O.K. has to flip a Hero card, take the faceup Hero card closest to the start of the Storyline and flip it facedown. (Facedown cards are treated as blank).",
       "locText": "When M.O.D.O.K. has to flip a Hero card, take the faceup Hero card closest to the start of the Storyline and flip it facedown. (Facedown cards are treated as blank)."
@@ -14006,7 +14006,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP01.jpg",
+      "img": "en/villains/Rhino-MP01.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14025,7 +14025,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP02.jpg",
+      "img": "en/villains/Rhino-MP02.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14044,7 +14044,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP03.jpg",
+      "img": "en/villains/Rhino-MP03.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14063,7 +14063,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP04.jpg",
+      "img": "en/villains/Rhino-MP04.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14082,7 +14082,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP05.jpg",
+      "img": "en/villains/Rhino-MP05.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14101,7 +14101,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP06.jpg",
+      "img": "en/villains/Rhino-MP06.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14120,7 +14120,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP07.jpg",
+      "img": "en/villains/Rhino-MP07.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14139,7 +14139,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP08.jpg",
+      "img": "en/villains/Rhino-MP08.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14158,7 +14158,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP09.jpg",
+      "img": "en/villains/Rhino-MP09.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14177,7 +14177,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP10.jpg",
+      "img": "en/villains/Rhino-MP10.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14196,7 +14196,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP11.jpg",
+      "img": "en/villains/Rhino-MP11.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14215,7 +14215,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Rhino-MP12.jpg",
+      "img": "en/villains/Rhino-MP12.jpg",
       "title": {
         "text": "Rhino",
         "locText": "Rhino"
@@ -14254,7 +14254,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Rhino-T1.jpg",
+      "img": "en/villains/Rhino-T1.jpg",
       "title": {
         "text": "OPEN FIELD",
         "locText": "OPEN FIELD"
@@ -14280,7 +14280,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Rhino-T1.jpg",
+      "img": "en/villains/Rhino-T1.jpg",
       "title": {
         "text": "OPEN FIELD",
         "locText": "OPEN FIELD"
@@ -14306,7 +14306,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Rhino-T1.jpg",
+      "img": "en/villains/Rhino-T1.jpg",
       "title": {
         "text": "OPEN FIELD",
         "locText": "OPEN FIELD"
@@ -14332,7 +14332,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Rhino-T4.jpg",
+      "img": "en/villains/Rhino-T4.jpg",
       "title": {
         "text": "NO COVER",
         "locText": "NO COVER"
@@ -14358,7 +14358,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Rhino-T4.jpg",
+      "img": "en/villains/Rhino-T4.jpg",
       "title": {
         "text": "NO COVER",
         "locText": "NO COVER"
@@ -14384,7 +14384,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Rhino-T4.jpg",
+      "img": "en/villains/Rhino-T4.jpg",
       "title": {
         "text": "NO COVER",
         "locText": "NO COVER"
@@ -14411,7 +14411,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Rhino-B.jpg",
+    "img": "en/villains/Rhino-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -14421,7 +14421,7 @@
     ]
   },
   "front": {
-    "img": "villains/Rhino-A.jpg",
+    "img": "en/villains/Rhino-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Rhino doesn't activate his BAM! Instead, give that Hero 1 Crisis token. If a hero has any Crisis tokens, they must play their next card facedown in the Storyline. Then, discard all their Crisis tokens.",
       "locText": "When a Hero is KO'd, Rhino doesn't activate his BAM! Instead, give that Hero 1 Crisis token. If a hero has any Crisis tokens, they must play their next card facedown in the Storyline. Then, discard all their Crisis tokens."
@@ -14458,7 +14458,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP01.jpg",
+      "img": "en/villains/Venom-MP01.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14477,7 +14477,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP02.jpg",
+      "img": "en/villains/Venom-MP02.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14496,7 +14496,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP03.jpg",
+      "img": "en/villains/Venom-MP03.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14515,7 +14515,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP04.jpg",
+      "img": "en/villains/Venom-MP04.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14534,7 +14534,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP05.jpg",
+      "img": "en/villains/Venom-MP05.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14553,7 +14553,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP06.jpg",
+      "img": "en/villains/Venom-MP06.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14572,7 +14572,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP07.jpg",
+      "img": "en/villains/Venom-MP07.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14591,7 +14591,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP08.jpg",
+      "img": "en/villains/Venom-MP08.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14610,7 +14610,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP09.jpg",
+      "img": "en/villains/Venom-MP09.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14649,7 +14649,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP09.jpg",
+      "img": "en/villains/Venom-MP09.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14688,7 +14688,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP09.jpg",
+      "img": "en/villains/Venom-MP09.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14727,7 +14727,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Venom-MP09.jpg",
+      "img": "en/villains/Venom-MP09.jpg",
       "title": {
         "text": "Venom",
         "locText": "Venom"
@@ -14766,7 +14766,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Venom-T1.jpg",
+      "img": "en/villains/Venom-T1.jpg",
       "title": {
         "text": "Infect",
         "locText": "Infect"
@@ -14792,7 +14792,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Venom-T1.jpg",
+      "img": "en/villains/Venom-T1.jpg",
       "title": {
         "text": "Infect",
         "locText": "Infect"
@@ -14818,7 +14818,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Venom-T3.jpg",
+      "img": "en/villains/Venom-T3.jpg",
       "title": {
         "text": "Organic fangs",
         "locText": "Organic fangs"
@@ -14844,7 +14844,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Venom-T3.jpg",
+      "img": "en/villains/Venom-T3.jpg",
       "title": {
         "text": "Organic fangs",
         "locText": "Organic fangs"
@@ -14870,7 +14870,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Venom-T5.jpg",
+      "img": "en/villains/Venom-T5.jpg",
       "title": {
         "text": "Shapeshifting",
         "locText": "Shapeshifting"
@@ -14896,7 +14896,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Venom-T5.jpg",
+      "img": "en/villains/Venom-T5.jpg",
       "title": {
         "text": "Shapeshifting",
         "locText": "Shapeshifting"
@@ -14923,7 +14923,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Venom-B.jpg",
+    "img": "en/villains/Venom-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "H",
@@ -14931,7 +14931,7 @@
     ]
   },
   "front": {
-    "img": "villains/Venom-A.jpg",
+    "img": "en/villains/Venom-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Venom doesn't activate his BAM! Instead, he plays another Master Plan card.",
       "locText": "When a Hero is KO'd, Venom doesn't activate his BAM! Instead, he plays another Master Plan card."

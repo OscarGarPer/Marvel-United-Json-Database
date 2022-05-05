@@ -5,11 +5,11 @@
     "text": "The Infinity Gauntlet",
     "locText": "The Infinity Gauntlet"
   },
-  "rulebook": null,
+  "rulebook": "https://cmon-files.s3.amazonaws.com/pdf/assets_item/resource/202/Marvel_United_Rulebook.pdf",
   "tokens": null,
   "locations": [
     {
-      "img": "locations/hala.jpg",
+      "img": "en/locations/hala.jpg",
       "title": {
         "text": "Hala",
         "locText": "Hala"
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "img": "locations/nidavellir.jpg",
+      "img": "en/locations/nidavellir.jpg",
       "title": {
         "text": "Nidavellir",
         "locText": "Nidavellir"
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "img": "locations/sanctum-sanctorum.jpg",
+      "img": "en/locations/sanctum-sanctorum.jpg",
       "title": {
         "text": "Sanctum Sanctorum",
         "locText": "Sanctum Sanctorum"
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "img": "locations/asgard.jpg",
+      "img": "en/locations/asgard.jpg",
       "title": {
         "text": "Asgard",
         "locText": "Asgard"
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "img": "locations/vormir.jpg",
+      "img": "en/locations/vormir.jpg",
       "title": {
         "text": "Vormir",
         "locText": "Vormir"
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "img": "locations/new-york.jpg",
+      "img": "en/locations/new-york.jpg",
       "title": {
         "text": "New York",
         "locText": "New York"
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "img": "locations/thanos-wakanda-fields.jpg",
+      "img": "en/locations/thanos-wakanda-fields.jpg",
       "title": {
         "text": "Wakanda Fields - Thanos",
         "locText": "Wakanda Fields - Thanos"
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "img": "locations/thanos-sanctuary.jpg",
+      "img": "en/locations/thanos-sanctuary.jpg",
       "title": {
         "text": "Sanctuary - Thanos",
         "locText": "Sanctuary - Thanos"
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "img": "locations/thanos-thanos-palace.jpg",
+      "img": "en/locations/thanos-thanos-palace.jpg",
       "title": {
         "text": "Thanos' Palace - Thanos",
         "locText": "Thanos' Palace - Thanos"
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "img": "locations/thanos-quantum-tunnel.jpg",
+      "img": "en/locations/thanos-quantum-tunnel.jpg",
       "title": {
         "text": "Quantum Tunnel - Thanos",
         "locText": "Quantum Tunnel - Thanos"
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "img": "locations/thanos-titan.jpg",
+      "img": "en/locations/thanos-titan.jpg",
       "title": {
         "text": "Titan - Thanos",
         "locText": "Titan - Thanos"
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "img": "locations/thanos-avengers-mansion.jpg",
+      "img": "en/locations/thanos-avengers-mansion.jpg",
       "title": {
         "text": "Avengers Mansion - Thanos",
         "locText": "Avengers Mansion - Thanos"
@@ -251,7 +251,7 @@
 "cards": null,
 "characters": [
   {
-    "img": "villains/Black-Dwarf.jpg",
+    "img": "en/villains/Black-Dwarf.jpg",
     "loyalty": "villain",
     "name": {
       "text": "Black Dwarf",
@@ -268,7 +268,7 @@
     "cards": [
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP01.jpg",
+        "img": "en/villains/Black-Dwarf-MP01.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -287,7 +287,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP02.jpg",
+        "img": "en/villains/Black-Dwarf-MP02.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -306,7 +306,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP03.jpg",
+        "img": "en/villains/Black-Dwarf-MP03.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -325,7 +325,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP04.jpg",
+        "img": "en/villains/Black-Dwarf-MP04.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -344,7 +344,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP05.jpg",
+        "img": "en/villains/Black-Dwarf-MP05.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -363,7 +363,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP06.jpg",
+        "img": "en/villains/Black-Dwarf-MP06.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -382,7 +382,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP07.jpg",
+        "img": "en/villains/Black-Dwarf-MP07.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -401,7 +401,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP08.jpg",
+        "img": "en/villains/Black-Dwarf-MP08.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -420,7 +420,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP09.jpg",
+        "img": "en/villains/Black-Dwarf-MP09.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -459,7 +459,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP09.jpg",
+        "img": "en/villains/Black-Dwarf-MP09.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -498,7 +498,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP11.jpg",
+        "img": "en/villains/Black-Dwarf-MP11.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -537,7 +537,7 @@
       },
       {
         "cardType": "plan",
-        "img": "villains/Black-Dwarf-MP11.jpg",
+        "img": "en/villains/Black-Dwarf-MP11.jpg",
         "title": {
           "text": "Black Dwarf",
           "locText": "Black Dwarf"
@@ -576,7 +576,7 @@
       },
       {
         "cardType": "threat",
-        "img": "villains/Black-Dwarf-T1.jpg",
+        "img": "en/villains/Black-Dwarf-T1.jpg",
         "title": {
           "text": "Super Tough",
           "locText": "Super Tough"
@@ -602,7 +602,7 @@
       },
       {
         "cardType": "threat",
-        "img": "villains/Black-Dwarf-T1.jpg",
+        "img": "en/villains/Black-Dwarf-T1.jpg",
         "title": {
           "text": "Super Tough",
           "locText": "Super Tough"
@@ -628,7 +628,7 @@
       },
       {
         "cardType": "threat",
-        "img": "villains/Black-Dwarf-T3.jpg",
+        "img": "en/villains/Black-Dwarf-T3.jpg",
         "title": {
           "text": "Chain Hammer",
           "locText": "Chain Hammer"
@@ -654,7 +654,7 @@
       },
       {
         "cardType": "threat",
-        "img": "villains/Black-Dwarf-T3.jpg",
+        "img": "en/villains/Black-Dwarf-T3.jpg",
         "title": {
           "text": "Chain Hammer",
           "locText": "Chain Hammer"
@@ -680,7 +680,7 @@
       },
       {
         "cardType": "threat",
-        "img": "villains/Black-Dwarf-T5.jpg",
+        "img": "en/villains/Black-Dwarf-T5.jpg",
         "title": {
           "text": "Charge",
           "locText": "Charge"
@@ -706,7 +706,7 @@
       },
       {
         "cardType": "threat",
-        "img": "villains/Black-Dwarf-T5.jpg",
+        "img": "en/villains/Black-Dwarf-T5.jpg",
         "title": {
           "text": "Charge",
           "locText": "Charge"
@@ -733,7 +733,7 @@
     ],
 "dashboard": {
   "back": {
-    "img": "villains/Black-Dwarf-B.jpg",
+    "img": "en/villains/Black-Dwarf-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -743,7 +743,7 @@
     ]
   },
   "front": {
-    "img": "villains/Black-Dwarf-A.jpg",
+    "img": "en/villains/Black-Dwarf-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Black Dwarf doesn't activate his BAM! Instead, he plays another Master Plan card.",
       "locText": "When a Hero is KO'd, Black Dwarf doesn't activate his BAM! Instead, he plays another Master Plan card."
@@ -780,7 +780,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP01.jpg",
+      "img": "en/villains/Ebony-Maw-MP01.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -799,7 +799,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP02.jpg",
+      "img": "en/villains/Ebony-Maw-MP02.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -818,7 +818,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP03.jpg",
+      "img": "en/villains/Ebony-Maw-MP03.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -837,7 +837,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP04.jpg",
+      "img": "en/villains/Ebony-Maw-MP04.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -856,7 +856,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP05.jpg",
+      "img": "en/villains/Ebony-Maw-MP05.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -875,7 +875,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP06.jpg",
+      "img": "en/villains/Ebony-Maw-MP06.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -894,7 +894,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP07.jpg",
+      "img": "en/villains/Ebony-Maw-MP07.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -913,7 +913,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP08.jpg",
+      "img": "en/villains/Ebony-Maw-MP08.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -932,7 +932,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP09.jpg",
+      "img": "en/villains/Ebony-Maw-MP09.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -971,7 +971,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP09.jpg",
+      "img": "en/villains/Ebony-Maw-MP09.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -1010,7 +1010,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP11.jpg",
+      "img": "en/villains/Ebony-Maw-MP11.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -1049,7 +1049,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Ebony-Maw-MP11.jpg",
+      "img": "en/villains/Ebony-Maw-MP11.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -1088,7 +1088,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ebony-Maw-T1.jpg",
+      "img": "en/villains/Ebony-Maw-T1.jpg",
       "title": {
         "text": "Persuasion",
         "locText": "Persuasion"
@@ -1114,7 +1114,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ebony-Maw-T1.jpg",
+      "img": "en/villains/Ebony-Maw-T1.jpg",
       "title": {
         "text": "Persuasion",
         "locText": "Persuasion"
@@ -1140,7 +1140,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ebony-Maw-T3.jpg",
+      "img": "en/villains/Ebony-Maw-T3.jpg",
       "title": {
         "text": "Telekinesis",
         "locText": "Telekinesis"
@@ -1166,7 +1166,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ebony-Maw-T3.jpg",
+      "img": "en/villains/Ebony-Maw-T3.jpg",
       "title": {
         "text": "Telekinesis",
         "locText": "Telekinesis"
@@ -1192,7 +1192,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ebony-Maw-T5.jpg",
+      "img": "en/villains/Ebony-Maw-T5.jpg",
       "title": {
         "text": "Debilitating Torture",
         "locText": "Debilitating Torture"
@@ -1218,7 +1218,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Ebony-Maw-T5.jpg",
+      "img": "en/villains/Ebony-Maw-T5.jpg",
       "title": {
         "text": "Debilitating Torture",
         "locText": "Debilitating Torture"
@@ -1245,7 +1245,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Ebony-Maw-B.jpg",
+    "img": "en/villains/Ebony-Maw-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "W",
@@ -1255,7 +1255,7 @@
     ]
   },
   "front": {
-    "img": "villains/Ebony-Maw-A.jpg",
+    "img": "en/villains/Ebony-Maw-A.jpg",
     "specialRules": {
       "text": "Heroes with any Crisis tokens must play their Hero card randomly on their turn. Then, they discard 1 Crisis token.",
       "locText": "Heroes with any Crisis tokens must play their Hero card randomly on their turn. Then, they discard 1 Crisis token."
@@ -1292,7 +1292,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP01.jpg",
+      "img": "en/villains/Proxima-Midnight-MP01.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1311,7 +1311,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP02.jpg",
+      "img": "en/villains/Proxima-Midnight-MP02.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1330,7 +1330,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP03.jpg",
+      "img": "en/villains/Proxima-Midnight-MP03.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1349,7 +1349,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP04.jpg",
+      "img": "en/villains/Proxima-Midnight-MP04.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1368,7 +1368,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP05.jpg",
+      "img": "en/villains/Proxima-Midnight-MP05.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1387,7 +1387,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP06.jpg",
+      "img": "en/villains/Proxima-Midnight-MP06.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1406,7 +1406,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP07.jpg",
+      "img": "en/villains/Proxima-Midnight-MP07.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1425,7 +1425,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP08.jpg",
+      "img": "en/villains/Proxima-Midnight-MP08.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1444,7 +1444,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP09.jpg",
+      "img": "en/villains/Proxima-Midnight-MP09.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1483,7 +1483,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP09.jpg",
+      "img": "en/villains/Proxima-Midnight-MP09.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1522,7 +1522,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP11.jpg",
+      "img": "en/villains/Proxima-Midnight-MP11.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1561,7 +1561,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Proxima-Midnight-MP11.jpg",
+      "img": "en/villains/Proxima-Midnight-MP11.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -1600,7 +1600,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Proxima-Midnight-T1.jpg",
+      "img": "en/villains/Proxima-Midnight-T1.jpg",
       "title": {
         "text": "PRISONER CAMP",
         "locText": "PRISONER CAMP"
@@ -1626,7 +1626,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Proxima-Midnight-T1.jpg",
+      "img": "en/villains/Proxima-Midnight-T1.jpg",
       "title": {
         "text": "PRISONER CAMP",
         "locText": "PRISONER CAMP"
@@ -1652,7 +1652,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Proxima-Midnight-T3.jpg",
+      "img": "en/villains/Proxima-Midnight-T3.jpg",
       "title": {
         "text": "MASTERFUL FIGHTER",
         "locText": "MASTERFUL FIGHTER"
@@ -1678,7 +1678,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Proxima-Midnight-T3.jpg",
+      "img": "en/villains/Proxima-Midnight-T3.jpg",
       "title": {
         "text": "MASTERFUL FIGHTER",
         "locText": "MASTERFUL FIGHTER"
@@ -1704,7 +1704,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Proxima-Midnight-T5.jpg",
+      "img": "en/villains/Proxima-Midnight-T5.jpg",
       "title": {
         "text": "TACTICAL SUPPORT",
         "locText": "TACTICAL SUPPORT"
@@ -1730,7 +1730,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Proxima-Midnight-T5.jpg",
+      "img": "en/villains/Proxima-Midnight-T5.jpg",
       "title": {
         "text": "TACTICAL SUPPORT",
         "locText": "TACTICAL SUPPORT"
@@ -1757,7 +1757,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Proxima-Midnight-B.jpg",
+    "img": "en/villains/Proxima-Midnight-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -1767,7 +1767,7 @@
     ]
   },
   "front": {
-    "img": "villains/Proxima-Midnight-A.jpg",
+    "img": "en/villains/Proxima-Midnight-A.jpg",
     "specialRules": null,
     "overflow": {
       "text": "If 1 or more THUG tokens can't be added to a Location, deal 1 damage to each Hero in Proxima Midnight's Location.  If a CIVILIAN token can't be added to a Location, increase the Slaughter Track by 1 for each CIVILIAN token you couldn't add.",
@@ -1804,7 +1804,7 @@
   "cards": [
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP01.jpg",
+      "img": "en/villains/Thanos-MP01.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1823,7 +1823,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP02.jpg",
+      "img": "en/villains/Thanos-MP02.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1842,7 +1842,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP03.jpg",
+      "img": "en/villains/Thanos-MP03.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1861,7 +1861,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP04.jpg",
+      "img": "en/villains/Thanos-MP04.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1880,7 +1880,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP05.jpg",
+      "img": "en/villains/Thanos-MP05.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1899,7 +1899,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP06.jpg",
+      "img": "en/villains/Thanos-MP06.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1918,7 +1918,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP07.jpg",
+      "img": "en/villains/Thanos-MP07.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1937,7 +1937,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP08.jpg",
+      "img": "en/villains/Thanos-MP08.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1956,7 +1956,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP09.jpg",
+      "img": "en/villains/Thanos-MP09.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -1995,7 +1995,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP10.jpg",
+      "img": "en/villains/Thanos-MP10.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -2034,7 +2034,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP11.jpg",
+      "img": "en/villains/Thanos-MP11.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -2073,7 +2073,7 @@
     },
     {
       "cardType": "plan",
-      "img": "villains/Thanos-MP12.jpg",
+      "img": "en/villains/Thanos-MP12.jpg",
       "title": {
         "text": "Thanos",
         "locText": "Thanos"
@@ -2112,7 +2112,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Thanos-T1.jpg",
+      "img": "en/villains/Thanos-T1.jpg",
       "title": {
         "text": "Corvus Glaive",
         "locText": "Corvus Glaive"
@@ -2138,7 +2138,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Thanos-T2.jpg",
+      "img": "en/villains/Thanos-T2.jpg",
       "title": {
         "text": "Ebony Maw",
         "locText": "Ebony Maw"
@@ -2164,7 +2164,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Thanos-T3.jpg",
+      "img": "en/villains/Thanos-T3.jpg",
       "title": {
         "text": "Black Dwarf",
         "locText": "Black Dwarf"
@@ -2190,7 +2190,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Thanos-T4.jpg",
+      "img": "en/villains/Thanos-T4.jpg",
       "title": {
         "text": "Proxima Midnight",
         "locText": "Proxima Midnight"
@@ -2216,7 +2216,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Thanos-T5.jpg",
+      "img": "en/villains/Thanos-T5.jpg",
       "title": {
         "text": "Chitauri",
         "locText": "Chitauri"
@@ -2242,7 +2242,7 @@
     },
     {
       "cardType": "threat",
-      "img": "villains/Thanos-T5.jpg",
+      "img": "en/villains/Thanos-T5.jpg",
       "title": {
         "text": "Chitauri",
         "locText": "Chitauri"
@@ -2268,7 +2268,7 @@
     },
     {
       "cardType": "gem",
-      "img": "cards/Infinity-Gauntlet-Stone-01.jpg",
+      "img": "en/cards/Infinity-Gauntlet-Stone-01.jpg",
       "title": {
         "text": "SPACE STONE",
         "locText": "SPACE STONE"
@@ -2297,7 +2297,7 @@
     },
     {
       "cardType": "gem",
-      "img": "cards/Infinity-Gauntlet-Stone-02.jpg",
+      "img": "en/cards/Infinity-Gauntlet-Stone-02.jpg",
       "title": {
         "text": "MIND STONE",
         "locText": "MIND STONE"
@@ -2326,7 +2326,7 @@
     },
     {
       "cardType": "gem",
-      "img": "cards/Infinity-Gauntlet-Stone-03.jpg",
+      "img": "en/cards/Infinity-Gauntlet-Stone-03.jpg",
       "title": {
         "text": "SOUL STONE",
         "locText": "SOUL STONE"
@@ -2355,7 +2355,7 @@
     },
     {
       "cardType": "gem",
-      "img": "cards/Infinity-Gauntlet-Stone-04.jpg",
+      "img": "en/cards/Infinity-Gauntlet-Stone-04.jpg",
       "title": {
         "text": "POWER STONE",
         "locText": "POWER STONE"
@@ -2384,7 +2384,7 @@
     },
     {
       "cardType": "gem",
-      "img": "cards/Infinity-Gauntlet-Stone-05.jpg",
+      "img": "en/cards/Infinity-Gauntlet-Stone-05.jpg",
       "title": {
         "text": "REALITY STONE",
         "locText": "REALITY STONE"
@@ -2413,7 +2413,7 @@
     },
     {
       "cardType": "gem",
-      "img": "cards/Infinity-Gauntlet-Stone-06.jpg",
+      "img": "en/cards/Infinity-Gauntlet-Stone-06.jpg",
       "title": {
         "text": "TIME STONE",
         "locText": "TIME STONE"
@@ -2443,7 +2443,7 @@
   ],
 "dashboard": {
   "back": {
-    "img": "villains/Thanos-B.jpg",
+    "img": "en/villains/Thanos-B.jpg",
     "specialSetup": null,
     "superVillain": [
       "M",
@@ -2459,7 +2459,7 @@
     }
   },
   "front": {
-    "img": "villains/Thanos-A.jpg",
+    "img": "en/villains/Thanos-A.jpg",
     "specialRules": {
       "text": "When a Hero is KO'd, Thanos doesn't activate his BAM! Instead, that Hero is eliminated from the game and replaced by a new Hero.",
       "locText": "When a Hero is KO'd, Thanos doesn't activate his BAM! Instead, that Hero is eliminated from the game and replaced by a new Hero."
