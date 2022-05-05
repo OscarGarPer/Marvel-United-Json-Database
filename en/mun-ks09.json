@@ -1,0 +1,316 @@
+{
+  "boxId": "MUN-KS09",
+  "img": "heroes/Yondu.jpg",
+  "name": {
+    "text": "Yondu",
+    "locText": "Yondu"
+  },
+  "characters": [
+    {
+      "img": "heroes/Yondu.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Yondu",
+        "locText": "Yondu"
+      },
+      "realName": {
+        "text": "Yondu Udonta",
+        "locText": "Yondu Udonta"
+      },
+      "bio": {
+        "text": "Yondu Udonta acts as leader of the Ravagers, a ruthless army of unscrupulous space pirates and mercenaries.Long ago he was hired to capture the young Earthling Peter Quill, a.k.a. Star-Lord, through a last-minute change of heart, caused Yondu to betray his employer and bring Quill into the fold as one of his own, serving almost as a surrogate father. Though he occasionally shows faint glimmers of compassion, Yondu's greed more often causes him to betray even his closest allies any time the promise of some quick credits is involved.",
+        "locText": "Yondu Udonta acts as leader of the Ravagers, a ruthless army of unscrupulous space pirates and mercenaries.Long ago he was hired to capture the young Earthling Peter Quill, a.k.a. Star-Lord, through a last-minute change of heart, caused Yondu to betray his employer and bring Quill into the fold as one of his own, serving almost as a surrogate father. Though he occasionally shows faint glimmers of compassion, Yondu's greed more often causes him to betray even his closest allies any time the promise of some quick credits is involved."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu01.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu02.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu03.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu04.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu05.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu06.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu07.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu08.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu09.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu10.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "YAKA ARROW WHIRLWIND",
+              "locText": "YAKA ARROW WHIRLWIND"
+            },
+            "description": {
+              "text": "Starting from your Location and going clockwise, defeat 1 THUG in each Location. Only stop when there are no THUG in the next Location.",
+              "locText": "Starting from your Location and going clockwise, defeat 1 THUG in each Location. Only stop when there are no THUG in the next Location."
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu11.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "YAKA ARROW FLURRY",
+              "locText": "YAKA ARROW FLURRY"
+            },
+            "description": {
+              "text": "Deal ATTACK ATTACK ATTACK split as you like in your and adjacent Locations.",
+              "locText": "Deal ATTACK ATTACK ATTACK split as you like in your and adjacent Locations."
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Yondu12.jpg",
+          "title": {
+            "text": "Yondu",
+            "locText": "Yondu"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "TURNCOAT",
+              "locText": "TURNCOAT"
+            },
+            "description": {
+              "text": "You may turn each CIVILIAN into a THUG and each THUG into a CIVILIAN in your Location.",
+              "locText": "You may turn each CIVILIAN into a THUG and each THUG into a CIVILIAN in your Location."
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+"dashboard": null,
+"tokens": null
+}
+]
+}

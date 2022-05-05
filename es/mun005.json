@@ -1,0 +1,1699 @@
+{
+  "boxId": "MUN005",
+  "img": "mun105.jpg",
+  "name": {
+    "text": "Guardians Of The Galaxy Remix",
+    "locText": "Guardianes De La Galaxia: El Remix"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": null,
+  "locations": [
+    {
+      "img": "locations/the-milano.jpg",
+      "title": {
+        "text": "The Milano",
+        "locText": "La Milano"
+      },
+      "endOfTurn": {
+        "mandatory": null,
+        "effect": {
+          "text": "You may move to any other Location.",
+          "locText": "Puedes moverte a cualquier otro Lugar."
+        }
+      },
+      "slots": [
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/knowhere.jpg",
+      "title": {
+        "text": "Knowhere",
+        "locText": "Knowhere"
+      },
+      "endOfTurn": {
+        "mandatory": null,
+        "effect": {
+          "text": "You may discard 1 Action token to gain 2 Action tokens of your choice between Move, Attack and Heroic.",
+          "locText": "Puedes descartar 1 ficha de Acción para obtener 2 fichas de Acción a elegir entre Mover, Ataque y Heroica"
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/xandar.jpg",
+      "title": {
+        "text": "Xandar",
+        "locText": "Xandar"
+      },
+      "endOfTurn": {
+        "mandatory": null,
+        "effect": {
+          "text": "You may draw cards until you have 3 in your hand.",
+          "locText": "Puedes robar cartas hasta que tengas 3 en tu mano."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/morag.jpg",
+      "title": {
+        "text": "Morag",
+        "locText": "Morag"
+      },
+      "endOfTurn": {
+        "mandatory": null,
+        "effect": {
+          "text": "You may gain 1 Wild token.",
+          "locText": "Puedes obtener una ficha de Comodín"
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/collectors-museum.jpg",
+      "title": {
+        "text": "Collector's Museum",
+        "locText": "Museo Del Coleccionista"
+      },
+      "endOfTurn": {
+        "mandatory": null,
+        "effect": {
+          "text": "You may discard 1 Action token to draw 1 card.",
+          "locText": "Puedes descartar 1 ficha de Acción para robar 1 carta."
+        }
+      },
+      "slots": [
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/kyln.jpg",
+      "title": {
+        "text": "Kyln",
+        "locText": "Kyln"
+      },
+      "endOfTurn": {
+        "mandatory": null,
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to to place 1 token from the pool on any Theat card.",
+          "locText": "Puedes descartar una carta de tu mano a la parte inferior de tu mazo para colocar un token de la reserva en cualquier carta de Amenaza."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "img": "challenges/plan-b.jpg",
+      "title": {
+        "text": "Plan B Challenge",
+        "locText": "Desafío Plan B"
+      },
+      "description": {
+        "text": "SETUP: Replace the 3 base Mission cards with the Plan B Mission cards.\nHeroes can win as usual by defeating the Villain, but they also inmediately win if they complete all 3 Plan B Mission cards.",
+        "locText": "SETUP: Replace the 3 base Mission cards with the Plan B Mission cards.\nHeroes can win as usual by defeating the Villain, but they also inmediately win if they complete all 3 Plan B Mission cards."
+      },
+      "cards": [
+        {
+          "cardType": "challenge",
+          "img": "rescue-plan-b.jpg",
+          "title": null,
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "challenge",
+          "img": "defeat-plan-b.jpg",
+          "title": null,
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "challenge",
+          "img": "clear-plan-b.jpg",
+          "title": null,
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ]
+    }
+  ],
+  "cards": null,
+  "characters": [
+    {
+      "img": "heroes/Groot.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Groot",
+        "locText": "Groot"
+      },
+      "realName": {
+        "text": "Groot",
+        "locText": "Groot"
+      },
+      "bio": {
+        "text": "The last surviving member at a treelike alien race, Groot is perhaps one of the most unusual beings in all the cosmos. Though calm and quiet in most instances, he is known to unleash his tremendous strength on any enemy foolish enough to threaten his allies, particularly his longtime partner in crime, Rocket. Though he can only vocalize using the phrase, 'l am Groot', the gentle giant's friends are nevertheless able to understand his exact meaning through his subtle inflections.",
+        "locText": "El último miembro superviviente de una raza alienígena arbolada, Groot es quizás uno de los seres más inusuales de todo el cosmos. Aunque tranquilo y silencioso en la mayoría de los casos, se sabe que desata su tremenda fuerza sobre cualquier enemigo lo suficientemente tonto como para amenazar a sus aliados, en particular a su antiguo compañero en el crimen, Rocket. Aunque solo puede vocalizar usando la frase, 'Yo soy Groot', los amigos del gentil gigante son capaces de entender su significado exacto a través de sus sutiles inflexiones."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot01.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT!",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero deal ATTACK in your respective Locations.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot01.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT!",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero deal ATTACK in your respective Locations.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot01.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT!",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero deal ATTACK in your respective Locations.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot01.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT!",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero deal ATTACK in your respective Locations.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot05.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT?",
+              "locText": null
+            },
+            "description": {
+              "text": "Move any other Hero to a Location adjacent to them.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot05.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT?",
+              "locText": null
+            },
+            "description": {
+              "text": "Move any other Hero to a Location adjacent to them.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot05.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I AM GROOT?",
+              "locText": null
+            },
+            "description": {
+              "text": "Move any other Hero to a Location adjacent to them.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot08.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "WE ARE GROOT",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero draw 1 card.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot08.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "WE ARE GROOT",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero draw 1 card.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot08.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "WE ARE GROOT",
+              "locText": null
+            },
+            "description": {
+              "text": "You and another Hero draw 1 card.",
+              "locText": "Groot"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot11.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Groot12.jpg",
+          "title": {
+            "text": "Groot",
+            "locText": "Groot"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    },
+    {
+      "img": "heroes/Rocket.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Rocket",
+        "locText": "Rocket"
+      },
+      "realName": {
+        "text": "Rocket Raccoon",
+        "locText": "Rocket Raccoon"
+      },
+      "bio": {
+        "text": "Though he may look like a common Earth raccoon, the temperamental Rocket is in fact a one-of-a-kind genetically produced being, originally created in the planet Halfworld. This diminutive, tough-talking creature is a master pilot, engineer, marksman and weapons specialist. Previously a small-time thief along with his partner Groot, Rocket lends his genius and heavy artillery to the Guardians of the Galaxy, unable to resist the call of adventure (and plunder)!",
+        "locText": "Aunque puede parecer un mapache terrestre común, el temperamental Rocket es de hecho un ser único producido genéticamente, creado originalmente en el planeta Halfworld. Esta criatura diminuta y de hablar duro es un piloto experto, ingeniero, tirador y especialista en armas. Anteriormente un ladrón de poca monta junto con su compañero Groot, Rocket presta su genio y artillería pesada a los Guardianes de la Galaxia, ¡incapaces de resistir la llamada de la aventura (y el saqueo)!"
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket01.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket02.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket03.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket04.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket05.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket06.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket07.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket08.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket09.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket10.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "MASTER TINKERER",
+              "locText": null
+            },
+            "description": {
+              "text": "Gain 1 WILD token OR your Action tokens can be used twice this turn.",
+              "locText": "Rocket Raccoon"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket11.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "MASTER TINKERER",
+              "locText": null
+            },
+            "description": {
+              "text": "Gain 1 WILD token OR your Action tokens can be used twice this turn.",
+              "locText": "Rocket Raccoon"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rocket12.jpg",
+          "title": {
+            "text": "Rocket",
+            "locText": "Rocket"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "RACCON SENSES",
+              "locText": null
+            },
+            "description": {
+              "text": "Gain 1 WILD token OR convert any number of Action tokens you own into WILD tokens.",
+              "locText": "Rocket Raccoon"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    },
+    {
+      "img": "heroes/Star-Lord.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Star-Lord",
+        "locText": "Star-Lord"
+      },
+      "realName": {
+        "text": "Peter Quill",
+        "locText": "Peter Quill"
+      },
+      "bio": {
+        "text": "A headstrong intergalactic adventurer, Peter Quill was taken from his Earthly home at a young age, growing up in outer space alongside the pirate-like Ravagers. As the intrepid Star-Lord, Quill travels the cosmos in his spaceship, the Milano, seeking his fortune. Equipped with a high-tech blaster and a mix-tape of music from his home, Star-Lord leads an unlikely team of interstellar misfits - the Guardians of the Galaxy - in their attempts to do a little good, a little bad, a little of both!!",
+        "locText": "Peter Quill, un aventurero intergaláctico testarudo, fue sacado de su hogar terrenal a una edad temprana, y creció en el espacio exterior junto a los Devastadores piratas. Como el intrépido Star-Lord, Quill viaja por el cosmos en su nave espacial, el Milano, en busca de fortuna. Equipado con un desintegrador de alta tecnología y una mezcla de música de su casa, Star-Lord lidera un equipo poco probable de desajustes interestelares, los Guardianes de la Galaxia, en sus intentos de hacer un poco de bien, un poco de mal, ¡¡un poco de de ambos!!"
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord01.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord02.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord03.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord04.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord05.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord06.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord07.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord08.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord09.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord10.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "PROBLEM SOLVER",
+              "locText": null
+            },
+            "description": {
+              "text": "Give an ATTACK, HEROIC, or MOVE token from the pool to another Hero.",
+              "locText": "Peter Quill"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord10.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "PROBLEM SOLVER",
+              "locText": null
+            },
+            "description": {
+              "text": "Give an ATTACK, HEROIC, or MOVE token from the pool to another Hero.",
+              "locText": "Peter Quill"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Star-Lord10.jpg",
+          "title": {
+            "text": "Star-Lord",
+            "locText": "Star-Lord"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "PROBLEM SOLVER",
+              "locText": null
+            },
+            "description": {
+              "text": "Give an ATTACK, HEROIC, or MOVE token from the pool to another Hero.",
+              "locText": "Peter Quill"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    },
+    {
+      "img": "villains/Ronan.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Ronan",
+        "locText": "Ronan"
+      },
+      "realName": {
+        "text": "Ronan the Accuser",
+        "locText": "Ronan el Acusador"
+      },
+      "bio": {
+        "text": "Raised on the Kree homeworld, Hala, Ronan's fierce devotion and aptitude allowed him to rise in the exalted position of Supreme Accuser of the Kree Empire. However, his overly zealous lust for justice and draconian adherence to ancient traditions caused Ronan to be seen as a fanatic in the eyes of his people, leading him and the more progressive Kree to a divisive split. Setting out with an army of devoted followers, Ronan now seeks to pass judgment on all those he sees as heathens, and scour the galaxy of their presence.",
+        "locText": "Criado en el mundo natal de los Kree, Hala, la feroz devoción y aptitud de Ronan le permitieron ascender en la exaltada posición de Acusador Supremo del Imperio Kree. Sin embargo, su ansia excesivamente celosa por la justicia y su adherencia draconiana a las tradiciones antiguas hicieron que Ronan fuera visto como un fanático a los ojos de su pueblo, lo que lo llevó a él y al más progresista Kree a una división divisoria. Partiendo con un ejército de seguidores devotos, Ronan ahora busca juzgar a todos aquellos que él ve como paganos, y rastrear la galaxia de su presencia."
+      },
+      "cards": [
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP01.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP02.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP03.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP04.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP05.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP06.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP07.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP08.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP09.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "KREE-LAW",
+              "locText": "title"
+            },
+            "description": {
+              "text": "Add THUG to every Location.",
+              "locText": null
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          },
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP10.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "KREE-LAW",
+              "locText": "title"
+            },
+            "description": {
+              "text": "Add THUG to every Location.",
+              "locText": null
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          },
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP11.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "COSMI-ROD",
+              "locText": "title"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Ronan's Location.",
+              "locText": null
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          },
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Ronan-MP12.jpg",
+          "title": {
+            "text": "Ronan",
+            "locText": "Ronan"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "COSMI-ROD",
+              "locText": "title"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Ronan's Location.",
+              "locText": null
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": true,
+          "actions": null,
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          },
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Ronan-T1.jpg",
+          "title": {
+            "text": "KREE ELITE FORCE",
+            "locText": null
+          },
+          "description": {
+            "text": "Each THUG in this Location requires 2 damage to be defeated.",
+            "locText": null
+          },
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": false,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Ronan-T1.jpg",
+          "title": {
+            "text": "KREE ELITE FORCE",
+            "locText": null
+          },
+          "description": {
+            "text": "Each THUG in this Location requires 2 damage to be defeated.",
+            "locText": null
+          },
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": false,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Ronan-T3.jpg",
+          "title": {
+            "text": "JAILBREAK",
+            "locText": null
+          },
+          "description": {
+            "text": "Heroes using MOVE to leave this Location must use MOVE MOVE instead.",
+            "locText": null
+          },
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": false,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Ronan-T3.jpg",
+          "title": {
+            "text": "JAILBREAK",
+            "locText": null
+          },
+          "description": {
+            "text": "Heroes using MOVE to leave this Location must use MOVE MOVE instead.",
+            "locText": null
+          },
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": false,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Ronan-T5.jpg",
+          "title": {
+            "text": "SPACE AMBUSH",
+            "locText": null
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location take 1 damage.",
+            "locText": null
+          },
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": false,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Ronan-T5.jpg",
+          "title": {
+            "text": "SPACE AMBUSH",
+            "locText": null
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location take 1 damage.",
+            "locText": null
+          },
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": false,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": {
+        "back": {
+          "img": "villains/Ronan-B.jpg",
+          "specialSetup": null,
+          "superVillain": [
+            "W",
+            "W",
+            "H",
+            "H"
+          ]
+        },
+        "front": {
+          "img": "villains/Ronan-A.jpg",
+          "specialRules": {
+            "text": "Whenever a Hero is KO'd, they get a KO token.",
+            "locText": null
+          },
+          "overflow": {
+            "text": "If a CIVILIAN or THUG token can't be added to a Location, deal 1 damage to 1 Hero for each token that can't be added (Heroes choose who gets each damage).",
+            "locText": null
+          },
+          "bam": {
+            "text": "Deal 2 damage to 1 Hero in Ronan's Location (Heroes choose).",
+            "locText": null
+          },
+          "plot": {
+            "text": "The Heroes lose when the group has 4 KO tokens.",
+            "locText": null
+          },
+          "lifePoints": null
+        }
+      },
+      "tokens": null
+    }
+  ]
+}
