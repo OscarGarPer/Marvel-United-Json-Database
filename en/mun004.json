@@ -177,7 +177,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "en/heroes/Korg.jpg",
+      "img": "heroes/Korg.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Korg",

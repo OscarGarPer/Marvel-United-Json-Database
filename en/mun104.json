@@ -177,7 +177,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "en/heroes/Beta-Ray-Bill.jpg",
+      "img": "heroes/Beta-Ray-Bill.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Beta Ray Bill",

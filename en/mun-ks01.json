@@ -12,7 +12,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "en/heroes/America-Chavez.jpg",
+      "img": "heroes/America-Chavez.jpg",
       "loyalty": "hero",
       "name": {
         "text": "America Chavez",

@@ -156,7 +156,7 @@
     "cards": null,
     "characters": [
       {
-        "img": "en/heroes/Black-Panther.jpg",
+        "img": "heroes/Black-Panther.jpg",
         "loyalty": "hero",
         "name": {
           "text": "Black Panther",
