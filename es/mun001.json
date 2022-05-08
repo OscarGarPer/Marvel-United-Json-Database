@@ -5,7 +5,7 @@
     "text": "Marvel United",
     "locText": "Marvel United"
   },
-  "rulebook": "https://www.edgeent.com/juegos/download_pdf/mun001es-d01-rulebook.pdf",
+  "rulebook": "rulebooks/mun001es.pdf",
   "tokens": null,
   "locations": [
     {
