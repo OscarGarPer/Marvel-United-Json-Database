@@ -12,7 +12,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "en/villains/Doctor-Octopus.jpg",
+      "img": "villains/Doctor-Octopus.jpg",
       "loyalty": "villain",
       "name": {
         "text": "Doctor Octopus",

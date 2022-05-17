@@ -5,7 +5,7 @@
     "text": "The Infinity Gauntlet",
     "locText": "El Guantelete Del Infinito"
   },
-  "rulebook": null,
+  "rulebook": "rulebooks/mun001es.pdf",
   "tokens": null,
   "locations": [
     {

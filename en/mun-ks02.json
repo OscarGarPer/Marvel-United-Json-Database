@@ -251,7 +251,7 @@
 "cards": null,
 "characters": [
   {
-    "img": "en/villains/Black-Dwarf.jpg",
+    "img": "villains/Black-Dwarf.jpg",
     "loyalty": "villain",
     "name": {
       "text": "Black Dwarf",

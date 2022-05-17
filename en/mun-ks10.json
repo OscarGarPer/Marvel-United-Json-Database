@@ -7,7 +7,7 @@
   },
   "characters": [
     {
-      "img": "en/heroes/Adam-Warlock.jpg",
+      "img": "heroes/Adam-Warlock.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Adam Warlock",

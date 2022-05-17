@@ -7,7 +7,7 @@
   },
   "characters": [
     {
-      "img": "en/heroes/Yondu.jpg",
+      "img": "heroes/Yondu.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Yondu",

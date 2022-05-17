@@ -194,7 +194,7 @@
   "cards": null,
   "characters": [
     {
-      "img": "en/heroes/Groot.jpg",
+      "img": "heroes/Groot.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Groot",

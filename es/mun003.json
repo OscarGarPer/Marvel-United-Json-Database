@@ -2,10 +2,10 @@
   "boxId": "MUN003",
   "img": "mun103.jpg",
   "name": {
-    "text": "Enter The Spider-Verse - KS",
-    "locText": "Entra En El Spider-Verso - KS"
+    "text": "Enter The Spider-Verse",
+    "locText": "Entra En El Spider-Verso"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
+  "rulebook": "rulebooks/mun001es.pdf",
   "tokens": null,
   "locations": [
     {

@@ -5,7 +5,7 @@
     "text": "Marvel United",
     "locText": "Marvel United"
   },
-  "rulebook": "https://www.edgeent.com/juegos/download_pdf/mun001es-d01-rulebook.pdf",
+  "rulebook": "rulebooks/mun001es.pdf",
   "tokens": null,
   "locations": [
     {
@@ -56,7 +56,7 @@
         "mandatory": null,
         "effect": {
           "text": "You may swap 1 card from your hand with 1 of your cards in the Storyline.",
-          "locText": "Puedes intercambiar 1 carta de tu mano con 1 de tus cartas de la Trama."
+          "locText": "Puedes intercambiar 1 carta de tu mano con 1 de tus cartas en la Trama."
         }
       },
       "slots": [

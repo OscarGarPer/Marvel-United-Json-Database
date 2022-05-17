@@ -1595,6 +1595,313 @@
       "tokens": null
     },
     {
+      "img": "heroes/Drax.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Drax The Destroyer",
+        "locText": "Drax El Destructor"
+      },
+      "realName": {
+        "text": "Drax",
+        "locText": "Drax"
+      },
+      "bio": {
+        "text": "Fueled by a personal vendetta against those who cost him his family, the rough-edged warrior called Drax the Destroyer has room in his life for little else besides revenge. To this end, the heavily tattooed Drax has long relied upon his proficiency in battle and his razor-sharp blades to do his talking for him. After making a tentative alliance with the Guardians of the Galaxy, the untamed Drax must learn to put the needs of the universe before his own.",
+        "locText": "Impulsado por una venganza personal contra aquellos que le costaron su familia, el rudo guerrero llamado Drax the Destroyer tiene espacio en su vida para poco más que la venganza. Con este fin, Drax, fuertemente tatuado, ha confiado durante mucho tiempo en su habilidad en la batalla y en sus afiladas hojas para hablar por él. Después de hacer una alianza tentativa con los Guardianes de la Galaxia, el indómito Drax debe aprender a anteponer las necesidades del universo a las suyas."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax01.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax02.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax03.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "M",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax04.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax05.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax06.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax07.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A",
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax08.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax09.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": null,
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "W",
+            "W"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax10.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "REVENGE",
+              "locText": null
+            },
+            "description": {
+              "text": "Move to the next clockwise Location with any enemies and ATTACK there.",
+              "locText": "Drax"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax10.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "REVENGE",
+              "locText": null
+            },
+            "description": {
+              "text": "Move to the next clockwise Location with any enemies and ATTACK there.",
+              "locText": "Drax"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Drax10.jpg",
+          "title": {
+            "text": "Drax The Destroyer",
+            "locText": "Drax El Destructor"
+          },
+          "description": null,
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "REVENGE",
+              "locText": null
+            },
+            "description": {
+              "text": "Move to the next clockwise Location with any enemies and ATTACK there.",
+              "locText": "Drax"
+            }
+          },
+          "movement": null,
+          "movementText": null,
+          "bam": null,
+          "actions": [
+            "A"
+          ],
+          "add": null,
+          "lifePoints": null,
+          "locationEffect": null,
+          "startingHand": null,
+          "bottomDeck": null
+        }
+      ],
+      "dashboard": null,
+      "tokens": null
+    },
+    {
       "img": "heroes/Elektra.jpg",
       "loyalty": "hero",
       "name": {
