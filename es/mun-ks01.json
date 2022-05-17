@@ -13152,7 +13152,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Advance The Plan",
+              "locText": "Avanza El Plan"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -13171,7 +13174,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Advance The Plan",
+              "locText": "Avanza El Plan"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -13190,7 +13196,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Advance The Plan",
+              "locText": "Avanza El Plan"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -13209,7 +13218,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Advance The Plan",
+              "locText": "Avanza El Plan"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -13228,7 +13240,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Advance The Plan",
+              "locText": "Avanza El Plan"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -13248,7 +13263,7 @@
           "specialEffect": {
             "mandatory": null,
             "title": {
-              "text": "Him",
+              "text": null,
               "locText": null
             },
             "description": {
@@ -13257,7 +13272,10 @@
             }
           },
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Advance The Plan",
+              "locText": "Avanza El Plan"
+          },
           "bam": true,
           "actions": null,
           "add": {
@@ -14166,7 +14184,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Rhino Charge",
+              "locText": "Rhino Carga"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -14185,7 +14206,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Rhino Charge",
+              "locText": "Rhino Carga"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -14204,7 +14228,10 @@
           "description": null,
           "specialEffect": null,
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Rhino Charge",
+              "locText": "Rhino Carga"
+          },
           "bam": true,
           "actions": null,
           "add": null,
@@ -14224,7 +14251,7 @@
           "specialEffect": {
             "mandatory": null,
             "title": {
-              "text": "Him",
+              "text": null,
               "locText": null
             },
             "description": {
@@ -14233,7 +14260,10 @@
             }
           },
           "movement": null,
-          "movementText": null,
+          "movementText": {
+              "text": "Rhino Charge",
+              "locText": "Rhino Carga"
+          },
           "bam": true,
           "actions": null,
           "add": {
