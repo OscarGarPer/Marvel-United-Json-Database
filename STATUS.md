@@ -117,7 +117,7 @@
 - Por hacer
 
 ### [mun-ks14 - Los Cuatro Fantásticos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks14.json)
-- Por hacer
+- En progreso. Están añadidos los 4 Fantásticos, Silver Surfer y Dr Doom, falta Súper Skrull y revisar contenidos.
 
 ### [mun-ks15 - Primera Generación](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks15.json)
 - Por hacer
