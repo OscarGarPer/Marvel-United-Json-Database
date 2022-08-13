@@ -609,7 +609,7 @@
 			],
 			"dashboard": {
 				"back": {
-					"img": "villains/Doctor-Doom-Dashboard1.jpg",
+					"img": "villains/Doctor-Doom-B.jpg",
 					"specialSetup": {
 						"text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
 						"locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
@@ -617,7 +617,7 @@
 					"superVillain": ["M", "M", "H", "H", "A", "A"]
 				},
 				"front": {
-					"img": "villains/Doctor-Doom-Dashboard2.jpg",
+					"img": "villains/Doctor-Doom-A.jpg",
 					"specialRules": {
 						"text": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way.",
 						"locText": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way."
