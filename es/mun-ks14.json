@@ -9,7 +9,7 @@
 	"tokens": ["ic-doombot"],
 	"locations": [
 		{
-			"img": "4-yancy-street.jpg",
+			"img": "locations/4-yancy-street.jpg",
 			"title": {
 				"text": "4 YANCY STREET",
 				"locText": "CALLE YANCY, 4"
@@ -23,7 +23,7 @@
 			"slots": ["C", "empty", "empty"]
 		},
 		{
-			"img": "baxter-building.jpg",
+			"img": "locations/baxter-building.jpg",
 			"title": {
 				"text": "BAXTER BUILDING",
 				"locText": "EDIFICIO BAXTER"
@@ -37,7 +37,7 @@
 			"slots": ["C", "C", "empty", "empty"]
 		},
 		{
-			"img": "latveria.jpg",
+			"img": "locations/latveria.jpg",
 			"title": {
 				"text": "LATVERIA",
 				"locText": "LATVERIA"
@@ -52,7 +52,7 @@
 			"slots": ["T", "T", "T", "empty", "empty"]
 		},
 		{
-			"img": "mount-wundagore.jpg",
+			"img": "locations/mount-wundagore.jpg",
 			"title": {
 				"text": "MOUNT WUNDAGORE",
 				"locText": "MONTE WUNDAGORE"
@@ -69,7 +69,7 @@
 	],
 	"challenges": [
 		{
-			"img": "takeover-challenge.jpg",
+			"img": "challenges/takeover-challenge.jpg",
 			"title": {
 				"text": "Takeover Challenge",
 				"locText": "Desafío Toma de Control"
@@ -93,7 +93,7 @@
 	"cards": [],
 	"characters": [
 		{
-			"img": "doctor-doom.jpg",
+			"img": "villains/doctor-doom.jpg",
 			"loyalty": "anti-hero",
 			"name": {
 				"text": "DOCTOR DOOM",
@@ -110,7 +110,7 @@
 			"cards": [
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom1.jpg",
+					"img": "heroes/Doctor-Doom1.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -132,7 +132,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom2.jpg",
+					"img": "heroes/Doctor-Doom2.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -141,7 +141,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom3.jpg",
+					"img": "heroes/Doctor-Doom3.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -150,7 +150,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom4.jpg",
+					"img": "heroes/Doctor-Doom4.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -159,7 +159,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom5.jpg",
+					"img": "heroes/Doctor-Doom5.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -168,7 +168,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom6.jpg",
+					"img": "heroes/Doctor-Doom6.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -177,7 +177,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom6.jpg",
+					"img": "heroes/Doctor-Doom6.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -186,7 +186,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom6.jpg",
+					"img": "heroes/Doctor-Doom6.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -195,7 +195,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom9.jpg",
+					"img": "heroes/Doctor-Doom9.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -204,7 +204,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom10.jpg",
+					"img": "heroes/Doctor-Doom10.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -224,7 +224,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom10.jpg",
+					"img": "heroes/Doctor-Doom10.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -244,7 +244,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Doctor-Doom10.jpg",
+					"img": "heroes/Doctor-Doom10.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -264,7 +264,7 @@
 				},
 				{
 					"cardType": "threat",
-					"img": "Doctor-Doom-T2.jpg",
+					"img": "villains/Doctor-Doom-T2.jpg",
 					"title": {
 						"text": "AUTO ASSEMBLY",
 						"locText": "AUTO ASSEMBLY"
@@ -279,7 +279,7 @@
 				},
 				{
 					"cardType": "threat",
-					"img": "Doctor-Doom-T3.jpg",
+					"img": "villains/Doctor-Doom-T3.jpg",
 					"title": {
 						"text": "SELF-DESTRUCT PROTOCOL",
 						"locText": "SELF-DESTRUCT PROTOCOL"
@@ -294,7 +294,7 @@
 				},
 				{
 					"cardType": "threat",
-					"img": "Doctor-Doom-T3.jpg",
+					"img": "villains/Doctor-Doom-T3.jpg",
 					"title": {
 						"text": "SELF-DESTRUCT PROTOCOL",
 						"locText": "SELF-DESTRUCT PROTOCOL"
@@ -309,7 +309,7 @@
 				},
 				{
 					"cardType": "threat",
-					"img": "Doctor-Doom-T5.jpg",
+					"img": "villains/Doctor-Doom-T5.jpg",
 					"title": {
 						"text": "ADDITIONAL ARMOR",
 						"locText": "ADDITIONAL ARMOR"
@@ -324,7 +324,7 @@
 				},
 				{
 					"cardType": "threat",
-					"img": "Doctor-Doom-T5.jpg",
+					"img": "villains/Doctor-Doom-T5.jpg",
 					"title": {
 						"text": "ADDITIONAL ARMOR",
 						"locText": "ADDITIONAL ARMOR"
@@ -339,7 +339,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP1.jpg",
+					"img": "villains/Doctor-Doom-MP1.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -364,7 +364,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP2.jpg",
+					"img": "villains/Doctor-Doom-MP2.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -384,7 +384,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP3.jpg",
+					"img": "villains/Doctor-Doom-MP3.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -403,7 +403,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP4.jpg",
+					"img": "villains/Doctor-Doom-MP4.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -428,7 +428,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP5.jpg",
+					"img": "villains/Doctor-Doom-MP5.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -453,7 +453,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP6.jpg",
+					"img": "villains/Doctor-Doom-MP6.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -478,7 +478,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP7.jpg",
+					"img": "villains/Doctor-Doom-MP7.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -503,7 +503,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP8.jpg",
+					"img": "villains/Doctor-Doom-MP8.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -528,7 +528,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP9.jpg",
+					"img": "villains/Doctor-Doom-MP9.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -553,7 +553,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP10.jpg",
+					"img": "villains/Doctor-Doom-MP10.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -578,7 +578,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP11.jpg",
+					"img": "villains/Doctor-Doom-MP11.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -593,7 +593,7 @@
 				},
 				{
 					"cardType": "plan",
-					"img": "Doctor-Doom-MP11.jpg",
+					"img": "villains/Doctor-Doom-MP11.jpg",
 					"title": {
 						"text": "DOCTOR DOOM",
 						"locText": "DOCTOR DOOM"
@@ -609,7 +609,7 @@
 			],
 			"dashboard": {
 				"back": {
-					"img": "Doctor-Doom-Dashboard1.jpg",
+					"img": "villains/Doctor-Doom-Dashboard1.jpg",
 					"specialSetup": {
 						"text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
 						"locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
@@ -617,7 +617,7 @@
 					"superVillain": ["M", "M", "H", "H", "A", "A"]
 				},
 				"front": {
-					"img": "Doctor-Doom-Dashboard2.jpg",
+					"img": "villains/Doctor-Doom-Dashboard2.jpg",
 					"specialRules": {
 						"text": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way.",
 						"locText": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way."
@@ -644,7 +644,7 @@
 			"tokens": []
 		},
 		{
-			"img": "Human-Torch.jpg",
+			"img": "heroes/Human-Torch.jpg",
 			"loyalty": "hero",
 			"name": {
 				"text": "HUMAN TORCH",
@@ -661,7 +661,7 @@
 			"cards": [
 				{
 					"cardType": "hero",
-					"img": "Human-Torch1.jpg",
+					"img": "heroes/Human-Torch1.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -682,7 +682,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch2.jpg",
+					"img": "heroes/Human-Torch2.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -691,7 +691,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch2.jpg",
+					"img": "heroes/Human-Torch2.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -700,7 +700,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch2.jpg",
+					"img": "heroes/Human-Torch2.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -709,7 +709,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch5.jpg",
+					"img": "heroes/Human-Torch5.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -718,7 +718,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch6.jpg",
+					"img": "heroes/Human-Torch6.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -727,7 +727,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch7.jpg",
+					"img": "heroes/Human-Torch7.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -736,7 +736,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch8.jpg",
+					"img": "heroes/Human-Torch8.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -745,7 +745,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch9.jpg",
+					"img": "heroes/Human-Torch9.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -754,7 +754,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch10.jpg",
+					"img": "heroes/Human-Torch10.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -774,7 +774,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch11.jpg",
+					"img": "heroes/Human-Torch11.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -793,7 +793,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Human-Torch12.jpg",
+					"img": "heroes/Human-Torch12.jpg",
 					"title": {
 						"text": "HUMAN TORCH",
 						"locText": "ANTORCHA HUMANA"
@@ -813,7 +813,7 @@
 			]
 		},
 		{
-			"img": "Invisible-Woman.jpg",
+			"img": "heroes/Invisible-Woman.jpg",
 			"loyalty": "hero",
 			"name": {
 				"text": "INVISIBLE WOMAN",
@@ -830,7 +830,7 @@
 			"cards": [
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman1.jpg",
+					"img": "heroes/Invisible-Woman1.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -851,7 +851,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman2.jpg",
+					"img": "heroes/Invisible-Woman2.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -860,7 +860,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman3.jpg",
+					"img": "heroes/Invisible-Woman3.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -869,7 +869,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman4.jpg",
+					"img": "heroes/Invisible-Woman4.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -878,7 +878,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman5.jpg",
+					"img": "heroes/Invisible-Woman5.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -887,7 +887,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman6.jpg",
+					"img": "heroes/Invisible-Woman6.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -896,7 +896,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman7.jpg",
+					"img": "heroes/Invisible-Woman7.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -905,7 +905,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman8.jpg",
+					"img": "heroes/Invisible-Woman8.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -914,7 +914,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman9.jpg",
+					"img": "heroes/Invisible-Woman9.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -923,7 +923,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman10.jpg",
+					"img": "heroes/Invisible-Woman10.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -943,7 +943,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman11.jpg",
+					"img": "heroes/Invisible-Woman11.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -962,7 +962,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Invisible-Woman12.jpg",
+					"img": "heroes/Invisible-Woman12.jpg",
 					"title": {
 						"text": "INVISIBLE WOMAN",
 						"locText": "MUJER INVISIBLE"
@@ -982,7 +982,7 @@
 			]
 		},
 		{
-			"img": "Mister-Fantastic.jpg",
+			"img": "heroes/Mister-Fantastic.jpg",
 			"loyalty": "hero",
 			"name": {
 				"text": "MISTER FANTASTIC",
@@ -999,7 +999,7 @@
 			"cards": [
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic1.jpg",
+					"img": "heroes/Mister-Fantastic1.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1019,7 +1019,7 @@
 					"startingHand": true
 				},{
 					"cardType": "hero",
-					"img": "Mister-Fantastic1.jpg",
+					"img": "heroes/Mister-Fantastic1.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1028,7 +1028,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic2.jpg",
+					"img": "heroes/Mister-Fantastic2.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1037,7 +1037,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic3.jpg",
+					"img": "heroes/Mister-Fantastic3.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1046,7 +1046,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic3.jpg",
+					"img": "heroes/Mister-Fantastic3.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1055,7 +1055,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic5.jpg",
+					"img": "heroes/Mister-Fantastic5.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1064,7 +1064,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic6.jpg",
+					"img": "heroes/Mister-Fantastic6.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1073,7 +1073,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic7.jpg",
+					"img": "heroes/Mister-Fantastic7.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1082,7 +1082,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic8.jpg",
+					"img": "heroes/Mister-Fantastic8.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1091,7 +1091,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic9.jpg",
+					"img": "heroes/Mister-Fantastic9.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1100,7 +1100,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic10.jpg",
+					"img": "heroes/Mister-Fantastic10.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1120,7 +1120,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic11.jpg",
+					"img": "heroes/Mister-Fantastic11.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1139,7 +1139,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Mister-Fantastic12.jpg",
+					"img": "heroes/Mister-Fantastic12.jpg",
 					"title": {
 						"text": "MISTER FANTASTIC",
 						"locText": "MÍSTER FANTÁSTICO"
@@ -1159,7 +1159,7 @@
 			]
 		},
 		{
-			"img": "Silver-Surfer.jpg",
+			"img": "heroes/Silver-Surfer.jpg",
 			"loyalty": "hero",
 			"name": {
 				"text": "SILVER SURFER",
@@ -1176,7 +1176,7 @@
 			"cards": [	
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer1.jpg",
+					"img": "heroes/Silver-Surfer1.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1197,7 +1197,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer2.jpg",
+					"img": "heroes/Silver-Surfer2.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1206,7 +1206,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer3.jpg",
+					"img": "heroes/Silver-Surfer3.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1215,7 +1215,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer4.jpg",
+					"img": "heroes/Silver-Surfer4.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1224,7 +1224,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer5.jpg",
+					"img": "heroes/Silver-Surfer5.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1233,7 +1233,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer6.jpg",
+					"img": "heroes/Silver-Surfer6.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1242,7 +1242,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer7.jpg",
+					"img": "heroes/Silver-Surfer7.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1251,7 +1251,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer8.jpg",
+					"img": "heroes/Silver-Surfer8.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1260,7 +1260,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer9.jpg",
+					"img": "heroes/Silver-Surfer9.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1280,7 +1280,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer9.jpg",
+					"img": "heroes/Silver-Surfer9.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1300,7 +1300,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer11.jpg",
+					"img": "heroes/Silver-Surfer11.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1319,7 +1319,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "Silver-Surfer12.jpg",
+					"img": "heroes/Silver-Surfer12.jpg",
 					"title": {
 						"text": "SILVER SURFER",
 						"locText": "SURFISTA PLATEADO"
@@ -1339,7 +1339,7 @@
 			]
 		},
 		{
-			"img": "The-Thing.jpg",
+			"img": "heroes/The-Thing.jpg",
 			"loyalty": "hero",
 			"name": {
 				"text": "THE THING",
@@ -1356,7 +1356,7 @@
 			"cards": [
 				{
 					"cardType": "hero",
-					"img": "The-Thing1.jpg",
+					"img": "heroes/The-Thing1.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1377,7 +1377,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing2.jpg",
+					"img": "heroes/The-Thing2.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1386,7 +1386,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing3.jpg",
+					"img": "heroes/The-Thing3.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1395,7 +1395,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing4.jpg",
+					"img": "heroes/The-Thing4.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1404,7 +1404,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing5.jpg",
+					"img": "heroes/The-Thing5.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1413,7 +1413,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing6.jpg",
+					"img": "heroes/The-Thing6.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1422,7 +1422,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing6.jpg",
+					"img": "heroes/The-Thing6.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1431,7 +1431,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing8.jpg",
+					"img": "heroes/The-Thing8.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1440,7 +1440,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing9.jpg",
+					"img": "heroes/The-Thing9.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1449,7 +1449,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing10.jpg",
+					"img": "heroes/The-Thing10.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1469,7 +1469,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing11.jpg",
+					"img": "heroes/The-Thing11.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
@@ -1488,7 +1488,7 @@
 				},
 				{
 					"cardType": "hero",
-					"img": "The-Thing12.jpg",
+					"img": "heroes/The-Thing12.jpg",
 					"title": {
 						"text": "THE THING",
 						"locText": "LA COSA"
