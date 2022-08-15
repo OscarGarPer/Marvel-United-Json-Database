@@ -608,14 +608,6 @@
 				}
 			],
 			"dashboard": {
-				"back": {
-					"img": "villains/Doctor-Doom-B.jpg",
-					"specialSetup": {
-						"text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
-						"locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
-					},
-					"superVillain": ["M", "M", "H", "H", "A", "A"]
-				},
 				"front": {
 					"img": "villains/Doctor-Doom-A.jpg",
 					"specialRules": {
@@ -639,6 +631,14 @@
 						"threeHeroes": 9,
 						"fourHeroes": 12
 					}
+				},
+				"back": {
+					"img": "villains/Doctor-Doom-B.jpg",
+					"specialSetup": {
+						"text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
+						"locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
+					},
+					"superVillain": ["M", "M", "H", "H", "A", "A"]
 				}
 			},
 			"tokens": []
@@ -1017,14 +1017,6 @@
 					},
 					"actions": ["M"],
 					"startingHand": true
-				},{
-					"cardType": "hero",
-					"img": "heroes/Mister-Fantastic1.jpg",
-					"title": {
-						"text": "MISTER FANTASTIC",
-						"locText": "MÍSTER FANTÁSTICO"
-					},
-					"actions": ["H"]
 				},
 				{
 					"cardType": "hero",
