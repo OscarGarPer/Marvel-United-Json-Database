@@ -16,31 +16,31 @@
 - First version done. Needs review.
 
 ### [mun-ks11 - Mutant Promos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks11.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks12 - Storm (Mohawk)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks12.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks13 - Old Man Logan](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks13.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks14 - Fantastic Four](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks14.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks15 - First Class](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks15.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks16 - Days Of Future Past](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks16.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks17 - Phoenix Five](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks17.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks18 - X-Force](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks18.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun-ks19 - The Horsemen Of Apocalypse](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun-ks19.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun001-walmart - Marvel United Core Box (Walmart Edition)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun001-walmart.json)
 
@@ -63,13 +63,13 @@
 - First version done. Needs review.
 
 ### [mun012 - Blue Team](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun012.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun013 - Gold Team](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun013.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun014 - Deadpool](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun014.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun103 - Enter The Spider-Verse - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun103.json)
 - First version done. Needs review.
@@ -81,13 +81,13 @@
 - First version done. Needs review.
 
 ### [mun112 - Blue Team - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun112.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun113 - Gold Team - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun113.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 ### [mun114 - Deadpool - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/en/mun114.json)
-- To Do
+- Randomizer version and BIOs done. Working on cards and Locations.
 
 
 ## es
@@ -108,31 +108,31 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks11 - Mutant Promos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks11.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks12 - Storm (Mohawk)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks12.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks13 - Old Man Logan](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks13.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks14 - Los Cuatro Fantásticos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks14.json)
 - En progreso. Están añadidos los 4 Fantásticos, Silver Surfer y Dr Doom, falta Súper Skrull y revisar contenidos.
 
 ### [mun-ks15 - Primera Generación](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks15.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks16 - Días Del Futuro Pasado](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks16.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks17 - Cinco Fénix](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks17.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks18 - Fuerza-X](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks18.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks19 - Los Jinetes Del Apocalipsis](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks19.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun001-walmart - Marvel United Juego Base (Edición Walmart)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun001-walmart.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
@@ -153,16 +153,16 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun011 - Marvel United X-Men Juego Base](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun011.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun012 - Equipo Azul](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun012.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun013 - Equipo Dorado](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun013.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun014 - Deadpool](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun014.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun103 - Entra En El Spider-Verso - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun103.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
@@ -174,10 +174,10 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun112 - Equipo Azul - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun112.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun113 - Equipo Dorado - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun113.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun114 - Deadpool - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun114.json)
-- Por hacer
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.

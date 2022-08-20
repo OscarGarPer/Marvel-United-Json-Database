@@ -25,7 +25,7 @@ Los archivos están planteados como cajas. A partir de ahora se entiende que cua
 #### Caja
 
 - boxId: String. Identificador único de la caja (por ejemplo podríamos usar MUN001 como identificador de la caja equivalente al juego base)
-- baseUrl: String opcional. Si se especifíca, se concatenará "baseUrl" antes de cada "img".
+- baseUrl: String opcional. Si se especifíca, se concatenará "baseUrl" antes de cada "img" solo si la imagen no es una URL. Es decir, podemos tener un baseUrl y aún así tener imágenes alojadas en otra dirección, simplemente las imágenes que no deban utilizar la baseUrl, deben especificar la URL completa.
 - img: String opcional. Ruta en la que se aloja una imagen. Puede ser la ruta absoluta o relativa a "baseUrl".
 - name: [LocalizedText](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/README.md#LocalizedText) opcional.
 - rulebook: String opcional. Ruta en la que se aloja un documento pdf. Puede ser la ruta absoluta o relativa a "baseUrl".
@@ -98,7 +98,7 @@ Los archivos están planteados como cajas. A partir de ahora se entiende que cua
 #### Character
 
 - img: String opcional. Ruta en la que se aloja una imagen. Puede ser la ruta absoluta o relativa a "baseUrl".
-- loyalty: String opcional. Indica el tipo de personaje. Valores posibles actualmente: "hero", "villain", "anti-hero".
+- loyalty: String opcional. Indica el tipo de personaje. Valores posibles actualmente: "hero", "villain", "anti-hero", "villain-bio", "challenge", "other", "hidden". Ejemplo de uso de villain-bio: se usa para villanos que tienen Bio pero no son villanos en sí mismos a nivel jugable (por ejemplo Toad, Blob, Pyro... Cada uno tiene su propia Bio pero luego al jugarlos no tienen un Dashboard individual). Ejemplo de uso de challenge: se usa para Sentinels y Deadpool Challenge que tienen su propia Bio y que tendrán en el futuro una lista de cartas asociada. Ejemplo de uso de other: se usa ahora mismo para Lockheed y sería para personajes que solo tengan Bio y nada más. Ejemplo de uso de hidden: se usa para "Villanos" que no tienen Bio y que no se muestran en la lista de personajes pero sí en el generador (Por ejemplo los Jinetes son 4 "villain-bio" para que en el listado de personajes salgan los 4 separados cada uno con su imagen y su BIO, pero a nivel generador de partidas, esos 4 personajes se excluyen y se incluye en su lugar un "Villano" que son los 4 jinetes combinados).
 - name: [LocalizedText](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/README.md#LocalizedText) opcional. Nombre del personaje.
 - realName: [LocalizedText](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/README.md#LocalizedText) opcional. Nombre real del personaje.
 - bio: [LocalizedText](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/README.md#LocalizedText) opcional. Texto descriptivo del personaje.
