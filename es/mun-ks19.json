@@ -7,7 +7,44 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/apocalypses-pyramid.jpg",
+      "title": {
+        "text": "Apocalypse's Pyramid",
+        "locText": "Apocalypse's Pyramid"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "While in this Location, Villains ignore 1 damage in each Hero turn. You MUST discard 1 card from your hand to the bottom of your deck.",
+          "locText": "Mientras estés en este Lugar, los Villanos ignoran 1 punto de daño en cada turno de los Héroes. DEBES descartar 1 carta de tu mano al final de tu mazo."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/starlight-citadel.jpg",
+      "title": {
+        "text": "Starlight Citadel",
+        "locText": "Starlight Citadel"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "Once the first Mission is completed, Heroes may, at any time, replace this Location with any other Location not already in play (move everything from this Location to the new one).",
+          "locText": "Cuando se complete la primera Misión los Héroes pueden, en cualquier momento, reemplazar este Lugar con cualquier otro Lugar que no esté en la partida (mueve todo de este Lugar al nuevo)."
+        }
+      },
+      "slots": [
+        "empty",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [

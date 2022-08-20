@@ -7,7 +7,83 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/adirondack-mountains.jpg",
+      "title": {
+        "text": "Adirondack Mountains",
+        "locText": "Adirondack Mountains"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may gain 1 [A] token. You may exchange Action tokens with another Hero in this Location.",
+          "locText": "Puedes coger 1 ficha de [A]. Puedes intercambiar fichas de Acción con otro Héroe en este Lugar."
+        }
+      },
+      "slots": [
+        "C",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/morlock-tunnels.jpg",
+      "title": {
+        "text": "Morlock Tunnels",
+        "locText": "Morlock Tunnels"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You MUST add [T], and [C], to this Location.",
+          "locText": "DEBES añadir [T], y [C], a este Lugar."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/murderworld.jpg",
+      "title": {
+        "text": "Murderworld",
+        "locText": "Murderworld"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You MUST discard 1 card from your hand to the bottom of your deck.",
+          "locText": "DEBES descartar 1 carta de tu mano al final de tu mazo."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/stryfes-secret-base.jpg",
+      "title": {
+        "text": "Stryfe’s Secret Base",
+        "locText": "Stryfe’s Secret Base"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You MUST discard 1 Action token (if you have any).",
+          "locText": "DEBES descartar 1 ficha de Acción (si tienes alguna)."
+        }
+      },
+      "slots": [
+        "T",
+        "empty",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [
