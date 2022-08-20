@@ -1,0 +1,132 @@
+{
+  "boxId": "MUN-KS15",
+  "img": "mun-ks15.jpg",
+  "name": {
+    "text": "Marvel United First Class",
+    "locText": "Marvel United First Class"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [],
+  "challenges": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Angel.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Angel (First Class)",
+        "locText": "Angel (First Class)"
+      },
+      "realName": {
+        "text": "Warren Kenneth Worthington III",
+        "locText": "Warren Kenneth Worthington III"
+      },
+      "bio": {
+        "text": "When Professor Xavier convinced Warren Worthington to join his newly forming group, he'd been busy as the self-named superhero Avenging Angel. Xavier brought him to his school and trained him as the third original X-Men member. He dropped the Avenging part of his name and just went by Angel. Having been born with a silver spoon and the entitlement that accompanies it, he worried little about showing off his feathered wings and ability to fly in public. But he was a valued member of the original team.",
+        "locText": "When Professor Xavier convinced Warren Worthington to join his newly forming group, he'd been busy as the self-named superhero Avenging Angel. Xavier brought him to his school and trained him as the third original X-Men member. He dropped the Avenging part of his name and just went by Angel. Having been born with a silver spoon and the entitlement that accompanies it, he worried little about showing off his feathered wings and ability to fly in public. But he was a valued member of the original team."
+      }
+    },
+    {
+      "img": "heroes/Beast-First-Class.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Beast (First Class)",
+        "locText": "Beast (First Class)"
+      },
+      "realName": {
+        "text": "Henry \"Hank\" McCoy",
+        "locText": "Henry \"Hank\" McCoy"
+      },
+      "bio": {
+        "text": "Hank was an extremely intelligent boy with huge feet, hands, and superhuman athleticism due to a run-in with radiation. In college he dominated the football field but was forced to leave when they discovered he was a mutant. This put him on Xavier's radar who sought him out. Unfortunately, the Conquistador got to him first. Rescuing him from mind-control, Xavier recruited him to the School for Gifted Youngsters. There Hank's genius mind was allowed free reign without worry of being taken over. He became Beast and spent time fighting heroically as the fourth X-Man.",
+        "locText": "Hank was an extremely intelligent boy with huge feet, hands, and superhuman athleticism due to a run-in with radiation. In college he dominated the football field but was forced to leave when they discovered he was a mutant. This put him on Xavier's radar who sought him out. Unfortunately, the Conquistador got to him first. Rescuing him from mind-control, Xavier recruited him to the School for Gifted Youngsters. There Hank's genius mind was allowed free reign without worry of being taken over. He became Beast and spent time fighting heroically as the fourth X-Man."
+      }
+    },
+    {
+      "img": "heroes/Cyclops-First-Class.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cyclops (First Class)",
+        "locText": "Cyclops (First Class)"
+      },
+      "realName": {
+        "text": "Scott Summers",
+        "locText": "Scott Summers"
+      },
+      "bio": {
+        "text": "After heroically rescuing Scott Summers from the villainous Living Diamond, Professor Xavier convinced him to join the School for Gifted Youngsters. Dubbed Cyclops, Summers had the distinct honor of being the first member of the X-Men. He helped the Professor recruit other mutants to join the prestigious team. Though he had a fear of controlling his powerful optic blast mutation, he was a natural leader and excelled at commanding the group and fighting for good.",
+        "locText": "After heroically rescuing Scott Summers from the villainous Living Diamond, Professor Xavier convinced him to join the School for Gifted Youngsters. Dubbed Cyclops, Summers had the distinct honor of being the first member of the X-Men. He helped the Professor recruit other mutants to join the prestigious team. Though he had a fear of controlling his powerful optic blast mutation, he was a natural leader and excelled at commanding the group and fighting for good."
+      }
+    },
+    {
+      "img": "heroes/Iceman-First-Class.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Iceman (First Class)",
+        "locText": "Iceman (First Class)"
+      },
+      "realName": {
+        "text": "Robert \"Bobby\" Louis Drake",
+        "locText": "Robert \"Bobby\" Louis Drake"
+      },
+      "bio": {
+        "text": "After Bobby Drake discovered his powers by accidentally f freezing a bully in ice, Professor Xavier sent Cyclops to rescue him from jail. He didn't trust Summers at first, but left with him when a mob attempted to kill him and became the X-Men's second member. Though self-conscious about being the youngest member of the team, he trained just as hard in the school's Danger Room. He learned how to wield his icy powers and fought many battles alongside the X-Men.",
+        "locText": "After Bobby Drake discovered his powers by accidentally f freezing a bully in ice, Professor Xavier sent Cyclops to rescue him from jail. He didn't trust Summers at first, but left with him when a mob attempted to kill him and became the X-Men's second member. Though self-conscious about being the youngest member of the team, he trained just as hard in the school's Danger Room. He learned how to wield his icy powers and fought many battles alongside the X-Men."
+      }
+    },
+    {
+      "img": "heroes/Marvel-Girl.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Marvel Girl",
+        "locText": "Marvel Girl"
+      },
+      "realName": {
+        "text": "Jean Grey",
+        "locText": "Jean Grey"
+      },
+      "bio": {
+        "text": "Before she was the Phoenix, Jean Grey was a lonely girl unable to control her powerful telepathic abilities. The Professor mentored her and taught her how to hone her telekinetic powers as well, years before she attended the School for Gifted Youngsters. Once she finally agreed to join him, Xavier called her Marvel Girl and she was the fifth team member on the X-Men. As the only female, she spent time with Invisible Girl on the Fantastic Four. Her impressive abilities were indispensable to the X-Men.",
+        "locText": "Before she was the Phoenix, Jean Grey was a lonely girl unable to control her powerful telepathic abilities. The Professor mentored her and taught her how to hone her telekinetic powers as well, years before she attended the School for Gifted Youngsters. Once she finally agreed to join him, Xavier called her Marvel Girl and she was the fifth team member on the X-Men. As the only female, she spent time with Invisible Girl on the Fantastic Four. Her impressive abilities were indispensable to the X-Men."
+      }
+    },
+    {
+      "img": "villains/Quicksilver.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Quicksilver (First Class)",
+        "locText": "Quicksilver (First Class)"
+      },
+      "realName": {
+        "text": "Pietro Maximoff",
+        "locText": "Pietro Maximoff"
+      },
+      "bio": {
+        "text": "Pietro Maximoff experienced the same beginnings as his twin Wanda. His strongest ability was the power to run at the speed of sound. Fiercely protective of his sister, he whisked her away when the villagers attacked their camp when their father was caught stealing food. They grew up in hiding, surviving as best they could. After Wanda's fateful fire, Magneto stepped in and rescued them, convincing them to join the Brotherhood of Evil Mutants. Magneto called him Quicksilver and he aided in the plots to destroy the X-Men. When Magneto was bested by Stranger, Quicksilver and Scarlet Witch took the opportunity to quit the Brotherhood.",
+        "locText": "Pietro Maximoff experienced the same beginnings as his twin Wanda. His strongest ability was the power to run at the speed of sound. Fiercely protective of his sister, he whisked her away when the villagers attacked their camp when their father was caught stealing food. They grew up in hiding, surviving as best they could. After Wanda's fateful fire, Magneto stepped in and rescued them, convincing them to join the Brotherhood of Evil Mutants. Magneto called him Quicksilver and he aided in the plots to destroy the X-Men. When Magneto was bested by Stranger, Quicksilver and Scarlet Witch took the opportunity to quit the Brotherhood."
+      }
+    },
+    {
+      "img": "villains/Scarlet-Witch.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Scarlet Witch (First Class)",
+        "locText": "Scarlet Witch (First Class)"
+      },
+      "realName": {
+        "text": "Wanda Maximoff",
+        "locText": "Wanda Maximoff"
+      },
+      "bio": {
+        "text": "After being kidnapped as babies by the High Evolutionary, Wanda Maximoff and her twin brother Pietro were experimented on and later returned to their family. Wanda discovered her ability to create fire with her mind after setting a neighboring house alight. The villagers dubbed her a \"Scarlet Witch\" and turned on her. Saved by Magneto, she and her brother joined the Brotherhood of Evil Mutants. Using her ability to manipulate minds, Scarlet Witch infused others with visions of despair, including members of the X-Men. She fought for Magneto until he almost killed Quicksilver in an attempt to end the X-Men. Her allegiance to him crumbled.",
+        "locText": "After being kidnapped as babies by the High Evolutionary, Wanda Maximoff and her twin brother Pietro were experimented on and later returned to their family. Wanda discovered her ability to create fire with her mind after setting a neighboring house alight. The villagers dubbed her a \"Scarlet Witch\" and turned on her. Saved by Magneto, she and her brother joined the Brotherhood of Evil Mutants. Using her ability to manipulate minds, Scarlet Witch infused others with visions of despair, including members of the X-Men. She fought for Magneto until he almost killed Quicksilver in an attempt to end the X-Men. Her allegiance to him crumbled."
+      }
+    },
+    {
+      "img": "villains/Twins.jpg",
+      "loyalty": "hidden"
+    }
+  ],
+  "faq": []
+}

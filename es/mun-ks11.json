@@ -1,0 +1,922 @@
+{
+  "boxId": "MUN-KS11",
+  "img": "mun-ks11.jpg",
+  "name": {
+    "text": "Marvel United Mutant Promos",
+    "locText": "Marvel United Mutant Promos"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Blink.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Blink",
+        "locText": "Blink"
+      },
+      "realName": {
+        "text": "Clarice Ferguson",
+        "locText": "Clarice Ferguson"
+      },
+      "bio": {
+        "text": "Clarice Ferguson was kidnapped at a young age by the Phalanx, a technological alien race that wanted to experiment on her and other mutants. When they were rescued by the X-Men, Blink used her teleportation powers to attack the Phalanx. In doing so, she overwhelmed herpowers and died saving her rescuers. In fact, she'd been teleported to a close dimension and was pulled back by Dark Priestess Selene. Dr. Strange was able to free her from Selene's power and she joined the X-Men, fighting alongside them.",
+        "locText": "Clarice Ferguson fue secuestrada a una edad temprana por Phalanx, una raza alienígena tecnológica que quería experimentar con ella y otros mutantes. Cuando fueron rescatados por los X-Men, Blink usó sus poderes de teletransportación para atacar a Phalanx. Al hacerlo, superó sus poderes y murió salvando a sus rescatadores. De hecho, había sido teletransportada a una dimensión cercana y la Sacerdotisa Oscura Selene la retiró. Dr. Strange pudo liberarla del poder de Selene y se unió a los X-Men, luchando junto a ellos."
+      }
+    },
+    {
+      "img": "heroes/Boom-Boom.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Boom-Boom",
+        "locText": "Boom-Boom"
+      },
+      "realName": {
+        "text": "Tabitha Smith",
+        "locText": "Tabitha Smith"
+      },
+      "bio": {
+        "text": "Teenage runaway Tabitha Smith left after her parents reacted badly to her innate ability to fire time bombs from her hands. After running away, she renamed herself Boom-Boom and ended up in a criminal gang led by Vanisher called the Fallen Angels. She sought out the X-Factor to help her destroy Vanisher, who she felt treated her badly. Though she decided not to turn Vanisher in, she left with the X-Factor and joined them and later the X-Men. She loved pranking her fellow mutants by firing off time bombs, and did it often.",
+        "locText": "La fugitiva adolescente Tabitha Smith se fue después de que sus padres reaccionaran mal a su habilidad innata para disparar bombas de tiempo con sus manos. Después de huir, se renombró Boom-Boom y terminó en una banda criminal dirigida por Vanisher llamada Fallen Angels. Buscó el X-Factor para ayudarla a destruir a Vanisher, quien sintió que la trató mal. Aunque decidió no entregar a Vanisher, se fue con X-Factor y se unió a ellos y más tarde a los X-Men. Le encantaba gastarle bromas a sus compañeros mutantes disparando bombas de relojería, y lo hacía a menudo."
+      }
+    },
+    {
+      "img": "heroes/Captain-Britain.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Captain Britain",
+        "locText": "Capitán Bretaña"
+      },
+      "realName": {
+        "text": "Brian Braddock",
+        "locText": "Brian Braddock"
+      },
+      "bio": {
+        "text": "Brian Braddock was a brilliant scientist granted magical powers by Merlyn the sorcerer. Powered by the Amulet of Right, he became Captain Britain and defeated Reaver and many other foes. At first, his superhuman powers could only be activated when wearing his costume, but over time Merlyn 'upgraded' him, enabling him to use the powers whether or not he was in it. He teamed up with members of the Avengers battling evil forces and eventually became the leader of the powerful superhero team, the Champions of Europe.",
+        "locText": "Brian Braddock fue un científico brillante al que Merlyn el hechicero le otorgó poderes mágicos. Impulsado por el Amuleto del Derecho, se convirtió en el Capitán Gran Bretaña y derrotó a Reaver y a muchos otros enemigos. Al principio, sus poderes sobrehumanos solo podían activarse cuando usaba su disfraz, pero con el tiempo, Merlyn lo 'mejoró', permitiéndole usar los poderes, ya sea que estuviera o no en él. Se asoció con miembros de los Vengadores que luchaban contra las fuerzas del mal y finalmente se convirtió en el líder del poderoso equipo de superhéroes, los Campeones de Europa."
+      }
+    },
+    {
+      "img": "heroes/Cloak.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cloak",
+        "locText": "Capa"
+      },
+      "realName": {
+        "text": "Tyrone \"Ty\" Johnson",
+        "locText": "Tyrone \"Ty\" Johnson"
+      },
+      "bio": {
+        "text": "While best known for his association with Dagger (Tandy Bowen), Cloak is still a force to be reckoned with on his own. Gifted with telepartation and intangibility, Cloak has access to the \"Darkforce Dimension,\" a world of strange ebony energy. While formidable alone, Cloak's relationship with Dagger makes the team nearly unstoppable.",
+        "locText": "Si bien es mejor conocido por su asociación con Puñal (Tandy Bowen), Capa sigue siendo una fuerza a tener en cuenta por sí solo. Dotado de telepartación e intangibilidad, Capa tiene acceso a la \"Dimensión de la Fuerza Oscura\", un mundo de extraña energía de ébano. Si bien es formidable solo, la relación de Capa con Puñal hace que el equipo sea casi imparable."
+      }
+    },
+    {
+      "img": "heroes/Dagger.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Dagger",
+        "locText": "Puñal"
+      },
+      "realName": {
+        "text": "Tandy Bowen",
+        "locText": "Tandy Bowen"
+      },
+      "bio": {
+        "text": "Tandy Bowen's life started in privilege, but it wasn't the life for which she was destined. The teenage rebel's path took a super-powered turn when she crossed paths with Tyrone \"Ty\" Johnson and the two ended up participating in a shady scientific experiment. Because of this, the duo developed powers that balanced each other. Tandy became Dagger, an embodiment of light with the power to create beautiful yet dangerous daggers of light.",
+        "locText": "La vida de Tandy Bowen comenzó con privilegios, pero no era la vida a la que estaba destinada. El camino de la adolescente rebelde dio un giro superpoderoso cuando se cruzó con Tyrone \"Ty\" Johnson y los dos terminaron participando en un turbio experimento científico. Debido a esto, el dúo desarrolló poderes que se equilibraron entre sí. Tandy se convirtió en Puñal, una encarnación de la luz con el poder de crear hermosas pero peligrosas dagas de luz."
+      }
+    },
+    {
+      "img": "heroes/Dazzler.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Dazzler",
+        "locText": "Dazzler"
+      },
+      "realName": {
+        "text": "Alison Blaire",
+        "locText": "Alison Blaire"
+      },
+      "bio": {
+        "text": "Alison Blaire wanted to be a singer despite her father's protests. During a school performance, her mutant abilities manifested by creating a brilliant light. Playing off of her abilities to manipulate music into colorful light, she became the performer Dazzler, though hiding her identity was challenging. The X-Men and the Hellfire Club fought for her to join them but Dazzler chose to continue her musical career. The psychic Malice possessed her and infiltrated the X-Men, but after she was defeated, Dazzler joined the X-Men and helped them fight evil.",
+        "locText": "Alison Blaire quería ser cantante a pesar de las protestas de su padre. Durante una presentación escolar, sus habilidades mutantes se manifestaron al crear una luz brillante. Jugando con sus habilidades para manipular la música en una luz colorida, se convirtió en la intérprete Dazzler, aunque ocultar su identidad fue un desafío. Los X-Men y el Hellfire Club lucharon para que ella se uniera a ellos, pero Dazzler decidió continuar con su carrera musical. La malicia psíquica la poseyó y se infiltró en los X-Men, pero después de que fue derrotada, Dazzler se unió a los X-Men y los ayudó a luchar contra el mal."
+      }
+    },
+    {
+      "img": "heroes/Doop.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Doop",
+        "locText": "Doop"
+      },
+      "realName": {
+        "text": "Unknown",
+        "locText": "Desconocido"
+      },
+      "bio": {
+        "text": "His past is something of a mystery. What is known: he was created by the U.S. government in a secret Cold War weapons project. He joined X-Force as their official videographer. When most of X-Force died, he, along with other survivors, became X-Statix. He'd eventually join Wolverine's side, and become the receptionist of the Jean Grey School for Higher Learning. Doop's powers appear as needed and include genius intellect, psionic powers, cohesion, superhuman strength, resurrection and durability.",
+        "locText": "Su pasado es algo así como un misterio. Lo que se sabe: fue creado por el gobierno de los EE. UU. en un proyecto secreto de armas de la Guerra Fría. Se unió a X-Force como camarógrafo oficial. Cuando la mayor parte de X-Force murió, él, junto con otros supervivientes, se convirtió en X-Statix. Eventualmente se uniría al lado de Wolverine y se convertiría en el recepcionista de la Escuela Jean Grey para Estudios Superiores. Los poderes de Doop aparecen según sea necesario e incluyen intelecto genial, poderes psiónicos, cohesión, fuerza sobrehumana, resurrección y durabilidad."
+      }
+    },
+    {
+      "img": "heroes/Fantomex.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Fantomex",
+        "locText": "Fantomex"
+      },
+      "realName": {
+        "text": "Charlie-Cluster 7",
+        "locText": "Charlie-Cluster 7"
+      },
+      "bio": {
+        "text": "A super-sentinel created by fusing living techno-organic material with Sentinel nanotechnology, Fantomex was a Weapon Program's Super-Soldier. He also enjoyed speaking with a French accent because he saw how much it annoyed people. Lying to Professor Xavier about being a wanted mutant thief at X-Corporation, he was granted asylum. Fantomex spent his time in pursuit of destroying Weapon Plus, his creator, often fighting at the X-Men's side.",
+        "locText": "Fantomex, un supercentinela creado mediante la fusión de material tecnoorgánico vivo con nanotecnología Sentinel, era un supersoldado del programa de armas. También disfrutaba hablar con acento francés porque veía cuánto molestaba a la gente. Al mentirle al profesor Xavier sobre ser un ladrón mutante buscado en X-Corporation, se le concedió asilo. Fantomex dedicó su tiempo a la búsqueda de la destrucción de Weapon Plus, su creador, a menudo luchando al lado de los X-Men."
+      }
+    },
+    {
+      "img": "heroes/Feral.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Feral",
+        "locText": "Feral"
+      },
+      "realName": {
+        "text": "Maria Callasantos",
+        "locText": "Maria Callasantos"
+      },
+      "bio": {
+        "text": "A mutant with cat-like features, heightened senses and vision, and trouble dealing with her emotions and impulse, Maria Callasantos grew up in New York City. After killing her family members except her mutant sister Lucia, they joined the underground Morlock community of mutants. Feral found the X-Force, but her sister, now Thornn, went in the opposite direction and joined the Brotherhood of Evil Mutants. When X-Factor saved an anti-mutant, Feral joined the Mutant Liberation Front out of disgust. After contracting the Legacy Virus, she joined the Hellions, but after she was cured, she finally returned to the X-Men.",
+        "locText": "Una mutante con rasgos de gato, sentidos y visión agudizados y problemas para lidiar con sus emociones e impulsos, Maria Callasantos creció en la ciudad de Nueva York. Después de matar a los miembros de su familia, excepto a su hermana mutante Lucia, se unieron a la comunidad clandestina de mutantes Morlock. Feral encontró la X-Force, pero su hermana, ahora Thornn, tomó la dirección opuesta y se unió a la Hermandad de los mutantes malvados. Cuando X-Factor salvó a un antimutante, Feral se unió al Frente de Liberación Mutante por disgusto. Después de contraer el Legacy Virus, se unió a los Hellions, pero después de curarse, finalmente regresó a los X-Men."
+      }
+    },
+    {
+      "img": "heroes/Firestar.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Firestar",
+        "locText": "Firestar"
+      },
+      "realName": {
+        "text": "Angelica Jones",
+        "locText": "Angelica Jones"
+      },
+      "bio": {
+        "text": "Possessing mutant microwave energy powers, Angelica Jones was pursued by both Professor X and Emma Frost, the disguised White Queen of the Hellfire Club. Frost convinced Anjelica's father to send her to the Massachusetts Academy mutant school where Angelica, now Firestar, was unknowingly being trained as an assassin. Once she became aware of her role in the evil group, she escaped. Founding the New Warriors with Night Thrasher, she fell in love with Justice, and joined the Avengers with him. Firestar chose to retire once the Superhuman Registration Act was enacted but came out of retirement to join the X-Men.",
+        "locText": "Al poseer poderes mutantes de energía de microondas, Angelica Jones fue perseguida tanto por el Profesor X como por Emma Frost, la Reina Blanca disfrazada del Hellfire Club. Frost convenció al padre de Anjelica para que la enviara a la escuela de mutantes de la Academia de Massachusetts donde Angelica, ahora Firestar, sin saberlo, estaba siendo entrenada como asesina. Una vez que se dio cuenta de su papel en el grupo malvado, escapó. Al fundar New Warriors con Night Thrasher, se enamoró de Justice y se unió a los Vengadores con él. Firestar decidió retirarse una vez que se promulgó la Ley de Registro de Superhumanos, pero salió de su retiro para unirse a los X-Men."
+      }
+    },
+    {
+      "img": "heroes/Guardian.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Guardian",
+        "locText": "Guardián"
+      },
+      "realName": {
+        "text": "James MacDonald Hudson",
+        "locText": "James MacDonald Hudson"
+      },
+      "bio": {
+        "text": "James Hudson worked for the Am-Can Oil Corporation and developed a powered exoskeleton suit. When he found out it was to be used by the military, he stole his Guardian's Battle-suit's prototype and resigned. To avoid prosecution, Hudson made arrangements with the Canadian Parliament. The Minister of Defense named him head of operations for the Ministry's research and development program. Using the suit he formed a team of heroes. Alpha Flight, and eventually took the codename Guardian. Later, the suit would be fused with Hudson's biological and nervous systems, and he'd eventually become a cyborg, gaining all its powers - like supersonic flight, body armor, flares, ultrasound, and more - himself.",
+        "locText": "James Hudson trabajó para Am-Can Oil Corporation y desarrolló un traje de exoesqueleto motorizado. Cuando descubrió que iba a ser utilizado por los militares, robó el prototipo de su traje de batalla de guardián y renunció. Para evitar el enjuiciamiento, Hudson hizo arreglos con el Parlamento canadiense. El Ministro de Defensa lo nombró jefe de operaciones del programa de investigación y desarrollo del Ministerio. Usando el traje, formó un equipo de héroes. Alpha Flight, y finalmente tomó el nombre en clave de Guardian. Más tarde, el traje se fusionaría con los sistemas nervioso y biológico de Hudson, y eventualmente se convertiría en un cyborg, obteniendo todos sus poderes, como vuelo supersónico, chaleco antibalas, bengalas, ultrasonido y más, él mismo."
+      }
+    },
+    {
+      "img": "heroes/Gwenpool.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Gwenpool",
+        "locText": "Gwenpool"
+      },
+      "realName": {
+        "text": "Gwendolyn Poole",
+        "locText": "Gwendolyn Poole"
+      },
+      "bio": {
+        "text": "Gwen Poole originally lived in a universe like Earth, where Super Heroes were fictional beings. Though never revealed how, Gwen found herself in the Prime Marvel Universe. Ronnie, the tailor, mistakenly read Gwen's name as \"Gwenpool,\" which became her alias. She worked as a mercenary, getting contract jobs from Ronnie. She was forced through a portal to a pocket universe that recreated her old life. This universe was also \"fictional,\" existing within the medium of comics. Gwen developed the ability to interact with the elements of the comics, like title cards and panel borders. She eventually went beyond the panels and reached the Gutter Space and returned to the Marvel Universe.",
+        "locText": "Gwen Poole vivió originalmente en un universo como la Tierra, donde los superhéroes eran seres ficticios. Aunque nunca reveló cómo, Gwen se encontró en el Prime Marvel Universe. Ronnie, el sastre, leyó erróneamente el nombre de Gwen como \"Gwenpool\", que se convirtió en su alias. Trabajó como mercenaria, consiguiendo trabajos por contrato de Ronnie. Fue forzada a través de un portal a un universo de bolsillo que recreaba su antigua vida. Este universo también era \"ficticio\", existiendo dentro del medio de los cómics. Gwen desarrolló la capacidad de interactuar con los elementos de los cómics, como tarjetas de título y bordes de paneles. Eventualmente fue más allá de los paneles y llegó al Gutter Space y regresó al Universo Marvel."
+      }
+    },
+    {
+      "img": "heroes/Havok.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Havok",
+        "locText": "Havok"
+      },
+      "realName": {
+        "text": "Alexander \"Alex\" Summers",
+        "locText": "Alexander \"Alex\" Summers"
+      },
+      "bio": {
+        "text": "Alex was Scott Summers's younger brother, but they were separated when their parents died. Alex ended up in an orphanage secretly run by the evil Mister Sinister who waited until his mutant powers manifested. Havok was able to release plasma energy from his body in a powerful force, but his memory was wiped. He didn't know about his powers until evil Professor Abdul released them. Reunited with Cyclops, he joined the X-Men and later led X-Factor. After a friend's death, he teamed up with Dark Beast and created the Brotherhood of Mutants, a terrorist group. It was a ruse to overthrow Dark Beast and he rejoined the X-Men.",
+        "locText": "Alex era el hermano menor de Scott Summers, pero se separaron cuando sus padres murieron. Alex terminó en un orfanato dirigido en secreto por el malvado Mister Sinister que esperó hasta que se manifestaron sus poderes mutantes. Havok pudo liberar energía de plasma de su cuerpo en una fuerza poderosa, pero su memoria fue borrada. No sabía acerca de sus poderes hasta que el malvado profesor Abdul los liberó. Reunido con Cyclops, se unió a los X-Men y luego dirigió X-Factor. Después de la muerte de un amigo, se asoció con Dark Beast y creó la Hermandad de Mutantes, un grupo terrorista. Fue una artimaña para derrocar a Dark Beast y se reincorporó a los X-Men."
+      }
+    },
+    {
+      "img": "heroes/Kitty-Pryde.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Kitty Pryde",
+        "locText": "Kitty Pryde"
+      },
+      "realName": {
+        "text": "Katherine \"Kitty\" Pryde",
+        "locText": "Katherine \"Kitty\" Pryde"
+      },
+      "bio": {
+        "text": "Genius Kitty Pryde was experiencing frequent headaches as her mutant power manifested. When it was revealed she could phase through solid objects, both Charles Xavier and Emma Frost pursued her for their schools. Though she initially went to Frost, Phoenix was able to use her telepathy to convince Kitty's parents to send her to Xavier's School for the Gifted instead. She joined the X-Men and eventually formed the Excalibur team in England. S.H.I.E.L.D recruited her, too! When Excalibur disbanded, she returned to help the X-Men.",
+        "locText": "La genio Kitty Pryde experimentaba frecuentes dolores de cabeza a medida que se manifestaba su poder mutante. Cuando se reveló que podía atravesar objetos sólidos, tanto Charles Xavier como Emma Frost la buscaron en sus escuelas. Aunque inicialmente fue a Frost, Phoenix pudo usar su telepatía para convencer a los padres de Kitty de que la enviaran a Xavier's School for the Gifted en su lugar. Se unió a los X-Men y finalmente formó el equipo Excalibur en Inglaterra. ¡S.H.I.E.L.D también la reclutó a ella! Cuando Excalibur se disolvió, regresó para ayudar a los X-Men."
+      }
+    },
+    {
+      "img": "heroes/Longshot.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Longshot",
+        "locText": "Longshot"
+      },
+      "realName": {
+        "text": "*Unrevealed*",
+        "locText": "*No revelado*"
+      },
+      "bio": {
+        "text": "Hailing from Mojoworld, Longshot was an artificial humanoid lifeform. Designed as a slave of the Spineless Ones, his creator Arize gave him and other slaves freewill and consciousness. Some, like him, were given superhuman abilities. After an uprising against the leader Mojo, he escaped to Earth and became Longshot, a nod at his luck for survival. Found by the X-Men, he accompanied them on many adventures. He continued to fight Mojo throughout his life.",
+        "locText": "Proveniente de Mojoworld, Longshot era una forma de vida humanoide artificial. Diseñado como un esclavo de los Sin espinas, su creador Arize le dio a él y a otros esclavos libre albedrío y conciencia. Algunos, como él, recibieron habilidades sobrehumanas. Después de un levantamiento contra el líder Mojo, escapó a la Tierra y se convirtió en Longshot, un guiño a su suerte para sobrevivir. Encontrado por los X-Men, los acompañó en muchas aventuras. Siguió luchando contra Mojo durante toda su vida."
+      }
+    },
+    {
+      "img": "heroes/Magik.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Magik",
+        "locText": "Magik"
+      },
+      "realName": {
+        "text": "Illyana Rasputin",
+        "locText": "Illyana Rasputin"
+      },
+      "bio": {
+        "text": "Born in Russia, Illyana Rasputin was the sibling of mutants Colossus and Mikhail Rasputin. Illyana was reunited with Colossus during a kidnapping and followed him to the X-Mansion. The evil sorcerer Belasco kidnapped her and took her to a demon dimension, turning her into a sorceress. Around the same time, she discovered her mutant teleportation powers. After manifesting the Soulsword, she defeated Belasco and banished him from the demon realm. Throughout her life she balanced the two roles and became a member of the New Mutants and later the X-Men, helping in many of their battles.",
+        "locText": "Nacida en Rusia, Illyana Rasputin era hermana de los mutantes Coloso y Mikhail Rasputin. Illyana se reunió con Coloso durante un secuestro y lo siguió hasta la Mansión X. El malvado hechicero Belasco la secuestró y la llevó a una dimensión demoníaca, convirtiéndola en hechicera. Casi al mismo tiempo, descubrió sus poderes mutantes de teletransportación. Después de manifestar Soulsword, derrotó a Belasco y lo desterró del reino de los demonios. A lo largo de su vida, equilibró los dos roles y se convirtió en miembro de los Nuevos Mutantes y más tarde de los X-Men, ayudando en muchas de sus batallas."
+      }
+    },
+    {
+      "img": "heroes/Mirage.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Mirage",
+        "locText": "Mirage"
+      },
+      "realName": {
+        "text": "Danielle Moonstar",
+        "locText": "Danielle Moonstar"
+      },
+      "bio": {
+        "text": "Danielle 'Dani' Moonstar, a Native American of the Cheyenne Nation, discovered her emerging mutant powers at puberty. Unable to control her ability to create visible images of people's greatest fears, she was shunned by nearly everyone, except her parents, and her grandfather, the chief and shaman Black Eagle. Raised by Black Eagle after her parents' disappearance, he contacted Professor Charles Xavier asking / him to provide Dani with the training she needed to utilize her powers (which would include telepathy, empathic illusion casting, and enhanced durability). She would eventually become a member of Xavier's new team, the New Mutants - where she would be codenamed Mirage.",
+        "locText": "Danielle 'Dani' Moonstar, una nativa americana de la Nación Cheyenne, descubrió sus poderes mutantes emergentes en la pubertad. Incapaz de controlar su habilidad para crear imágenes visibles de los mayores temores de las personas, casi todos la evitaban, excepto sus padres y su abuelo, el jefe y chamán Black Eagle. Criado por Black Eagle después de la desaparición de sus padres, se puso en contacto con el profesor Charles Xavier para pedirle que le proporcionara a Dani el entrenamiento que necesitaba para utilizar sus poderes (que incluiría telepatía, lanzamiento de ilusiones empáticas y mayor durabilidad). Con el tiempo, se convertiría en miembro del nuevo equipo de Xavier, los Nuevos Mutantes, cuyo nombre en clave sería Mirage."
+      }
+    },
+    {
+      "img": "heroes/Multiple-Man.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Multiple Man",
+        "locText": "Multiple Man"
+      },
+      "realName": {
+        "text": "James Arthur \"Jamie\" Madrox",
+        "locText": "James Arthur \"Jamie\" Madrox"
+      },
+      "bio": {
+        "text": "Able to duplicate himself at birth, Jamie Madrox unknowingly wore a suit that stopped his mutation from happening. His parents died before telling him about this mutation. After the suit malfunctioned, releasing his powers, Xavier found him. With his suit repaired, he went to Muir Island as a lab assistant and learned about his powers. He joined X-Factor, helping them by using his duplicating abilities.",
+        "locText": "Capaz de duplicarse a sí mismo al nacer, Jamie Madrox, sin saberlo, usó un traje que evitó que ocurriera su mutación. Sus padres murieron antes de contarle sobre esta mutación. Después de que el traje funcionara mal, liberando sus poderes, Xavier lo encontró. Con su traje reparado, fue a Muir Island como asistente de laboratorio y aprendió sobre sus poderes. Se unió a X-Factor, ayudándolos usando sus habilidades de duplicación."
+      }
+    },
+    {
+      "img": "heroes/Nightcrawler.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Nightcrawler",
+        "locText": "Rondador Nocturno"
+      },
+      "realName": {
+        "text": "Kurt Wagner",
+        "locText": "Kurt Wagner"
+      },
+      "bio": {
+        "text": "The son of Mystique, who abandoned him at birth, Kurt Wagner was rescued by his powerful father Azazel and raised by the sorcerous Margali Szardos in a circus. He claimed that his unnatural blue skin, tail, fangs and pointed ears were a 0 costume in order to fit in. He was a skilled acrobat, , ; fighter, and teleporter. / After injuring a friend unintentionally, causing those around him 1./4111 to think he was a demon, Professor X saved him and invited him to join the X-Men who he stayed with for many years.",
+        "locText": "Hijo de Mística, quien lo abandonó al nacer, Kurt Wagner fue rescatado por su poderoso padre Azazel y criado por la hechicera Margali Szardos en un circo. Afirmó que su piel azul antinatural, cola, colmillos y orejas puntiagudas eran un disfraz de 0 para encajar. Era un hábil acróbata, , ; luchador y teletransportador. / Después de herir a un amigo sin querer, lo que hizo que quienes lo rodeaban 1./4111 pensaran que era un demonio, el Profesor X lo salvó y lo invitó a unirse a los X-Men con los que se quedó durante muchos años."
+      }
+    },
+    {
+      "img": "heroes/Northstar.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Northstar",
+        "locText": "Northstar"
+      },
+      "realName": {
+        "text": "Jean-Paul Beaubier",
+        "locText": "Jean-Paul Beaubier"
+      },
+      "bio": {
+        "text": "Jean-Paul Beaubier was an Olympic skiing champion with superhuman powers like photokinesis, heightened reflexes and superhuman speed. Famous as a sports star, he was contacted by James Hudson, head of Department H, and persuaded to join. He became a member of their Alpha Flight and was codenamed Northstar. Here he met the twin sister he never knew he had, Jeanne-Marie. He left Alpha Flight after a fight with her, but would rejoin them later and remain a member while the team existed. He'd eventually aid the X-Men in battle, and join Department X.",
+        "locText": "Jean-Paul Beaubier fue un campeón olímpico de esquí con poderes sobrehumanos como fotoquinesis, reflejos elevados y velocidad sobrehumana. Famoso como estrella del deporte, James Hudson, jefe del Departamento H, lo contactó y lo convenció para que se uniera. Se convirtió en miembro de Alpha Flight y su nombre en código fue Northstar. Aquí conoció a la hermana gemela que nunca supo que tenía, Jeanne-Marie. Dejó Alpha Flight después de una pelea con ella, pero se reuniría con ellos más tarde y seguiría siendo miembro mientras existiera el equipo. Eventualmente ayudaría a los X-Men en la batalla y se uniría al Departamento X."
+      }
+    },
+    {
+      "img": "heroes/Phoenix.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Phoenix",
+        "locText": "Phoenix"
+      },
+      "realName": {
+        "text": "Rachel Summers",
+        "locText": "Rachel Summers"
+      },
+      "bio": {
+        "text": "Daughter of alternate timeline Jean Grey and Scott Summers, Rachel Summers possessed her mother's Phoenix Force, telepathic powers, and telekinetic powers. After the Mutant Registration Act, she was sent to a containment facility where she met Franklin Richards and joined the X-Men. Her time-travel abilities stripped her of the Phoenix Force but she was able to manipulate time and gain it back.",
+        "locText": "Hija de la línea de tiempo alternativa Jean Grey y Scott Summers, Rachel Summers poseía la Fuerza Fénix de su madre, poderes telepáticos y poderes telequinéticos. Después de la Ley de Registro de Mutantes, fue enviada a un centro de contención donde conoció a Franklin Richards y se unió a los X-Men. Sus habilidades para viajar en el tiempo la despojaron de la Fuerza Fénix, pero pudo manipular el tiempo y recuperarlo."
+      }
+    },
+    {
+      "img": "heroes/Pixie.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Pixie",
+        "locText": "Pixie"
+      },
+      "realName": {
+        "text": "Megan Gwynn",
+        "locText": "Megan Gwynn"
+      },
+      "bio": {
+        "text": "Megan Gwynn, known as Pixie, possesses mutant powers that revealed themselves during a road accident; she could manifest rainbow-colored butterfly wings, allowing her to fly! Other powers revealed themselves in battles against demons, where she incapacitated them using \"pixie dust.\" Pixie was one of the young X-Men captured by the Avengers and sent to the Avengers Academy. Eventually, she made her way to, and graduated from, the Jean Grey School for  Higher Learning and became an official X-Man.",
+        "locText": "Megan Gwynn, conocida como Pixie, posee poderes mutantes que se revelaron durante un accidente de tráfico; ella podría manifestar alas de mariposa con los colores del arcoíris, ¡permitiéndole volar! Otros poderes se revelaron en batallas contra demonios, donde los incapacitó usando \"polvo de hadas\". Pixie fue uno de los jóvenes X-Men capturados por los Vengadores y enviados a la Academia de los Vengadores. Eventualmente, se abrió camino y se graduó de la Escuela Jean Grey para Estudios Superiores y se convirtió en un X-Man oficial."
+      }
+    },
+    {
+      "img": "heroes/Polaris.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Polaris",
+        "locText": "Polaris"
+      },
+      "realName": {
+        "text": "Lorna Dane",
+        "locText": "Lorna Dane"
+      },
+      "bio": {
+        "text": "The illegitimate daughter of Magneto, Lorna Dane possessed many of Magneto's strong powers. She fought to unite mutants and humans with the X-Men as Polaris. Unfortunately, she was often mentally afflicted by her powers. At one point she developed a mutation that made her enraged and those around her experienced it within themselves. Despite these setbacks, she continued to fight for good and joined X-Factor as a leader.",
+        "locText": "La hija ilegítima de Magneto, Lorna Dane poseía muchos de los fuertes poderes de Magneto. Luchó para unir mutantes y humanos con los X-Men como Polaris. Desafortunadamente, a menudo sus poderes la afectaban mentalmente. En un momento, desarrolló una mutación que la enfureció y quienes la rodeaban la experimentaron dentro de sí mismos. A pesar de estos contratiempos, continuó luchando por el bien y se unió a X-Factor como líder."
+      }
+    },
+    {
+      "img": "heroes/Puck.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Puck",
+        "locText": "Puck"
+      },
+      "realName": {
+        "text": "Eugene Milton Judd",
+        "locText": "Eugene Milton Judd"
+      },
+      "bio": {
+        "text": "Eugene was born in 1914. When he was eight years old, he caught a bear which kept his family warm and fed through the winter. It was then he swore to live an interesting life. He became a mercenary seeking the Black Blade of Baghdad. Upon claiming it, he was attacked by Black Raazer, a being that possessed the blade. The spirit of Black Raazer lengthened Judd's lifespan and increased his strength. Judd traveled the world and eventually, calling himself Puck, would join a team of other paranormal mercenaries, the Outcasts. Puck was ultimately imprisoned for murder. Years later, Guardian would seek Puck's prison release and recruit him to the newly government-independent Alpha Flight.",
+        "locText": "Eugene nació en 1914. Cuando tenía ocho años, atrapó un oso que mantuvo a su familia abrigada y alimentada durante el invierno. Fue entonces cuando juró vivir una vida interesante. Se convirtió en un mercenario que buscaba la Espada Negra de Bagdad. Al reclamarla, fue atacado por Black Raazer, un ser que poseía la espada. El espíritu de Black Raazer alargó la vida de Judd. y aumentó su fuerza. Judd viajó por el mundo y eventualmente, llamándose a sí mismo Puck, se uniría a un equipo de otros mercenarios paranormales, los Outcasts. Puck finalmente fue encarcelado por asesinato. Años más tarde, Guardian buscaría la liberación de Puck y lo reclutaría para el nuevo Alpha Flight independiente del gobierno."
+      }
+    },
+    {
+      "img": "heroes/Sasquatch.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Sasquatch",
+        "locText": "Sasquatch"
+      },
+      "realName": {
+        "text": "Dr. Walter Langkowski",
+        "locText": "Dr. Walter Langkowski"
+      },
+      "bio": {
+        "text": "Dr. Langkowski was appointed to McGill University in Montreal, studying everything about the Hulk after learning he was a transformed Bruce Banner. Dr. Langkowski began working on a gamma radiation experiment to create a being like the Hulk. Bombarded by massive amounts of gamma radiation, he turned into a huge creature and went on a rampage until being found unconscious by Snowbird. Shaman and Snowbird helped Walter learn how to keep his personality and intelligence in his bestial form. He called himself Sasquatch and later became part of the Alpha Flight Space Program.",
+        "locText": "El Dr. Langkowski fue designado a la Universidad McGill en Montreal, estudiando todo sobre Hulk después de enterarse de que era Bruce Banner transformado. El Dr. Langkowski comenzó a trabajar en un experimento de radiación gamma para crear un ser como Hulk. Bombardeado por cantidades masivas de radiación gamma, se convirtió en una criatura enorme y se enfureció hasta que Snowbird lo encontró inconsciente. Shaman y Snowbird ayudaron a Walter a aprender cómo mantener su personalidad e inteligencia en su forma bestial. Se hizo llamar Sasquatch y luego se convirtió en parte del programa espacial Alpha Flight."
+      }
+    },
+    {
+      "img": "heroes/Snowbird.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Snowbird",
+        "locText": "Snowbird"
+      },
+      "realName": {
+        "text": "Narya",
+        "locText": "Narya"
+      },
+      "bio": {
+        "text": "Snowbird's origins are traced back to ancient times when the Inuit gods of the North battled the Great Beasts. As both were exiled from earth, the Inuit gods wanted to create an agent to prevent the Beasts' return. Nelvanna, goddess of the Northern Lights, mated with a human. With the assistance of Michael Twoyoungmen, Nelvanna gave birth to a daughter, Narya. Twoyoungmen raised Narya as his own daughter and bound her to Canada, allowing her to assume human form. Both were recruited into Alpha Flight as Shaman and Snowbird. Snowbird's powers include Arctic Animal Shape-shifting, where she gains the special attributes of the animal she takes the form of.",
+        "locText": "Los orígenes de Snowbird se remontan a la antigüedad, cuando los dioses inuit del norte lucharon contra las grandes bestias. Como ambos fueron exiliados de la tierra, los dioses inuit querían crear un agente para evitar el regreso de las Bestias. Nelvanna, diosa de la aurora boreal, emparejada con un humano. Con la ayuda de Michael Twoyoungmen, Nelvanna dio a luz a una hija, Narya. Dos jóvenes criaron a Narya como su propia hija y la ataron a Canadá, lo que le permitió asumir una forma humana. Ambos fueron reclutados en Alpha Flight como Shaman y Snowbird. Los poderes de Snowbird incluyen el cambio de forma de animales árticos, donde obtiene los atributos especiales del animal del que toma la forma."
+      }
+    },
+    {
+      "img": "heroes/Strong-Guy.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Strong Guy",
+        "locText": "Strong Guy"
+      },
+      "realName": {
+        "text": "Guido Carosella",
+        "locText": "Guido Carosella"
+      },
+      "bio": {
+        "text": "Guido Carosella was bullied by classmates who manifested his powers of bulking up his body when furious. He became the bodyguard of singer Lila Cheney but helped Dazzler with her career after Lila disappeared. Naming himself Strong Guy, Dazzler convinced him to join X-Factor and later the X-Factor Investigation agency to help them succeed.",
+        "locText": "Guido Carosella fue intimidado por compañeros de clase que manifestaron sus poderes para aumentar su cuerpo cuando estaba furioso. Se convirtió en el guardaespaldas de la cantante Lila Cheney, pero ayudó a Dazzler con su carrera después de que Lila desapareciera. Nombrándose a sí mismo Strong Guy, Dazzler lo convenció de unirse a X-Factor y luego a la agencia de investigación X-Factor para ayudarlos a tener éxito."
+      }
+    },
+    {
+      "img": "heroes/Sunfire.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Sunfire",
+        "locText": "Sunfire"
+      },
+      "realName": {
+        "text": "Shiro Yoshida",
+        "locText": "Shiro Yoshida"
+      },
+      "bio": {
+        "text": "Shiro Yoshida was born with solar radiation powers caused by World War II. After his mother died of radiation poisoning, his anti-American uncle Tomo wanted to use Shiro's power against America, dubbing him Sunfire. Tomo’s plans were unsuccessful and Shiro eventually turned to the X-Men. Though always loyal to Japan, he helped the X-Men with many adventures.",
+        "locText": "Shiro Yoshida nació con poderes de radiación solar provocados por la Segunda Guerra Mundial. Después de que su madre muriera por envenenamiento por radiación, su tío Tomo, antiestadounidense, quiso usar el poder de Shiro contra Estados Unidos, llamándolo Sunfire. Los planes de Tomo no tuvieron éxito y Shiro finalmente recurrió a los X-Men. Aunque siempre leal a Japón, ayudó a los X-Men en muchas aventuras."
+      }
+    },
+    {
+      "img": "heroes/Sunspot.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Sunspot",
+        "locText": "Sunspot"
+      },
+      "realName": {
+        "text": "Roberto da Costa",
+        "locText": "Roberto da Costa"
+      },
+      "bio": {
+        "text": "Born in Rio de Janeiro, Roberto da Costa grew up an avid soccer player until anger on the field manifested his mutant powers when his body turned into a solid black mass of solar energy. Sunspot was able to store solar energy in his body andconvert it into flight and power up with superhuman abilities including a dark solar plasma blast. As the Hellfire Club tried to recruit Roberto, Xavier stepped in to save him. When his girlfriend was killed by a bullet meant for him, he joined the New Mutants.",
+        "locText": "Nacido en Río de Janeiro, Roberto da Costa creció como un ávido jugador de fútbol hasta que la ira en el campo manifestó sus poderes mutantes cuando su cuerpo se convirtió en una sólida masa negra de energía solar. Sunspot pudo almacenar energía solar en su cuerpo y convertirla en vuelo y potenciarse con habilidades sobrehumanas, incluida una explosión de plasma solar oscuro. Mientras el Hellfire Club intentaba reclutar a Roberto, Xavier intervino para salvarlo. Cuando su novia fue asesinada por una bala destinada a él, se unió a los Nuevos Mutantes."
+      }
+    },
+    {
+      "img": "heroes/Warlock.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Warlock",
+        "locText": "Warlock"
+      },
+      "realName": {
+        "text": "Warlock",
+        "locText": "Warlock"
+      },
+      "bio": {
+        "text": "Warlock's a member of a race of mechanical organisms that survive by infecting living creatures with the \"techno-organic\" transmode virus, before draining the life energy (\"lifeglow\") of the infected organism. Unlike others of his race, Warlock possesses some compassion, resulting in his being dubbed a mutant. Fleeing his home planet, he landed on Earth near Professor Charles Xavier's mansion and would eventually find himself a member of the Professor's New Mutants. It's here he discovered his powers included shape-shifting, color-changing abilities, and teleportation.",
+        "locText": "Warlock es miembro de una raza de organismos mecánicos que sobreviven infectando criaturas vivientes con el virus transmodal \"tecno-orgánico\", antes de drenar la energía vital (\"resplandor de vida\") del organismo infectado. A diferencia de otros de su raza, Warlock posee algo de compasión, lo que lo convierte en un mutante. Huyendo de su planeta natal, aterrizó en la Tierra cerca de la mansión del profesor Charles Xavier y eventualmente se convertiría en miembro de los Nuevos Mutantes del Profesor. Fue aquí donde descubrió que sus poderes incluían cambiar de forma, cambiar de color y teletransportarse."
+      }
+    },
+    {
+      "img": "heroes/Warpath.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Warpath",
+        "locText": "Warpath"
+      },
+      "realName": {
+        "text": "James Proudstar",
+        "locText": "James Proudstar"
+      },
+      "bio": {
+        "text": "Mutant James Proudstar sought revenge on the X-Men after his brother Thunderbird’s death, joining the Hellions once his superhuman powers manifested. Realizing his brother's death wasnt the fault of the X-Men, he refused to assassinate Xavier, though he remained with the Hellions. Feeling disillusioned by the group, he eventually left them. The Hellions took revenge by killing everyone on his reservation. Cable found him and asked him to join the X-Force. Fueled by his rage against the Hellions, Proudstar joined and became Warpath, fighting the Brotherhood of Evil Mutants and other villainous groups.",
+        "locText": "El mutante James Proudstar buscó vengarse de los X-Men después de la muerte de su hermano Thunderbird y se unió a los Hellions una vez que se manifestaron sus poderes sobrehumanos. Al darse cuenta de que la muerte de su hermano no fue culpa de los X-Men, se negó a asesinar a Xavier, aunque permaneció con los Hellions. Sintiéndose desilusionado por el grupo, finalmente los dejó. Los Hellions se vengaron matando a todos en su reserva. Cable lo encontró y le pidió que se uniera a X-Force. Impulsado por su ira contra los Hellions, Proudstar se unió y se convirtió en Warpath, luchando contra la Hermandad de los mutantes malvados y otros grupos de villanos."
+      }
+    },
+    {
+      "img": "heroes/Weapon-X.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Weapon X",
+        "locText": "Arma X"
+      },
+      "realName": {
+        "text": "James ‘Logan’ Howlett",
+        "locText": "James ‘Logan’ Howlett"
+      },
+      "bio": {
+        "text": "In an effort to aid the military using crafted mutant powers, Weapon X was a code name for the project in the Weapons Plus Program. They were enhancing mutants and giving normal humans mutant abilities through genetic engineering. Logan was the first mutant to undergo the risky Adamantium skeletal bonding procedure, in a project codenamed Experiment X. Part of the project involved implanting false memories to control him. Though the procedure was successful, Wolverine managed to escape, but he was left without his memories.",
+        "locText": "En un esfuerzo por ayudar a los militares utilizando poderes mutantes elaborados, Arma X era un nombre en clave para el proyecto en el Programa Armas Plus. Estaban mejorando mutantes y dando habilidades mutantes a humanos normales a través de la ingeniería genética. Logan fue el primer mutante en someterse al arriesgado procedimiento de unión esquelética de Adamantium, en un proyecto llamado Experimento X. Parte del proyecto implicó implantar recuerdos falsos para controlarlo. Aunque el procedimiento fue exitoso, Wolverine logró escapar, pero se quedó sin sus recuerdos."
+      }
+    },
+    {
+      "img": "heroes/Wolfsbane.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Wolfsbane",
+        "locText": "Wolfsbane"
+      },
+      "realName": {
+        "text": "Rahne Sinclair",
+        "locText": "Rahne Sinclair"
+      },
+      "bio": {
+        "text": "Orphan Rahne Sinclair was rescued, raised, and adopted by Doctor Moira Maclaggert atter an exorcism was planned to remove her mutant ability to morph into a wolf. She became Wolfsbane and joined the New Mutants soon after. Later she would use her powers in X-Factor and Excalibur.",
+        "locText": "La huérfana Rahne Sinclair fue rescatada, criada y adoptada por la doctora Moira Maclaggert después de que se planeó un exorcismo para eliminar su capacidad mutante de transformarse en lobo. Se convirtió en Wolfsbane y poco después se unió a los Nuevos Mutantes. Más tarde usaría sus poderes en X-Factor y Excalibur."
+      }
+    },
+    {
+      "img": "heroes/X-23.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "X-23",
+        "locText": "X-23"
+      },
+      "realName": {
+        "text": "Laura Kinney",
+        "locText": "Laura Kinney"
+      },
+      "bio": {
+        "text": "An attempt to clone Wolverine resulted in the birth of X-23, a female named for the 23rd try. During her childhood, Laura Kinney was injected with radiation poisoning to activate her retractable bone claws, which were then coated in Adamantium. She was trained to react to a \"trigger scent” that would send her into a blinding rage, unable to control herself. After being heavily manipulated by various groups, she met her biological father Wolverine who helped her join the X-Men and use her powers for good.",
+        "locText": "Un intento de clonar a Wolverine resultó en el nacimiento de X-23, una hembra llamada así por el intento número 23. Durante su infancia, a Laura Kinney se le inyectó envenenamiento por radiación para activar sus garras de hueso retráctiles, que luego se cubrieron con Adamantium. Fue entrenada para reaccionar a un \"olor desencadenante\" que la enviaba a una ira cegadora, incapaz de controlarse a sí misma. Después de ser fuertemente manipulada por varios grupos, conoció a su padre biológico Wolverine, quien la ayudó a unirse a los X-Men y usar sus poderes para bien."
+      }
+    },
+    {
+      "img": "heroes/Lockheed.jpg",
+      "loyalty": "other",
+      "name": {
+        "text": "Lockheed",
+        "locText": "Lockheed"
+      },
+      "realName": {
+        "text": "Lockheed",
+        "locText": "Lockheed"
+      },
+      "bio": {
+        "text": "Lockheed was from a highly-intelligent extraterrestrial race that resembled dragons. He possessed the power of natural flight, was able to breath fire, and could understand any language. Using astral ships, his race navigated space fighting the alien Brood species. After meeting and saving Kitty Pride, who'd ironically invented a story about a character almost exactly like him, the purple creature became Lockheed, her constant companion, and went with her to Earth. He protected her and saved her many times, accompanying her in her battles.",
+        "locText": "Lockheed era de una raza extraterrestre altamente inteligente que se parecía a los dragones. Poseía el poder del vuelo natural, podía respirar fuego y podía entender cualquier idioma. Usando naves astrales, su raza navegó por el espacio luchando contra las especies alienígenas de Brood. Después de conocer y salvar a Kitty Pride, quien irónicamente había inventado una historia sobre un personaje casi exactamente como él, la criatura púrpura se convirtió en Lockheed, su compañero constante, y se fue con ella a la Tierra. La protegió y la salvó muchas veces, acompañándola en sus batallas."
+      }
+    },
+    {
+      "img": "villains/Emma-Frost.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Emma Frost",
+        "locText": "Emma Frost"
+      },
+      "realName": {
+        "text": "Emma Grace Frost",
+        "locText": "Emma Grace Frost"
+      },
+      "bio": {
+        "text": "Emma Frost's telepathic abilities started manifesting in school, allowing her to get answers from fellow classmate's minds. Her abilities included turning her body into an organic diamond form and astral projection. Frost moved up the ranks in the Hellfire Club to become White Queen and the headmistress at the Massachusetts Academy for Mutants. She later helped the X-Men, though her allegiance stayed on the side of evil.",
+        "locText": "Las habilidades telepáticas de Emma Frost comenzaron a manifestarse en la escuela, permitiéndole obtener respuestas de las mentes de sus compañeros de clase. Sus habilidades incluían convertir su cuerpo en una forma de diamante orgánico y proyección astral. Frost subió de rango en el Club Hellfire para convertirse en Reina Blanca y directora de la Academia de Mutantes de Massachusetts. Más tarde ayudó a los X-Men, aunque su lealtad se mantuvo del lado del mal."
+      }
+    },
+    {
+      "img": "villains/Legion.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Legion",
+        "locText": "Legion"
+      },
+      "realName": {
+        "text": "David Haller",
+        "locText": "David Haller"
+      },
+      "bio": {
+        "text": "Omega-level mutant David Haller's abilities manifested in a terrorist attack ending with the terrorists minds being incinerated, leaving Haller with dissociative identity disorder. One of the personalities was the melded mind of the terrorist leader Jemail Karami. Karami was able to use Haller's telepathic abilities against him by introducing his split personalities back to him, taking away much of his control. When Xavier discovered Legion was actually his son, he worked to free him from the personalities, each of whom had their own set of powers.",
+        "locText": "Las habilidades del mutante de nivel omega David Haller se manifestaron en un ataque terrorista que terminó con la incineración de las mentes de los terroristas, dejando a Haller con un trastorno de identidad disociativo. Una de las personalidades era la mente fusionada del líder terrorista Jemail Karami. Karami pudo usar las habilidades telepáticas de Haller contra él al presentarle sus personalidades divididas, quitándole gran parte de su control. Cuando Xavier descubrió que Legion era en realidad su hijo, trabajó para liberarlo de las personalidades, cada una de las cuales tenía su propio conjunto de poderes."
+      }
+    },
+    {
+      "img": "villains/Marrow.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Marrow",
+        "locText": "Marrow"
+      },
+      "realName": {
+        "text": "Sarah",
+        "locText": "Sarah"
+      },
+      "bio": {
+        "text": "Sarah's mutation allows her to control the growth and shape of her bone structure, using her bone protrusions as extra protection, melee weapons, and even projectiles. She was originally part of the underground-dwelling Morlocks, led by Edisto. When she gained full control of her powers, she joined the Gene Nation terrorist group, punishing humans for their hatred towards mutants. Clashing against the X-Men, Marrow had her heart torn out by Storm, though, having two hearts, she survived. She was later recruited into the Weapon X program, only to betray the organization and lead a series of attacks against them. Eventually, Cable got her to join his X-Force black ops team.",
+        "locText": "La mutación de Sarah le permite controlar el crecimiento y la forma de su estructura ósea, utilizando sus protuberancias óseas como protección adicional, armas cuerpo a cuerpo e incluso proyectiles. Originalmente era parte de los Morlocks subterráneos, dirigidos por Edisto. Cuando obtuvo el control total de sus poderes, se unió al grupo terrorista Gene Nation, castigando a los humanos por su odio hacia los mutantes. Enfrentándose a los X-Men, Storm le arrancó el corazón a Marrow, aunque, al tener dos corazones, sobrevivió. Más tarde fue reclutada en el programa Arma X, solo para traicionar a la organización y liderar una serie de ataques contra ellos. Eventualmente, Cable consiguió que se uniera a su equipo de operaciones encubiertas de X-Force."
+      }
+    },
+    {
+      "img": "villains/Namor.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Namor",
+        "locText": "Namor"
+      },
+      "realName": {
+        "text": "Namur McKenzie",
+        "locText": "Namur McKenzie"
+      },
+      "bio": {
+        "text": "Half-human, half-Atlantean, Prince Namor assisted many groups including the X-Men, the Defenders, and the Avengers. Able to control others with his telepathy, he could also command sea life, and he has the ability to fly. His powers strengthened when he was in water. He teamed up with evil Doctor Doom to create the Cabal, later betraying it and creating one that aided people instead. But in the end, he went back to the X-Men, sharing Atlantis with them.",
+        "locText": "Mitad humano, mitad atlante, el Príncipe Namor ayudó a muchos grupos, incluidos los X-Men, los Defensores y los Vengadores. Capaz de controlar a otros con su telepatía, también podría comandar la vida marina y tiene la capacidad de volar. Sus poderes se fortalecieron cuando estaba en el agua. Se asoció con el malvado Doctor Doom para crear el Cabal, luego lo traicionó y creó uno que ayudó a la gente. Pero al final, volvió con los X-Men, compartiendo Atlantis con ellos."
+      }
+    },
+    {
+      "img": "villains/Spiral.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Spiral",
+        "locText": "Espiral"
+      },
+      "realName": {
+        "text": "Rita Wayworo",
+        "locText": "Rita Wayworo"
+      },
+      "bio": {
+        "text": "A created agent of Mojo, Spiral was one of his favorites. She was sent to capture Longshot who'd escaped to earth but ended up staying and joining the Freedom Force battling the Avengers, the X-Men, Firestar, and many more. She helped at the Body Shoppe, transforming Lady Deathstrike and others with the same genetic altering that was used on her. She eventually joined the X-Force team, led by Storm.",
+        "locText": "Espiral, un agente creado por Mojo, era uno de sus favoritos. La enviaron a capturar a Longshot, que había escapado a la tierra pero terminó quedándose y uniéndose a Freedom Force luchando contra los Vengadores, los X-Men, Firestar y muchos más. Ayudó en Body Shoppe, transformando a Lady Deathstrike y a otros con la misma alteración genética que se usó en ella. Eventualmente se unió al equipo X-Force, dirigido por Storm."
+      }
+    },
+    {
+      "img": "villains/Arcade.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Arcade",
+        "locText": "Arcade"
+      },
+      "realName": {
+        "text": "*Unrevealed*",
+        "locText": "*No revelado*"
+      },
+      "bio": {
+        "text": "Pathological liar Arcade's past was a mystery. He killed victims in his deathtrap amusement park, Murderworld. Equipped with a nanomachine-enhanced suit, he possessed powers only when wearing it. He fought against the Avengers, the X-Men, and Canada's Alpha Flight.",
+        "locText": "El pasado del mentiroso patológico Arcade era un misterio. Mató víctimas en su parque de diversiones trampa mortal, Murderworld. Equipado con un traje mejorado con nanomáquinas, solo poseía poderes cuando lo usaba. Luchó contra los Vengadores, los X-Men y Alpha Flight de Canadá."
+      }
+    },
+    {
+      "img": "villains/Avalanche.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Avalanche",
+        "locText": "Avalancha"
+      },
+      "realName": {
+        "text": "Dominikos Ioannis Petrakis",
+        "locText": "Dominikos Ioannis Petrakis"
+      },
+      "bio": {
+        "text": "Born in the Greek island of Crete, Dominikos' mutation allows him to generate powerful seismic waves from his hands, creating localized earthquakes. As Avalanche, he was recruited by Mystique to the second Brotherhood of Mutants. Though their schemes were often frustrated by the X-Men, Avalanche remained with the Brotherhood for quite some time. He eventually joined the X-Corps, helping police the mutant community. However, when the mind control he was under was removed, he went on a rampage through Paris, destroying the Eiffel Tower.",
+        "locText": "Nacido en la isla griega de Creta, la mutación de Dominikos le permite generar poderosas ondas sísmicas de sus manos, creando terremotos localizados. Como Avalanche, fue reclutado por Mystique para la segunda Hermandad de Mutantes. Aunque sus planes a menudo fueron frustrados por los X-Men, Avalanche permaneció con la Hermandad durante bastante tiempo. Eventualmente se unió al X-Corps, ayudando a vigilar a la comunidad mutante. Sin embargo, cuando se eliminó el control mental bajo el que estaba, se enfureció en París y destruyó la Torre Eiffel."
+      }
+    },
+    {
+      "img": "villains/Blob.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Blob",
+        "locText": "Mole"
+      },
+      "realName": {
+        "text": "Frederick \"Fred\" J. Dukes",
+        "locText": "Frederick \"Fred\" J. Dukes"
+      },
+      "bio": {
+        "text": "Fred Dukes used his mutant abilities as a freak in a carnival but was pursued by Charles Xavier to be part of the X-Men. After refusing, he returned with the circus performers to take over the group. Magneto invited him to join the Brotherhood of Evil Mutants, but Blob was hit in crossfire during a fight with the X-Men. Feeling frustrated, he joined Factor Three until he was rescued by the X-Men. Though he was repeatedly saved by the X-Men, he always stayed on the side of evil, ending up with a group called X-Cell.",
+        "locText": "Fred Dukes usó sus habilidades mutantes como un monstruo en un carnaval, pero Charles Xavier lo persiguió para que fuera parte de los X-Men. Después de negarse, regresó con los artistas del circo para hacerse cargo del grupo. Magneto lo invitó a unirse a la Hermandad de los mutantes malvados, pero Blob fue alcanzado por fuego cruzado durante una pelea con los X-Men. Sintiéndose frustrado, se unió a Factor Three hasta que los X-Men lo rescataron. Aunque los X-Men lo salvaron repetidamente, siempre se mantuvo del lado del mal, y terminó con un grupo llamado X-Cell."
+      }
+    },
+    {
+      "img": "villains/Brood-Queen.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Brood Queen",
+        "locText": "Reina Brood"
+      },
+      "bio": {
+        "text": "Insectoid invasive alien race Broods loved to instill fear and suffering in their victims. Their Queen would impregnate victims with Brood embryos, turning them into Brood warriors. When the Brood Queen battled the X-Men and succeeded in impregnating them, they were saved by the Soulforce who cured them and killed the Queen by turning her into a statue.",
+        "locText": "A la raza alienígena invasora insectoide Broods le encantaba infundir miedo y sufrimiento en sus víctimas. Su Reina embarazaría a las víctimas con embriones de Brood, convirtiéndolos en guerreros de Brood. Cuando la Reina Brood luchó contra los X-Men y logró embarazarlos, Soulforce los salvó y los curó y mató a la Reina convirtiéndola en una estatua."
+      }
+    },
+    {
+      "img": "villains/Callisto.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Callisto",
+        "locText": "Callisto"
+      },
+      "realName": {
+        "text": "*Unrevealed*",
+        "locText": "*No revelado*"
+      },
+      "bio": {
+        "text": "Callisto Powers was the leader of the Morlocks, a group of misfit mutants she created. They liked kidnapping and terrorizing surface dwellers. When Storm took over leadership of the Morlocks through a battle, and ended up saving Callisto more than once, she began to consider the X-Men allies.",
+        "locText": "Callisto Powers era la líder de los Morlocks, un grupo de mutantes inadaptados que ella creó. Les gustaba secuestrar y aterrorizar a los habitantes de la superficie. Cuando Storm asumió el liderazgo de los Morlocks a través de una batalla y terminó salvando a Callisto más de una vez, comenzó a considerar aliados a los X-Men."
+      }
+    },
+    {
+      "img": "villains/Dark-Phoenix.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Dark Phoenix",
+        "locText": "Fénix Oscura"
+      },
+      "realName": {
+        "text": "Jean Grey",
+        "locText": "Jean Grey"
+      },
+      "bio": {
+        "text": "After the Phoenix Force consumed Jean Grey, caused by the Hellfire Club, she was driven crazy and turned into the Dark Phoenix. Her powers multiplied in this form, giving her supersonic speed among other powers. She was considered the most powerful mutant in the universe in this state but also one of the most dangerous.",
+        "locText": "Después de que la Fuerza Fénix consumiera a Jean Grey, causada por el Hellfire Club, ella se volvió loca y se convirtió en Fénix Oscura. Sus poderes se multiplicaron de esta forma, dándole una velocidad supersónica entre otros poderes. Fue considerada la mutante más poderosa del universo en este estado pero también una de las más peligrosas."
+      }
+    },
+    {
+      "img": "villains/Deathbird.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Deathbird",
+        "locText": "Deathbird"
+      },
+      "realName": {
+        "text": "Cal'syee Neramani",
+        "locText": "Cal'syee Neramani"
+      },
+      "bio": {
+        "text": "Cal'syee Neramani was the heir to the throne of the Shi'ar Empire. She was fiercely proud of her birdlike features and her ability to fly. However, this also caused her to experience uncontrollable fits of rage that eventually caused her to kill her mother and sister. The right to the throne was taken from her and she / was renamed Deathbird. She took a liking to Bishop but their relationship ended in her betrayal.",
+        "locText": "Cal'syee Neramani era la heredera al trono del Imperio Shi'ar. Estaba ferozmente orgullosa de sus rasgos de pájaro y de su habilidad para volar. Sin embargo, esto también provocó que experimentara ataques de ira incontrolables que eventualmente la llevaron a matar a su madre y hermana. Se le quitó el derecho al trono y se le cambió el nombre a Deathbird. A ella le gustó Bishop, pero su relación terminó con su traición."
+      }
+    },
+    {
+      "img": "villains/Lady-Deathstrike.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Lady Deathstrike",
+        "locText": "Lady Deathstrike"
+      },
+      "realName": {
+        "text": "Yuriko Dyama",
+        "locText": "Yuriko Dyama"
+      },
+      "bio": {
+        "text": "Yuriko Oyama's father, Lord Dark Wind, created the process that would bond Adamantium to bone. After years of abuse by him, Yuriko enlisted help from Daredevil to get revenge by freeing her lover Kira, who was under her father's power. Instead Kira killed himself. Yukiro was Overwhelmed with grief and embraced her father's theories on revenge, becoming Lady Deathstrike. This led to her constant clashing with Wolverine, who wanted revenge on Lord Dark Wind.",
+        "locText": "El padre de Yuriko Oyama, Lord Dark Wind, creó el proceso que uniría Adamantium al hueso. Después de años de abuso por parte de él, Yuriko solicitó la ayuda de Daredevil para vengarse liberando a su amante Kira, que estaba bajo el poder de su padre. En cambio, Kira se suicidó. Yukiro estaba abrumada por el dolor y abrazó las teorías de venganza de su padre, convirtiéndose en Lady Deathstrike. Esto la llevó a su constante enfrentamiento con Lobezno, quien quería vengarse de Lord Dark Wind."
+      }
+    },
+    {
+      "img": "villains/Mastermind.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Mastermind",
+        "locText": "Mastermind"
+      },
+      "realName": {
+        "text": "Jason Wyngarde",
+        "locText": "Jason Wyngarde"
+      },
+      "bio": {
+        "text": "Jason Wyngarde was enlisted by Magneto into the original Brotherhood of Mutants. As Mastermind, he used his mental powers to create powerful illusions and alter the minds of the Brotherhood's enemies. Later, he joined the influential Hellfire Club, taking the position of Black Rook. As a bid for admission into its Inner Circle, Mastermind used his powers to alter Jean Grey's personality, bringing her into the Hellfire Club as the Black Queen (who was in reality a duplicate created by the Phoenix Force). This process helped trigger her transformation into the insane Dark Phoenix, lashing back at Mastermind and disgracing him with the Hellfire Club.",
+        "locText": "Jason Wyngarde fue reclutado por Magneto en la Hermandad de Mutantes original. Como Mastermind, usó sus poderes mentales para crear poderosas ilusiones y alterar las mentes de los enemigos de la Hermandad. Más tarde, se unió al influyente Hellfire Club, tomando el puesto de Black Rook. Como una oferta para la admisión en su Inner Circle, Mastermind usó sus poderes para alterar la personalidad de Jean Grey, llevándola al Hellfire Club como Black Queen (que en realidad era un duplicado creado por Fuerza Fénix). Este proceso ayudó a desencadenar su transformación en la loca Fénix Oscura, atacando a Mastermind y deshonrándolo con el Hellfire Club."
+      }
+    },
+    {
+      "img": "villains/Mojo.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Mojo",
+        "locText": "Mojo"
+      },
+      "realName": {
+        "text": "Mojo",
+        "locText": "Mojo"
+      },
+      "bio": {
+        "text": "Ruler of Mojo World in the Mojoverse dimension Mojo was a member of the Spineless Ones, a civilization that surpassed Earth's technology. But technology led them to an obsession with television, with ratings controlling everything. After he gave Psylocke cybernetic eyes, he was able to observe the X-Men without them knowing and Mojo broadcast their adventures on his planet.",
+        "locText": "Gobernante de Mojo World en la dimensión Mojoverse Mojo era miembro de los Sin espinas, una civilización que superó la tecnología de la Tierra. Pero la tecnología los llevó a una obsesión por la televisión, con los índices de audiencia controlándolo todo. Después de que le dio ojos cibernéticos a Psylocke, pudo observar a los X-Men sin que ellos lo supieran y Mojo transmitió sus aventuras en su planeta."
+      }
+    },
+    {
+      "img": "villains/Omega-Red.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Omega Red",
+        "locText": "Rojo Omega"
+      },
+      "realName": {
+        "text": "Arkady Gregorivich Rossovich",
+        "locText": "Arkady Gregorivich Rossovich"
+      },
+      "bio": {
+        "text": "Arkady Gregorivich Rossovich was a Russian mutant who murdered civilians in his position in the Spetsnaz and was executed when his crimes were discovered. His regenerative mutant powers kept him alive, so he was sent to a government-run super-soldier project where he was tortured and his skin turned white. Implanted with Carbonadium tentacles, he was only able to survive by draining the life force from his victims. He fought the X-Men throughout.",
+        "locText": "Arkady Gregorivich Rossovich fue un mutante ruso que asesinó a civiles en su posición en los Spetsnaz y fue ejecutado cuando se descubrieron sus crímenes. Sus poderes mutantes regenerativos lo mantuvieron con vida, por lo que fue enviado a un proyecto de supersoldado administrado por el gobierno donde fue torturado y su piel se volvió blanca. Implantado con tentáculos de carbonadio, solo pudo sobrevivir drenando la fuerza vital de sus víctimas. Luchó contra los X-Men en todo momento."
+      }
+    },
+    {
+      "img": "villains/Onslaught.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Onslaught",
+        "locText": "Onslaught"
+      },
+      "bio": {
+        "text": "Living inside Charles Xavier's consciousness was a sentience psionic entity created during a telepathic battle with Magneto. After Xavier turned off Magneto's mind, he ended up absorbing anger, hatred, and lust for revenge from Magneto. His own anger mixed and Onslaught was created. When Xavier's anger reached a boiling point, Onslaught woke up and was able to take over his body. He was taken on by the X-Men, the Fantastic Four, and the Avengers, who were able to free the trapped professor.",
+        "locText": "Viviendo dentro de la conciencia de Charles Xavier había una entidad psiónica sensible creada durante una batalla telepática con Magneto. Después de que Xavier apagó la mente de Magneto, terminó absorbiendo la ira, el odio y la sed de venganza de Magneto. Su propia ira se mezcló y se creó Onslaught. Cuando la ira de Xavier alcanzó un punto de ebullición, Onslaught se despertó y pudo apoderarse de su cuerpo. Fue asumido por los X-Men, los Cuatro Fantásticos y los Vengadores, quienes pudieron liberar al profesor atrapado."
+      }
+    },
+    {
+      "img": "villains/Pyro.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Pyro",
+        "locText": "Pyro"
+      },
+      "realName": {
+        "text": "St. John Allerdyce",
+        "locText": "St. John Allerdyce"
+      },
+      "bio": {
+        "text": "Australian journalist and novelist St. John Allerdyce was asked to join the Brotherhood of Evil Mutants by Mystique. He was able to create fires and turn them into creatures able to attack others. As Pyro, he fought — and lost — to the X-Men many times. Continuing on with the Brotherhood when it became Freedom Force, he fought with them until he contracted the Legacy Virus.",
+        "locText": "Mystique le pidió al periodista y novelista australiano St. John Allerdyce que se uniera a la Hermandad de mutantes malvados. Pudo crear fuegos y convertirlos en criaturas capaces de atacar a otros. Como Pyro, luchó, y perdió, ante los X-Men muchas veces. Continuando con la Hermandad cuando se convirtió en Freedom Force, luchó con ellos hasta que contrajo el Legacy Virus."
+      }
+    },
+    {
+      "img": "villains/Sauron.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Sauron",
+        "locText": "Sauron"
+      },
+      "realName": {
+        "text": "Karl Lykos",
+        "locText": "Karl Lykos"
+      },
+      "bio": {
+        "text": "After being bitten by a mutated pterodactyl, Dr. Karl Lykos was infected with a vampiric need to drain energy to survive. He used hypnotism on his patients to drain them. including Havok, whose energy turned turned Lykos into the reptilian Sauron. His Sauron half battled the X-Men while his Lykos half helped them. His power as Sauron became too strong and he joined the Brotherhood of Evil Mutants, leaving his Lykos part behind.",
+        "locText": "Después de ser mordido por un pterodáctilo mutado, el Dr. Karl Lykos se infectó con una necesidad vampírica de drenar energía para sobrevivir. Usó el hipnotismo en sus pacientes para drenarlos. incluido Havok, cuya energía convirtió a Lykos en el reptiliano Sauron. Su medio Sauron luchó contra los X-Men mientras que su medio Lykos los ayudó. Su poder como Sauron se volvió demasiado fuerte y se unió a la Hermandad de los mutantes malvados, dejando atrás su parte de Lykos."
+      }
+    },
+    {
+      "img": "villains/Shadow-King.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Shadow King",
+        "locText": "Shadow King"
+      },
+      "realName": {
+        "text": "Amahl Farouk",
+        "locText": "Amahl Farouk"
+      },
+      "bio": {
+        "text": "Mysterious foe of the X-Men, Shadow King's origins are murky. He used bodies as hosts, connecting to them with his telepathic energy from the astral plane. He used his powers for evil, sending psychic bolts at his opponents. His biggest desire was to dominate humankind. Though Xavier defeated his physical form, he was able to continue his fight from the astral plane.",
+        "locText": "Enemigo misterioso de los X-Men, los orígenes de Shadow King son turbios. Usó cuerpos como anfitriones, conectándose a ellos con su energía telepática desde el plano astral. Usó sus poderes para el mal, enviando rayos psíquicos a sus oponentes. Su mayor deseo era dominar a la humanidad. Aunque Xavier derrotó a su forma física, pudo continuar su lucha desde el plano astral."
+      }
+    },
+    {
+      "img": "villains/Silver-Samurai.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Silver Samurai",
+        "locText": "Silver Samurai"
+      },
+      "realName": {
+        "text": "Kenuichio Harada",
+        "locText": "Kenuichio Harada"
+      },
+      "bio": {
+        "text": "Billing himself as a warrior for hire, mutant Keniuchio Harada was trained in medieval samurai. As a bodyguard for HYDRA agent Viper, he clashed with many mutants and heroes. With the ability to add a field of tachyon energy from his body, he most successfully focused it at his sword, making it indestructible. Bested by Wolverine in a fight, he lost his hand at the wrist and wasn't seen again.",
+        "locText": "Haciéndose pasar por un guerrero a sueldo, el mutante Keniuchio Harada fue entrenado como samurái medieval. Como guardaespaldas del agente Viper de HYDRA, se enfrentó a muchos mutantes y héroes. Con la capacidad de agregar un campo de energía de taquiones de su cuerpo, lo enfocó con más éxito en su espada, haciéndola indestructible. Superado por Wolverine en una pelea, perdió la mano en la muñeca y no se lo volvió a ver."
+      }
+    },
+    {
+      "img": "villains/Toad.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Toad",
+        "locText": "Toad"
+      },
+      "realName": {
+        "text": "Mortimer Toynbee",
+        "locText": "Mortimer Toynbee"
+      },
+      "bio": {
+        "text": "Mortimer Toynbee grew up in an orphanage after being abandoned by his family. His froglike ability to leap superhuman heights, a tongue used as a whip, and venom shot from his mouth made him a formidable foe. But his trust issues caused him strife. He joined the Brotherhood of Evil Mutants but his allegiance to Magneto waned after he was left behind in battle and later taunted by him.",
+        "locText": "Mortimer Toynbee creció en un orfanato después de ser abandonado por su familia. Su habilidad similar a la de una rana para saltar alturas sobrehumanas, una lengua que usaba como látigo y el veneno que salía de su boca lo convertían en un enemigo formidable. Pero sus problemas de confianza le causaron conflictos. Se unió a la Hermandad de los mutantes malvados, pero su lealtad a Magneto disminuyó después de que se quedó atrás en la batalla y luego se burló de él."
+      }
+    },
+    {
+      "img": "villains/Brotherhood.jpg",
+      "loyalty": "hidden"
+    }
+  ],
+  "faq": []
+}

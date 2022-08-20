@@ -1,0 +1,96 @@
+{
+  "boxId": "MUN-KS18",
+  "img": "mun-ks18.jpg",
+  "name": {
+    "text": "Marvel United X-Force",
+    "locText": "Marvel United X-Force"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [],
+  "challenges": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Cable.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cable",
+        "locText": "Cable"
+      },
+      "realName": {
+        "text": "Nathan Summers",
+        "locText": "Nathan Summers"
+      },
+      "bio": {
+        "text": "Mutant Nathan Summers, the son of Madelyn Pryor — a clone of Jean Grey — and Scott Summers, was devised by Mister Sinister in hopes of creating a super mutant who would defeat Apocalypse. He was indeed extremely powerful with telepathic and telekinetic abilities. Unfortunately, Apocalypse infected him with a techno-organic virus and Cable was sent into the future in hopes of salvation. He returned with a metal arm and a robotic eye and a penchant for taking down Super Villains.",
+        "locText": "Mutant Nathan Summers, the son of Madelyn Pryor — a clone of Jean Grey — and Scott Summers, was devised by Mister Sinister in hopes of creating a super mutant who would defeat Apocalypse. He was indeed extremely powerful with telepathic and telekinetic abilities. Unfortunately, Apocalypse infected him with a techno-organic virus and Cable was sent into the future in hopes of salvation. He returned with a metal arm and a robotic eye and a penchant for taking down Super Villains."
+      }
+    },
+    {
+      "img": "heroes/Cannonball.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cannonball",
+        "locText": "Cannonball"
+      },
+      "realName": {
+        "text": "Sam Guthrie",
+        "locText": "Sam Guthrie"
+      },
+      "bio": {
+        "text": "Kentucky boy Samuel Guthrie grew up on a farm. After being trapped in a coal mine, his blasting powers manifested for the first time, allowing him to escape. Manipulated by Donald Pierce into serving as a member of the Hellfire Club, he was sent to fight Professor X and his team. Instead of battling them, he was invited to join the New Mutants. He also spent time in his long career with the Avengers fighting evil, ultimately leading him back to the X-Men.",
+        "locText": "Kentucky boy Samuel Guthrie grew up on a farm. After being trapped in a coal mine, his blasting powers manifested for the first time, allowing him to escape. Manipulated by Donald Pierce into serving as a member of the Hellfire Club, he was sent to fight Professor X and his team. Instead of battling them, he was invited to join the New Mutants. He also spent time in his long career with the Avengers fighting evil, ultimately leading him back to the X-Men."
+      }
+    },
+    {
+      "img": "heroes/Domino.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Domino",
+        "locText": "Domino"
+      },
+      "realName": {
+        "text": "Neena Thurman",
+        "locText": "Neena Thurman"
+      },
+      "bio": {
+        "text": "Born into the top-secret government Project Armageddon breeding program, Neena Thurman was genetically engineered to be the perfect weapon. Hired as a mercenary, she ended up as genius Milo Thurman's bodyguard and they fell in love. After a terrorist attack, she believed that Milo was dead and joined Six Pack, befriending Cable. Her probability field mutant power allowed her to shift odds to her favor making her extremely lucky. Always remaining independent, she helped the X-Men fight for mutant rights.",
+        "locText": "Born into the top-secret government Project Armageddon breeding program, Neena Thurman was genetically engineered to be the perfect weapon. Hired as a mercenary, she ended up as genius Milo Thurman's bodyguard and they fell in love. After a terrorist attack, she believed that Milo was dead and joined Six Pack, befriending Cable. Her probability field mutant power allowed her to shift odds to her favor making her extremely lucky. Always remaining independent, she helped the X-Men fight for mutant rights."
+      }
+    },
+    {
+      "img": "heroes/Shatterstar.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Shatterstar",
+        "locText": "Shatterstar"
+      },
+      "realName": {
+        "text": "Gaveedra Seven",
+        "locText": "Gaveedra Seven"
+      },
+      "bio": {
+        "text": "Hailing from the planet Mojoworld, Shatterstar was a time-traveler and dimension-hopper. He was genetically altered with superhuman powers and learned advanced weaponry.\nTrained in combat as an arena gladiator, he became a warrior with the Cadre Alliance. The group led him to the X-Men in the time of X-Force. Convinced to join them, he fought in many battles by their side.",
+        "locText": "Hailing from the planet Mojoworld, Shatterstar was a time-traveler and dimension-hopper. He was genetically altered with superhuman powers and learned advanced weaponry.\nTrained in combat as an arena gladiator, he became a warrior with the Cadre Alliance. The group led him to the X-Men in the time of X-Force. Convinced to join them, he fought in many battles by their side."
+      }
+    },
+    {
+      "img": "villains/Stryfe.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Stryfe",
+        "locText": "Stryfe"
+      },
+      "realName": {
+        "text": "Clone of Nathan Christopher Summers",
+        "locText": "Clone of Nathan Christopher Summers"
+      },
+      "bio": {
+        "text": "When Nathan Summers was pulled into the future by Mother Askani to save him from a techno-organic virus injection, she created a clone in case he didn't survive. Cable did survive and Apocalypse kidnapped the baby clone, dubbing him Stryfe. Trained to be evil, Stryfe possessed Cable's powers and Apocalypse hoped to embody him. Nathan Summers killed the Super Villain before the transition could happen and Cable and Stryfe became lifelong enemies. Stryfe introduced the lethal Legacy Virus to the world, killing many mutants. He was eventually defeated by the demon Blackheart, ending his reign of terror.",
+        "locText": "When Nathan Summers was pulled into the future by Mother Askani to save him from a techno-organic virus injection, she created a clone in case he didn't survive. Cable did survive and Apocalypse kidnapped the baby clone, dubbing him Stryfe. Trained to be evil, Stryfe possessed Cable's powers and Apocalypse hoped to embody him. Nathan Summers killed the Super Villain before the transition could happen and Cable and Stryfe became lifelong enemies. Stryfe introduced the lethal Legacy Virus to the world, killing many mutants. He was eventually defeated by the demon Blackheart, ending his reign of terror."
+      }
+    }
+  ],
+  "faq": []
+}

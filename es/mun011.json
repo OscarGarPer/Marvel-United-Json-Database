@@ -1,0 +1,176 @@
+{
+  "boxId": "MUN011",
+  "img": "mun011.jpg",
+  "name": {
+    "text": "Marvel United X-Men",
+    "locText": "Marvel United X-Men"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [],
+  "challenges": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Beast.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Beast",
+        "locText": "Bestia"
+      },
+      "realName": {
+        "text": "Henry \"Hank\" McCoy",
+        "locText": "Henry \"Hank\" McCoy"
+      },
+      "bio": {
+        "text": "An unusual mutant whose simian physique was apparent at birth, Hank McCoy was gifted with a vast intellect complementing his prodigious strength. Recruited personally by Professor X to study at the Xavier Institute, McCoy became one of the founding members of the X-Men. Later, in an experiment gone wrong, McCoy accidentally altered his own DNA, resulting in the addition of blue fur and other animal-like mutations, forever cementing his identity as Beast.",
+        "locText": "Un mutante inusual cuyo físico simiesco era evidente al nacer, Hank McCoy estaba dotado de un vasto intelecto que complementaba su prodigiosa fuerza. Reclutado personalmente por el Profesor X para estudiar en el Instituto Xavier, McCoy se convirtió en uno de los miembros fundadores de los X-Men. Más tarde, en un experimento que salió mal, McCoy alteró accidentalmente su propio ADN, lo que resultó en la adición de pelaje azul y otras mutaciones similares a las de los animales, lo que cimentó para siempre su identidad como Bestia."
+      }
+    },
+    {
+      "img": "heroes/Cyclops.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cyclops",
+        "locText": "Cíclope"
+      },
+      "realName": {
+        "text": "Scott Summers",
+        "locText": "Scott Summers"
+      },
+      "bio": {
+        "text": "At an early age, Scott Summers devastating mutant power first manifested, causing his eyes to persistently emit a destructive optic blast any time they remained open. Seemingly cursed by this mutation, Scott's life was turned around under the guidance of Professor Charles Xavier, who provided Scott with a unique ruby quartz visor to control hispowers. In turn, Scott came / to devote his life to Xavier's dream of peace between humans and mutants, becoming the iconic Cyclops, leader of the X-Men!",
+        "locText": "A una edad temprana, el devastador poder mutante de Scott Summers se manifestó por primera vez, lo que provocó que sus ojos emitieran persistentemente una explosión óptica destructiva cada vez que permanecían abiertos. Aparentemente maldecido por esta mutación, la vida de Scott cambió bajo la guía del profesor Charles Xavier, quien le proporcionó a Scott un visor de cuarzo rubí único para controlar sus poderes. A su vez, Scott vino a dedicar su vida al sueño de paz entre humanos y mutantes de Xavier, ¡convirtiéndose en el icónico Cíclope, líder de los X-Men!"
+      }
+    },
+    {
+      "img": "heroes/Jean-Grey.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Jean Grey",
+        "locText": "Jean Grey"
+      },
+      "realName": {
+        "text": "Jean Grey",
+        "locText": "Jean Grey"
+      },
+      "bio": {
+        "text": "A powerful telepath and telekinetic, Jean Grey was tutored from a young age by Charles Xavier, who taught the fledgling mutant to control her developing abilities. As she gained greater skill directing her mental energies, Jean joined the X-Men as one of its founding members, becoming a cornerstone of the team.",
+        "locText": "Una poderosa telépata y telequinética, Jean Grey fue instruida desde muy joven por Charles Xavier, quien le enseñó a la joven mutante a controlar sus habilidades en desarrollo. A medida que adquirió mayor habilidad para dirigir sus energías mentales, Jean se unió a los X-Men como uno de sus miembros fundadores, convirtiéndose en la piedra angular del equipo."
+      }
+    },
+    {
+      "img": "heroes/Professor-X.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Professor X",
+        "locText": "Profesor X"
+      },
+      "realName": {
+        "text": "Charles Francis Xavier",
+        "locText": "Charles Francis Xavier"
+      },
+      "bio": {
+        "text": "Perhaps the most influential figure in the history of mutantkind, Professor Charles Xavier is the founder and head of the X-Men. As a young man, Xavier learned that his vast telepathic abilities allowed him to control, influence, and see everything in a person's mind. Fearing the rise of militant mutants like his onetime friend Magneto, Xavier dedicated himself to a dream of peaceful coexistence between humans and mutants. With the foundation of the Xavier Institute for Higher Learning, the visionary Professor X has educated many young students — among them the future members of the X-Men!",
+        "locText": "Quizás la figura más influyente en la historia de los mutantes, el profesor Charles Xavier es el fundador y director de los X-Men. Cuando era joven, Xavier aprendió que sus vastas habilidades telepáticas le permitían controlar, influir y ver todo en la mente de una persona. Temiendo el surgimiento de mutantes militantes como su antiguo amigo Magneto, Xavier se dedicó a un sueño de coexistencia pacífica entre humanos y mutantes. Con la fundación del Xavier Institute for Higher Learning, el visionario Profesor X ha educado a muchos jóvenes estudiantes, ¡entre ellos los futuros miembros de los X-Men!"
+      }
+    },
+    {
+      "img": "heroes/Storm.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Storm",
+        "locText": "Tormenta"
+      },
+      "realName": {
+        "text": "Ororo Munroe",
+        "locText": "Ororo Munroe"
+      },
+      "bio": {
+        "text": "Born in New York but raised in Egypt, Uroro Munroe lost her parents in a tragic military conflict, subsequently surviving as a pickpocket on the streets of Cairo. When her nascent mutant power to control the weather manifested, she was for a time worshipped as a goddess by the people of the Serengeti before being recruited by Professor X to join his squad of mutant Super Heroes. As part of the X-Men, Oruro became Storm, a pillar of the group and one of the most respected and tenured leaders in the team's long history.",
+        "locText": "Nacida en Nueva York pero criada en Egipto, Uroro Munroe perdió a sus padres en un trágico conflicto militar y posteriormente sobrevivió como carterista en las calles de El Cairo. Cuando se manifestó su incipiente poder mutante para controlar el clima, la gente del Serengeti la adoró como una diosa durante un tiempo antes de ser reclutada por el Profesor X para unirse a su escuadrón de superhéroes mutantes. Como parte de los X-Men, Oruro se convirtió en Storm, un pilar del grupo y uno de los líderes más respetados y permanentes en la larga historia del equipo."
+      }
+    },
+    {
+      "img": "heroes/Wolverine.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Wolverine",
+        "locText": "Lobezno"
+      },
+      "realName": {
+        "text": "James ‘Logan’ Howlett",
+        "locText": "James ‘Logan’ Howlett"
+      },
+      "bio": {
+        "text": "Having lived numerous lifetimes as a result of his regenerative mutation, the man known as Logan lost his memories during a fateful experiment run by the infamous Weapon X organization. Driven into a feral state by the intense process of having Adamantium metal bonded to his bones and mutant claws, Logan made a frenzied escapeinto the Canadian wilderness, later drifting from place to place seeking refuge from his past. He found a new home, and renewed meaning in life, when he met the X-Men, joining their ranks as the grizzled, unpredictable Wolverine.",
+        "locText": "Habiendo vivido numerosas vidas como resultado de su mutación regenerativa, el hombre conocido como Logan perdió sus recuerdos durante un fatídico experimento dirigido por la infame organización Arma X. Conducido a un estado salvaje por el intenso proceso de tener metal Adamantium adherido a sus huesos y garras mutantes, Logan hizo un escape frenético a la naturaleza canadiense, y luego fue a la deriva de un lugar a otro en busca de refugio de su pasado. Encontró un nuevo hogar y un significado renovado en la vida cuando conoció a los X-Men, uniéndose a sus filas como el canoso e impredecible Wolverine."
+      }
+    },
+    {
+      "img": "villains/Magneto.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Magneto",
+        "locText": "Magneto"
+      },
+      "realName": {
+        "text": "Erik Magnus Lehnsnerr",
+        "locText": "Erik Magnus Lehnsnerr"
+      },
+      "bio": {
+        "text": "Erik Lehnsherr, an Auschwitz survivor, first met Charles Xavier when the two were young men. The two new friends shared many debates about mutantkind's place in the world. Fearing the judgment and hatred that he foresaw humanity bringing to bear against mutants, Erik ultimately abandoned Xavier, believing the professor's more pacifist views to be incompatible with his own. Erik became Magento: master of magnetism, archnemesis of the X-Men, and founder of the Brotherhood of Evil Mutants, a radical group dedicated to the \"protection\" of mutants using violence and other extremist means.",
+        "locText": "Erik Lehnsherr, un sobreviviente de Auschwitz, conoció a Charles Xavier cuando los dos eran jóvenes. Los dos nuevos amigos compartieron muchos debates sobre el lugar de los mutantes en el mundo. Temiendo el juicio y el odio que preveía que la humanidad ejercería contra los mutantes, Erik finalmente abandonó a Xavier, creyendo que las opiniones más pacifistas del profesor eran incompatibles con las suyas. Erik se convirtió en Magento: maestro del magnetismo, archienemigo de los X-Men y fundador de la Hermandad de Mutantes Malvados, un grupo radical dedicado a la \"protección\" de los mutantes usando la violencia y otros medios extremistas."
+      }
+    },
+    {
+      "img": "villains/Mystique.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Mystique",
+        "locText": "Mística"
+      },
+      "realName": {
+        "text": "Raven Darkholme",
+        "locText": "Raven Darkholme"
+      },
+      "bio": {
+        "text": "Abandoned at an early age after her shapeshifting mutation revealed itself, Raven Darkholme fended for herself. Able to psionically alter her cells at will, she had the power to exactly duplicate any living creature, though she couldn't take on their powers. A strong believer in preserving mutants, she vacillated between helping humans and fighting them, often engaging in criminal activity. As a member of Magneto's Brotherhood of Evil Mutants and later a leader of it, she fought many groups, including the X-Men.",
+        "locText": "Abandonada a una edad temprana después de que se revelara su mutación de cambio de forma, Raven Darkholme se las arregló para sí misma. Capaz de alterar psiónicamente sus células a voluntad, tenía el poder de duplicar exactamente a cualquier criatura viviente, aunque no podía asumir sus poderes. Una firme creyente en la preservación de los mutantes, vaciló entre ayudar a los humanos y luchar contra ellos, a menudo participando en actividades delictivas. Como miembro de la Hermandad de mutantes malvados de Magneto y más tarde líder de la misma, luchó contra muchos grupos, incluidos los X-Men."
+      }
+    },
+    {
+      "img": "villains/Juggernaut.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Juggernaut",
+        "locText": "Juggernaut"
+      },
+      "realName": {
+        "text": "Cain Marko",
+        "locText": "Cain Marko"
+      },
+      "bio": {
+        "text": "Born without mutant genes, Cain Marko gained his powers after touching the Crimson Gem of Cyttorak, which turned him into the superhuman Juggernaut. He later learned that he was Cyttorak's avatar designed to remove human freewill. With the X-Men's help, he foiled theplan. Having grown up as Charles Xavier's stepbrother, Cain had hated him for his innate powers. He spent his life in pursuit of ending Xavier's but was unsuccessful with each attempt.",
+        "locText": "Nacido sin genes mutantes, Cain Marko ganó sus poderes después de tocar la gema carmesí de Cyttorak, que lo convirtió en el Juggernaut sobrehumano. Más tarde se enteró de que él era el avatar de Cyttorak diseñado para eliminar el libre albedrío humano. Con la ayuda de los X-Men, frustró el plan. Habiendo crecido como el hermanastro de Charles Xavier, Cain lo había odiado por sus poderes innatos. Pasó su vida en la búsqueda de acabar con la de Xavier, pero no tuvo éxito en cada intento."
+      }
+    },
+    {
+      "img": "villains/Sabretooth.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Sabretooth",
+        "locText": "Dientes De Sable"
+      },
+      "realName": {
+        "text": "Victor Creed",
+        "locText": "Victor Creed"
+      },
+      "bio": {
+        "text": "Born with superhuman strength, fangs and claws, and a way to insulate himself against the cold, Victor Creed was rejected by his abusive family and set out on his own. As Sabretooth, he was an assassin and mercenary for various organizations including Team X, part of the Weapon X program. Though friendly at first, he became the sworn enemy of Wolverine. The two battled constantly and Sabretooth often pretended to be an ally of the X-Men, always turning on them in the end.",
+        "locText": "Nacido con una fuerza sobrehumana, colmillos y garras, y una forma de protegerse contra el frío, Victor Creed fue rechazado por su familia abusiva y se fue por su cuenta. Como Dientes de Sable, fue un asesino y mercenario para varias organizaciones, incluido el Equipo X, parte del programa Arma X. Aunque amistoso al principio, se convirtió en el enemigo jurado de Lobezno. Los dos luchaban constantemente y Dientes de Sable a menudo pretendía ser un aliado de los X-Men, siempre volviéndose contra ellos al final."
+      }
+    }
+  ],
+  "faq": []
+}

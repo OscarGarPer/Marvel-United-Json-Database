@@ -1,0 +1,112 @@
+{
+  "boxId": "MUN-KS17",
+  "img": "mun-ks17.jpg",
+  "name": {
+    "text": "Marvel United Phoenix Five",
+    "locText": "Marvel United Phoenix Five"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [],
+  "challenges": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Hope.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Hope Summers",
+        "locText": "Hope Summers"
+      },
+      "realName": {
+        "text": "Hope Summers",
+        "locText": "Hope Summers"
+      },
+      "bio": {
+        "text": "Mutant Messiah Hope Summers was the first born with powers after M-Day. After she was hunted by many different she was hunted by many different groups, Cable found her and whisked her off to a different time for herprotection. Her powers allowed her to imitate those of any mutant or superhero making her an Omega-level mutant. Often at the center of conflict due to her prophecy, she was trained to fight and helped the X-Men and other groups, including the Mutant Liberation Front and The Five.",
+        "locText": "Mutant Messiah Hope Summers was the first born with powers after M-Day. After she was hunted by many different she was hunted by many different groups, Cable found her and whisked her off to a different time for herprotection. Her powers allowed her to imitate those of any mutant or superhero making her an Omega-level mutant. Often at the center of conflict due to her prophecy, she was trained to fight and helped the X-Men and other groups, including the Mutant Liberation Front and The Five."
+      }
+    },
+    {
+      "img": "villains/Colossus-Phoenix-Five.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Colossus (Phoenix Five)",
+        "locText": "Colossus (Phoenix Five)"
+      },
+      "realName": {
+        "text": "Pier Nikalaievitch Rasputin",
+        "locText": "Pier Nikalaievitch Rasputin"
+      },
+      "bio": {
+        "text": "When Colossus was possessed by the Phoenix Force, he was also under Cyttorak's power as Juggernaut. Colossus felt he was doing great deeds for the world as part of the Phoenix Five and asked to be freed of evil Juggernaut i but his wish was denied. I During a battle against the Avengers, he and Magik encountered Spider-Man. She wanted to end him, but Colossus wanted to let him go. Spider-Man fueled their argument by taunting them, ending in a fight between Colossus and Magik that resulted in the loss of their portions of the Phoenix Force.",
+        "locText": "When Colossus was possessed by the Phoenix Force, he was also under Cyttorak's power as Juggernaut. Colossus felt he was doing great deeds for the world as part of the Phoenix Five and asked to be freed of evil Juggernaut i but his wish was denied. I During a battle against the Avengers, he and Magik encountered Spider-Man. She wanted to end him, but Colossus wanted to let him go. Spider-Man fueled their argument by taunting them, ending in a fight between Colossus and Magik that resulted in the loss of their portions of the Phoenix Force."
+      }
+    },
+    {
+      "img": "villains/Cyclops-Phoenix-Five.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Cyclops (Phoenix Five)",
+        "locText": "Cyclops (Phoenix Five)"
+      },
+      "realName": {
+        "text": "Scott Summers",
+        "locText": "Scott Summers"
+      },
+      "bio": {
+        "text": "Possessed by the Phoenix Force after it was split by Iron Man, Cyclops worked to create a mutant Utopia on Earth with the four other inflicted X-Men. Worried that their plan would turn evil, the Avengers set out to stop ji the Phoenix Five. As the members against the Avengers, Cyclops continued to fight, growing more powerful and greedy along the way. When only he and Emma Frost remained, Cyclops realized he would perish in a battle against the Avengers and X-Men, so he took Frost's power. This transformed him into the Dark Phoenix.",
+        "locText": "Possessed by the Phoenix Force after it was split by Iron Man, Cyclops worked to create a mutant Utopia on Earth with the four other inflicted X-Men. Worried that their plan would turn evil, the Avengers set out to stop ji the Phoenix Five. As the members against the Avengers, Cyclops continued to fight, growing more powerful and greedy along the way. When only he and Emma Frost remained, Cyclops realized he would perish in a battle against the Avengers and X-Men, so he took Frost's power. This transformed him into the Dark Phoenix."
+      }
+    },
+    {
+      "img": "villains/Emma-Frost-Phoenix-Five.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Emma Frost (Phoenix Five)",
+        "locText": "Emma Frost (Phoenix Five)"
+      },
+      "realName": {
+        "text": "Emma Frost",
+        "locText": "Emma Frost"
+      },
+      "bio": {
+        "text": "Emma Frost used her powerful telepathy to plot against the Avengers while possessed with the Phoenix Force. Able to determine their plans and hiding places, she used the knowledge to help the Five fight them. As the Phoenix Force grew in Emma Frost, she used Force grew in Emma Frost, she used her mind to find and kill those who had hurt mutants, even if accidental. Her need to be worshiped consumed her and she turned against her fellow X-Men. When only she and Cyclops remained, their once friendly relationship turned menacing and she taunted him into taking her powers. Once she was powerless, only Cyclops remained.",
+        "locText": "Emma Frost used her powerful telepathy to plot against the Avengers while possessed with the Phoenix Force. Able to determine their plans and hiding places, she used the knowledge to help the Five fight them. As the Phoenix Force grew in Emma Frost, she used Force grew in Emma Frost, she used her mind to find and kill those who had hurt mutants, even if accidental. Her need to be worshiped consumed her and she turned against her fellow X-Men. When only she and Cyclops remained, their once friendly relationship turned menacing and she taunted him into taking her powers. Once she was powerless, only Cyclops remained."
+      }
+    },
+    {
+      "img": "villains/Magik-Phoenix-Five.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Magik (Phoenix Five)",
+        "locText": "Magik (Phoenix Five)"
+      },
+      "realName": {
+        "text": "Illyana Rasputin",
+        "locText": "Illyana Rasputin"
+      },
+      "bio": {
+        "text": "After the Phoenix Force possessed Magik, she used her teleportation powers to create a prison in the Limbo dimension to hold members of the Avengers captive. As the Phoenix Force grew within her, its power-hungry aspect intensified. When confronted by Spider-Man, Magik wanted Colossus to kill or maim him. But he wouldn't agree to it, causing an argument to break out between them. Seeing an advantage, Spider-Man egged them on. When the fight  turned physical, both Magik and Colossus lost their Phoenix Force power. This left only Cyclops and Emma Frost remaining.",
+        "locText": "After the Phoenix Force possessed Magik, she used her teleportation powers to create a prison in the Limbo dimension to hold members of the Avengers captive. As the Phoenix Force grew within her, its power-hungry aspect intensified. When confronted by Spider-Man, Magik wanted Colossus to kill or maim him. But he wouldn't agree to it, causing an argument to break out between them. Seeing an advantage, Spider-Man egged them on. When the fight  turned physical, both Magik and Colossus lost their Phoenix Force power. This left only Cyclops and Emma Frost remaining."
+      }
+    },
+    {
+      "img": "villains/Namor-Phoenix-Five.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Namor (Phoenix Five)",
+        "locText": "Namor (Phoenix Five)"
+      },
+      "realName": {
+        "text": "Namor McKenzie",
+        "locText": "Namor McKenzie"
+      },
+      "bio": {
+        "text": "Along with Cyclops, Colossus, Magik, and Emma Frost, Namor was also possessed by the Phoenix Force after it was dispersed among them. Instead of wanting to just imprison the pursuing Avengers, Namor sought to end them. Knowing there were Avengers hiding in Wakanda, he went there and manifested a giant wall of lake water to drown them. It killed innocent civilians, but not the Avengers who then defeated him. Upon his death, his power passed to the remaining Four.",
+        "locText": "Along with Cyclops, Colossus, Magik, and Emma Frost, Namor was also possessed by the Phoenix Force after it was dispersed among them. Instead of wanting to just imprison the pursuing Avengers, Namor sought to end them. Knowing there were Avengers hiding in Wakanda, he went there and manifested a giant wall of lake water to drown them. It killed innocent civilians, but not the Avengers who then defeated him. Upon his death, his power passed to the remaining Four."
+      }
+    }
+  ],
+  "faq": []
+}

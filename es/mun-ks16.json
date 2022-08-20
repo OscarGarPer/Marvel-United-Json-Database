@@ -1,0 +1,56 @@
+{
+  "boxId": "MUN-KS16",
+  "img": "mun-ks16.jpg",
+  "name": {
+    "text": "Marvel United Days From Future Past",
+    "locText": "Marvel United Días Del Futuro Pasado"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [],
+  "challenges": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Logan.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Logan",
+        "locText": "Logan"
+      },
+      "realName": {
+        "text": "James Howlett",
+        "locText": "James Howlett"
+      },
+      "bio": {
+        "text": "After the Mutant Control Act was passed, allowing Sentinels to protect humans, many mutants were killed or imprisoned. Uncaptured, Logan fought in the resistance and helped fellow jailed X-Men by smuggling needed parts to Kitty Pryde, allowing her to build her device and succeed in freeing herself and others. However, all but two were killed in their attempts to fight off Sentinels. Wolverine was destroyed leaving only his Adamantium skeleton behind.",
+        "locText": "Después de que se aprobó la Ley de control de mutantes, que permitió a los Centinelas proteger a los humanos, muchos mutantes fueron asesinados o encarcelados. Sin ser capturado, Logan luchó en la resistencia y ayudó a sus compañeros X-Men encarcelados al pasar de contrabando las piezas necesarias a Kitty Pryde, lo que le permitió construir su dispositivo y lograr liberarse a sí misma y a los demás. Sin embargo, todos menos dos fueron asesinados en sus intentos de luchar contra los Centinelas. Lobezno fue destruido dejando solo su esqueleto de Adamantium."
+      }
+    },
+    {
+      "img": "villains/Sentinel.jpg",
+      "loyalty": "challenge",
+      "name": {
+        "text": "Sentinel",
+        "locText": "Centinela"
+      },
+      "bio": {
+        "text": "Developed by the infamous Bolivar Trask as a solution to the mutant \"problem,\" the terrifying Sentinels stand as a symbol of the oppression mutants have been forced to endure. These towering, formidable robots were designed to hunt down their targets with cold efficiency. Though misguidedly intended as protectors of humanity, the Sentinels have shown themselves to be far more dangerous than imagined, requiring heroes like the X-Men to stand against their robotic march for the good of both human and mutantkind.",
+        "locText": "Desarrollados por el infame Bolivar Trask como una solución al \"problema\" mutante, los aterradores Sentinels son un símbolo de la opresión que los mutantes se han visto obligados a soportar. Estos imponentes y formidables robots fueron diseñados para cazar a sus objetivos con fría eficiencia. Aunque erróneamente pensados como protectores de la humanidad, los Sentinels han demostrado ser mucho más peligrosos de lo imaginado, lo que requiere que héroes como los X-Men se opongan a su marcha robótica por el bien de los humanos y los mutantes."
+      }
+    },
+    {
+      "img": "villains/Nimrod.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Nimrod",
+        "locText": "Nimrod"
+      },
+      "bio": {
+        "text": "Nimrod was the powerfully advanced prototype of the mutant-hunting Sentinels. His programming allowed him to read the abilities of foes and make modifications in order to beat them. He fought many mutants in both the X-Men and the Hellfire's Inner Circle. After meeting Sentinel Master Mold, the powerful force absorbed Nimrod and Bastion was born, wreaking even more havoc on the X-Men.",
+        "locText": "Nimrod fue el prototipo poderosamente avanzado de los Centinelas cazadores de mutantes. Su programación le permitió leer las habilidades de los enemigos y hacer modificaciones para vencerlos. Luchó contra muchos mutantes tanto en los X-Men como en Hellfire's Inner Circle. Después de conocer al Centinela Molde Maestro, la poderosa fuerza absorbió a Nimrod y nació Bastion, causando aún más estragos en los X-Men."
+      }
+    }
+  ],
+  "faq": []
+}

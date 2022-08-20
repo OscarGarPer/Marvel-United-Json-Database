@@ -3,7 +3,7 @@
   "img": "mun-ks14.jpg",
   "name": {
     "text": "Fantastic Four",
-    "locText": "Los Cuatro Fantásticos"
+    "locText": "Fantastic Four"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [
@@ -14,12 +14,12 @@
       "img": "locations/4-yancy-street.jpg",
       "title": {
         "text": "4 YANCY STREET",
-        "locText": "CALLE YANCY, 4"
+        "locText": "4 YANCY STREET"
       },
       "endOfTurn": {
         "effect": {
           "text": "You may place 1 [H] token from the pool in this Location. This token acts as a permanent extra slot for [Civilian] / [Thug].",
-          "locText": "Puedes colocar 1 ficha [ACCIÓN HEROICA] de la reserva en este Lugar. Esta ficha sirve como un espacio extra para [CIVILES] / [MATONES]."
+          "locText": "You may place 1 [H] token from the pool in this Location. This token acts as a permanent extra slot for [Civilian] / [Thug]."
         }
       },
       "slots": [
@@ -32,12 +32,12 @@
       "img": "locations/baxter-building.jpg",
       "title": {
         "text": "BAXTER BUILDING",
-        "locText": "EDIFICIO BAXTER"
+        "locText": "BAXTER BUILDING"
       },
       "endOfTurn": {
         "effect": {
           "text": "Draw 1 card. If your Hero has ever been a member of the Fantastic Four, you may gain 1 [Move], [Heroic], or [Attack] token instead.",
-          "locText": "Roba una carta. Si tu Héroes alguna vez ha sido miembro de los Cuatro Fantásticos, en lugar de robar puedes coger una ficha de [Movimiento], [Acción Heroica] o [Ataque]."
+          "locText": "Draw 1 card. If your Hero has ever been a member of the Fantastic Four, you may gain 1 [Move], [Heroic], or [Attack] token instead."
         }
       },
       "slots": [
@@ -57,7 +57,7 @@
       "endOfTurn": {
         "effect": {
           "text": "You MUST take 1 damage for each [Thug] / [Doombot] in this Location.",
-          "locText": "DEBES recibir 1 punto de daño por cada [MATÓN] / [DOOMBOT] en este Lugar."
+          "locText": "You MUST take 1 damage for each [Thug] / [Doombot] in this Location."
         }
       },
       "slots": [
@@ -72,13 +72,13 @@
       "img": "locations/mount-wundagore.jpg",
       "title": {
         "text": "MOUNT WUNDAGORE",
-        "locText": "MONTE WUNDAGORE"
+        "locText": "MOUNT WUNDAGORE"
       },
       "endOfTurn": {
         "mandatory": true,
         "effect": {
           "text": "Each Hero in this Location MUST discard all cards in their hand and draw the same amount of cards (this does not KO).",
-          "locText": "Cada Héroe en este Lugar DEBE descartar todas las cartas de su mano (sin causar KO) y robar la misma cantidad de cartas."
+          "locText": "Each Hero in this Location MUST discard all cards in their hand and draw the same amount of cards (this does not KO)."
         }
       },
       "slots": [
@@ -94,11 +94,11 @@
       "img": "challenges/takeover-challenge.jpg",
       "title": {
         "text": "Takeover Challenge",
-        "locText": "Desafío Toma de Control"
+        "locText": "Takeover Challenge"
       },
       "description": {
         "text": "SETUP: Choose either the regular Takeover, or the harder Brutal Takeover, placing the card on the table with that side faceup.\nIf [Civilian] / [Thug] tokens can't be added to a Location, after resolving Overflow, place the excess tokens on the Takeover card. If the card is full, Heroes immediately lose.",
-        "locText": "PREPARACIÓN: Elige el desafío normal Takeover o el desafío más duro Brutal Takeover, colocando la carta Takeover en la mesa con el lado elegido boca arriba. Si hay fichas de [C]/[T] que no puedas añadir a un Lugar, trase resolver el efecto de Exceso, coloca estas fichas en la carta de Takeover. Si la carta se llena, los Héroes pierden la partida."
+        "locText": "SETUP: Choose either the regular Takeover, or the harder Brutal Takeover, placing the card on the table with that side faceup.\nIf [Civilian] / [Thug] tokens can't be added to a Location, after resolving Overflow, place the excess tokens on the Takeover card. If the card is full, Heroes immediately lose."
       },
       "cards": [
         {
@@ -123,11 +123,11 @@
       },
       "realName": {
         "text": "Dr. Victor von Doom",
-        "locText": "Dr. Víctor von Doom"
+        "locText": "Dr. Victor von Doom"
       },
       "bio": {
         "text": "Doctor Doom is a Latverian politician who serves as the monarch and supreme leader for the Kingdom of Latveria. He was scarred from an accident and wears an iron mask and armor to hide his face. Considered to be one of the most brilliant scientists on earth, he is also a sorcerer with the ability to match the magic of the most powerful beings in the universe. His driving force is / to bring order to humanity through world conquest. With no equal, he has become the foe of superhumans and cosmic beings alike, but his arch enemy is the Fantastic Four.",
-        "locText": "Doctor Doom es un político de Latveria que se desempeña como monarca y líder supremo del Reino de Latveria. Tenía cicatrices de un accidente y usa una máscara de hierro y una armadura para ocultar su rostro. Considerado como uno de los científicos más brillantes de la tierra, también es un hechicero con la capacidad de igualar la magia de los seres más poderosos del universo. Su fuerza motriz es / poner orden en la humanidad a través de la conquista del mundo. Sin igual, se ha convertido en el enemigo tanto de los superhumanos como de los seres cósmicos, pero sus archienemigos son los Cuatro Fantásticos."
+        "locText": "Doctor Doom is a Latverian politician who serves as the monarch and supreme leader for the Kingdom of Latveria. He was scarred from an accident and wears an iron mask and armor to hide his face. Considered to be one of the most brilliant scientists on earth, he is also a sorcerer with the ability to match the magic of the most powerful beings in the universe. His driving force is / to bring order to humanity through world conquest. With no equal, he has become the foe of superhumans and cosmic beings alike, but his arch enemy is the Fantastic Four."
       },
       "cards": [
         {
@@ -141,11 +141,11 @@
             "mandatory": false,
             "title": {
               "text": "PAIN IS FOR LESSER MEN",
-              "locText": "EL DOLOR ES PARA LOS DÉBILES"
+              "locText": "PAIN IS FOR LESSER MEN"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, for each damage you take during a Villain turn, you may gain 1 [M], 1 [H], or 1 [A] token.",
-              "locText": "Mientras esta carta esté boca arriba en la Trama, por cada daño que recibas durante el turno del Villano, puedes recibir una ficha de [M], [H] o [A]."
+              "locText": "As long as this card is faceup in the Storyline, for each damage you take during a Villain turn, you may gain 1 [M], 1 [H], or 1 [A] token."
             }
           },
           "actions": [
@@ -257,11 +257,11 @@
             "mandatory": false,
             "title": {
               "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
+              "locText": "MINE IS THE POWER"
             },
             "description": {
               "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+              "locText": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown."
             }
           },
           "actions": [
@@ -279,11 +279,11 @@
             "mandatory": false,
             "title": {
               "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
+              "locText": "MINE IS THE POWER"
             },
             "description": {
               "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+              "locText": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown."
             }
           },
           "actions": [
@@ -301,11 +301,11 @@
             "mandatory": false,
             "title": {
               "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
+              "locText": "MINE IS THE POWER"
             },
             "description": {
               "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+              "locText": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown."
             }
           },
           "actions": [
@@ -747,11 +747,11 @@
           },
           "overflow": {
             "text": "If a [C], [T] or [D] can't be added to a Location, increase the Doom track by 1 for each token you couldn't add.",
-            "locText": "Si una ficha de CIVIL, MATÓN o DOOMBOT no se puede añadir a un Lugar, avanza el marcador de Doom una posición por cada ficha que no pudiste añadir."
+            "locText": "If a [C], [T] or [D] can't be added to a Location, increase the Doom track by 1 for each token you couldn't add."
           },
           "bam": {
             "text": "Deal 1 damage to each Hero in Doom's Location, plus 1 damage to each Hero in Locations with any [D]. Then, increase the Doom track by 2.",
-            "locText": "Inflige 1 daño a cada Héroe en el Lugar de Killmonger. Luego sustituye la ficha de CIVIL / MATÓN más a la izquierda (si hay alguna) con una ficha de Crisis."
+            "locText": "Deal 1 damage to each Hero in Doom's Location, plus 1 damage to each Hero in Locations with any [D]. Then, increase the Doom track by 2."
           },
           "plot": {
             "text": "Doom Track - When this track reaches 20, the Heroes lose.",
@@ -786,7 +786,7 @@
       "loyalty": "hero",
       "name": {
         "text": "Human Torch",
-        "locText": "Antorcha Humana"
+        "locText": "Human Torch"
       },
       "realName": {
         "text": "Jonathan Storm",
@@ -794,7 +794,7 @@
       },
       "bio": {
         "text": "Johnny Storm was a high school student and amateur mechanic from Long Island before he was exposed to high levels of cosmic radiation. This occurred when his c sister's boyfriend, Dr. Reed Richards, took him, his sister Sue, and pilot Ben Grimm, on an unauthorized trip to space in the stolen rocket Marvel-1. The radiation mutated all of them, but Johnny's specific mutation turned his entire body into a fiery, plasma-like state. From then on, he became the Human Torch. The group teamed up and became the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way.",
-        "locText": "Johnny Storm era un estudiante de secundaria y mecánico aficionado de Long Island antes de verse expuesto a altos niveles de radiación cósmica. Esto ocurrió cuando el novio de su hermana c, el Dr. Reed Richards, lo llevó a él, a su hermana Sue y al piloto Ben Grimm a un viaje no autorizado al espacio en el cohete robado Marvel-1. La radiación los mutó a todos, pero la mutación específica de Johnny convirtió todo su cuerpo en un estado ardiente similar al plasma. A partir de entonces, se convirtió en la Antorcha Humana. El grupo se unió y se convirtió en los Cuatro Fantásticos, explorando el espacio, el tiempo y dimensiones alternativas mientras salvaba el mundo y la galaxia por el camino."
+        "locText": "Johnny Storm was a high school student and amateur mechanic from Long Island before he was exposed to high levels of cosmic radiation. This occurred when his c sister's boyfriend, Dr. Reed Richards, took him, his sister Sue, and pilot Ben Grimm, on an unauthorized trip to space in the stolen rocket Marvel-1. The radiation mutated all of them, but Johnny's specific mutation turned his entire body into a fiery, plasma-like state. From then on, he became the Human Torch. The group teamed up and became the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way."
       },
       "cards": [
         {
@@ -802,17 +802,17 @@
           "img": "heroes/Human-Torch1.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "PYROGENESIS",
-              "locText": "PIROGÉNESIS"
+              "locText": "PYROGENESIS"
             },
             "description": {
               "text": "As lons as this card is faceup in the Storyline, you can treat [H] as [A].",
-              "locText": "Mientras esta carta esté boca arriba en la Trama, puedes usar las [H] como [A]."
+              "locText": "As lons as this card is faceup in the Storyline, you can treat [H] as [A]."
             }
           },
           "actions": [
@@ -825,7 +825,7 @@
           "img": "heroes/Human-Torch2.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "M",
@@ -837,7 +837,7 @@
           "img": "heroes/Human-Torch2.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "M",
@@ -849,7 +849,7 @@
           "img": "heroes/Human-Torch2.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "M",
@@ -861,7 +861,7 @@
           "img": "heroes/Human-Torch5.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "A"
@@ -872,7 +872,7 @@
           "img": "heroes/Human-Torch6.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "H"
@@ -883,7 +883,7 @@
           "img": "heroes/Human-Torch7.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "M",
@@ -895,7 +895,7 @@
           "img": "heroes/Human-Torch8.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "W"
@@ -906,7 +906,7 @@
           "img": "heroes/Human-Torch9.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "actions": [
             "W",
@@ -918,7 +918,7 @@
           "img": "heroes/Human-Torch10.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "specialEffect": {
             "mandatory": false,
@@ -941,16 +941,16 @@
           "img": "heroes/Human-Torch11.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [M] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -962,16 +962,16 @@
           "img": "heroes/Human-Torch12.jpg",
           "title": {
             "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "locText": "HUMAN TORCH"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [H] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [H] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [H] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -985,15 +985,15 @@
       "loyalty": "hero",
       "name": {
         "text": "Invisible Woman",
-        "locText": "Mujer Invisible"
+        "locText": "Invisible Woman"
       },
       "realName": {
         "text": "Dr. Susan Richards",
-        "locText": "Dra. Susan Richards"
+        "locText": "Dr. Susan Richards"
       },
       "bio": {
         "text": "Sue Storm, aka the Invisible Woman, was a college student from Long Island before she was exposed to high levels of cosmic radiation on an unauthorized trip to space in the stolen Marvel-I rocket. The radiation gave her, her boyfriend, Dr. Reed Richards, her younger brother, Johnny Storm, and friend Ben Grimm, superhuman abilities. Her superhuman power allowed her to become invisible and to create forcefields. After this mishap, the group became the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way.",
-        "locText": "Sue Storm, también conocida como la Mujer Invisible, era una estudiante universitaria de Long Island antes de verse expuesta a altos niveles de radiación cósmica en un viaje no autorizado al espacio en el cohete Marvel-I robado. La radiación le dio a ella, a su novio, el Dr. Reed Richards, a su hermano menor, Johnny Storm, y a su amigo Ben Grimm, habilidades sobrehumanas. Su poder sobrehumano le permitió volverse invisible y crear campos de fuerza. Después de este percance, el grupo se convirtió en los Cuatro Fantásticos, explorando el espacio, el tiempo y dimensiones alternativas mientras salvaba el mundo y la galaxia más grande por el camino."
+        "locText": "Sue Storm, aka the Invisible Woman, was a college student from Long Island before she was exposed to high levels of cosmic radiation on an unauthorized trip to space in the stolen Marvel-I rocket. The radiation gave her, her boyfriend, Dr. Reed Richards, her younger brother, Johnny Storm, and friend Ben Grimm, superhuman abilities. Her superhuman power allowed her to become invisible and to create forcefields. After this mishap, the group became the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way."
       },
       "cards": [
         {
@@ -1001,13 +1001,13 @@
           "img": "heroes/Invisible-Woman1.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "INVISIBILITY",
-              "locText": "INVISIBILIDAD"
+              "locText": "INVISIBILITY"
             },
             "description": {
               "text": "As lons as this card is faceup in the Storyline, when the top card of the Master Plan deck is revealed, you may choose not to take any damage until the beginning of your next turn. If you do so, next turn, you must play your card facedown.",
@@ -1024,7 +1024,7 @@
           "img": "heroes/Invisible-Woman2.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "M"
@@ -1035,7 +1035,7 @@
           "img": "heroes/Invisible-Woman3.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "M",
@@ -1047,7 +1047,7 @@
           "img": "heroes/Invisible-Woman4.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "M",
@@ -1059,7 +1059,7 @@
           "img": "heroes/Invisible-Woman5.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "A"
@@ -1070,7 +1070,7 @@
           "img": "heroes/Invisible-Woman6.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "H",
@@ -1082,7 +1082,7 @@
           "img": "heroes/Invisible-Woman7.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "H",
@@ -1094,7 +1094,7 @@
           "img": "heroes/Invisible-Woman8.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "W"
@@ -1105,7 +1105,7 @@
           "img": "heroes/Invisible-Woman9.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "actions": [
             "W",
@@ -1117,13 +1117,13 @@
           "img": "heroes/Invisible-Woman10.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "PSIONIC FORCE FIELDS",
-              "locText": "ESCUDOS DE FUERZA PSIÓNICA"
+              "locText": "PSIONIC FORCE FIELDS"
             },
             "description": {
               "text": "Gain 2 [W] tokens.",
@@ -1140,16 +1140,16 @@
           "img": "heroes/Invisible-Woman11.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [M] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -1161,16 +1161,16 @@
           "img": "heroes/Invisible-Woman12.jpg",
           "title": {
             "text": "INVISIBLE WOMAN",
-            "locText": "MUJER INVISIBLE"
+            "locText": "INVISIBLE WOMAN"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [H] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [H] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [H] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -1184,7 +1184,7 @@
       "loyalty": "hero",
       "name": {
         "text": "Mister Fantastic",
-        "locText": "Míster Fantástico"
+        "locText": "Mister Fantastic"
       },
       "realName": {
         "text": "Dr. Reed Richards",
@@ -1192,7 +1192,7 @@
       },
       "bio": {
         "text": "Reed Richards is a brilliant scientist and came from a family of super-intelligent people. He is often considered to be the smartest man on earth. Richards was exposed to high levels of cosmic radiation during a trip to space in the rocket, Marvel-1, that he and his friends stole. His best friend Ben Grimm, girlfriend Sue Storm and her younger brother Johnny Storm, were also exposed to the radiation  giving them all superhuman abilities. For Richards, this gave him the power to stretch and mold his body, becoming Mister Fantastic. The group was dubbed the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way.",
-        "locText": "Reed Richards es un científico brillante y proviene de una familia de personas superinteligentes. A menudo se le considera el hombre más inteligente del mundo. Richards estuvo expuesto a altos niveles de radiación cósmica durante un viaje al espacio en el cohete Marvel-1 que él y sus amigos robaron. Su mejor amigo Ben Grimm, su novia Sue Storm y su hermano menor, Johnny Storm, también estuvieron expuestos a la radiación que les dio todas las habilidades sobrehumanas. Para Richards, esto le dio el poder de estirar y moldear su cuerpo, convirtiéndose en Mister Fantastic. El grupo fue apodado los Cuatro Fantásticos, explorando el espacio, el tiempo y dimensiones alternativas mientras salvaba el mundo y la galaxia por el camino."
+        "locText": "Reed Richards is a brilliant scientist and came from a family of super-intelligent people. He is often considered to be the smartest man on earth. Richards was exposed to high levels of cosmic radiation during a trip to space in the rocket, Marvel-1, that he and his friends stole. His best friend Ben Grimm, girlfriend Sue Storm and her younger brother Johnny Storm, were also exposed to the radiation  giving them all superhuman abilities. For Richards, this gave him the power to stretch and mold his body, becoming Mister Fantastic. The group was dubbed the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way."
       },
       "cards": [
         {
@@ -1200,13 +1200,13 @@
           "img": "heroes/Mister-Fantastic1.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "PLASTICITY",
-              "locText": "PLASTICIDAD"
+              "locText": "PLASTICITY"
             },
             "description": {
               "text": "As lons as this card is faceup in the Storyline, during your Hero turn, you can use 1 of your [H] or [A] actions in an adjacent location.",
@@ -1223,7 +1223,7 @@
           "img": "heroes/Mister-Fantastic2.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "H",
@@ -1235,7 +1235,7 @@
           "img": "heroes/Mister-Fantastic3.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "H"
@@ -1246,7 +1246,7 @@
           "img": "heroes/Mister-Fantastic3.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "H"
@@ -1257,7 +1257,7 @@
           "img": "heroes/Mister-Fantastic5.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "M",
@@ -1269,7 +1269,7 @@
           "img": "heroes/Mister-Fantastic6.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "H",
@@ -1281,7 +1281,7 @@
           "img": "heroes/Mister-Fantastic7.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "M",
@@ -1293,7 +1293,7 @@
           "img": "heroes/Mister-Fantastic8.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "W"
@@ -1304,7 +1304,7 @@
           "img": "heroes/Mister-Fantastic9.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "actions": [
             "W",
@@ -1316,13 +1316,13 @@
           "img": "heroes/Mister-Fantastic10.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "SUPER GENIUS",
-              "locText": "SÚPER GENIO"
+              "locText": "SUPER GENIUS"
             },
             "description": {
               "text": "This turn, you can treat all symbols as [W].",
@@ -1339,16 +1339,16 @@
           "img": "heroes/Mister-Fantastic11.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [M] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -1360,16 +1360,16 @@
           "img": "heroes/Mister-Fantastic12.jpg",
           "title": {
             "text": "MISTER FANTASTIC",
-            "locText": "MÍSTER FANTÁSTICO"
+            "locText": "MISTER FANTASTIC"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [W] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [W] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [W] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -1383,7 +1383,7 @@
       "loyalty": "hero",
       "name": {
         "text": "Silver Surfer",
-        "locText": "Surfista Plateado"
+        "locText": "Silver Surfer"
       },
       "realName": {
         "text": "Norrin Radd",
@@ -1391,7 +1391,7 @@
       },
       "bio": {
         "text": "Norrin grew up encouraged to seek knowledge and achievement as opposed to the hedonism which dominated Zenn-lavian society. His life changed when he confronted the invader, Galactus, who wanted to consume Zenn-la. In order to save his planet, Radd offered to become Galactus' herald, seeking out new worlds for him to consume. Galactus then transformed Radd into a silver-skinned, cosmic-powered super-being - the Silver Surfer. His body is composed of a flexible, nearly indestructible, silvery material that makes him one of the strongest beings in the universe. The Silver Surfer treasures freedom above all else but has often sacrificed his liberty for the greater good.",
-        "locText": "Norrin creció animado a buscar el conocimiento y el logro en oposición al hedonismo que dominaba la sociedad zenn-laviana. Su vida cambió cuando se enfrentó al invasor, Galactus, que quería consumir Zenn-la. Para salvar su planeta, Radd se ofreció a convertirse en el heraldo de Galactus, buscando nuevos mundos para que los consumiera. Luego, Galactus transformó a Radd en un súper ser de piel plateada y energía cósmica: Silver Surfer. Su cuerpo está compuesto de un material plateado flexible, casi indestructible, que lo convierte en uno de los seres más fuertes del universo. Silver Surfer atesora la libertad por encima de todo, pero a menudo ha sacrificado su libertad por el bien común."
+        "locText": "Norrin grew up encouraged to seek knowledge and achievement as opposed to the hedonism which dominated Zenn-lavian society. His life changed when he confronted the invader, Galactus, who wanted to consume Zenn-la. In order to save his planet, Radd offered to become Galactus' herald, seeking out new worlds for him to consume. Galactus then transformed Radd into a silver-skinned, cosmic-powered super-being - the Silver Surfer. His body is composed of a flexible, nearly indestructible, silvery material that makes him one of the strongest beings in the universe. The Silver Surfer treasures freedom above all else but has often sacrificed his liberty for the greater good."
       },
       "cards": [
         {
@@ -1399,13 +1399,13 @@
           "img": "heroes/Silver-Surfer1.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "COSMIC AWARENESS",
-              "locText": "CONCIENCIA CÓSMICA"
+              "locText": "COSMIC AWARENESS"
             },
             "description": {
               "text": "As lons as this card is faceup in the Storyline, during your turn, 1 of your [H] or [A] actions can be performed in any Location.",
@@ -1422,7 +1422,7 @@
           "img": "heroes/Silver-Surfer2.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "M"
@@ -1433,7 +1433,7 @@
           "img": "heroes/Silver-Surfer3.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "H"
@@ -1444,7 +1444,7 @@
           "img": "heroes/Silver-Surfer4.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "A"
@@ -1455,7 +1455,7 @@
           "img": "heroes/Silver-Surfer5.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "M",
@@ -1467,7 +1467,7 @@
           "img": "heroes/Silver-Surfer6.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "M",
@@ -1479,7 +1479,7 @@
           "img": "heroes/Silver-Surfer7.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "W"
@@ -1490,7 +1490,7 @@
           "img": "heroes/Silver-Surfer8.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "actions": [
             "W",
@@ -1502,13 +1502,13 @@
           "img": "heroes/Silver-Surfer9.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "TELEPORT",
-              "locText": "TELETRANSPORTE"
+              "locText": "TELEPORT"
             },
             "description": {
               "text": "You may move to any Location.",
@@ -1524,13 +1524,13 @@
           "img": "heroes/Silver-Surfer9.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "TELEPORT",
-              "locText": "TELETRANSPORTE"
+              "locText": "TELEPORT"
             },
             "description": {
               "text": "You may move to any Location.",
@@ -1546,12 +1546,12 @@
           "img": "heroes/Silver-Surfer11.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "specialEffect": {
             "title": {
               "text": "NEAR IMMORTALITY",
-              "locText": "CASI INMORTAL"
+              "locText": "NEAR IMMORTALITY"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, you draw 2 cards during the Draw step of your turns.",
@@ -1567,12 +1567,12 @@
           "img": "heroes/Silver-Surfer12.jpg",
           "title": {
             "text": "SILVER SURFER",
-            "locText": "SURFISTA PLATEADO"
+            "locText": "SILVER SURFER"
           },
           "specialEffect": {
             "title": {
               "text": "DIMENSIONAL TRAVEL",
-              "locText": "VIAJE DIMENSIONAL"
+              "locText": "DIMENSIONAL TRAVEL"
             },
             "description": {
               "text": "If you are not in the Villain's starting Location, replace your Location with any other not in play (move everything from your Location to the new one).",
@@ -1590,7 +1590,7 @@
       "loyalty": "hero",
       "name": {
         "text": "The Thing",
-        "locText": "La Cosa"
+        "locText": "The Thing"
       },
       "realName": {
         "text": "Ben Grimm",
@@ -1598,7 +1598,7 @@
       },
       "bio": {
         "text": "Ben was a high school football player, a U.S. Air Force test pilot and then finally became an astronaut. During college he was roommates with Reed Richards, who would become his best friend and a brilliant scientist. Grimm was exposed to high levels of cosmic radiation when Richards persuaded him to pilot an unauthorized mission on the stolen Marvel-1 spaceship despite his own safety concerns. Grimm turned out to be right and was forced to abort the mission due to the radiation. The radiation mutated him into a super-strong, rock-like monster with a “Heart of Gold”.",
-        "locText": "Ben fue jugador de fútbol americano en la escuela secundaria, piloto de pruebas de la Fuerza Aérea de los EE. UU. y finalmente se convirtió en astronauta. Durante la universidad fue compañero de cuarto de Reed Richards, quien se convertiría en su mejor amigo y en un científico brillante. Grimm estuvo expuesto a altos niveles de radiación cósmica cuando Richards lo convenció de pilotar una misión no autorizada en la nave espacial Marvel-1 robada a pesar de sus propias preocupaciones de seguridad. Grimm resultó tener razón y se vio obligado a abortar la misión debido a la radiación. La radiación lo transformó en un monstruo súper fuerte parecido a una roca con un \"Corazón de oro\"."
+        "locText": "Ben was a high school football player, a U.S. Air Force test pilot and then finally became an astronaut. During college he was roommates with Reed Richards, who would become his best friend and a brilliant scientist. Grimm was exposed to high levels of cosmic radiation when Richards persuaded him to pilot an unauthorized mission on the stolen Marvel-1 spaceship despite his own safety concerns. Grimm turned out to be right and was forced to abort the mission due to the radiation. The radiation mutated him into a super-strong, rock-like monster with a “Heart of Gold”."
       },
       "cards": [
         {
@@ -1606,13 +1606,13 @@
           "img": "heroes/The-Thing1.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "ROCK-LIKE SKIN",
-              "locText": "PIEL DE ROCA"
+              "locText": "ROCK-LIKE SKIN"
             },
             "description": {
               "text": "As lons as this card is faceup in the Storyline, you may ignore 1 damage during each Villain Turn.",
@@ -1629,7 +1629,7 @@
           "img": "heroes/The-Thing2.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "H"
@@ -1640,7 +1640,7 @@
           "img": "heroes/The-Thing3.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "M",
@@ -1652,7 +1652,7 @@
           "img": "heroes/The-Thing4.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "M",
@@ -1664,7 +1664,7 @@
           "img": "heroes/The-Thing5.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "M"
@@ -1675,7 +1675,7 @@
           "img": "heroes/The-Thing6.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "A",
@@ -1687,7 +1687,7 @@
           "img": "heroes/The-Thing6.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "A",
@@ -1699,7 +1699,7 @@
           "img": "heroes/The-Thing8.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "W"
@@ -1710,7 +1710,7 @@
           "img": "heroes/The-Thing9.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "actions": [
             "W",
@@ -1722,13 +1722,13 @@
           "img": "heroes/The-Thing10.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "IT'S CLOBBERIN' TIME!",
-              "locText": "¡ES LA HORA DE LAS TORTAS!"
+              "locText": "IT'S CLOBBERIN' TIME!"
             },
             "description": {
               "text": "[A] [A] against a single target in your Location. Then, [A] [A] against a different target there.",
@@ -1745,16 +1745,16 @@
           "img": "heroes/The-Thing11.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [A] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [A] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [A] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -1766,16 +1766,16 @@
           "img": "heroes/The-Thing12.jpg",
           "title": {
             "text": "THE THING",
-            "locText": "LA COSA"
+            "locText": "THE THING"
           },
           "specialEffect": {
             "title": {
               "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "locText": "TEAMWORK"
             },
             "description": {
               "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [A] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [A] de la reserva a la carta Fantastic Four."
+              "locText": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [A] token from the pool to the Fantastic Four card."
             }
           },
           "actions": [
@@ -1789,11 +1789,11 @@
     {
       "question": {
         "text": "Why I can't find Super-Skrull on this app?",
-        "locText": "¿Por qué no puedo encontrar a Super-Skrull en esta aplicación?"
+        "locText": "Why I can't find Super-Skrull on this app?"
       },
       "answer": {
         "text": "Because this is a test version.",
-        "locText": "Porque esto es una prueba."
+        "locText": "Because this is a test version."
       }
     }
   ]

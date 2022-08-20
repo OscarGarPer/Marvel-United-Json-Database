@@ -1,0 +1,30 @@
+{
+  "boxId": "MUN-KS13",
+  "img": "heroes/Old-Man-Logan.jpg",
+  "name": {
+    "text": "Old Man Logan",
+    "locText": "Viejo Logan"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Old-Man-Logan.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Old Man Logan",
+        "locText": "Viejo Logan"
+      },
+      "realName": {
+        "text": "James \"Logan\" Howlett",
+        "locText": "James \"Logan\" Howlett"
+      },
+      "bio": {
+        "text": "In an alternate universe in a world run by Super Villains, retired Old Man Logan just wanted to live out his life peacefully. Needing rent money, he accepted to help with a delivery. When the package contained Super-Soldier Serum, S.H.I.E.L.D revealed themselves and killed him. Immortal, Logan killed Red Skull and his cohorts, who'd taken him. When he learned the Hulk Gang had decimated his family, he killed some of Banner's. Banner just wanted to fight his boredom. So, he killed Logan and ate him, but Logan burst out of the Hulk's stomach.",
+        "locText": "En un universo alternativo en un mundo dirigido por supervillanos, el anciano retirado Logan solo quería vivir su vida en paz. Como necesitaba dinero para el alquiler, aceptó ayudar con una entrega. Cuando el paquete contenía Suero del Súper-Soldado, S.H.I.E.L.D se reveló y lo mató. Inmortal, Logan mató a Red Skull y sus secuaces, quienes se lo habían llevado. Cuando se enteró de que Hulk Gang había diezmado a su familia, mató a algunos de Banner. Banner solo quería luchar contra su aburrimiento. Entonces, mató a Logan y se lo comió, pero Logan salió del estómago de Hulk."
+      }
+    }
+  ],
+  "faq": []
+}

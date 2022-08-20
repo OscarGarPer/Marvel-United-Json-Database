@@ -1,0 +1,56 @@
+{
+  "boxId": "MUN-KS16",
+  "img": "mun-ks16.jpg",
+  "name": {
+    "text": "Marvel United Days From Future Past",
+    "locText": "Marvel United Days From Future Past"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [],
+  "challenges": [],
+  "cards": [],
+  "characters": [
+    {
+      "img": "heroes/Logan.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Logan",
+        "locText": "Logan"
+      },
+      "realName": {
+        "text": "James Howlett",
+        "locText": "James Howlett"
+      },
+      "bio": {
+        "text": "After the Mutant Control Act was passed, allowing Sentinels to protect humans, many mutants were killed or imprisoned. Uncaptured, Logan fought in the resistance and helped fellow jailed X-Men by smuggling needed parts to Kitty Pryde, allowing her to build her device and succeed in freeing herself and others. However, all but two were killed in their attempts to fight off Sentinels. Wolverine was destroyed leaving only his Adamantium skeleton behind.",
+        "locText": "After the Mutant Control Act was passed, allowing Sentinels to protect humans, many mutants were killed or imprisoned. Uncaptured, Logan fought in the resistance and helped fellow jailed X-Men by smuggling needed parts to Kitty Pryde, allowing her to build her device and succeed in freeing herself and others. However, all but two were killed in their attempts to fight off Sentinels. Wolverine was destroyed leaving only his Adamantium skeleton behind."
+      }
+    },
+    {
+      "img": "villains/Sentinel.jpg",
+      "loyalty": "challenge",
+      "name": {
+        "text": "Sentinel",
+        "locText": "Sentinel"
+      },
+      "bio": {
+        "text": "Developed by the infamous Bolivar Trask as a solution to the mutant \"problem,\" the terrifying Sentinels stand as a symbol of the oppression mutants have been forced to endure. These towering, formidable robots were designed to hunt down their targets with cold efficiency. Though misguidedly intended as protectors of humanity, the Sentinels have shown themselves to be far more dangerous than imagined, requiring heroes like the X-Men to stand against their robotic march for the good of both human and mutantkind.",
+        "locText": "Developed by the infamous Bolivar Trask as a solution to the mutant \"problem,\" the terrifying Sentinels stand as a symbol of the oppression mutants have been forced to endure. These towering, formidable robots were designed to hunt down their targets with cold efficiency. Though misguidedly intended as protectors of humanity, the Sentinels have shown themselves to be far more dangerous than imagined, requiring heroes like the X-Men to stand against their robotic march for the good of both human and mutantkind."
+      }
+    },
+    {
+      "img": "villains/Nimrod.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Nimrod",
+        "locText": "Nimrod"
+      },
+      "bio": {
+        "text": "Nimrod was the powerfully advanced prototype of the mutant-hunting Sentinels. His programming allowed him to read the abilities of foes and make modifications in order to beat them. He fought many mutants in both the X-Men and the Hellfire's Inner Circle. After meeting Sentinel Master Mold, the powerful force absorbed Nimrod and Bastion was born, wreaking even more havoc on the X-Men.",
+        "locText": "Nimrod was the powerfully advanced prototype of the mutant-hunting Sentinels. His programming allowed him to read the abilities of foes and make modifications in order to beat them. He fought many mutants in both the X-Men and the Hellfire's Inner Circle. After meeting Sentinel Master Mold, the powerful force absorbed Nimrod and Bastion was born, wreaking even more havoc on the X-Men."
+      }
+    }
+  ],
+  "faq": []
+}
