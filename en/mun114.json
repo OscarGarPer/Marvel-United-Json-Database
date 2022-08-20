@@ -7,7 +7,25 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/deadpools-apartment.jpg",
+      "title": {
+        "text": "Deadpool's Apartment",
+        "locText": "Deadpool's Apartment"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there is NOTHING other than your Hero here, you may relax with your feet on the couch. Draw 2 cards.",
+          "locText": "Si aquí no hay NADA más que tu Héroe, puedes relajarte tirado en el sofá. Roba 2 cartas."
+        }
+      },
+      "slots": [
+        "empty",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [

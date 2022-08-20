@@ -7,7 +7,159 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/asteroid-m.jpg",
+      "title": {
+        "text": "Asteroid M",
+        "locText": "Asteroid M"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may deal 1 damage to a [T], or Henchman in any Location.",
+          "locText": "Puedes infligir un punto de daño a un [T], o un Secuaz en cualquier Lugar."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/genosha.jpg",
+      "title": {
+        "text": "Genosha",
+        "locText": "Genosha"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may Rescue 1 [C], from this Location.",
+          "locText": "Puedes Rescatar a un [C], de este Lugar."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/hangar-bay.jpg",
+      "title": {
+        "text": "Hangar Bay",
+        "locText": "Hangar Bay"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may gain 1 [A], [M] or [H] token.",
+          "locText": "Puedes coger una ficha de [A], [M] o [H]."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/muir-island.jpg",
+      "title": {
+        "text": "Muir Island (Mutant Research Center)",
+        "locText": "Muir Island (Mutant Research Center)"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "Another Hero in this or an adjacent Location may draw 1 card.",
+          "locText": "Otro Héroe en este Lugar o en uno adyacente puede robar 1 carta."
+        }
+      },
+      "slots": [
+        "C",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/sentinel-space-station.jpg",
+      "title": {
+        "text": "Sentinel Space Station",
+        "locText": "Sentinel Space Station"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to swap a card from your hand with one of your faceup cards in the Storyline.",
+          "locText": "Puedes descartar una carta de tu mano al final de tu mazo para intercambiar una carta de tu mano con una de tus cartas boca arriba en la Trama."
+        }
+      },
+      "slots": [
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/weapon-x-facility.jpg",
+      "title": {
+        "text": "Weapon X Facility",
+        "locText": "Weapon X Facility"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to gain [A] [A] tokens.",
+          "locText": "Puedes descartar una carta de tu mano al final de tu mazo para obtener 2 fichas [A] [A]."
+        }
+      },
+      "slots": [
+        "T",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/x-jet.jpg",
+      "title": {
+        "text": "X-Jet",
+        "locText": "X-Jet"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may move to any other Location.",
+          "locText": "Puedes moverte a cualquier otro Lugar."
+        }
+      },
+      "slots": [
+        "C",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/xavier-institute.jpg",
+      "title": {
+        "text": "Xavier Institute For Higher Learning",
+        "locText": "Xavier Institute For Higher Learning"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may draw cards until you have 3 in your hand.",
+          "locText": "Puedes robar cartas hasta tener 3 en tu mano."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [

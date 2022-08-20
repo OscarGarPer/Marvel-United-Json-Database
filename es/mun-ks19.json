@@ -14,7 +14,9 @@
         "text": "Apocalypse's Pyramid",
         "locText": "Apocalypse's Pyramid"
       },
+      "hazardous": true,
       "endOfTurn": {
+        "mandatory": true,
         "effect": {
           "text": "While in this Location, Villains ignore 1 damage in each Hero turn. You MUST discard 1 card from your hand to the bottom of your deck.",
           "locText": "Mientras estés en este Lugar, los Villanos ignoran 1 punto de daño en cada turno de los Héroes. DEBES descartar 1 carta de tu mano al final de tu mazo."
