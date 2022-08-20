@@ -2,8 +2,8 @@
   "boxId": "MUN113",
   "img": "mun113.jpg",
   "name": {
-    "text": "Marvel United Gold Team - KS",
-    "locText": "Marvel United Equipo Dorado - KS"
+    "text": "Gold Team - KS",
+    "locText": "Equipo Dorado - KS"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

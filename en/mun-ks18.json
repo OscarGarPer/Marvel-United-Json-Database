@@ -2,8 +2,8 @@
   "boxId": "MUN-KS18",
   "img": "mun-ks18.jpg",
   "name": {
-    "text": "Marvel United X-Force",
-    "locText": "Marvel United X-Force"
+    "text": "X-Force",
+    "locText": "X-Force"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

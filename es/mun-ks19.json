@@ -2,8 +2,8 @@
   "boxId": "MUN-KS19",
   "img": "mun-ks19.jpg",
   "name": {
-    "text": "Marvel United The Horsemen Of Apocalypse",
-    "locText": "Marvel United Los Jinetes Del Apocalipsis"
+    "text": "The Horsemen Of Apocalypse",
+    "locText": "Los Jinetes Del Apocalipsis"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

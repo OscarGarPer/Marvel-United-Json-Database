@@ -2,8 +2,8 @@
   "boxId": "MUN-KS16",
   "img": "mun-ks16.jpg",
   "name": {
-    "text": "Marvel United Days From Future Past",
-    "locText": "Marvel United Days From Future Past"
+    "text": "Days From Future Past",
+    "locText": "Days From Future Past"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

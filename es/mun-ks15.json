@@ -2,8 +2,8 @@
   "boxId": "MUN-KS15",
   "img": "mun-ks15.jpg",
   "name": {
-    "text": "Marvel United First Class",
-    "locText": "Marvel United Primera Generación"
+    "text": "First Class",
+    "locText": "Primera Generación"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

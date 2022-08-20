@@ -2,8 +2,8 @@
   "boxId": "MUN-KS17",
   "img": "mun-ks17.jpg",
   "name": {
-    "text": "Marvel United Phoenix Five",
-    "locText": "Marvel United Phoenix Five"
+    "text": "Phoenix Five",
+    "locText": "Phoenix Five"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

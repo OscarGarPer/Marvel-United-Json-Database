@@ -2,8 +2,8 @@
   "boxId": "MUN-KS11",
   "img": "mun-ks11.jpg",
   "name": {
-    "text": "Marvel United Mutant Promos",
-    "locText": "Marvel United Mutant Promos"
+    "text": "Mutant Promos",
+    "locText": "Mutant Promos"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

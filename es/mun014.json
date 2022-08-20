@@ -2,8 +2,8 @@
   "boxId": "MUN014",
   "img": "mun114.jpg",
   "name": {
-    "text": "Marvel United Deadpool",
-    "locText": "Marvel United Deadpool"
+    "text": "Deadpool",
+    "locText": "Deadpool"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],

@@ -2,8 +2,8 @@
   "boxId": "MUN012",
   "img": "mun112.jpg",
   "name": {
-    "text": "Marvel United Blue Team",
-    "locText": "Marvel United Blue Team"
+    "text": "Blue Team",
+    "locText": "Blue Team"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
