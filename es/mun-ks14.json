@@ -115,673 +115,6 @@
   "cards": [],
   "characters": [
     {
-      "img": "villains/Doctor-Doom.jpg",
-      "loyalty": "anti-hero",
-      "name": {
-        "text": "Doctor Doom",
-        "locText": "Doctor Doom"
-      },
-      "realName": {
-        "text": "Dr. Victor von Doom",
-        "locText": "Dr. Víctor von Doom"
-      },
-      "bio": {
-        "text": "Doctor Doom is a Latverian politician who serves as the monarch and supreme leader for the Kingdom of Latveria. He was scarred from an accident and wears an iron mask and armor to hide his face. Considered to be one of the most brilliant scientists on earth, he is also a sorcerer with the ability to match the magic of the most powerful beings in the universe. His driving force is / to bring order to humanity through world conquest. With no equal, he has become the foe of superhumans and cosmic beings alike, but his arch enemy is the Fantastic Four.",
-        "locText": "Doctor Doom es un político de Latveria que se desempeña como monarca y líder supremo del Reino de Latveria. Tenía cicatrices de un accidente y usa una máscara de hierro y una armadura para ocultar su rostro. Considerado como uno de los científicos más brillantes de la tierra, también es un hechicero con la capacidad de igualar la magia de los seres más poderosos del universo. Su fuerza motriz es / poner orden en la humanidad a través de la conquista del mundo. Sin igual, se ha convertido en el enemigo tanto de los superhumanos como de los seres cósmicos, pero sus archienemigos son los Cuatro Fantásticos."
-      },
-      "cards": [
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom1.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "PAIN IS FOR LESSER MEN",
-              "locText": "EL DOLOR ES PARA LOS DÉBILES"
-            },
-            "description": {
-              "text": "As long as this card is faceup in the Storyline, for each damage you take during a Villain turn, you may gain 1 [M], 1 [H], or 1 [A] token.",
-              "locText": "Mientras esta carta esté boca arriba en la Trama, por cada daño que recibas durante el turno del Villano, puedes recibir una ficha de [M], [H] o [A]."
-            }
-          },
-          "actions": [
-            "M"
-          ],
-          "startingHand": true,
-          "bottomDeck": false
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom2.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "M",
-            "H"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom3.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom4.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "M",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom5.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "A",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom6.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom6.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom6.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom9.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "actions": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom10.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
-            },
-            "description": {
-              "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom10.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
-            },
-            "description": {
-              "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Doctor-Doom10.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
-            },
-            "description": {
-              "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Doctor-Doom-T2.jpg",
-          "title": {
-            "text": "AUTO ASSEMBLY",
-            "locText": "AUTO ASSEMBLY"
-          },
-          "description": {
-            "text": "When adding [D] in this and adjacent Locations, add 1 extra [D] there.",
-            "locText": "When adding [D] in this and adjacent Locations, add 1 extra [D] there."
-          },
-          "bam": false,
-          "locationEffect": false,
-          "actions": [
-            "H",
-            "H",
-            "H"
-          ]
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Doctor-Doom-T3.jpg",
-          "title": {
-            "text": "SELF-DESTRUCT PROTOCOL",
-            "locText": "SELF-DESTRUCT PROTOCOL"
-          },
-          "description": {
-            "text": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
-            "locText": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
-          },
-          "bam": false,
-          "locationEffect": false,
-          "actions": [
-            "H",
-            "H",
-            "H"
-          ]
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Doctor-Doom-T3.jpg",
-          "title": {
-            "text": "SELF-DESTRUCT PROTOCOL",
-            "locText": "SELF-DESTRUCT PROTOCOL"
-          },
-          "description": {
-            "text": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
-            "locText": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
-          },
-          "bam": false,
-          "locationEffect": false,
-          "actions": [
-            "H",
-            "H",
-            "H"
-          ]
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Doctor-Doom-T5.jpg",
-          "title": {
-            "text": "ADDITIONAL ARMOR",
-            "locText": "ADDITIONAL ARMOR"
-          },
-          "description": {
-            "text": "Each [D] in this and adjacent Locations requires 2 damage to be defeated.",
-            "locText": "Each [D] in this and adjacent Locations requires 2 damage to be defeated."
-          },
-          "bam": false,
-          "locationEffect": false,
-          "actions": [
-            "H",
-            "H",
-            "H"
-          ]
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Doctor-Doom-T5.jpg",
-          "title": {
-            "text": "ADDITIONAL ARMOR",
-            "locText": "ADDITIONAL ARMOR"
-          },
-          "description": {
-            "text": "Each [D] in this and adjacent Locations requires 2 damage to be defeated.",
-            "locText": "Each [D] in this and adjacent Locations requires 2 damage to be defeated."
-          },
-          "bam": false,
-          "locationEffect": false,
-          "actions": [
-            "H",
-            "H",
-            "H"
-          ]
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP1.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 0,
-          "bam": true,
-          "add": {
-            "left": [
-              "D"
-            ],
-            "center": [
-              "D"
-            ],
-            "right": [
-              "D"
-            ]
-          },
-          "specialEffect": {
-            "title": {
-              "text": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!",
-              "locText": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!"
-            },
-            "description": {
-              "text": "1 Hero takes 1 Crisis token.",
-              "locText": "1 Hero takes 1 Crisis token."
-            }
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP2.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 1,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "MY ROBOTS ARE THE MOST SOPHISTICATED",
-              "locText": "MY ROBOTS ARE THE MOST SOPHISTICATED"
-            },
-            "description": {
-              "text": "Turn all [C] in Doom's Location into [D].",
-              "locText": "Turn all [C] in Doom's Location into [D]."
-            }
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP3.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 0,
-          "movementText": {
-            "text": "THIS IS MY COUNTRY, MY HOME\nMove to Latveria.",
-            "locText": "THIS IS MY COUNTRY, MY HOME\nMove to Latveria."
-          },
-          "bam": true,
-          "add": {
-            "left": [
-              "D"
-            ],
-            "center": [
-              "D"
-            ],
-            "right": [
-              "D"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP4.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 2,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!",
-              "locText": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!"
-            },
-            "description": {
-              "text": "1 Hero takes 1 Crisis token.",
-              "locText": "1 Hero takes 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [
-              "C",
-              "C"
-            ],
-            "center": [],
-            "right": [
-              "C"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP5.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 4,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
-            },
-            "description": {
-              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
-              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [
-              "C",
-              "C"
-            ],
-            "center": [
-              "C"
-            ],
-            "right": []
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP6.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 5,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "YOU MUST SURRENDER, RICHARDS!",
-              "locText": "YOU MUST SURRENDER, RICHARDS!"
-            },
-            "description": {
-              "text": "Each Hero chooses to either discard 1 card from their hand to the bottom of their deck OR take 1 Crisis token.",
-              "locText": "Each Hero chooses to either discard 1 card from their hand to the bottom of their deck OR take 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [
-              "C"
-            ],
-            "center": [],
-            "right": [
-              "C",
-              "C"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP7.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 4,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
-            },
-            "description": {
-              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
-              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [
-              "T"
-            ],
-            "center": [
-              "D"
-            ],
-            "right": [
-              "T"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP8.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 2,
-          "bam": false,
-          "specialEffect": {
-            "title": {
-              "text": "FEW MEN ARE AS SUBTLE AS DOCTOR DOOM",
-              "locText": "FEW MEN ARE AS SUBTLE AS DOCTOR DOOM"
-            },
-            "description": {
-              "text": "Each Hero chooses to either discard all their Action tokens (if they have any) OR take 1 Crisis token.",
-              "locText": "Each Hero chooses to either discard all their Action tokens (if they have any) OR take 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [
-              "T"
-            ],
-            "center": [
-              "D"
-            ],
-            "right": [
-              "T"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP9.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 1,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
-            },
-            "description": {
-              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
-              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [
-              "T"
-            ],
-            "center": [
-              "D"
-            ],
-            "right": [
-              "T"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP10.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 5,
-          "bam": false,
-          "specialEffect": {
-            "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
-            },
-            "description": {
-              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
-              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
-            }
-          },
-          "add": {
-            "left": [],
-            "center": [
-              "D"
-            ],
-            "right": []
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP11.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 3,
-          "bam": false,
-          "add": {
-            "left": [
-              "C"
-            ],
-            "center": [
-              "D",
-              "D"
-            ],
-            "right": [
-              "C"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Doctor-Doom-MP11.jpg",
-          "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
-          },
-          "M": 3,
-          "bam": false,
-          "add": {
-            "left": [
-              "C"
-            ],
-            "center": [
-              "D",
-              "D"
-            ],
-            "right": [
-              "C"
-            ]
-          }
-        }
-      ],
-      "dashboard": {
-        "front": {
-          "img": "villains/Doctor-Doom-A.jpg",
-          "specialRules": {
-            "text": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way.",
-            "locText": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way."
-          },
-          "overflow": {
-            "text": "If a [C], [T] or [D] can't be added to a Location, increase the Doom track by 1 for each token you couldn't add.",
-            "locText": "Si una ficha de CIVIL, MATÓN o DOOMBOT no se puede añadir a un Lugar, avanza el marcador de Doom una posición por cada ficha que no pudiste añadir."
-          },
-          "bam": {
-            "text": "Deal 1 damage to each Hero in Doom's Location, plus 1 damage to each Hero in Locations with any [D]. Then, increase the Doom track by 2.",
-            "locText": "Inflige 1 daño a cada Héroe en el Lugar de Killmonger. Luego sustituye la ficha de CIVIL / MATÓN más a la izquierda (si hay alguna) con una ficha de Crisis."
-          },
-          "plot": {
-            "text": "Doom Track - When this track reaches 20, the Heroes lose.",
-            "locText": "Doom Track - When this track reaches 20, the Heroes lose."
-          },
-          "lifePoints": {
-            "twoHeroes": 6,
-            "threeHeroes": 9,
-            "fourHeroes": 12
-          }
-        },
-        "back": {
-          "img": "villains/Doctor-Doom-B.jpg",
-          "specialSetup": {
-            "text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
-            "locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
-          },
-          "superVillain": [
-            "M",
-            "M",
-            "H",
-            "H",
-            "A",
-            "A"
-          ]
-        }
-      },
-      "tokens": []
-    },
-    {
       "img": "heroes/Human-Torch.jpg",
       "loyalty": "hero",
       "name": {
@@ -1783,18 +1116,1139 @@
           ]
         }
       ]
+    },
+    {
+      "img": "villains/Doctor-Doom.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Doctor Doom",
+        "locText": "Doctor Doom"
+      },
+      "realName": {
+        "text": "Dr. Victor von Doom",
+        "locText": "Dr. Víctor von Doom"
+      },
+      "bio": {
+        "text": "Doctor Doom is a Latverian politician who serves as the monarch and supreme leader for the Kingdom of Latveria. He was scarred from an accident and wears an iron mask and armor to hide his face. Considered to be one of the most brilliant scientists on earth, he is also a sorcerer with the ability to match the magic of the most powerful beings in the universe. His driving force is / to bring order to humanity through world conquest. With no equal, he has become the foe of superhumans and cosmic beings alike, but his arch enemy is the Fantastic Four.",
+        "locText": "Doctor Doom es un político de Latveria que se desempeña como monarca y líder supremo del Reino de Latveria. Tenía cicatrices de un accidente y usa una máscara de hierro y una armadura para ocultar su rostro. Considerado como uno de los científicos más brillantes de la tierra, también es un hechicero con la capacidad de igualar la magia de los seres más poderosos del universo. Su fuerza motriz es / poner orden en la humanidad a través de la conquista del mundo. Sin igual, se ha convertido en el enemigo tanto de los superhumanos como de los seres cósmicos, pero sus archienemigos son los Cuatro Fantásticos."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom1.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "PAIN IS FOR LESSER MEN",
+              "locText": "EL DOLOR ES PARA LOS DÉBILES"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, for each damage you take during a Villain turn, you may gain 1 [M], 1 [H], or 1 [A] token.",
+              "locText": "Mientras esta carta esté boca arriba en la Trama, por cada daño que recibas durante el turno del Villano, puedes recibir una ficha de [M], [H] o [A]."
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true,
+          "bottomDeck": false
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom2.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom3.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom4.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom5.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom6.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom6.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom6.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom9.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom10.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "MINE IS THE POWER",
+              "locText": "MÍO ES EL PODER"
+            },
+            "description": {
+              "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
+              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom10.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "MINE IS THE POWER",
+              "locText": "MÍO ES EL PODER"
+            },
+            "description": {
+              "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
+              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Doctor-Doom10.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "MINE IS THE POWER",
+              "locText": "MÍO ES EL PODER"
+            },
+            "description": {
+              "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
+              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Doctor-Doom-T2.jpg",
+          "title": {
+            "text": "AUTO ASSEMBLY",
+            "locText": "AUTO ASSEMBLY"
+          },
+          "description": {
+            "text": "When adding [D] in this and adjacent Locations, add 1 extra [D] there.",
+            "locText": "When adding [D] in this and adjacent Locations, add 1 extra [D] there."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Doctor-Doom-T3.jpg",
+          "title": {
+            "text": "SELF-DESTRUCT PROTOCOL",
+            "locText": "SELF-DESTRUCT PROTOCOL"
+          },
+          "description": {
+            "text": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
+            "locText": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Doctor-Doom-T3.jpg",
+          "title": {
+            "text": "SELF-DESTRUCT PROTOCOL",
+            "locText": "SELF-DESTRUCT PROTOCOL"
+          },
+          "description": {
+            "text": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
+            "locText": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Doctor-Doom-T5.jpg",
+          "title": {
+            "text": "ADDITIONAL ARMOR",
+            "locText": "ADDITIONAL ARMOR"
+          },
+          "description": {
+            "text": "Each [D] in this and adjacent Locations requires 2 damage to be defeated.",
+            "locText": "Each [D] in this and adjacent Locations requires 2 damage to be defeated."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Doctor-Doom-T5.jpg",
+          "title": {
+            "text": "ADDITIONAL ARMOR",
+            "locText": "ADDITIONAL ARMOR"
+          },
+          "description": {
+            "text": "Each [D] in this and adjacent Locations requires 2 damage to be defeated.",
+            "locText": "Each [D] in this and adjacent Locations requires 2 damage to be defeated."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP1.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          },
+          "specialEffect": {
+            "title": {
+              "text": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!",
+              "locText": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!"
+            },
+            "description": {
+              "text": "1 Hero takes 1 Crisis token.",
+              "locText": "1 Hero takes 1 Crisis token."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP2.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "MY ROBOTS ARE THE MOST SOPHISTICATED",
+              "locText": "MY ROBOTS ARE THE MOST SOPHISTICATED"
+            },
+            "description": {
+              "text": "Turn all [C] in Doom's Location into [D].",
+              "locText": "Turn all [C] in Doom's Location into [D]."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP3.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "THIS IS MY COUNTRY, MY HOME",
+            "locText": "THIS IS MY COUNTRY, MY HOME"
+            },
+            "description": {
+              "text": "Move to Latveria.",
+            "locText": "Move to Latveria."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "THIS IS MY COUNTRY, MY HOME\nMove to Latveria.",
+            "locText": "THIS IS MY COUNTRY, MY HOME\nMove to Latveria."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP4.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!",
+              "locText": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!"
+            },
+            "description": {
+              "text": "1 Hero takes 1 Crisis token.",
+              "locText": "1 Hero takes 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP5.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "YOU ALL FELL INTO MY TRAP",
+              "locText": "YOU ALL FELL INTO MY TRAP"
+            },
+            "description": {
+              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
+              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": []
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP6.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "YOU MUST SURRENDER, RICHARDS!",
+              "locText": "YOU MUST SURRENDER, RICHARDS!"
+            },
+            "description": {
+              "text": "Each Hero chooses to either discard 1 card from their hand to the bottom of their deck OR take 1 Crisis token.",
+              "locText": "Each Hero chooses to either discard 1 card from their hand to the bottom of their deck OR take 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP7.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "YOU ALL FELL INTO MY TRAP",
+              "locText": "YOU ALL FELL INTO MY TRAP"
+            },
+            "description": {
+              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
+              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP8.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 2,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "FEW MEN ARE AS SUBTLE AS DOCTOR DOOM",
+              "locText": "FEW MEN ARE AS SUBTLE AS DOCTOR DOOM"
+            },
+            "description": {
+              "text": "Each Hero chooses to either discard all their Action tokens (if they have any) OR take 1 Crisis token.",
+              "locText": "Each Hero chooses to either discard all their Action tokens (if they have any) OR take 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP9.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "YOU ALL FELL INTO MY TRAP",
+              "locText": "YOU ALL FELL INTO MY TRAP"
+            },
+            "description": {
+              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
+              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP10.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 5,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "YOU ALL FELL INTO MY TRAP",
+              "locText": "YOU ALL FELL INTO MY TRAP"
+            },
+            "description": {
+              "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
+              "locText": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token."
+            }
+          },
+          "add": {
+            "left": [],
+            "center": [
+              "D"
+            ],
+            "right": []
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP11.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "D",
+              "D"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Doctor-Doom-MP11.jpg",
+          "title": {
+            "text": "DOCTOR DOOM",
+            "locText": "DOCTOR DOOM"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "D",
+              "D"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Doctor-Doom-A.jpg",
+          "specialRules": {
+            "text": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way.",
+            "locText": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way."
+          },
+          "overflow": {
+            "text": "If a [C], [T] or [D] can't be added to a Location, increase the Doom track by 1 for each token you couldn't add.",
+            "locText": "Si una ficha de CIVIL, MATÓN o DOOMBOT no se puede añadir a un Lugar, avanza el marcador de Doom una posición por cada ficha que no pudiste añadir."
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in Doom's Location, plus 1 damage to each Hero in Locations with any [D]. Then, increase the Doom track by 2.",
+            "locText": "Inflige 1 daño a cada Héroe en el Lugar de Killmonger. Luego sustituye la ficha de CIVIL / MATÓN más a la izquierda (si hay alguna) con una ficha de Crisis."
+          },
+          "plot": {
+            "text": "Doom Track - When this track reaches 20, the Heroes lose.",
+            "locText": "Doom Track - When this track reaches 20, the Heroes lose."
+          },
+          "lifePoints": {
+            "twoHeroes": 6,
+            "threeHeroes": 9,
+            "fourHeroes": 12
+          }
+        },
+        "back": {
+          "img": "villains/Doctor-Doom-B.jpg",
+          "specialSetup": {
+            "text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
+            "locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
+          },
+          "superVillain": [
+            "M",
+            "M",
+            "H",
+            "H",
+            "A",
+            "A"
+          ]
+        }
+      },
+      "tokens": []
+    },
+    {
+      "img": "villains/Super-Skrull.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Super-Skrull",
+        "locText": "Súper-Skrull"
+      },
+      "realName": {
+        "text": "Kl'rt",
+        "locText": "Kl'rt"
+      },
+      "bio": {
+        "text": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own. Kl'rt, a decorated soldier and warrior of the Skrull empire, was chosen to undergo a process that endowed him with all the powers of the Fantastic Four, except, when powered by an interstellar beam, far stronger.",
+        "locText": "Después de que los Cuatro Fantásticos detuvieran el intento de invasión de la Tierra por parte de los Skrulls, el Emperador Skrull Dorrek invirtió grandes recursos para crear su propio superser. Kl'rt, un soldado condecorado y guerrero del imperio Skrull, fue elegido para someterse a un proceso que lo dotó de todos los poderes de los Cuatro Fantásticos, excepto que, cuando lo impulsa un rayo interestelar, es mucho más fuerte."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Super-Skrull-T2.jpg",
+          "title": {
+            "text": "SKRULL WARRIORS",
+            "locText": "GUERREROS SKRULL"
+          },
+          "description": {
+            "text": "Each [T] in this and adjacent Locations requires 2 damage to be defeated.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Super-Skrull-T3.jpg",
+          "title": {
+            "text": "SKRULL DECEPTION",
+            "locText": "DECEPCIÓN SKRULL"
+          },
+          "description": {
+            "text": "Each [C] in this and adjacent Locations requires 2 [H] to be rescued.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Super-Skrull-T4.jpg",
+          "title": {
+            "text": "SKRULL SPIES",
+            "locText": "ESPÍAS SKRULL"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in each Location with 1 or more [C].",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Super-Skrull-T5.jpg",
+          "title": {
+            "text": "SKRULLS ATTACK",
+            "locText": "SKRULLS AL ATAQUE"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in each Location with 1 or more [T].",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Super-Skrull-T6.jpg",
+          "title": {
+            "text": "SKRULL DECOYS",
+            "locText": "SEÑUELOS SKRULL"
+          },
+          "description": {
+            "text": "If there is at least 1 [C] or [T] in this Location, add 1 Crisis token to Super-Skrull's dashboard.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Super-Skrull-T6.jpg",
+          "title": {
+            "text": "SKRULL DECOYS",
+            "locText": "SEÑUELOS SKRULL"
+          },
+          "description": {
+            "text": "If there is at least 1 [C] or [T] in this Location, add 1 Crisis token to Super-Skrull's dashboard.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP1.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP2.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP3.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP4.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP5.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP6.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP7.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP8.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP9.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "SKRULL CHALLENGE",
+            "locText": "SKRULL CHALLENGE"
+            },
+            "description": {
+              "text": "Move clockwise to the next Location with a Hero with no KO token.",
+            "locText": "Move clockwise to the next Location with a Hero with no KO token."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "SKRULL CHALLENGE\nMove clockwise to the next Location with a Hero with no KO token.",
+            "locText": ""
+          },
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP9.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "specialEffect": {
+            "mandatory": null,
+            "title": {
+              "text": "SKRULL CHALLENGE",
+            "locText": "SKRULL CHALLENGE"
+            },
+            "description": {
+              "text": "Move clockwise to the next Location with a Hero with no KO token.",
+            "locText": "Move clockwise to the next Location with a Hero with no KO token."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "SKRULL CHALLENGE\nMove clockwise to the next Location with a Hero with no KO token.",
+            "locText": ""
+          },
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP11.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "MATCHING POWERS",
+              "locText": "MATCHING POWERS"
+            },
+            "description": {
+              "text": "If the next Master Plan card has a BAM!, it uses the las TWO Hero cards in the Storyline for its effect.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Super-Skrull-MP12.jpg",
+          "title": {
+            "text": "Super-Skrull",
+            "locText": "Súper-Skrull"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "MATCHING POWERS",
+              "locText": "MATCHING POWERS"
+            },
+            "description": {
+              "text": "If the next Master Plan card has a BAM!, it uses the las TWO Hero cards in the Storyline for its effect.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Super-Skrull-A.jpg",
+          "specialRules": {
+            "text": "Super-Skrull can't be damaged as long as there are any Crisis tokens here. Heroes in his Location can spend [H] to remove a Crisis token from here. When a Hero is KO'd, Super-Skrull does not activate his BAM! Instead, draw a Master Plan card and add it facedown in the Storyline. The KO'd Hero gets a KO token if they have none.",
+            "locText": "Super-Skrull can't be damaged as long as there are any Crisis tokens here. Heroes in his Location can spend [H] to remove a Crisis token from here. When a Hero is KO'd, Super-Skrull does not activate his BAM! Instead, draw a Master Plan card and add it facedown in the Storyline. The KO'd Hero gets a KO token if they have none."
+          },
+          "overflow": {
+            "text": "If I or more [C]/[T] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline.",
+            "locText": "If I or more [C]/[T] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline."
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in Super-Skrull's Location. Then, resolve the symbols at the bottom of the last Hero card in the Storyline, in order: 1. [A] - Deal 1 damage to 1 Hero in Super-Skrull's Location. 2. [H] - Deal 1 damage to 1 Hero in each adjacent Location. 3. [M] - Super-Skrull moves clockwise to the next Location. 4. [W] - Add 1 Crisis token to this Dashboard. 5. Special Effect - Super-Skrull gains I Health (may go above starting value).",
+            "locText": "Deal 1 damage to each Hero in Super-Skrull's Location. Then, resolve the symbols at the bottom of the last Hero card in the Storyline, in order: 1. [A] - Deal 1 damage to 1 Hero in Super-Skrull's Location. 2. [H] - Deal 1 damage to 1 Hero in each adjacent Location. 3. [M] - Super-Skrull moves clockwise to the next Location. 4. [W] - Add 1 Crisis token to this Dashboard. 5. Special Effect - Super-Skrull gains I Health (may go above starting value)."
+          },
+          "plot": {
+            "text": "The Heroes lose if they have I KO token each.",
+            "locText": "The Heroes lose if they have I KO token each."
+          },
+          "lifePoints": {
+            "twoHeroes": 2,
+            "threeHeroes": 3,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Super-Skrull-B.jpg",
+          "superVillain": [
+            "W",
+            "W",
+            "M",
+            "M"
+          ]
+        }
+      },
+      "tokens": []
     }
   ],
-  "faq": [
-    {
-      "question": {
-        "text": "Why I can't find Super-Skrull on this app?",
-        "locText": "¿Por qué no puedo encontrar a Super-Skrull en esta aplicación?"
-      },
-      "answer": {
-        "text": "Because this is a test version.",
-        "locText": "Porque esto es una prueba."
-      }
-    }
-  ]
+  "faq": []
 }
