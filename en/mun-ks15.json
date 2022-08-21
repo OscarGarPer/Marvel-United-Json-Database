@@ -7,7 +7,79 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/cape-citadel.jpg",
+      "title": {
+        "text": "Cape Citadel",
+        "locText": "Cape Citadel"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there are any [C], in this Location, you may deal 1 damage to a [T], or Henchman in this or adjacent Location.",
+          "locText": "Si hay algún [C], en este Lugar, puedes infligir 1 punto de daño a un [T], o Secuaz en este Lugar o en uno adyacente."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/island-m.jpg",
+      "title": {
+        "text": "Island M",
+        "locText": "Island M"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to gain 1 [W] token.",
+          "locText": "Puedes descartar 1 carta de tu mano al final de tu mazo para coger 1 ficha [W]."
+        }
+      },
+      "slots": [
+        "T",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/the-danger-room.jpg",
+      "title": {
+        "text": "The Danger Room",
+        "locText": "The Danger Room"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "Gain 1 Training card.",
+          "locText": "Obtienes 1 carta de Entrenamiento.."
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/xaviers-school.jpg",
+      "title": {
+        "text": "Xavier's School For Gifted Youngsters",
+        "locText": "Xavier's School For Gifted Youngsters"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "Another Hero in this Location may either draw cards until they have 3 in hand OR gain 1 [M], [H], or [A] token.",
+          "locText": "Otro Héroe en este Lugar puede robar cartas hasta tener 3 en su mano O coger 1 ficha de [Movimiento], [Acción Heroica] o [Ataque]."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "empty",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [

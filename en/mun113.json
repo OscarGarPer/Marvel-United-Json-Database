@@ -7,7 +7,83 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/chandilar.jpg",
+      "title": {
+        "text": "Chandilar, (Shi’ar Empire)",
+        "locText": "Chandilar, (Shi’ar Empire)"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 [M], [H], or [A] token to gain any combination of 2 [M], [H], or [A] tokens.",
+          "locText": "Puedes descartar 1 ficha de [M], [H], o [A] para obtener cualquier combinación de 2 fichas de [M], [H], o [A]."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/hellfire-club-building.jpg",
+      "title": {
+        "text": "Hellfire Club Building",
+        "locText": "Hellfire Club Building"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to defeat 1 Henchman in any Location. This is not considered clearing a Threat",
+          "locText": "Puedes descartar 1 carta de tu mano al final de tu mazo para derrotar a 1 Secuaz en cualquier Lugar. Esto no se considera resolver una Amenaza."
+        }
+      },
+      "slots": [
+        "T",
+        "T",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/krakoa.jpg",
+      "title": {
+        "text": "Krakoa",
+        "locText": "Krakoa"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may move all Heroes from this Location to another Location.",
+          "locText": "Puedes mover a todos los Héroes de este Lugar a otro Lugar."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/limbo.jpg",
+      "title": {
+        "text": "Limbo",
+        "locText": "Limbo"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 2 cards from your hand to the bottom of your deck to delay the next Villain turn by 1 card.",
+          "locText": "Puedes descartar 2 cartas de tu mano al final de tu mazo para retrasar 1 carta el siguiente turno del Villano."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [

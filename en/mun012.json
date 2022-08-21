@@ -7,7 +7,84 @@
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
-  "locations": [],
+  "locations": [
+    {
+      "img": "locations/excalibur-lighthouse.jpg",
+      "title": {
+        "text": "Excalibur Lighthouse",
+        "locText": "Excalibur Lighthouse"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck, or discard an Action token, to look at the top card of the Master Plan deck. You may then put it at the bottom.",
+          "locText": "Puedes descartar 1 carta de tu mano al final de tu mazo o descartar 1 ficha de Acción para mirar la primera carta del mazo de Plan maestro. Puedes colocarla en la parte inferior,"
+        }
+      },
+      "slots": [
+        "T",
+        "T",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/madripoor.jpg",
+      "title": {
+        "text": "Madripoor",
+        "locText": "Madripoor"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "Draw 1 card (if posssible). Then, you MUST discard 1 card from your hand to the bottom of your deck.",
+          "locText": "Roba 1 carta (si es posible). Luego, DEBES descartar 1 carta de tu mano al final de tu mazo."
+        }
+      },
+      "slots": [
+        "C",
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/mojoverse.jpg",
+      "title": {
+        "text": "Mojoverse",
+        "locText": "Mojoverse"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If you performed 3 or more [H] / [A] here this turn, you may gain 1 [W] token. If you did not, you MUST discard 1 card from your hand to the bottom of your deck.",
+          "locText": "Si has realizado 3 o más [H] / [A] aquí en este turno, puedes coger 1 ficha [W]. Si no, DEBES descartar 1 carta de tu mano al final de tu mazo."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "empty",
+        "empty"
+      ]
+    },
+    {
+      "img": "locations/the-savage-land.jpg",
+      "title": {
+        "text": "The Savage Land",
+        "locText": "The Savage Land"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to gain 1 [A] and 1 [M] token.",
+          "locText": "Puedes descartar 1 carta de tu mano al final de tu mazo para coger 1 ficha [A] y 1 ficha [M]."
+        }
+      },
+      "slots": [
+        "C",
+        "T",
+        "T",
+        "empty"
+      ]
+    }
+  ],
   "challenges": [],
   "cards": [],
   "characters": [
