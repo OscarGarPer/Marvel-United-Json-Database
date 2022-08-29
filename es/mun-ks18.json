@@ -107,7 +107,209 @@
       "bio": {
         "text": "Mutant Nathan Summers, the son of Madelyn Pryor — a clone of Jean Grey — and Scott Summers, was devised by Mister Sinister in hopes of creating a super mutant who would defeat Apocalypse. He was indeed extremely powerful with telepathic and telekinetic abilities. Unfortunately, Apocalypse infected him with a techno-organic virus and Cable was sent into the future in hopes of salvation. He returned with a metal arm and a robotic eye and a penchant for taking down Super Villains.",
         "locText": "El mutante Nathan Summers, el hijo de Madelyn Pryor, un clon de Jean Grey, y Scott Summers, fue ideado por Mister Sinister con la esperanza de crear un supermutante que derrotaría a Apocalipsis. De hecho, era extremadamente poderoso con habilidades telepáticas y telequinéticas. Desafortunadamente, Apocalipsis lo infectó con un virus tecnoorgánico y Cable fue enviado al futuro con la esperanza de salvarse. Regresó con un brazo de metal y un ojo robótico y una inclinación por derrotar a los supervillanos."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable1.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable2.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable3.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable4.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable5.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable6.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable7.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "PSYCHIC MASTERY",
+              "locText": "DOMINIO PSÍQUICO"
+            },
+            "description": {
+              "text": "Each Hero draws 1 card. Then, they discard 1 card from their hand to the bottom of their deck.",
+              "locText": "Cada Héroe roba 1 carta. Luego, ellos descartan 1 carta de su mano hasta la parte inferior de su mazo."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable7.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "PSYCHIC MASTERY",
+              "locText": "DOMINIO PSÍQUICO"
+            },
+            "description": {
+              "text": "Each Hero draws 1 card. Then, they discard 1 card from their hand to the bottom of their deck.",
+              "locText": "Cada Héroe roba 1 carta. Luego, ellos descartan 1 carta de su mano hasta la parte inferior de su mazo."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable9.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "TECNO-ORGANIC PHYSIOLOGY",
+              "locText": "FISIOLOGÍA TECNOORGÁNICA"
+            },
+            "description": {
+              "text": "Attack and you may draw cards until you have 3 in your hand.",
+              "locText": "Ataca y puedes robar cartas hasta que tengas 3 en tu mano."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable9.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "TECNO-ORGANIC PHYSIOLOGY",
+              "locText": "FISIOLOGÍA TECNOORGÁNICA"
+            },
+            "description": {
+              "text": "Attack and you may draw cards until you have 3 in your hand.",
+              "locText": "Ataca y puedes robar cartas hasta que tengas 3 en tu mano."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable11.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "TECNOACTIVE MANIPULATION",
+              "locText": "MANIPULACIÓN TECNOACTIVA"
+            },
+            "description": {
+              "text": "Discard 1 card from your hand to the bottom of your deck to perform 2 wild actions.",
+              "locText": "Descarta 1 carta de tu mano al fondo de tu mazo para realizar 2 acciones comodines."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cable12.jpg",
+          "title": {
+            "text": "CABLE",
+            "locText": "CABLE"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "TECNOACTIVE MANIPULATION",
+              "locText": "MANIPULACIÓN TECNOACTIVA"
+            },
+            "description": {
+              "text": "Discard 1 card from your hand to the bottom of your deck to perform 2 wild actions.",
+              "locText": "Descarta 1 carta de tu mano al fondo de tu mazo para realizar 2 acciones comodines."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Cannonball.jpg",
