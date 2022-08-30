@@ -72,8 +72,8 @@
     {
       "img": "locations/stryfes-secret-base.jpg",
       "title": {
-        "text": "Stryfe’s Secret Base",
-        "locText": "Stryfe’s Secret Base"
+        "text": "Stryfe’s secret Base",
+        "locText": "Stryfe’s secret Base"
       },
       "hazardous": true,
       "endOfTurn": {
@@ -113,8 +113,8 @@
           "cardType": "hero",
           "img": "heroes/Cable1.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "actions": [
             "M"
@@ -124,8 +124,8 @@
           "cardType": "hero",
           "img": "heroes/Cable2.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "actions": [
             "H"
@@ -135,8 +135,8 @@
           "cardType": "hero",
           "img": "heroes/Cable3.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "actions": [
             "A"
@@ -146,8 +146,8 @@
           "cardType": "hero",
           "img": "heroes/Cable4.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "actions": [
             "A",
@@ -158,8 +158,8 @@
           "cardType": "hero",
           "img": "heroes/Cable5.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "actions": [
             "W"
@@ -169,8 +169,8 @@
           "cardType": "hero",
           "img": "heroes/Cable6.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "actions": [
             "W",
@@ -181,18 +181,18 @@
           "cardType": "hero",
           "img": "heroes/Cable7.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "PSYCHIC MASTERY",
-              "locText": "DOMINIO PSÍQUICO"
+              "text": "Psychic Mastery",
+              "locText": "Dominio Psíquico"
             },
             "description": {
               "text": "Each Hero draws 1 card. Then, they discard 1 card from their hand to the bottom of their deck.",
-              "locText": "Cada Héroe roba 1 carta. Luego, ellos descartan 1 carta de su mano hasta la parte inferior de su mazo."
+              "locText": "Cada Héroe roba 1 carta. Luego, descartan 1 carta de su mano a la parte inferior de su mazo."
             }
           },
           "actions": [
@@ -203,18 +203,18 @@
           "cardType": "hero",
           "img": "heroes/Cable7.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "PSYCHIC MASTERY",
-              "locText": "DOMINIO PSÍQUICO"
+              "text": "Psychic Mastery",
+              "locText": "Dominio Psíquico"
             },
             "description": {
               "text": "Each Hero draws 1 card. Then, they discard 1 card from their hand to the bottom of their deck.",
-              "locText": "Cada Héroe roba 1 carta. Luego, ellos descartan 1 carta de su mano hasta la parte inferior de su mazo."
+              "locText": "Cada Héroe roba 1 carta. Luego, descartan 1 carta de su mano a la parte inferior de su mazo."
             }
           },
           "actions": [
@@ -225,18 +225,18 @@
           "cardType": "hero",
           "img": "heroes/Cable9.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "TECNO-ORGANIC PHYSIOLOGY",
-              "locText": "FISIOLOGÍA TECNOORGÁNICA"
+              "text": "Tecno-Organic Physiology",
+              "locText": "Fisiología Tecno-Orgánica"
             },
             "description": {
-              "text": "Attack and you may draw cards until you have 3 in your hand.",
-              "locText": "Ataca y puedes robar cartas hasta que tengas 3 en tu mano."
+              "text": "[Attack] and you may draw cards until you have 3 in your hand.",
+              "locText": "[ATAQUE] y puedes robar cartas hasta que tengas 3 en tu mano."
             }
           },
           "actions": [
@@ -247,18 +247,18 @@
           "cardType": "hero",
           "img": "heroes/Cable9.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "TECNO-ORGANIC PHYSIOLOGY",
-              "locText": "FISIOLOGÍA TECNOORGÁNICA"
+              "text": "Tecno-Organic Physiology",
+              "locText": "Fisiología Tecno-Orgánica"
             },
             "description": {
-              "text": "Attack and you may draw cards until you have 3 in your hand.",
-              "locText": "Ataca y puedes robar cartas hasta que tengas 3 en tu mano."
+              "text": "[Attack] and you may draw cards until you have 3 in your hand.",
+              "locText": "[ATAQUE] y puedes robar cartas hasta que tengas 3 en tu mano."
             }
           },
           "actions": [
@@ -269,18 +269,18 @@
           "cardType": "hero",
           "img": "heroes/Cable11.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "TECNOACTIVE MANIPULATION",
-              "locText": "MANIPULACIÓN TECNOACTIVA"
+              "text": "Tecnoactive Manipulation",
+              "locText": "Manipulación Tecnoactiva"
             },
             "description": {
               "text": "Discard 1 card from your hand to the bottom of your deck to perform 2 wild actions.",
-              "locText": "Descarta 1 carta de tu mano al fondo de tu mazo para realizar 2 acciones comodines."
+              "locText": "Descarta 1 carta de tu mano al final de tu mazo para realizar [COMODÍN] [COMODÍN]."
             }
           },
           "actions": [
@@ -289,20 +289,20 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Cable12.jpg",
+          "img": "heroes/Cable11.jpg",
           "title": {
-            "text": "CABLE",
-            "locText": "CABLE"
+            "text": "Cable",
+            "locText": "Cable"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "TECNOACTIVE MANIPULATION",
-              "locText": "MANIPULACIÓN TECNOACTIVA"
+              "text": "Tecnoactive Manipulation",
+              "locText": "Manipulación Tecnoactiva"
             },
             "description": {
               "text": "Discard 1 card from your hand to the bottom of your deck to perform 2 wild actions.",
-              "locText": "Descarta 1 carta de tu mano al fondo de tu mazo para realizar 2 acciones comodines."
+              "locText": "Descarta 1 carta de tu mano al final de tu mazo para realizar [COMODÍN] [COMODÍN]."
             }
           },
           "actions": [
@@ -316,7 +316,7 @@
       "loyalty": "hero",
       "name": {
         "text": "Cannonball",
-        "locText": "Cannonball"
+        "locText": "Bala De Cañón"
       },
       "realName": {
         "text": "Sam Guthrie",
@@ -325,14 +325,197 @@
       "bio": {
         "text": "Kentucky boy Samuel Guthrie grew up on a farm. After being trapped in a coal mine, his blasting powers manifested for the first time, allowing him to escape. Manipulated by Donald Pierce into serving as a member of the Hellfire Club, he was sent to fight Professor X and his team. Instead of battling them, he was invited to join the New Mutants. He also spent time in his long career with the Avengers fighting evil, ultimately leading him back to the X-Men.",
         "locText": "El niño de Kentucky, Samuel Guthrie, creció en una granja. Después de quedar atrapado en una mina de carbón, sus poderes explosivos se manifestaron por primera vez, lo que le permitió escapar. Manipulado por Donald Pierce para que sirviera como miembro del Hellfire Club, fue enviado a luchar contra el Profesor X y su equipo. En lugar de luchar contra ellos, fue invitado a unirse a los Nuevos Mutantes. También pasó un tiempo en su larga carrera con los Vengadores luchando contra el mal, lo que finalmente lo llevó de regreso a los X-Men."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball1.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball2.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball3.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball3.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball5.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball5.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball7.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball8.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball9.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Blast Field",
+              "locText": "Explosión De Campo"
+            },
+            "description": {
+              "text": "Gain 1 [MOVE] token. You cannot take any damage until the beginning of your next turn.",
+              "locText": "Recibes 1 ficha [MOVIMIENTO]. No puedes recibir ningún daño hasta el comienzo de tu próximo turno."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball9.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Blast Field",
+              "locText": "Explosión De Campo"
+            },
+            "description": {
+              "text": "Gain 1 [MOVE] token. You cannot take any damage until the beginning of your next turn.",
+              "locText": "Recibes 1 ficha [MOVIMIENTO]. No puedes recibir ningún daño hasta el comienzo de tu próximo turno."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball11.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Energy Field Propulsion",
+              "locText": "Propulsión De Campo De Energía"
+            },
+            "description": {
+              "text": "This turn, each time you perform a [MOVE] action, gain 1 [ATTACK] Token.",
+              "locText": "Este turno, cada vez que realices una acción de [MOVIMIENTO], obtienes 1 ficha [ATAQUE]."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Cannonball11.jpg",
+          "title": {
+            "text": "Cannonball",
+            "locText": "Bala De Cañón"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Energy Field Propulsion",
+              "locText": "Propulsión De Campo De Energía"
+            },
+            "description": {
+              "text": "This turn, each time you perform a [MOVE] action, gain 1 [ATTACK] Token.",
+              "locText": "Este turno, cada vez que realices una acción de [MOVIMIENTO], obtienes 1 ficha [ATAQUE]."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Domino.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Domino",
-        "locText": "Domino"
+        "locText": "Dominó"
       },
       "realName": {
         "text": "Neena Thurman",
@@ -341,7 +524,188 @@
       "bio": {
         "text": "Born into the top-secret government Project Armageddon breeding program, Neena Thurman was genetically engineered to be the perfect weapon. Hired as a mercenary, she ended up as genius Milo Thurman's bodyguard and they fell in love. After a terrorist attack, she believed that Milo was dead and joined Six Pack, befriending Cable. Her probability field mutant power allowed her to shift odds to her favor making her extremely lucky. Always remaining independent, she helped the X-Men fight for mutant rights.",
         "locText": "Neena Thurman, nacida en el programa de cría ultrasecreto del gobierno Project Armageddon, fue diseñada genéticamente para ser el arma perfecta. Contratada como mercenaria, terminó como guardaespaldas del genio Milo Thurman y se enamoraron. Después de un ataque terrorista, creyó que Milo estaba muerto y se unió a Six Pack, haciéndose amiga de Cable. Su poder mutante del campo de probabilidad le permitió cambiar las probabilidades a su favor, haciéndola extremadamente afortunada. Siempre siendo independiente, ayudó a los X-Men a luchar por los derechos de los mutantes."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino1.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino2.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino3.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino3.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino5.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino5.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino7.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino8.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino9.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Probability Manipulation",
+              "locText": "Manipulación De Probabilidades"
+            },
+            "description": {
+              "text": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn.",
+              "locText": "Si esta es la última carta de Domino en la trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino9.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Probability Manipulation",
+              "locText": "Manipulación De Probabilidades"
+            },
+            "description": {
+              "text": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn.",
+              "locText": "Si esta es la última carta de Domino en la trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino9.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Probability Manipulation",
+              "locText": "Manipulación De Probabilidades"
+            },
+            "description": {
+              "text": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn.",
+              "locText": "Si esta es la última carta de Domino en la trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Domino12.jpg",
+          "title": {
+            "text": "Domino",
+            "locText": "Dominó"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Master Assasin",
+              "locText": "Asesina Experta"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] [ATTACK] to a single Villain or Henchman in your Location.",
+              "locText": "[ATAQUE] [ATAQUE] [ATAQUE] a un solo Villano o Secuaz en tu Lugar."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Shatterstar.jpg",
@@ -357,7 +721,190 @@
       "bio": {
         "text": "Hailing from the planet Mojoworld, Shatterstar was a time-traveler and dimension-hopper. He was genetically altered with superhuman powers and learned advanced weaponry.\nTrained in combat as an arena gladiator, he became a warrior with the Cadre Alliance. The group led him to the X-Men in the time of X-Force. Convinced to join them, he fought in many battles by their side.",
         "locText": "Proveniente del planeta Mojoworld, Shatterstar era un viajero del tiempo y saltador de dimensiones. Fue alterado genéticamente con poderes sobrehumanos y aprendió armamento avanzado.\nEntrenado en combate como gladiador de arena, se convirtió en un guerrero de la Cadre Alliance. El grupo lo llevó a los X-Men en la época de X-Force. Convencido de unirse a ellos, luchó en muchas batallas a su lado."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar1.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar2.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar3.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar3.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar5.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar5.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar7.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar8.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar9.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Vibratory Shockwaves",
+              "locText": "Ondas De Choque Vibratorias"
+            },
+            "description": {
+              "text": "You may discard 1 card from your hand to the bottom of your deck to [ATTACK] [ATTACK] [ATTACK], split as you like in your and adjacent Locations.",
+              "locText": "Puedes descartar 1 carta de tu mano a la parte inferior de tu mazo para [ATAQUE] [ATAQUE] [ATAQUE], repartidos como quieras en tu Lugar y los adyacentes."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar9.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Vibratory Shockwaves",
+              "locText": "Ondas De Choque Vibratorias"
+            },
+            "description": {
+              "text": "You may discard 1 card from your hand to the bottom of your deck to [ATTACK] [ATTACK] [ATTACK], split as you like in your and adjacent Locations.",
+              "locText": "Puedes descartar 1 carta de tu mano a la parte inferior de tu mazo para [ATAQUE] [ATAQUE] [ATAQUE], repartidos como quieras en tu Lugar y los adyacentes."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar11.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Healing Factor",
+              "locText": "Factor De Curación"
+            },
+            "description": {
+              "text": "You may draw cards until you have 3 in your hand.",
+              "locText": "Puedes robar cartas hasta tener 3 en tu mano."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Shatterstar11.jpg",
+          "title": {
+            "text": "Shatterstar",
+            "locText": "Shatterstar"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Healing Factor",
+              "locText": "Factor De Curación"
+            },
+            "description": {
+              "text": "You may draw cards until you have 3 in your hand.",
+              "locText": "Puedes robar cartas hasta tener 3 en tu mano."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        }
+      ]
     },
     {
       "img": "villains/Stryfe.jpg",
@@ -373,7 +920,389 @@
       "bio": {
         "text": "When Nathan Summers was pulled into the future by Mother Askani to save him from a techno-organic virus injection, she created a clone in case he didn't survive. Cable did survive and Apocalypse kidnapped the baby clone, dubbing him Stryfe. Trained to be evil, Stryfe possessed Cable's powers and Apocalypse hoped to embody him. Nathan Summers killed the Super Villain before the transition could happen and Cable and Stryfe became lifelong enemies. Stryfe introduced the lethal Legacy Virus to the world, killing many mutants. He was eventually defeated by the demon Blackheart, ending his reign of terror.",
         "locText": "Cuando Nathan Summers fue llevado al futuro por la Madre Askani para salvarlo de una inyección de virus tecnoorgánico, ella creó un clon en caso de que no sobreviviera. Cable sobrevivió y Apocalypse secuestró al clon bebé, llamándolo Stryfe. Entrenado para ser malvado, Stryfe poseía los poderes de Cable y Apocalypse esperaba encarnarlo. Nathan Summers mató al supervillano antes de que ocurriera la transición y Cable y Stryfe se convirtieron en enemigos de por vida. Stryfe introdujo el letal Legacy Virus al mundo, matando a muchos mutantes. Finalmente fue derrotado por el demonio Blackheart, poniendo fin a su reinado de terror."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/stryfe-T2.jpg",
+          "title": {
+            "text": "Forcefields",
+            "locText": "Campos De Fuerza"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Stryfe ignores 1 damage during each Hero turn (Forcefields effects are cumulative)",
+            "locText": "Mientras esta Amenaza esté en juego, Stryfe ignora 1 daño durante cada turno de héroe (los efectos de Campos De Fuerza son acumulativos)."
+          },
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/stryfe-T2.jpg",
+          "title": {
+            "text": "Forcefields",
+            "locText": "Campos De Fuerza"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Stryfe ignores 1 damage during each Hero turn (Forcefields effects are cumulative)",
+            "locText": "Mientras esta Amenaza esté en juego, Stryfe ignora 1 daño durante cada turno de héroe (los efectos de Campos De Fuerza son acumulativos)."
+          },
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/stryfe-T2.jpg",
+          "title": {
+            "text": "Forcefields",
+            "locText": "Campos De Fuerza"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Stryfe ignores 1 damage during each Hero turn (Forcefields effects are cumulative)",
+            "locText": "Mientras esta Amenaza esté en juego, Stryfe ignora 1 daño durante cada turno de héroe (los efectos de Campos De Fuerza son acumulativos)."
+          },
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/stryfe-T3.jpg",
+          "title": {
+            "text": "Legacy Virus",
+            "locText": "Virus Legado"
+          },
+          "description": {
+            "text": "A Hero starting their turn in this Location chooses to either skip their Draw a Card step or ignore 1 action symbol at the bottom of the Hero cards.",
+            "locText": "Un Héroe que comienza su turno en este Lugar elige saltarse el paso de Robar una Carta o ignorar 1 símbolo de acción de la parte inferior de las cartas de Héroe."
+          },
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/stryfe-T3.jpg",
+          "title": {
+            "text": "Legacy Virus",
+            "locText": "Virus Legado"
+          },
+          "description": {
+            "text": "A Hero starting their turn in this Location chooses to either skip their Draw a Card step or ignore 1 action symbol at the bottom of the Hero cards.",
+            "locText": "Un Héroe que comienza su turno en este Lugar elige saltarse el paso de Robar una Carta o ignorar 1 símbolo de acción de la parte inferior de las cartas de Héroe."
+          },
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/stryfe-T3.jpg",
+          "title": {
+            "text": "Legacy Virus",
+            "locText": "Virus Legado"
+          },
+          "description": {
+            "text": "A Hero starting their turn in this Location chooses to either skip their Draw a Card step or ignore 1 action symbol at the bottom of the Hero cards.",
+            "locText": "Un Héroe que comienza su turno en este Lugar elige saltarse el paso de Robar una Carta o ignorar 1 símbolo de acción de la parte inferior de las cartas de Héroe."
+          },
+          "bam": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ],
+          "locationEffect": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP1.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP2.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP3.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP4.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP5.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP6.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP7.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP8.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movement": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP9.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Psionic Mastery",
+              "locText": "Dominio Psiónico"
+            },
+            "description": {
+              "text": "Until the beginning of the next Villain turn, cancel all Special Effects on Hero cards.",
+              "locText": "Hasta el comienzo del próximo turno del Villano, cancela todos los Efectos Especiales de las cartas de Héroe."
+            }
+          },
+          "movement": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP9.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Psionic Mastery",
+              "locText": "Dominio Psiónico"
+            },
+            "description": {
+              "text": "Until the beginning of the next Villain turn, cancel all Special Effects on Hero cards.",
+              "locText": "Hasta el comienzo del próximo turno del Villano, cancela todos los Efectos Especiales de las cartas de Héroe."
+            }
+          },
+          "movement": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP11.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movementText": {
+            "text": "Move clockwise to the next Location with the most Heroes.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con más Héroes."
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Telekinesis Mastery",
+              "locText": "Dominio Telequinético"
+            },
+            "description": {
+              "text": "Deal 2 damage to each Hero in Stryfe's Location.",
+              "locText": "Inflige 2 puntos de daño a cada Héroe en el Lugar de Stryfe."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Stryfe-MP11.jpg",
+          "title": {
+            "text": "Stryfe",
+            "locText": "Stryfe"
+          },
+          "movementText": {
+            "text": "Move clockwise to the next Location with the most Heroes.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con más Héroes."
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Telekinesis Mastery",
+              "locText": "Dominio Telequinético"
+            },
+            "description": {
+              "text": "Deal 2 damage to each Hero in Stryfe's Location.",
+              "locText": "Inflige 2 puntos de daño a cada Héroe en el Lugar de Stryfe."
+            }
+          }
+        }
+      ]
     }
   ],
   "faq": []
