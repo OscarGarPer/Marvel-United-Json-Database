@@ -8,7 +8,41 @@
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
   "locations": [],
-  "challenges": [],
+  "challenges": [
+    {
+      "img": "challenges/sentinel-I-challenge.jpg",
+      "title": {
+        "text": "Sentinel I Challenge",
+        "locText": "Desafío Centinela I"
+      },
+      "description": {
+        "text": "The Sentinel cannot be damaged until the Villain becomes Under Pressure. After each Hero turn, the Sentinel acts according to the symbols at the bottom of the last Hero card in the Storyline:\n1. [MOVE] Move 1 towards the last Hero.\n2. [HEROIC] Add [CIVILIAN] to the Sentinel's Location.\n3. [ATTACK] Deal 1 damage to 1 Hero. If none in its Location, move 1 towards last Hero.\n4. [WILD] Gain 1 Health (may go above starting value).",
+        "locText": "El Centinela no puede ser dañado hasta que el Villano esté Bajo presión. Después del turno de cada Héroe, el Centinela actúa según los símbolos de la parte inferior de la última carta de Héroe en la Trama:\n1. [MOVIMIENTO] Mueve 1 hacia el último Héroe.\n2. [HEROICA] Coloca [CIVIL] en el Lugar del Centinela.\n3. [ATAQUE] Inflige 1 daño a 1 Héroe. Si no hay ninguno en su Lugar, mueve 1 hacia el último Héroe.\n4. [COMODÍN] Gana 1 Vida (puede superar el valor inicial)."
+      }
+    },
+    {
+      "img": "challenges/sentinel-II-challenge.jpg",
+      "title": {
+        "text": "Sentinel II Challenge",
+        "locText": "Desafío Centinela II"
+      },
+      "description": {
+        "text": "The Sentinel cannot be damaged until the Villain becomes Under Pressure. After each Hero turn, the Sentinel acts according to the symbols at the bottom of the last Hero card in the Storyline:\n1. [MOVE] Move 1 towards the last Hero.\n2. [HEROIC] Add [CIVILIAN] to the Sentinel's Location.\n3. [ATTACK] Deal 1 damage to 1 Hero. If none in its Location, move 1 towards last Hero.\n4. [WILD] Flip the last Hero's earliest faceup card in the Storyline that has a Special Effect facedown, if possible.",
+        "locText": "El Centinela no puede ser dañado hasta que el Villano esté Bajo presión. Después del turno de cada Héroe, el Centinela actúa según los símbolos de la parte inferior de la última carta de Héroe en la Trama:\n1. [MOVIMIENTO] Mueve 1 hacia el último Héroe.\n2. [HEROICA] Coloca [CIVIL] en el Lugar del Centinela.\n3. [ATAQUE] Inflige 1 daño a 1 Héroe. Si no hay ninguno en su Lugar, mueve 1 hacia el último Héroe.\n4. [COMODÍN] Si es posible, voltea la primera carta boca arriba en la Trama con un Efecto especial del último Héroe."
+      }
+    },
+    {
+      "img": "challenges/sentinel-III-challenge.jpg",
+      "title": {
+        "text": "Sentinel III Challenge",
+        "locText": "Desafío Centinela III"
+      },
+      "description": {
+        "text": "The Sentinel cannot be damaged until the Villain becomes Under Pressure. After each Hero turn, the Sentinel acts according to the symbols at the bottom of the last Hero card in the Storyline:\n1. [MOVE] Move 1 towards the last Hero.\n2. [HEROIC] Add [CIVILIAN] to the Sentinel's Location.\n3. [ATTACK] Deal 1 damage to 1 Hero. If none in its Location, move 1 towards last Hero.\n4. [WILD] Grab 1 Hero (can't do anything, goes with the Sentinel, [MOVE] to escape). If already holding a Hero, deal it 1 damage.",
+        "locText": "El Centinela no puede ser dañado hasta que el Villano esté Bajo presión. Después del turno de cada Héroe, el Centinela actúa según los símbolos de la parte inferior de la última carta de Héroe en la Trama:\n1. [MOVIMIENTO] Mueve 1 hacia el último Héroe.\n2. [HEROICA] Coloca [CIVIL] en el Lugar del Centinela.\n3. [ATAQUE] Inflige 1 daño a 1 Héroe. Si no hay ninguno en su Lugar, mueve 1 hacia el último Héroe.\n4. [COMODÍN] Coge a 1 Héroe (no puede hacer nada, se mueve con el Centinela, [MOVIMIENTO] para escapar). Si ya está sujetando a un Héroe, le inflige 1 daño."
+      }
+    }
+  ],
   "cards": [],
   "characters": [
     {

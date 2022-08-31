@@ -85,7 +85,19 @@
       ]
     }
   ],
-  "challenges": [],
+  "challenges": [
+    {
+      "img": "challenges/accelerated-villain-challenge.jpg",
+      "title": {
+        "text": "Accelerated Villain Challenge",
+        "locText": "Desafío Villano Acelerado"
+      },
+      "description": {
+        "text": "Villain turns take place after every 2 Hero turns (from both Teams).\nOnce the Villain is Under Pressure, Villain turns take place after each Team has performed a single Hero turn.",
+        "locText": "Los turnos del Villano tienen lugar cada 2 turnos de Héroe (de ambos equipos).\nCuando el Villano está Bajo presión, los turnos del Villano tienen lugar después de que cada Equipo juegue un solo turno de Héroe."
+      }
+    }
+  ],
   "cards": [],
   "characters": [
     {

@@ -80,7 +80,19 @@
       ]
     }
   ],
-  "challenges": [],
+  "challenges": [
+    {
+      "img": "challenges/danger-room-challenge.jpg",
+      "title": {
+        "text": "Danger Room Challenge",
+        "locText": "Desafío Sala De Peligro"
+      },
+      "description": {
+        "text": "SETUP: Attach the Danger Room to the Heroes' starting Location. Once the Location's Threat has been cleared, Heroes can choose to use the Danger Room's End of Turn effect instead, drawing a Training card. These grant either Permanent effects or must be Discarted to take effect once.",
+        "locText": "PREPARACIÓN: Une la Sala de Peligro al Lugar inicial de los Héroes. Cuando se haya eliminado la Amenaza del Lugar, los Héroes pueden usar el efecto de Fin de Turno alternativo de la Sala de Peligro, robando una carta de Entrenamiento. Estas otorgan efectos Permanentes o deben Descartarse para aplicar el efecto una vez."
+      }
+    }
+  ],
   "cards": [],
   "characters": [
     {

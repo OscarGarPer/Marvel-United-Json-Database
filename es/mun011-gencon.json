@@ -160,7 +160,41 @@
       ]
     }
   ],
-  "challenges": [],
+  "challenges": [
+    {
+      "img": "challenges/moderate-challenge.jpg",
+      "title": {
+        "text": "Moderate Challenge",
+        "locText": "Desafío Moderado"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD] card from their Hero deck.",
+        "locText": "PREPARACIÓN: Cada jugador quita la carta [COMODÍN] de su mazo de Héroe."
+      }
+    },
+    {
+      "img": "challenges/hard-challenge.jpg",
+      "title": {
+        "text": "Hard Challenge",
+        "locText": "Desafío Difícil"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD][WILD] card from their Hero deck.",
+        "locText": "PREPARACIÓN: Cada jugador quita la carta [COMODÍN][COMODÍN] de su mazo de Héroe."
+      }
+    },
+    {
+      "img": "challenges/heroic-challenge.jpg",
+      "title": {
+        "text": "Heroic Challenge",
+        "locText": "Desafío Heroico"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD] and [WILD][WILD] cards from their Hero deck.",
+        "locText": "PREPARACIÓN: Cada jugador quita las cartas [COMODÍN] y [COMODÍN][COMODÍN] de su mazo de Héroe."
+      }
+    }
+  ],
   "cards": [],
   "characters": [
     {

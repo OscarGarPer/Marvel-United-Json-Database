@@ -26,7 +26,19 @@
       ]
     }
   ],
-  "challenges": [],
+  "challenges": [
+    {
+      "img": "challenges/deadpool-challenge.jpg",
+      "title": {
+        "text": "Deadpool Chaos Challenge",
+        "locText": "Desafío Caos Deadpool"
+      },
+      "description": {
+        "text": "Drop this card on the table and place Deadpool in the Location the arrow is pointing at. Any time a Villain ends their movement or a Hero ends their turn in Deadpool's Location, draw the top card of the Deadpool Chaos deck and resolve it.",
+        "locText": "Tira esta carta encima de la mesa y coloca a Deadpool en el Lugar al que apunte la flecha. Siempre que un Villano termine su movimiento o un Héroe termine su turno en el Lugar de Deadpool, roba una carta del mazo de Caos Deadpool y resuélvela."
+      }
+    }
+  ],
   "cards": [],
   "characters": [
     {

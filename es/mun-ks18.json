@@ -90,7 +90,19 @@
       ]
     }
   ],
-  "challenges": [],
+  "challenges": [
+    {
+      "img": "challenges/hazardous-locations-challenge.jpg",
+      "title": {
+        "text": "Hazardous Locations Challenge",
+        "locText": "Desafío Lugares Peligrosos"
+      },
+      "description": {
+        "text": "SETUP: Include 3 [HAND] Locations in the game.\nWhen a Hero ends their turn in one of these Locations with no Threat card on it, they MUST apply its End of Turn effect, if possible.",
+        "locText": "PREPARACIÓN: Incluye 3 Lugares con [MANO] en la partida.\nCuando un Héroe termina su tuno en uno de estos Lugares sin una carta de Amenaza, DEBE aplicar tu efecto de Fin de Turno, si es posible."
+      }
+    }
+  ],
   "cards": [],
   "characters": [
     {
