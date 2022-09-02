@@ -5,7 +5,7 @@ This repository contains JSON files that can be used to generate a United games 
 
 The files are sorted by language into folders.
 
-Check [STATUS.md](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/STATUS.md#en) to know more about current state of the files and get the direct links to the json files.
+Check [STATUS.md](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/en/STATUS.md) to know more about current state of the files and get the direct links to the json files.
 
 ## español
 
@@ -13,7 +13,7 @@ Este repositorio contiene archivos JSON que pueden usarse para crear aplicacione
 
 Los archivos están ordenador en carpetas por idiomas.
 
-Revisa [STATUS.md](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/STATUS.md#es) para conocer el estado actual de cada archivo y obtener los enlaces directos a los json.
+Revisa [STATUS.md](https://github.com/OscarGarPer/Marvel-United-Json-Database/blob/main/es/STATUS.md) para conocer el estado actual de cada archivo y obtener los enlaces directos a los json.
 
 Este README se actualizará con explicaciones sobre la estructura de los archivos para que cualquiera pueda editarlos, copiarlos y crear sus propias versiones. Si quieres colaborar contacta conmigo.
 
