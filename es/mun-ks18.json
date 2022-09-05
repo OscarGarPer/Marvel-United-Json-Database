@@ -1314,7 +1314,38 @@
             }
           }
         }
-      ]
+      ],
+      "dashboard": {
+        "back": {
+          "img": "villains/Stryfe-B.jpg",
+          "superVillain": [
+            "W",
+            "W",
+            "A",
+            "A"
+          ]
+        },
+        "front": {
+          "img": "villains/Stryfe-A.jpg",
+          "specialRules": {
+            "text": "DARK RIDERS: On each Hero turn, the first THUG attacked requires 2 ATTACK to be defeated.",
+            "locText": "JINETES OSCUROS: en cada turno de Héroe, el primer [MATÓN] atacado requiere [ATAQUE] [ATAQUE] para ser derrotado."
+          },
+          "overflow": {
+            "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, turn all CIVILIAN into THUG in the next Location clockwise with any CIVILIAN.",
+            "locText": "Si 1 o más fichas de [CIVIL]/[MATÓN] no se pueden añadir a un Lugar, convierte todos los [CIVIL] en [MATÓN] en el siguiente Lugar en el sentido de las agujas del reloj con algún [CIVIL]."
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in Stryfe's Location and add 1 THUG to the next Location clockwise with an empty slot.",
+            "locText": "Inflige 1 punto de daño a cada Héroe en el Lugar de Stryfe y añade 1 [MATÓN] al siguiente Lugar en el sentido de las agujas del reloj con un hueco disponible."
+          },
+          "plot": {
+            "text": "The Heroes lose if all Locations are fully accupied by THUG.",
+            "locText": "Los Héroes pierden si todos los Lugares están completamente ocupados por fichas [MATÓN]."
+          },
+          "lifePoints": null
+        }
+      }
     }
   ],
   "faq": []

@@ -1314,7 +1314,38 @@
             }
           }
         }
-      ]
+      ],
+      "dashboard": {
+        "back": {
+          "img": "villains/Stryfe-B.jpg",
+          "superVillain": [
+            "W",
+            "W",
+            "A",
+            "A"
+          ]
+        },
+        "front": {
+          "img": "villains/Stryfe-A.jpg",
+          "specialRules": {
+            "text": "DARK RIDERS: On each Hero turn, the first THUG attacked requires 2 ATTACK to be defeated.",
+            "locText": "DARK RIDERS: On each Hero turn, the first THUG attacked requires 2 ATTACK to be defeated."
+          },
+          "overflow": {
+            "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, turn all CIVILIAN into THUG in the next Location clockwise with any CIVILIAN.",
+            "locText": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, turn all CIVILIAN into THUG in the next Location clockwise with any CIVILIAN."
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in Stryfe's Location and add 1 THUG to the next Location clockwise with an empty slot.",
+            "locText": "Deal 1 damage to each Hero in Stryfe's Location and add 1 THUG to the next Location clockwise with an empty slot."
+          },
+          "plot": {
+            "text": "The Heroes lose if all Locations are fully accupied by THUG.",
+            "locText": "The Heroes lose if all Locations are fully accupied by THUG."
+          },
+          "lifePoints": null
+        }
+      }
     }
   ],
   "faq": []
