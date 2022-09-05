@@ -644,7 +644,7 @@
             },
             "description": {
               "text": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn.",
-              "locText": "Si esta es la última carta de Domino en la trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
+              "locText": "Si esta es la última carta de Domino en la Trama, los efectos BAM! de los Secuaces se cancelan durante el próximo turno del Villano."
             }
           },
           "actions": [
@@ -653,7 +653,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Domino9.jpg",
+          "img": "heroes/Domino10.jpg",
           "title": {
             "text": "Domino",
             "locText": "Dominó"
@@ -666,7 +666,7 @@
             },
             "description": {
               "text": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn.",
-              "locText": "Si esta es la última carta de Domino en la trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
+              "locText": "Si esta es la última carta de Domino en la Trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
             }
           },
           "actions": [
@@ -675,7 +675,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Domino9.jpg",
+          "img": "heroes/Domino11.jpg",
           "title": {
             "text": "Domino",
             "locText": "Dominó"
@@ -688,7 +688,7 @@
             },
             "description": {
               "text": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn.",
-              "locText": "Si esta es la última carta de Domino en la trama, los efectos de Exceso se ignoran durante el próximo turno del Villano."
+              "locText": "Si esta es la última carta de Domino en la Trama, el Villano no puede moverse durante el próximo turno del Villano."
             }
           },
           "actions": [
