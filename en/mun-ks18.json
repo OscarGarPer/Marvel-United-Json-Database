@@ -936,7 +936,7 @@
       "cards": [
         {
           "cardType": "threat",
-          "img": "villains/stryfe-T2.jpg",
+          "img": "villains/Stryfe-T2.jpg",
           "title": {
             "text": "Forcefields",
             "locText": "Forcefields"
@@ -955,7 +955,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/stryfe-T2.jpg",
+          "img": "villains/Stryfe-T2.jpg",
           "title": {
             "text": "Forcefields",
             "locText": "Forcefields"
@@ -974,7 +974,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/stryfe-T2.jpg",
+          "img": "villains/Stryfe-T2.jpg",
           "title": {
             "text": "Forcefields",
             "locText": "Forcefields"
@@ -993,7 +993,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/stryfe-T3.jpg",
+          "img": "villains/Stryfe-T3.jpg",
           "title": {
             "text": "Legacy Virus",
             "locText": "Legacy Virus"
@@ -1012,7 +1012,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/stryfe-T3.jpg",
+          "img": "villains/Stryfe-T3.jpg",
           "title": {
             "text": "Legacy Virus",
             "locText": "Legacy Virus"
@@ -1031,7 +1031,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/stryfe-T3.jpg",
+          "img": "villains/Stryfe-T3.jpg",
           "title": {
             "text": "Legacy Virus",
             "locText": "Legacy Virus"
