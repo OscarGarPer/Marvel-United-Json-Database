@@ -96,28 +96,10 @@
   "cards": [
     {
       "cardType": "challenge",
-      "img": "challenges/training/Training-1.jpg",
+      "img": "challenges/training/Training1.jpg",
       "title": {
-        "text": "Permanent",
-        "locText": "Permanente"
-      },
-      "specialEffect": {
-        "title": {
-          "text": "Permanent",
-          "locText": "Permanente"
-        },
-        "description": {
-          "text": "If you used a [H] before using a [A] this turn, gain an extra [A] action.",
-          "locText": "Si este turno usaste una [H] antes de usar una [A], obtienes una acción [A] adicional."
-        }
-      }
-    },
-    {
-      "cardType": "challenge",
-      "img": "challenges/training/Training-2.jpg",
-      "title": {
-        "text": "Discard",
-        "locText": "Descartar"
+        "text": "Training",
+        "locText": "Entrenar"
       },
       "specialEffect": {
         "title": {
@@ -126,7 +108,205 @@
         },
         "description": {
           "text": "Add 1 [M] symbol to the bottom of the card you're currently playing (valid as long as it's in the Storyline).",
-          "locText": "Añade un símbolo [M] a la parte inferior de la carta que estás jugando (válido mientras la carta esté en la Trama)."
+          "locText": "Añade 1 ficha [M] a la parte inferior de la carta que estás jugando actualmente (válido mientras esté en la Trama)."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training2.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Discard",
+          "locText": "Descartar"
+        },
+        "description": {
+          "text": "Draw 2 cards. Then, discard 1 card to the bottom of your deck.",
+          "locText": "Roba 2 cartas. Luego, descarta 1 carta a la parte inferior de tu mazo."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training3.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Discard",
+          "locText": "Descartar"
+        },
+        "description": {
+          "text": "Add 1 [A] symbol to the bottom of the card you're currently playing (valid as long as it's in the Storyline).",
+          "locText": "Añade 1 ficha [A] a la parte inferior de la carta que estás jugando actualmente (válido mientras esté en la Trama)."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training4.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Discard",
+          "locText": "Descartar"
+        },
+        "description": {
+          "text": "Draw 1 card and discard 1 Crisis token from anywhere.",
+          "locText": "Roba 1 carta y descarta 1 ficha de Crisis de cualquier sitio."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training5.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Discard",
+          "locText": "Descartar"
+        },
+        "description": {
+          "text": "Add 1 [H] symbol to the bottom of the card you're currently playing (valid as long as it's in the Storyline).",
+          "locText": "Añade 1 ficha [H] a la parte inferior de la carta que estás jugando actualmente (válido mientras esté en la Trama)."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training6.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "You may deal 2 extra damage to a Henchman you dealt at least 1 damage to this turn.",
+          "locText": "Puedes infligir 2 puntos de daño adicionales a un Secuaz al que hayas infligido al menos 1 punto de daño en este turno."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training7.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "You may deal 1 extra damage to a Villain you dealt at least 1 damage to this turn.",
+          "locText": "Puedes infligir 1 punto de daño adicional a un Villano al que hayas infligido al menos 1 punto de daño en este turno."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training8.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "If you used a [H] before using a [A] this turn, gain an extra [A] action.",
+          "locText": "Si usaste una [H] antes de usar una [A] este turno, recibes una acción adicional de [A]."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training9.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "At the start of your turn, you may add 1 Action token of your choice from the pool to a Threat in your Location.",
+          "locText": "Al comienzo de tu turno, puedes añadir 1 Ficha de acción de tu elección de la reserva a una Amenaza en tu Lugar."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training10.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "When you use [M] to move, you may take another Hero in your Location with you.",
+          "locText": "Cuando usas [M] para moverte, puedes llevar contigo a otro Héroe que esté en tu mismo Lugar."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training11.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "If you used a [A] before using a [H] this turn, gain an extra [H] action.",
+          "locText": "Si usaste una [A] antes de usar una [H] este turno, recibes una acción adicional de [H]."
+        }
+      }
+    },
+    {
+      "cardType": "challenge",
+      "img": "challenges/training/Training12.jpg",
+      "title": {
+        "text": "Training",
+        "locText": "Entrenar"
+      },
+      "specialEffect": {
+        "title": {
+          "text": "Permanent",
+          "locText": "Permanente"
+        },
+        "description": {
+          "text": "If, at the end of your turn, you are in the same Location as a Villain, you may move them to an adjacent Location.",
+          "locText": "Si, al final de tu turno, estás en el mismo Lugar que un Villano, puedes moverlo a un Lugar adyacente."
         }
       }
     }
@@ -259,7 +439,8 @@
             }
           },
           "actions": [
-            "M","M"
+            "M",
+            "M"
           ]
         },
         {
@@ -281,7 +462,8 @@
             }
           },
           "actions": [
-            "M","M"
+            "M",
+            "M"
           ]
         },
         {
