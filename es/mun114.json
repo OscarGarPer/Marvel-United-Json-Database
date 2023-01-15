@@ -397,7 +397,7 @@
             },
             "description": {
               "text": "Discard all [THUG] in Bob's Location and increase the Retirement Plan track by 1 for each [THUG] discarded this way. Then, add 1 [CIVILIAN] in every Location.",
-              "locText": "Descarta todos los [MATÓN] en el Lugar de Bob y avanaza el medidor de Plan De Jubilación en 1 por cada [MATÓN] descartado. Luego, añade 1 [CIVIL] a cada Lugar."
+              "locText": "Descarta todos los [MATÓN] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [MATÓN] descartado. Luego, añade 1 [CIVIL] a cada Lugar."
             }
           }
         },
@@ -437,7 +437,7 @@
             },
             "description": {
               "text": "Discard all [CIVILIAN] in Bob's Location and increase the Retirement Plan track by 1 for each [CIVILIAN] discarded this way. Then, add 1 [THUG] in every Location.",
-              "locText": "Descarta todos los [CIVIL] en el Lugar de Bob y avanaza el medidor de Plan De Jubilación en 1 por cada [CIVIL] descartado. Luego, añade 1 [THUG] a cada Lugar."
+              "locText": "Descarta todos los [CIVIL] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [CIVIL] descartado. Luego, añade 1 [THUG] a cada Lugar."
             }
           }
         },
@@ -457,7 +457,7 @@
             },
             "description": {
               "text": "If there are no Heroes in Bob's Location, increase the Retirement Plan track by 1. Then, add 1 [THUG] in every Location.",
-              "locText": "Si no hay ningún Héroe en el Lugar de Bob, avanaza el medidor de Plan De Jubilación en 1. Luego, añade 1 [MATÓN] a cada Lugar."
+              "locText": "Si no hay ningún Héroe en el Lugar de Bob, aumenta el medidor de Plan De Jubilación en 1. Luego, añade 1 [MATÓN] a cada Lugar."
             }
           }
         },
@@ -497,7 +497,7 @@
             },
             "description": {
               "text": "Discard all [CIVILIAN] in Bob's Location and increase the Retirement Plan track by 1 for each [CIVILIAN] discarded this way. Then, add 1 [THUG] in every Location.",
-              "locText": "Descarta todos los [CIVIL] en el Lugar de Bob y avanaza el medidor de Plan De Jubilación en 1 por cada [CIVIL] descartado. Luego, añade 1 [THUG] a cada Lugar."
+              "locText": "Descarta todos los [CIVIL] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [CIVIL] descartado. Luego, añade 1 [THUG] a cada Lugar."
             }
           }
         },
@@ -517,7 +517,7 @@
             },
             "description": {
               "text": "Discard all [THUG] in Bob's Location and increase the Retirement Plan track by 1 for each [THUG] discarded this way. Then, add 1 [CIVILIAN] in every Location.",
-              "locText": "Descarta todos los [MATÓN] en el Lugar de Bob y avanaza el medidor de Plan De Jubilación en 1 por cada [MATÓN] descartado. Luego, añade 1 [CIVIl] a cada Lugar."
+              "locText": "Descarta todos los [MATÓN] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [MATÓN] descartado. Luego, añade 1 [CIVIl] a cada Lugar."
             }
           }
         },
@@ -557,7 +557,7 @@
             },
             "description": {
               "text": "Increase the Retirement Plan track by 1 for each Hero in Bob's Location. Then, add 1 [CIVILIAN] in every Location.",
-              "locText": "Avanaza el medidor de Plan De Jubilación en 1 por cada Héroe en el Lugar de Bob. Luego, añade 1 [CIVIl] a cada Lugar."
+              "locText": "Aumenta el medidor de Plan De Jubilación en 1 por cada Héroe en el Lugar de Bob. Luego, añade 1 [CIVIl] a cada Lugar."
             }
           }
         },
@@ -577,7 +577,7 @@
             },
             "description": {
               "text": "Increase the Retirement Plan track by 1 for each Hero in the Locations adjacent to Bob's. Then, add 1 [THUG] in every Location.",
-              "locText": "Avanaza el medidor de Plan De Jubilación en 1 por cada Héroe en los Lugares adyacentes a Bob. Luego, añade 1 [MATÓN] a cada Lugar."
+              "locText": "Aumenta el medidor de Plan De Jubilación en 1 por cada Héroe en los Lugares adyacentes a Bob. Luego, añade 1 [MATÓN] a cada Lugar."
             }
           }
         },

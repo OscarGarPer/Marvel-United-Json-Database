@@ -59,7 +59,191 @@
       "bio": {
         "text": "After the Mutant Control Act was passed, allowing Sentinels to protect humans, many mutants were killed or imprisoned. Uncaptured, Logan fought in the resistance and helped fellow jailed X-Men by smuggling needed parts to Kitty Pryde, allowing her to build her device and succeed in freeing herself and others. However, all but two were killed in their attempts to fight off Sentinels. Wolverine was destroyed leaving only his Adamantium skeleton behind.",
         "locText": "Después de que se aprobó la Ley de control de mutantes, que permitió a los Centinelas proteger a los humanos, muchos mutantes fueron asesinados o encarcelados. Sin ser capturado, Logan luchó en la resistencia y ayudó a sus compañeros X-Men encarcelados al pasar de contrabando las piezas necesarias a Kitty Pryde, lo que le permitió construir su dispositivo y lograr liberarse a sí misma y a los demás. Sin embargo, todos menos dos fueron asesinados en sus intentos de luchar contra los Centinelas. Lobezno fue destruido dejando solo su esqueleto de Adamantium."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan1.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Withstanding The Pain",
+              "locText": "Aguantando El Dolor"
+            },
+            "description": {
+              "text": "As long as this card is face up in the Storyline, you may ignore 1 damage during each Villain turn.",
+              "locText": "Mientras esta carta esté boca arriba en la Trama, puedes ignorar 1 punto de daño durante cada turno del Villano."
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan2.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan3.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan4.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan5.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan5.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan7.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan8.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan9.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan10.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fighting Experience",
+              "locText": "Experiencia Luchando"
+            },
+            "description": {
+              "text": "[ATTACK] Draw 1 card.",
+              "locText": "[ATAQUE] Roba 1 carta."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan10.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fighting Experience",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] Draw 1 card.",
+              "locText": "[ATAQUE] Roba 1 carta."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Logan10.jpg",
+          "title": {
+            "text": "Logan",
+            "locText": "Logan"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fighting Experience",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] Draw 1 card.",
+              "locText": "[ATAQUE] Roba 1 carta."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        }
+      ]
     },
     {
       "img": "villains/Sentinel.jpg",
@@ -83,6 +267,397 @@
       "bio": {
         "text": "Nimrod was the powerfully advanced prototype of the mutant-hunting Sentinels. His programming allowed him to read the abilities of foes and make modifications in order to beat them. He fought many mutants in both the X-Men and the Hellfire's Inner Circle. After meeting Sentinel Master Mold, the powerful force absorbed Nimrod and Bastion was born, wreaking even more havoc on the X-Men.",
         "locText": "Nimrod fue el prototipo poderosamente avanzado de los Centinelas cazadores de mutantes. Su programación le permitió leer las habilidades de los enemigos y hacer modificaciones para vencerlos. Luchó contra muchos mutantes tanto en los X-Men como en Hellfire's Inner Circle. Después de conocer al Centinela Molde Maestro, la poderosa fuerza absorbió a Nimrod y nació Bastion, causando aún más estragos en los X-Men."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Nimrod-T2.jpg",
+          "title": {
+            "text": "Mutant Detection",
+            "locText": "Detección De Mutantes"
+          },
+          "description": {
+            "text": "Heroes that take damage in this Location take 1 extra damage. When this Threat is cleared, decrease the Nimrod Activation track by 1.",
+            "locText": "Los Héroes que reciben daño en este Lugar reciben 1 punto de daño adicional. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
+          },
+          "bam": false,
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Nimrod-T2.jpg",
+          "title": {
+            "text": "Mutant Detection",
+            "locText": "Detección De Mutantes"
+          },
+          "description": {
+            "text": "Heroes that take damage in this Location take 1 extra damage. When this Threat is cleared, decrease the Nimrod Activation track by 1.",
+            "locText": "Los Héroes que reciben daño en este Lugar reciben 1 punto de daño adicional. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
+          },
+          "bam": false,
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Nimrod-T4.jpg",
+          "title": {
+            "text": "Sentinel Production",
+            "locText": "Producción de Centinela"
+          },
+          "description": {
+            "text": "See Sentinel Activation Protocol. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
+            "locText": "Mira el Protocolo de Activación del Centinela. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
+          },
+          "bam": false,
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Nimrod-T4.jpg",
+          "title": {
+            "text": "Sentinel Production",
+            "locText": "Producción de Centinela"
+          },
+          "description": {
+            "text": "See Sentinel Activation Protocol. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
+            "locText": "Mira el Protocolo de Activación del Centinela. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
+          },
+          "bam": false,
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Nimrod-T6.jpg",
+          "title": {
+            "text": "Data Analyzer",
+            "locText": "Analizador De Datos"
+          },
+          "description": {
+            "text": "See Sentinel Special Rules in the Villain Dashboard. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
+            "locText": "Mira las Reglas Especiales de los Centinelas en el Tablero del Villano. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
+          },
+          "bam": false,
+          "locationEffect": false
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Nimrod-T6.jpg",
+          "title": {
+            "text": "Data Analyzer",
+            "locText": "Analizador De Datos"
+          },
+          "description": {
+            "text": "See Sentinel Special Rules in the Villain Dashboard. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
+            "locText": "Mira las Reglas Especiales de los Centinelas en el Tablero del Villano. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
+          },
+          "bam": false,
+          "locationEffect": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP1.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "bam": false,
+          "add": {
+            "left": [
+              "C","C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C","C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP2.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C","C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C","C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP3.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the Hero with the most cards in hand.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con el Héroe con más cartas en la mano."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T","T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T","T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP4.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the Hero with the most cards in hand.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con el Héroe con más cartas en la mano."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C","C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C","C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP3.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the Hero with the most cards in hand.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con el Héroe con más cartas en la mano."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T","T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T","T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP4.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the Hero with the most cards in hand.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con el Héroe con más cartas en la mano."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C","C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C","C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP3.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the Hero with the most cards in hand.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con el Héroe con más cartas en la mano."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T","T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T","T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP4.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the Hero with the most cards in hand.",
+            "locText": "Mueve en sentido horario al siguiente Lugar con el Héroe con más cartas en la mano."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C","C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C","C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP9.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Analyze And Counter",
+              "locText": "Analizar Y Contrarrestar"
+            },
+            "description": {
+              "text": "Nimrod recovers 1 Health for each Hero still in play (can't go above his starting value).",
+              "locText": "Nimrod recupera 1 punto de Vida por cada Héroe que sigue en juego (no puede superar su valor inicial)."
+            }
+          },
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP9.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Analyze And Counter",
+              "locText": "Analizar Y Contrarrestar"
+            },
+            "description": {
+              "text": "Nimrod recovers 1 Health for each Hero still in play (can't go above his starting value).",
+              "locText": "Nimrod recupera 1 punto de Vida por cada Héroe que sigue en juego (no puede superar su valor inicial)."
+            }
+          },
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP11.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Adapt And Exterminate",
+              "locText": "Adaptarse Y Exterminar"
+            },
+            "description": {
+              "text": "Increase the Nimrod Activation track by 2. Then, BAM!",
+              "locText": "Aumenta el medidor de Activación de Nimrod en 2. Luego, BAM!"
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Nimrod-MP11.jpg",
+          "title": {
+            "text": "Nimrod",
+            "locText": "Nimrod"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Adapt And Exterminate",
+              "locText": "Adaptarse Y Exterminar"
+            },
+            "description": {
+              "text": "Increase the Nimrod Activation track by 2. Then, BAM!",
+              "locText": "Aumenta el medidor de Activación de Nimrod en 2. Luego, BAM!"
+            }
+          },
+          "M": 0,
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Nimrod-A.jpg",
+          "specialRules": {
+            "text": "Sentinels: Missions are not used in this game. Heroes may damage the Sentinels from the start. Sentinels have no Master Plan deck. Instead, follow the Sentinel Activation Protocol card. When a Hero is KO'd, increase the Nimrod Activation track by 1, plus 1 for each Data Analyzer Threat card in play. Nimrod: Nimrod is always Under Pressure and may be damaged as soon as it enters play (see Special Setup). At the end of the turn in which Nimrod is reduced to 4 or less Health, it immediately moves to the opposite Location. When a Hero is KO'd, Nimrod doesn't activate its BAM! Instead, that Hero is eliminated from the game.",
+            "locText": "Centinelas: Las Misiones no se utilizan en esta partida. Los Héroes pueden dañar a los Centinelas desde el principio. Los Centinelas no tienen mazo de Plan Maestro. En su lugar, sigue la carta del Protocolo de Activación del Centinela. Cuando un Héroe queda fuera de combate, aumenta el medidor de Activación de Nimrod en 1, más 1 por cada carta de Amenaza Analizador de Datos en juego. Nimrod: Nimrod siempre está bajo presión y puede ser dañado tan pronto como entre en juego (ver Preparación especial). Al final del turno en el que la Salud de Nimrod se reduce a 4 o menos, se mueve inmediatamente al Lugar opuesto. Cuando un Héroe queda fuera de combate, Nimrod no activa su BAM! En vez de eso, ese Héroe es eliminado de la partida."
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, increase the Nimrod Activation track by 1.",
+            "locText": "Si 1 o más fichas de [CIVIL]/[MATÓN] no se pueden añadir a un Lugar, aumenta el medidor de Activación de Nimrod en 1."
+          },
+          "bam": {
+            "text": "Each Hero in Nimrod's Location takes 1 damage, plus: 1 extra damage if the Nimrod Activation track is in YELLOW. 2 extra damage if the Nimrod Activation track is in RED.",
+            "locText": "Cada Héroe en el Lugar de Nimrod sufre 1 daño, más: 1 punto de daño extra si el medidor de Activación de Nimrod está en AMARILLO. 2 puntos de daño adicionales si el medidor de Activación de Nimrod está en ROJO."
+          },
+          "plot": {
+            "text": "Nimrod Activation Track - The Heroes lose if the track reaches 15. The Heroes lose if they are all eliminated.",
+            "locText": "Medidor de Activación de Nimrod - Cuando el medidor llegue a 15, los Héroes pierden. Los Héroes pierden si todos ellos son eliminados."
+          },
+          "lifePoints": {
+            "twoHeroes": 8,
+            "threeHeroes": 10,
+            "fourHeroes": 12
+          }
+        },
+        "back": {
+          "img": "villains/Nimrod-B.jpg",
+          "specialSetup": {
+            "text": "Give each player a Sentinel Activation Protocol card. Randomly assign the Sentinel Target tokens to different Heroes. 2 Players: Return Sentinel III and its token to the box. 4 Players: 1 Hero starts without a Sentinel Target token. Nimrod starts the game out of play. Nimrod enters play in the Villain’s starting Location at the end of the Hero turn in which the last Sentinel is defeated. It immediately plays a Master Plan.",
+            "locText": "Cada jugador recibe una carta de Protocolo de Activación Centinela. Asigna al azar las fichas de Objetivo Centinela a diferentes Héroes. 2 Jugadores: Devuelve el Centinela III y su ficha a la caja. 4 Jugadores: Un Héroe comienza sin una ficha de Objetivo Centinela. Nimrod comienza la partida fuera de juego. Nimrod entra en juego en el Lugar inicial del Villano al final del turno del Héroe en el que el último Centinela es derrotado. Inmediatamente juega una carta de Plan Maestro."
+          }
+        }
       }
     }
   ],

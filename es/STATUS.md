@@ -23,13 +23,13 @@
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun-ks14 - Los Cuatro Fantásticos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks14.json)
-- En progreso. Están añadidos los 4 Fantásticos, Silver Surfer y Dr Doom, falta Súper Skrull y revisar contenidos.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks15 - Primera Generación](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks15.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks16 - Días Del Futuro Pasado](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks16.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks17 - Cinco Fénix](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks17.json)
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
@@ -68,7 +68,7 @@
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun014 - Deadpool](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun014.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun103 - Entra En El Spider-Verso - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun103.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
@@ -86,4 +86,4 @@
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
 
 ### [mun114 - Deadpool - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun114.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los Lugares y cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
