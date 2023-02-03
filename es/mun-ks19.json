@@ -64,6 +64,837 @@
       "bio": {
         "text": "Villain Bio: En Sabah Nur was born in Ancient Egypt and left to die in the sun. He was saved by nomads who named him and raised him. Forced into slavery as an adult, he found Pharaoh Rama Tut's alien technology and used it to regenerate and become more powerful while reserving his energy, turning him into Apocalypse. After the X-Men defeated his numerous plans, he created the Four Horsemen using mutant recruits as Pestilence, War, Famine, and Death. When he had all four, he forced them to fight each other for the leader role. which Death won.\n\nAnti-Hero Bio: Believing in the principle of \"Survival of the Fittest\" En Sabah Nur was a feared warrior who declared himself Apocalypse. Possessing a variety of extraordinary abilities, including time travel and immortality, Apocalypse was known as a formidable villain throughout his long history. With the founding of Krakoa by Professor X, Apocalypse travels there alongside other former enemies of the X-Men, confesses his past history, and agrees to submit to the laws of the new mutant nation. He is given a place on the ruling body of Krakoa, alongside Xavier and Magneto.",
         "locText": "Bio Villano: En Sabah Nur nació en el Antiguo Egipto y fue abandonado para morir al sol. Fue salvado por nómadas que lo nombraron y lo criaron. Obligado a la esclavitud como adulto, encontró la tecnología alienígena del faraón Rama Tut y la usó para regenerarse y volverse más poderoso mientras reservaba su energía, convirtiéndolo en Apocalipsis. Después de que los X-Men derrotaron sus numerosos planes, creó los Cuatro Jinetes usando reclutas mutantes como Pestilence, War, Famine y Death. Cuando tuvo a los cuatro, los obligó a luchar entre sí por el papel de líder. que la muerte ganó.\n\nBio Anti-Héroe: creyendo en el principio de \"Supervivencia del más Apto\" En Sabah Nur era un guerrero temido que se declaró a sí mismo Apocalipsis. Poseedor de una variedad de habilidades extraordinarias, incluido el viaje en el tiempo y la inmortalidad, Apocalipsis fue conocido como un villano formidable a lo largo de su larga historia. Con la fundación de Krakoa por parte del Profesor X, Apocalipsis viaja allí junto con otros antiguos enemigos de los X-Men, confiesa su historia pasada y acepta someterse a las leyes de la nueva nación mutante. Se le da un lugar en el cuerpo gobernante de Krakoa, junto con Xavier y Magneto."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse1.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Immortality",
+              "locText": "Inmortalidad"
+            },
+            "description": {
+              "text": "Draw 1 card. As long as this card is faceup in the Storyline, when you are KO'd, the Villain doesn't activate their BAM! or any alternate effect.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse2.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse3.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse4.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse5.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse6.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Survival Of The Fittest",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all [C] there. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse6.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Survival Of The Fittest",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all [C] there. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse6.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Survival Of The Fittest",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all [C] there. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse9.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Celestial Energy Manipulation",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST gain [W] [W] tokens. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse9.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Celestial Energy Manipulation",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST gain [W] [W] tokens. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse11.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Self Molecular Manipulation",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Apocalypse11.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Self Molecular Manipulation",
+              "locText": ""
+            },
+            "description": {
+              "text": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T1.jpg",
+          "title": {
+            "text": "Famine",
+            "locText": "Hambre"
+          },
+          "description": {
+            "text": "Move Famine to the next clockwise Location with any [C] (if possible) and deal 1 damage to 1 Hero there. Then, distribute damage to Heroes in each Location equal to the number of [C] in their Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T2.jpg",
+          "title": {
+            "text": "War",
+            "locText": "Guerra"
+          },
+          "description": {
+            "text": "Move War to the next clockwise Location with any [T] (if possible) and deal 1 damage to 1 Hero there. Then, distribute damage to Heroes in each Location equal to the number of [T] in their Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T3.jpg",
+          "title": {
+            "text": "Pestilence",
+            "locText": "Pestilencia"
+          },
+          "description": {
+            "text": "Move Pestilence to the next clockwise Location with no [T] and no [C] and deal 1 damage to each Hero there and in adjacent Locations.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T4.jpg",
+          "title": {
+            "text": "Death",
+            "locText": "Muerte"
+          },
+          "description": {
+            "text": "Move Death to the next clockwise Location with any Heroes and deal 2 unpreventable damage to 1 Hero there.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 6,
+            "threeHeroes": 6,
+            "fourHeroes": 6
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T5.jpg",
+          "title": {
+            "text": "Famine (Weakened)",
+            "locText": "Hambre (Debilitada)"
+          },
+          "description": {
+            "text": "Move Famine to the next clockwise Location with any [C] (if possible) and deal 1 damage to 1 Hero there. Then, deal 1 damage to 1 Hero in each Location with any [C].",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T6.jpg",
+          "title": {
+            "text": "War (Weakened)",
+            "locText": "Guerra (Debilitado)"
+          },
+          "description": {
+            "text": "Move War to the next clockwise Location with any [T] (if possible) and deal 1 damage to 1 Hero there. Then, deal 1 damage to 1 Hero in each Location with any [T].",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T7.jpg",
+          "title": {
+            "text": "Pestilence (Weakened)",
+            "locText": "Pestilencia (Debilitada)"
+          },
+          "description": {
+            "text": "Move Pestilence to the next clockwise Location with no [T] and no [C] and deal 1 damage to 1 Hero there and in adjacent Locations.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Apocalypse-T8.jpg",
+          "title": {
+            "text": "Death (Weakened)",
+            "locText": "Muerte (Debilitado)"
+          },
+          "description": {
+            "text": "Move Death to the next clockwise Location with any Heroes and deal 2 damage to 1 Hero there.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP1.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Age Of Apocalypse Begins",
+              "locText": "Comienza La Era Del Apocalipsis"
+            },
+            "description": {
+              "text": "Move Apocalypse and 1 hero in his Location to Apocalypse's Pyramid. That Hero takes 2 damage.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP2.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 1,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D",
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP3.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 1,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP4.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 2,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D",
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP5.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 2,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP6.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 4,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "D",
+              "D"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "D",
+              "D"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP7.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 4,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP8.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 5,
+          "bam": true,
+          "movementText": {
+            "text": "The first 2 available Horsemen activate their BAM! in order:",
+            "locText": ""
+          },
+          "add": {
+            "left": [
+              "D"
+            ],
+            "center": [
+              "D",
+              "D"
+            ],
+            "right": [
+              "D"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP9.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Hero.",
+            "locText": ""
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Survival Of The Fittest",
+              "locText": ""
+            },
+            "description": {
+              "text": "Move Apocalypse and 1 Hero in his Location to Apocalypse's Pyramid. That Hero takes 2 damage.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP10.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 5,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Hero.",
+            "locText": ""
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Survival Of The Fittest",
+              "locText": ""
+            },
+            "description": {
+              "text": "Move Apocalypse and 1 Hero in his Location to Apocalypse's Pyramid. That Hero takes 2 damage.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP11.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to Apocalypse's Pyramid.",
+            "locText": ""
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Calling The Horsemen",
+              "locText": ""
+            },
+            "description": {
+              "text": "Each Horseman activates their BAM! Then, bring back 1 random defeated Horseman (Weakened) in the next clockwise Location without a Threat.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP11.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to Apocalypse's Pyramid.",
+            "locText": ""
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Calling The Horsemen",
+              "locText": ""
+            },
+            "description": {
+              "text": "Each Horseman activates their BAM! Then, bring back 1 random defeated Horseman (Weakened) in the next clockwise Location without a Threat.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "D"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP13.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "War Unleashed",
+              "locText": ""
+            },
+            "description": {
+              "text": "If War is in play, he avtivates his BAM! If War has been defeated, put him back in play (Weakened side faceup) in the next clockwise Location without a Threat. Then, play another Master Plan card.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP14.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Famine Unleashed",
+              "locText": ""
+            },
+            "description": {
+              "text": "If Famine is in play, she avtivates her BAM! If Famine has been defeated, put her back in play (Weakened side faceup) in the next clockwise Location without a Threat. Then, play another Master Plan card.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP15.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Pestilence Unleashed",
+              "locText": ""
+            },
+            "description": {
+              "text": "If Pestilence is in play, she avtivates her BAM! If Pestilence has been defeated, put her back in play (Weakened side faceup) in the next clockwise Location without a Threat. Then, play another Master Plan card.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Apocalypse-MP16.jpg",
+          "title": {
+            "text": "Apocalypse",
+            "locText": "Apocalipsis"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Death Unleashed",
+              "locText": ""
+            },
+            "description": {
+              "text": "If Death is in play, he avtivates his BAM! If Death has been defeated, put him back in play (Weakened side faceup) in the next clockwise Location without a Threat. Then, play another Master Plan card.",
+              "locText": ""
+            }
+          }
+        }   
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Apocalypse-A.jpg",
+          "specialRules": {
+            "text": "If, at the end of a Villain Turn, 1 or more Heroes have taken any damage, increase the Apocalypse tracker by 1. When a Hero is KO'd, Apocalypse doesn't activate his BAM! Instead, increase the Apocalypse tracker by 1. Once Apocalypse can be damaged, each damage that would be dealt to him increases the Survival tracker by 1 instead. Each completed Mission increases the Survival tracker by 2. The Heroes win if the Survival tracker surpasses the Apocalypse tracker (once 2 Missions have been completed).",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, increase the Apocalypse tracker by 1.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Deal 1 damage to 1 Hero in Apocalypse's Location and in each adjacent Location.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "Apocalypse Track - The Heroes lose when the Apocalypse tracker reaches 16.",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 99,
+            "threeHeroes": 99,
+            "fourHeroes": 99
+          }
+        },
+        "back": {
+          "img": "villains/Apocalypse-B.jpg",
+          "specialSetup": {
+            "text": "Set aside the Master Plan card Age of Apocalypse Begins and place it on top of the deck after shuffling it. Apocalypse's Pyramid must be the Villain's starting Location. Starlight Citadel must be the Heroes' starting Location. Place the Threat cards randomly in the other 4 Locations, with their corresponding Villain pieces. Place the Apocalypse tracker and Survival tracker (use Villain tracker) on the 0 space of the Apocalypse Track.",
+            "locText": "Aparta la carta del Plan Maestro Comienza la era de Apocalipsis y colócala encima del mazo después de barajarlo. La Pirámide de Apocalipsis debe ser el Lugar inicial del Villano. La Ciudadela Starlight debe ser el Lugar inicial de los Héroes. Coloca las cartas de Amenaza al azar en los otros 4 Lugares, con sus miniaturas de Villano correspondientes. Coloca el medidor de Apocalipsis y el medidor de Supervivencia (usa el medidor de Villano) en el espacio 0 del Medidor de Apocalipsis."
+          },
+          "superVillain": [
+            "M",
+            "M",
+            "H",
+            "H"
+          ]
+        }
       }
     },
     {
@@ -80,6 +911,236 @@
       "bio": {
         "text": "After Angel lost his natural wings to gangrene, Apocalypse found him and offered him the role of Death in his Four Horsemen. His failed wings were turned into concealable, razor-sharp bio-metallic ones with neurotoxin-covered projectable blade feathers. The brainwashed Angel became Archangel and accepted the role of Death, the Four Horsemen's most powerful member.",
         "locText": "Después de que Ángel perdiera sus alas naturales por la gangrena, Apocalipsis lo encontró y le ofreció el papel de la Muerte en sus Cuatro jinetes. Sus alas fallidas se convirtieron en alas biometálicas afiladas y ocultables con plumas de hoja proyectables cubiertas de neurotoxinas. El Ángel con el cerebro lavado se convirtió en Arcángel y aceptó el papel de la Muerte, el miembro más poderoso de los Cuatro Jinetes."
+      },
+      "cards": [  
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Death-MP1.jpg",
+          "title": {
+            "text": "Death",
+            "locText": "Muerte"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Sheeding Chaos",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Death's Location for each Shedding Chaos Threat card in play and each Sheeding Chaos Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": ""
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Death-MP2.jpg",
+          "title": {
+            "text": "Death",
+            "locText": "Muerte"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Fear Rising",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Death's Location for each Fear Rising Threat card in play and each Fear Rising Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Heroes.",
+            "locText": ""
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Death-MP3.jpg",
+          "title": {
+            "text": "Death",
+            "locText": "Muerte"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Spreading Destruction",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Death's Location for each Spreading Destruction Threat card in play and each Spreading Destruction Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": ""
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Death-MP4.jpg",
+          "title": {
+            "text": "Death",
+            "locText": "Muerte"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Horsemen Calling",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Death's Location for each Horsemen Calling Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Heroes.",
+            "locText": ""
+          },
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Horsemen-A.jpg",
+          "specialRules": {
+            "text": "Missions are not used in this game. The Horsemen are always Under Pressure and cannot be damaged. When a Crisis token is added to a Location, place it as if it were a [CIVILIAN] / [THUG]. Heroes may discard a Crisis token from their Location by performing [HEROIC] or [ATTACK]. Horseman is defeated if they haven't succeeded once their last Master Plan card is resolved. If that happens, or if they succeed, swap their piece and deck for the next Horseman's. KO Special Rules: KO Villainous Plot: Famine, War, and Pestilence succeed immediately if a Hero is KO’d. Death's KO Special Rule: When a Hero is KO'd, remove them from the current game. They discard all their Action tokens, but will return in the final battle against Apocalypse.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If a [C], [T] or Crisis token can't be added to a Location, add that token to the next clockwise Location instead.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "If 3 or more Locations are fully occupied by [C]/[T] or Crisis tokens at the end of a Villain turn, the current Horseman succeeds. Replace it with the next Horseman and continue with the Heroes taking turns as usual. If 2 Heroes are KO'd, Death succeeds. Move on to the final battle against Apocalypse.",
+            "locText": ""
+          }
+        },
+        "back": {
+          "img": "villains/Horsemen-B.jpg",
+          "specialSetup": {
+            "text": "Remove a number of Master Plan cards from each Horseman's deck: 2 players: Remove 2 cards. 3-4 Players: Remove 1 card. Place only Famine in the starting Location, and use her deck.",
+            "locText": ""
+          }
+        }
       }
     },
     {
@@ -96,6 +1157,220 @@
       "bio": {
         "text": "An anorexic mutant who disintegrated food, Autumn Rollson was tired of what her family and everyone else thought of her. When given an offer from Apocalypse to join his Four Horsemen as Famine and get revenge, she left immediately. She fought alongside the Horsemen and defeated Marvel Girl in a battle. While on a mission to disintegrate the crops and cattle in what she referred to as America's bread basket, Captain America stopped her. Beaten by Quicksilver in another battle with X-Factor and the X-Men, she went into hiding afterwards.",
         "locText": "Una mutante anoréxica que desintegraba la comida, Autumn Rollson estaba cansada de lo que su familia y todos los demás pensaban de ella. Cuando recibió una oferta de Apocalipsis para unirse a sus Cuatro Jinetes como Famine y vengarse, ella se fue de inmediato. Luchó junto a los Jinetes y derrotó a Marvel Girl en una batalla. Mientras estaba en una misión para desintegrar los cultivos y el ganado en lo que ella llamó la canasta de pan de Estados Unidos, el Capitán América la detuvo. Vencida por Quicksilver en otra batalla con X-Factor y los X-Men, se escondió después."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Famine-MP1.jpg",
+          "title": {
+            "text": "Famine",
+            "locText": "Hambre"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Sheeding Chaos",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [C] to Famine's Location for each Shedding Chaos Threat card in play and each Sheeding Chaos Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 2,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Famine-MP2.jpg",
+          "title": {
+            "text": "Famine",
+            "locText": "Hambre"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Fear Rising",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [C] to Famine's Location for each Fear Rising Threat card in play and each Fear Rising Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 3,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Famine-MP3.jpg",
+          "title": {
+            "text": "Famine",
+            "locText": "Hambre"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Spreading Destruction",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [C] to Famine's Location for each Spreading Destruction Threat card in play and each Spreading Destruction Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 4,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Famine-MP4.jpg",
+          "title": {
+            "text": "Famine",
+            "locText": "Hambre"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Horsemen Calling",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [C] to Famine's Location for each Horsemen Calling Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Horsemen-A.jpg",
+          "specialRules": {
+            "text": "Missions are not used in this game. The Horsemen are always Under Pressure and cannot be damaged. When a Crisis token is added to a Location, place it as if it were a [CIVILIAN] / [THUG]. Heroes may discard a Crisis token from their Location by performing [HEROIC] or [ATTACK]. Horseman is defeated if they haven't succeeded once their last Master Plan card is resolved. If that happens, or if they succeed, swap their piece and deck for the next Horseman's. KO Special Rules: KO Villainous Plot: Famine, War, and Pestilence succeed immediately if a Hero is KO’d. Death's KO Special Rule: When a Hero is KO'd, remove them from the current game. They discard all their Action tokens, but will return in the final battle against Apocalypse.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If a [C], [T] or Crisis token can't be added to a Location, add that token to hte next clockwise Location instead.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "If 3 or more Locations are fully occupied by [C]/[T] or Crisis tokens at the end of a Villain turn, the current Horseman succeeds. Replace it with the next Horseman and continue with the Heroes taking turns as usual. If 2 Heroes are KO'd, Death succeeds. Move on to the final battle against Apocalypse.",
+            "locText": ""
+          }
+        },
+        "back": {
+          "img": "villains/Horsemen-B.jpg",
+          "specialSetup": {
+            "text": "Remove a number of Master Plan cards from each Horseman's deck: 2 players: Remove 2 cards. 3-4 Players: Remove 1 card. Place only Famine in the starting Location, and use her deck.",
+            "locText": ""
+          }
+        }
       }
     },
     {
@@ -112,6 +1387,220 @@
       "bio": {
         "text": "As a member of the outcast Morlocks, Plague spread a self-producing bio-hazardous disease with the merest of touches, incapacitating her victims. When left untreated, it was fatal. Plague almost perished in the massacre of the Morlocks but Apocalypse saved her. He offered her a chance as Pestilence, one of his Four Horsemen, which she accepted, doing his bidding. In a fight against X-Force, she was killed by Lightspeed who knocked her to her death, ending her reign as Pestilence.",
         "locText": "Como miembro de los marginados Morlocks, Plague propagó una enfermedad biopeligrosa de producción propia con el más mínimo toque, incapacitando a sus víctimas. Cuando no se trataba, era fatal. Plague casi muere en la masacre de los Morlocks pero Apocalipsis la salvó. Él le ofreció una oportunidad como Pestilence, uno de sus Cuatro Jinetes, que ella aceptó, cumpliendo sus órdenes. En una pelea contra X-Force, Lightspeed la mató y la golpeó hasta matarla, poniendo fin a su reinado como Pestilence."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Pestilence-MP1.jpg",
+          "title": {
+            "text": "Pestilence",
+            "locText": "Pestilencia"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Sheeding Chaos",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 Crisis token to Pestilence's Location for each Shedding Chaos Threat card in play and each Sheeding Chaos Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 3,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Pestilence-MP2.jpg",
+          "title": {
+            "text": "Pestilence",
+            "locText": "Pestilencia"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Fear Rising",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 Crisis token to Pestilence's Location for each Fear Rising Threat card in play and each Fear Rising Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 4,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Pestilence-MP3.jpg",
+          "title": {
+            "text": "Pestilence",
+            "locText": "Pestilencia"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Spreading Destruction",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 Crisis token to Pestilence's Location for each Spreading Destruction Threat card in play and each Spreading Destruction Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 2,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Pestilence-MP4.jpg",
+          "title": {
+            "text": "Pestilence",
+            "locText": "Pestilencia"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Horsemen Calling",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 Crisis token to Pestilence's Location for each Horsemen Calling Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Horsemen-A.jpg",
+          "specialRules": {
+            "text": "Missions are not used in this game. The Horsemen are always Under Pressure and cannot be damaged. When a Crisis token is added to a Location, place it as if it were a [CIVILIAN] / [THUG]. Heroes may discard a Crisis token from their Location by performing [HEROIC] or [ATTACK]. Horseman is defeated if they haven't succeeded once their last Master Plan card is resolved. If that happens, or if they succeed, swap their piece and deck for the next Horseman's. KO Special Rules: KO Villainous Plot: Famine, War, and Pestilence succeed immediately if a Hero is KO’d. Death's KO Special Rule: When a Hero is KO'd, remove them from the current game. They discard all their Action tokens, but will return in the final battle against Apocalypse.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If a [C], [T] or Crisis token can't be added to a Location, add that token to hte next clockwise Location instead.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "If 3 or more Locations are fully occupied by [C]/[T] or Crisis tokens at the end of a Villain turn, the current Horseman succeeds. Replace it with the next Horseman and continue with the Heroes taking turns as usual. If 2 Heroes are KO'd, Death succeeds. Move on to the final battle against Apocalypse.",
+            "locText": ""
+          }
+        },
+        "back": {
+          "img": "villains/Horsemen-B.jpg",
+          "specialSetup": {
+            "text": "Remove a number of Master Plan cards from each Horseman's deck: 2 players: Remove 2 cards. 3-4 Players: Remove 1 card. Place only Famine in the starting Location, and use her deck.",
+            "locText": ""
+          }
+        }
       }
     },
     {
@@ -128,6 +1617,220 @@
       "bio": {
         "text": "Abraham Kieros was a paralyzed soldier waiting for death in an iron lung. He was chosen by Apocalypse to be War in his Four Horsemen. His health was restored and War became Apocalypse's most loyal subject. War's mutation lay in his powerful handclap that released a kinetic force setting off deadly explosions. Constantly at battle against the X-Men, they eventually defeated him.",
         "locText": "Abraham Kieros era un soldado paralítico que esperaba la muerte en un pulmón de acero. Fue elegido por Apocalipsis para ser Guerra en sus Cuatro Jinetes. Su salud fue restaurada y Guerra se convirtió en el súbdito más leal de Apocalipsis. La mutación de War radica en su poderosa palmada que libera una fuerza cinética que desencadena explosiones mortales. Constantemente en la batalla contra los X-Men, finalmente lo derrotaron."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T2.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Fear Rising This Threat influences Fear Rising Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T3.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Spreading Destruction This Threat influences Spreading Destruction Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Horsemen-T4.jpg",
+          "title": {
+            "text": "The Horsemen Of Apocalypse",
+            "locText": "Los Jinetes de Apocalipsis"
+          },
+          "description": {
+            "text": "Shedding Chaos This Threat influences Shedding Chaos Master Plan cards.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/War-MP1.jpg",
+          "title": {
+            "text": "War",
+            "locText": "Guerra"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Sheeding Chaos",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [T] to War's Location for each Shedding Chaos Threat card in play and each Sheeding Chaos Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 4,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/War-MP2.jpg",
+          "title": {
+            "text": "War",
+            "locText": "Guerra"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Fear Rising",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [T] to War's Location for each Fear Rising Threat card in play and each Fear Rising Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 2,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/War-MP3.jpg",
+          "title": {
+            "text": "War",
+            "locText": "Guerra"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Spreading Destruction",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [T] to War's Location for each Spreading Destruction Threat card in play and each Spreading Destruction Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 3,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/War-MP4.jpg",
+          "title": {
+            "text": "War",
+            "locText": "Guerra"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Horsemen Calling",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 [T] to War's Location for each Horsemen Calling Master Plan card in the Storyline (including this one).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Horsemen-A.jpg",
+          "specialRules": {
+            "text": "Missions are not used in this game. The Horsemen are always Under Pressure and cannot be damaged. When a Crisis token is added to a Location, place it as if it were a [CIVILIAN] / [THUG]. Heroes may discard a Crisis token from their Location by performing [HEROIC] or [ATTACK]. Horseman is defeated if they haven't succeeded once their last Master Plan card is resolved. If that happens, or if they succeed, swap their piece and deck for the next Horseman's. KO Special Rules: KO Villainous Plot: Famine, War, and Pestilence succeed immediately if a Hero is KO’d. Death's KO Special Rule: When a Hero is KO'd, remove them from the current game. They discard all their Action tokens, but will return in the final battle against Apocalypse.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If a [C], [T] or Crisis token can't be added to a Location, add that token to hte next clockwise Location instead.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "If 3 or more Locations are fully occupied by [C]/[T] or Crisis tokens at the end of a Villain turn, the current Horseman succeeds. Replace it with the next Horseman and continue with the Heroes taking turns as usual. If 2 Heroes are KO'd, Death succeeds. Move on to the final battle against Apocalypse.",
+            "locText": ""
+          }
+        },
+        "back": {
+          "img": "villains/Horsemen-B.jpg",
+          "specialSetup": {
+            "text": "Remove a number of Master Plan cards from each Horseman's deck: 2 players: Remove 2 cards. 3-4 Players: Remove 1 card. Place only Famine in the starting Location, and use her deck.",
+            "locText": ""
+          }
+        }
       }
     },
     {
