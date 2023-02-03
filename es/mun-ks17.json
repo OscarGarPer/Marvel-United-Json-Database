@@ -25,7 +25,190 @@
       "bio": {
         "text": "Mutant Messiah Hope Summers was the first born with powers after M-Day. After she was hunted by many different she was hunted by many different groups, Cable found her and whisked her off to a different time for herprotection. Her powers allowed her to imitate those of any mutant or superhero making her an Omega-level mutant. Often at the center of conflict due to her prophecy, she was trained to fight and helped the X-Men and other groups, including the Mutant Liberation Front and The Five.",
         "locText": "El mesías mutante Hope Summers fue el primero en nacer con poderes después del M-Day. Después de que muchos grupos diferentes la persiguieran, Cable la encontró y se la llevó a un momento diferente para protegerla. Sus poderes le permitieron imitar los de cualquier mutante o superhéroe convirtiéndola en una mutante de nivel Omega. A menudo en el centro del conflicto debido a su profecía, fue entrenada para luchar y ayudar a los X-Men y otros grupos, incluido el Frente de Liberación Mutante y Los Cinco."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers1.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers2.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers3.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers3.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers5.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers6.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers7.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers8.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers9.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Denying",
+              "locText": ""
+            },
+            "description": {
+              "text": "The next Master Plan card is played facedown in the Storyline with no effect. Then, remove the top card of the Master Plan deck from play and flip this card facedown.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers10.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Embracing Destiny",
+              "locText": ""
+            },
+            "description": {
+              "text": "Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers10.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Embracing Destiny",
+              "locText": ""
+            },
+            "description": {
+              "text": "Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Hope-Summers10.jpg",
+          "title": {
+            "text": "Hope Summers",
+            "locText": "Hope Summers"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Embracing Destiny",
+              "locText": ""
+            },
+            "description": {
+              "text": "Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        }
+      ]
     },
     {
       "img": "villains/Colossus-Phoenix-Five.jpg",
@@ -39,8 +222,477 @@
         "locText": "Pier Nikalaievitch Rasputin"
       },
       "bio": {
-        "text": "When Colossus was possessed by the Phoenix Force, he was also under Cyttorak's power as Juggernaut. Colossus felt he was doing great deeds for the world as part of the Phoenix Five and asked to be freed of evil Juggernaut i but his wish was denied. I During a battle against the Avengers, he and Magik encountered Spider-Man. She wanted to end him, but Colossus wanted to let him go. Spider-Man fueled their argument by taunting them, ending in a fight between Colossus and Magik that resulted in the loss of their portions of the Phoenix Force.",
-        "locText": "Cuando Coloso fue poseído por Phoenix Force, también estaba bajo el poder de Cyttorak como Juggernaut. Coloso sintió que estaba haciendo grandes obras por el mundo como parte de los Cinco Fénix y pidió ser liberado del malvado Juggernaut i, pero su deseo fue denegado. I Durante una batalla contra los Vengadores, él y Magik se encontraron con Spider-Man. Ella quería acabar con él, pero Coloso quería dejarlo ir. Spider-Man alimentó su discusión burlándose de ellos, terminando en una pelea entre Coloso y Magik que resultó en la pérdida de sus porciones de la Fuerza Fénix."
+        "text": "When Colossus was possessed by the Phoenix Force, he was also under Cyttorak's power as Juggernaut. Colossus felt he was doing great deeds for the world as part of the Phoenix Five and asked to be freed of evil Juggernaut but his wish was denied. During a battle against the Avengers, he and Magik encountered Spider-Man. She wanted to end him, but Colossus wanted to let him go. Spider-Man fueled their argument by taunting them, ending in a fight between Colossus and Magik that resulted in the loss of their portions of the Phoenix Force.",
+        "locText": "Cuando Coloso fue poseído por Phoenix Force, también estaba bajo el poder de Cyttorak como Juggernaut. Coloso sintió que estaba haciendo grandes obras por el mundo como parte de los Cinco Fénix y pidió ser liberado del malvado Juggernaut, pero su deseo fue denegado. Durante una batalla contra los Vengadores, él y Magik se encontraron con Spider-Man. Ella quería acabar con él, pero Coloso quería dejarlo ir. Spider-Man alimentó su discusión burlándose de ellos, terminando en una pelea entre Coloso y Magik que resultó en la pérdida de sus porciones de la Fuerza Fénix."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [W] can be used to clear this Threat.",
+            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [W] can be used to clear this Threat.",
+            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Colossus-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Avatar Of Cyttorak",
+            "locText": "Avatar De Cyttorak"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location and 1 damage to each other Hero in this Location.",
+            "locText": "Inflige 2 puntos de daño a 1 Héroe en este Lugar y 1 punto de daño al resto de Héroes en este Lugar."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Colossus-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Avatar Of Cyttorak",
+            "locText": "Avatar De Cyttorak"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location and 1 damage to each other Hero in this Location.",
+            "locText": "Inflige 2 puntos de daño a 1 Héroe en este Lugar y 1 punto de daño al resto de Héroes en este Lugar."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Colossus-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Avatar Of Cyttorak",
+            "locText": "Avatar De Cyttorak"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location and 1 damage to each other Hero in this Location.",
+            "locText": "Inflige 2 puntos de daño a 1 Héroe en este Lugar y 1 punto de daño al resto de Héroes en este Lugar."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Colossus-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Avatar Of Cyttorak",
+            "locText": "Avatar De Cyttorak"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location and 1 damage to each other Hero in this Location.",
+            "locText": "Inflige 2 puntos de daño a 1 Héroe en este Lugar y 1 punto de daño al resto de Héroes en este Lugar."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Colossus-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Avatar Of Cyttorak",
+            "locText": "Avatar De Cyttorak"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location and 1 damage to each other Hero in this Location.",
+            "locText": "Inflige 2 puntos de daño a 1 Héroe en este Lugar y 1 punto de daño al resto de Héroes en este Lugar."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Colossus-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Avatar Of Cyttorak",
+            "locText": "Avatar De Cyttorak"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location and 1 damage to each other Hero in this Location.",
+            "locText": "Inflige 2 puntos de daño a 1 Héroe en este Lugar y 1 punto de daño al resto de Héroes en este Lugar."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP1.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP6.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP7.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP8.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Restraining Power",
+              "locText": "Poder De Restricción"
+            },
+            "description": {
+              "text": "The Hero with the most cards in hand in Colossus' Location must discard cards until they have only 1 in hand.",
+              "locText": "El Héroe con más cartas en la mano en el Lugar de Colossus debe descartar cartas hasta tener solo 1 en su mano."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido de las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Restraining Power",
+              "locText": "Poder De Restricción"
+            },
+            "description": {
+              "text": "The Hero with the most cards in hand in Colossus' Location must discard cards until they have only 1 in hand.",
+              "locText": "El Héroe con más cartas en la mano en el Lugar de Colossus debe descartar cartas hasta tener solo 1 en su mano."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido de las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Restraining Power",
+              "locText": "Poder De Restricción"
+            },
+            "description": {
+              "text": "The Hero with the most cards in hand in Colossus' Location must discard cards until they have only 1 in hand.",
+              "locText": "El Héroe con más cartas en la mano en el Lugar de Colossus debe descartar cartas hasta tener solo 1 en su mano."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido contrario a las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Colossus-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Colossus (Phoenix Five)",
+            "locText": "Coloso (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Restraining Power",
+              "locText": "Poder De Restricción"
+            },
+            "description": {
+              "text": "The Hero with the most cards in hand in Colossus' Location must discard cards until they have only 1 in hand.",
+              "locText": "El Héroe con más cartas en la mano en el Lugar de Colossus debe descartar cartas hasta tener solo 1 en su mano."
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido contrario a las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Colossus-Phoenix-Five-A.jpg",
+          "specialRules": {
+            "text": "When a Hero is KO'd, the Villain doesn't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, draw another Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Until the next Villain turn, ignore the first damage received in each Hero's turn.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Colossus-Phoenix-Five-B.jpg",
+          "specialSetup": {
+            "text": "Replace the Defeat Thugs Mission with the Train Hope Mission. For each Villain that has been previously defeated, replace 1 random Threat card with a Phoenix Force card. If Phoenix Force is in the Heroes' starting Location, swap it with the next regular Threat clockwise.",
+            "locText": ""
+          },
+          "superVillain": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        }
       }
     },
     {
@@ -57,6 +709,447 @@
       "bio": {
         "text": "Possessed by the Phoenix Force after it was split by Iron Man, Cyclops worked to create a mutant Utopia on Earth with the four other inflicted X-Men. Worried that their plan would turn evil, the Avengers set out to stop ji the Phoenix Five. As the members against the Avengers, Cyclops continued to fight, growing more powerful and greedy along the way. When only he and Emma Frost remained, Cyclops realized he would perish in a battle against the Avengers and X-Men, so he took Frost's power. This transformed him into the Dark Phoenix.",
         "locText": "Poseído por Phoenix Force después de que Iron Man lo dividiera, Cíclope trabajó para crear una Utopía mutante en la Tierra con los otros cuatro X-Men infligidos. Preocupados de que su plan se volviera malvado, los Vengadores se dispusieron a detener a los Cinco Fénix. Como miembros contra los Vengadores, Cíclope continuó luchando, volviéndose más poderoso y codicioso en el camino. Cuando solo quedaron él y Emma Frost, Cíclope se dio cuenta de que perecería en una batalla contra los Vengadores y los X-Men, por lo que tomó el poder de Frost. Esto lo transformó en el Fénix Oscuro."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [W] can be used to clear this Threat.",
+            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [W] can be used to clear this Threat.",
+            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Cyclops-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Next Step In Evolution",
+            "locText": "Siguiente Paso En La Evolución"
+          },
+          "description": {
+            "text": "Non-mutant Heroes that take damage in this Location take 1 extra damage.",
+            "locText": "Los Héroes no mutantes que reciben daño en este Lugar reciben 1 punto de daño adicional."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Cyclops-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Next Step In Evolution",
+            "locText": "Siguiente Paso En La Evolución"
+          },
+          "description": {
+            "text": "Non-mutant Heroes that take damage in this Location take 1 extra damage.",
+            "locText": "Los Héroes no mutantes que reciben daño en este Lugar reciben 1 punto de daño adicional."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Cyclops-Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Building A Better World",
+            "locText": "Contruyendo Un Mundo Mejor"
+          },
+          "description": {
+            "text": "Add [C] to this Location and to both adjacent Locations.",
+            "locText": "Añade [C] a este Lugar y los dos Lugares adyacentes."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Cyclops-Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Building A Better World",
+            "locText": "Contruyendo Un Mundo Mejor"
+          },
+          "description": {
+            "text": "Add [C] to this Location and to both adjacent Locations.",
+            "locText": "Añade [C] a este Lugar y los dos Lugares adyacentes."
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Cyclops-Phoenix-Five-T4.jpg",
+          "title": {
+            "text": "No Mercy For Traitors",
+            "locText": "Sin Piedad Para Los Traidores"
+          },
+          "description": {
+            "text": "Mutant Heroes that take damage in this Location take 1 extra damage.",
+            "locText": "Los Héroes mutantes que reciben daño en este Lugar reciben 1 punto de daño adicional."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Cyclops-Phoenix-Five-T4.jpg",
+          "title": {
+            "text": "No Mercy For Traitors",
+            "locText": "Sin Piedad Para Los Traidores"
+          },
+          "description": {
+            "text": "Mutant Heroes that take damage in this Location take 1 extra damage.",
+            "locText": "Los Héroes mutantes que reciben daño en este Lugar reciben 1 punto de daño adicional."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP1.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP6.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP7.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP8.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Only The Guilty Run",
+              "locText": "Solo Huyen Los Culpables"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero not in Cyclops' Location. Each Hero in the Location opposite to Cyclops takes 2 damage instead.",
+              "locText": "Inflige 1 punto de daño a cada Héroe que no esté en el Lugar de Cyclops. Cada Héroe en el Lugar opuesto a Cyclops, en vez de eso recibe 2 puntos de daño."
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Only The Guilty Run",
+              "locText": "Solo Huyen Los Culpables"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero not in Cyclops' Location. Each Hero in the Location opposite to Cyclops takes 2 damage instead.",
+              "locText": "Inflige 1 punto de daño a cada Héroe que no esté en el Lugar de Cyclops. Cada Héroe en el Lugar opuesto a Cyclops, en vez de eso recibe 2 puntos de daño."
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Phoenix Power",
+              "locText": "Poder Del Fénix"
+            },
+            "description": {
+              "text": "Move each Hero 1 Location away from Cyclops. Then, deal 1 damage to each Hero in the Location opposite to Cyclops.",
+              "locText": "Aleja de Cyclops 1 Lugar a cada Héroe. Después, inflige 1 punto de daño a cada Héroe en el Lugar opuesto a Cyclops."
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Cyclops-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Cyclops (Phoenix Five)",
+            "locText": "Cíclope (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Phoenix Power",
+              "locText": "Poder Del Fénix"
+            },
+            "description": {
+              "text": "Move each Hero 1 Location away from Cyclops. Then, deal 1 damage to each Hero in the Location opposite to Cyclops.",
+              "locText": "Aleja de Cyclops 1 Lugar a cada Héroe. Después, inflige 1 punto de daño a cada Héroe en el Lugar opuesto a Cyclops."
+            }
+          },
+          "M": 0,
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Cyclops-Phoenix-Five-A.jpg",
+          "specialRules": {
+            "text": "When a Hero is KO'd, the Villain doesn’t activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, Cyclops gains 1 Health (may go above his starting value).",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in both Locations adjacent to the Villain.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Cyclops-Phoenix-Five-B.jpg",
+          "specialSetup": {
+            "text": "Replace the Defeat Thugs Mission with the Train Hope Mission. For each Villain that has been previously defeated, replace 1 random Threat card with a Phoenix Force card. If Phoenix Force is in the Heroes' starting Location, swap it with the next regular Threat clockwise.",
+            "locText": ""
+          },
+          "superVillain": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        }
       }
     },
     {
@@ -73,6 +1166,453 @@
       "bio": {
         "text": "Emma Frost used her powerful telepathy to plot against the Avengers while possessed with the Phoenix Force. Able to determine their plans and hiding places, she used the knowledge to help the Five fight them. As the Phoenix Force grew in Emma Frost, she used Force grew in Emma Frost, she used her mind to find and kill those who had hurt mutants, even if accidental. Her need to be worshiped consumed her and she turned against her fellow X-Men. When only she and Cyclops remained, their once friendly relationship turned menacing and she taunted him into taking her powers. Once she was powerless, only Cyclops remained.",
         "locText": "Emma Frost usó su poderosa telepatía para conspirar contra los Vengadores mientras estaba poseída por la Fuerza Fénix. Capaz de determinar sus planes y escondites, usó el conocimiento para ayudar a los Cinco a luchar contra ellos. A medida que la Fuerza Fénix creció en Emma Frost, usó la Fuerza creció en Emma Frost, usó su mente para encontrar y matar a aquellos que habían lastimado a los mutantes, incluso si era accidental. Su necesidad de ser adorada la consumió y se volvió contra sus compañeros X-Men. Cuando solo quedaron ella y Cíclope, su relación una vez amistosa se volvió amenazante y ella se burló de él para que tomara sus poderes. Una vez que estuvo impotente, solo quedó Cíclope."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [W] can be used to clear this Threat.",
+            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [W] can be used to clear this Threat.",
+            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Emma-Frost-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Altering Perceptions",
+            "locText": "Alterando La Percepción"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location cannot perform [W] actions this turn.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Emma-Frost-Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Altering Perceptions",
+            "locText": "Alterando La Percepción"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location cannot perform [M] actions this turn.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Emma-Frost-Phoenix-Five-T4.jpg",
+          "title": {
+            "text": "Altering Perceptions",
+            "locText": "Alterando La Percepción"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location cannot perform [H] actions this turn.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Emma-Frost-Phoenix-Five-T5.jpg",
+          "title": {
+            "text": "Altering Perceptions",
+            "locText": "Alterando La Percepción"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location cannot perform [A] actions this turn.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Emma-Frost-Phoenix-Five-T6.jpg",
+          "title": {
+            "text": "Enhanced Telepathic Powers",
+            "locText": ""
+          },
+          "description": {
+            "text": "Heroes ending their turn in this Location take 1 Crisis token.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Emma-Frost-Phoenix-Five-T7.jpg",
+          "title": {
+            "text": "Psionic Blast",
+            "locText": ""
+          },
+          "description": {
+            "text": "Before drawing their card for the turn, heroes starting their turn in this Location must discard cards until they have only 1 in hand.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP1.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP6.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP7.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP8.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "I Know Your Sins",
+              "locText": ""
+            },
+            "description": {
+              "text": "Each Hero removes the top card of their Hero deck from the current game.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "I Know Your Sins",
+              "locText": ""
+            },
+            "description": {
+              "text": "Each Hero removes the top card of their Hero deck from the current game.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hunger For Power",
+              "locText": ""
+            },
+            "description": {
+              "text": "Emma Frost gains 1 Health for each Threat in play in her and adjacent Locations (may go above stating value).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Emma-Frost-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Emma Frost (Phoenix Five)",
+            "locText": "Emma Frost (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hunger For Power",
+              "locText": ""
+            },
+            "description": {
+              "text": "Emma Frost gains 1 Health for each Threat in play in her and adjacent Locations (may go above stating value).",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Emma-Frost-Phoenix-Five-A.jpg",
+          "specialRules": {
+            "text": "Heroes with any Crisis tokens at the beginning of their turn must play their Hero card randomly. Then, discard all their Crisis tokens. When a Hero is KO'd, the Villain doesn't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, give each Hero in that Location 1 Crisis token.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Give 1 Crisis token to each Hero in the Villain's Location and to 1 Hero in each adjacent one (see Special Rules).",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Emma-Frost-Phoenix-Five-B.jpg",
+          "specialSetup": {
+            "text": "Replace the Defeat Thugs Mission with the Train Hope Mission. For each Villain that has been previously defeated, replace 1 random Threat card with a Phoenix Force card. If Phoenix Force is in the Heroes' starting Location, swap it with the next regular Threat clockwise.",
+            "locText": ""
+          },
+          "superVillain": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        }
       }
     },
     {
@@ -89,6 +1629,445 @@
       "bio": {
         "text": "After the Phoenix Force possessed Magik, she used her teleportation powers to create a prison in the Limbo dimension to hold members of the Avengers captive. As the Phoenix Force grew within her, its power-hungry aspect intensified. When confronted by Spider-Man, Magik wanted Colossus to kill or maim him. But he wouldn't agree to it, causing an argument to break out between them. Seeing an advantage, Spider-Man egged them on. When the fight  turned physical, both Magik and Colossus lost their Phoenix Force power. This left only Cyclops and Emma Frost remaining.",
         "locText": "Después de que la Fuerza Fénix poseyera a Magik, usó sus poderes de teletransportación para crear una prisión en la dimensión Limbo para mantener cautivos a los miembros de los Vengadores. A medida que la Fuerza Fénix crecía dentro de ella, su aspecto hambriento de poder se intensificaba. Cuando se enfrentó a Spider-Man, Magik quería que Coloso lo matara o lo mutilara. Pero él no estuvo de acuerdo, lo que provocó que estallara una discusión entre ellos. Al ver una ventaja, Spider-Man los incitó. Cuando la pelea se volvió física, tanto Magik como Coloso perdieron su poder de Fuerza Fénix. Esto dejó solo a Cíclope y Emma Frost restantes."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [W] can be used to clear this Threat.",
+            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [W] can be used to clear this Threat.",
+            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Magik-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Limbo Demons",
+            "locText": "Demonios Del Limbo"
+          },
+          "description": {
+            "text": "Deal 1 damage to each Hero in this Location",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Magik-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Limbo Demons",
+            "locText": "Demonios Del Limbo"
+          },
+          "description": {
+            "text": "Deal 1 damage to each Hero in this Location",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Magik-Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Limbo Prison",
+            "locText": "Prisión Del Limbo"
+          },
+          "description": {
+            "text": "[C] in this Location require [H][H] to be rescued. Heroes using [M] to leave this Location must use [M][M] instead.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Magik-Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Limbo Prison",
+            "locText": "Prisión Del Limbo"
+          },
+          "description": {
+            "text": "[C] in this Location require [H][H] to be rescued. Heroes using [M] to leave this Location must use [M][M] instead.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Magik-Phoenix-Five-T4.jpg",
+          "title": {
+            "text": "Demonic Interference",
+            "locText": "Interferencia Demoníaca"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat any Special Effects on the card they play this turn as blank.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Magik-Phoenix-Five-T4.jpg",
+          "title": {
+            "text": "Demonic Interference",
+            "locText": "Interferencia Demoníaca"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat any Special Effects on the card they play this turn as blank.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP1.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP6.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP7.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP8.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Limbo Is My Playground",
+              "locText": ""
+            },
+            "description": {
+              "text": "Each Hero in Locations with a Threat must discard 1 card to the bottom of their deck.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Limbo Is My Playground",
+              "locText": ""
+            },
+            "description": {
+              "text": "Each Hero in Locations with a Threat must discard 1 card to the bottom of their deck.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Demons Rise",
+              "locText": ""
+            },
+            "description": {
+              "text": "If there are any Limbo Demons Threat cleared, put them back in play in the next clockwise Location without a Threat.",
+              "locText": ""
+            }
+          },
+          "M": 2,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Magik-Phoenix-Five-MP12.jpg",
+          "title": {
+            "text": "Magik (Phoenix Five)",
+            "locText": "Magik (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Demons Rise",
+              "locText": ""
+            },
+            "description": {
+              "text": "If there are any Limbo Demons Threat cleared, put them back in play in the next clockwise Location without a Threat.",
+              "locText": ""
+            }
+          },
+          "M": 4,
+          "bam": true
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Magik-Phoenix-Five-A.jpg",
+          "specialRules": {
+            "text": "KO'd Heroes are banished from the game. Discard any Action tokens and replace them with a new Hero. (Banished Heroes may be used in subsequent games.) When a Hero is KO'd, the Villain doesn't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, deal 1 damage to each Hero there.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in the Villain's Location.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "The Heroes lose if 4 Heroes are KO'd.",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Magik-Phoenix-Five-B.jpg",
+          "specialSetup": {
+            "text": "Replace the Defeat Thugs Mission with the Train Hope Mission. For each Villain that has been previously defeated, replace 1 random Threat card with a Phoenix Force card. If Phoenix Force is in the Heroes' starting Location, swap it with the next regular Threat clockwise.",
+            "locText": ""
+          },
+          "superVillain": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        }
       }
     },
     {
@@ -105,6 +2084,481 @@
       "bio": {
         "text": "Along with Cyclops, Colossus, Magik, and Emma Frost, Namor was also possessed by the Phoenix Force after it was dispersed among them. Instead of wanting to just imprison the pursuing Avengers, Namor sought to end them. Knowing there were Avengers hiding in Wakanda, he went there and manifested a giant wall of lake water to drown them. It killed innocent civilians, but not the Avengers who then defeated him. Upon his death, his power passed to the remaining Four.",
         "locText": "Junto con Cíclope, Coloso, Magik y Emma Frost, Namor también fue poseído por la Fuerza Fénix después de que se dispersó entre ellos. En lugar de querer simplemente encarcelar a los Vengadores perseguidores, Namor buscó acabar con ellos. Sabiendo que había Vengadores escondidos en Wakanda, fue allí y manifestó una pared gigante de agua del lago para ahogarlos. Mató a civiles inocentes, pero no a los Vengadores que luego lo derrotaron. Tras su muerte, su poder pasó a los Cuatro restantes."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [W] can be used to clear this Threat.",
+            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Phoenix-Five-T3.jpg",
+          "title": {
+            "text": "Phoenix Force",
+            "locText": "Fuerza Fénix"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [W] can be used to clear this Threat.",
+            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [W] para eliminar esta Amenaza."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Namor-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Underwater Battleground",
+            "locText": "Batalla Submarina"
+          },
+          "description": {
+            "text": "As long as there are any Crisis tokens in this Location, Namor cannot be damaged here and Heroes that take damage here take 1 extra damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Namor-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Underwater Battleground",
+            "locText": "Batalla Submarina"
+          },
+          "description": {
+            "text": "As long as there are any Crisis tokens in this Location, Namor cannot be damaged here and Heroes that take damage here take 1 extra damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Namor-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Underwater Battleground",
+            "locText": "Batalla Submarina"
+          },
+          "description": {
+            "text": "As long as there are any Crisis tokens in this Location, Namor cannot be damaged here and Heroes that take damage here take 1 extra damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Namor-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Underwater Battleground",
+            "locText": "Batalla Submarina"
+          },
+          "description": {
+            "text": "As long as there are any Crisis tokens in this Location, Namor cannot be damaged here and Heroes that take damage here take 1 extra damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Namor-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Underwater Battleground",
+            "locText": "Batalla Submarina"
+          },
+          "description": {
+            "text": "As long as there are any Crisis tokens in this Location, Namor cannot be damaged here and Heroes that take damage here take 1 extra damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Namor-Phoenix-Five-T2.jpg",
+          "title": {
+            "text": "Underwater Battleground",
+            "locText": "Batalla Submarina"
+          },
+          "description": {
+            "text": "As long as there are any Crisis tokens in this Location, Namor cannot be damaged here and Heroes that take damage here take 1 extra damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": true,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP1.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP2.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP3.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP4.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP5.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP6.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP7.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Flood",
+              "locText": ""
+            },
+            "description": {
+              "text": "Discard all [C] from Namor's Location and place 1 Crisis token there.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP8.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Flood",
+              "locText": ""
+            },
+            "description": {
+              "text": "Discard all [C] from Namor's Location and place 1 Crisis token there.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Imperius Rex",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage for each Imperius Rex Master Plan card in the Storyline to 1 Hero in Namor's Location.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido de las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP9.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Imperius Rex",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage for each Imperius Rex Master Plan card in the Storyline to 1 Hero in Namor's Location.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido de las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Imperius Rex",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage for each Imperius Rex Master Plan card in the Storyline to 1 Hero in Namor's Location.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido contrario a las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Namor-Phoenix-Five-MP11.jpg",
+          "title": {
+            "text": "Namor (Phoenix Five)",
+            "locText": "Namor (Cinco Fénix)"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Imperius Rex",
+              "locText": ""
+            },
+            "description": {
+              "text": "Deal 1 damage for each Imperius Rex Master Plan card in the Storyline to 1 Hero in Namor's Location.",
+              "locText": ""
+            }
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido contrario a las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": false
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Namor-Phoenix-Five-A.jpg",
+          "specialRules": {
+            "text": "Locations with any Crisis tokens lose their End of Turn effect. When a Hero is KO'd, the Villain doesn't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, discard all [C] from that Location. Then, add 1 Crisis token there.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Deal 1 damage to 1 Hero in the Villain's Location.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Namor-Phoenix-Five-B.jpg",
+          "specialSetup": {
+            "text": "Replace the Defeat Thugs Mission with the Train Hope Mission. For each Villain that has been previously defeated, replace 1 random Threat card with a Phoenix Force card. If Phoenix Force is in the Heroes' starting Location, swap it with the next regular Threat clockwise.",
+            "locText": ""
+          },
+          "superVillain": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        }
       }
     }
   ],
