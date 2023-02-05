@@ -17,10 +17,10 @@
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los tableros y cartas.
 
 ### [mun-ks12 - Storm (Mohawk)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks12.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks13 - Old Man Logan](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks13.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks14 - Los Cuatro Fantásticos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks14.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
