@@ -59,7 +59,10 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun011 - Marvel United X-Men Juego Base](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun011.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
+
+### [mun011-gencon - Marvel United X-Men Juego Base con Juggernaut promocional](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun011-gencon.json)
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun012 - Equipo Azul](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun012.json)
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
