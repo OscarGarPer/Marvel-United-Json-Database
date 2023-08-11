@@ -1,0 +1,210 @@
+{
+  "boxId": "GREYHULK",
+  "img": "heroes/Grey-Hulk.jpg",
+  "name": {
+    "text": "Grey Hulk",
+    "locText": "Hulk Gris"
+  },
+  "characters": [
+    {
+      "img": "heroes/Grey-Hulk.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Grey-Hulk",
+        "locText": "Grey-Hulk"
+      },
+      "realName": {
+        "text": "Robert Bruce Banner",
+        "locText": "Robert Bruce Banner"
+      },
+      "bio": {
+        "text": "Working as an enforcer for organized crime in Las Vegas, the dark incarnation of the Hulk named Joe Fixit is morally ambiguous at best, and downright cruel at worst. Dressed impeccably in his trademark suits, Mr. Fixit enjoys the finer things in life, like money, women, gambling, and gunning down his enemies with his dual Tommy Guns. He may be a weaker version of the Hulk, but he more than makes up for it with his firepower and sinister intelligence.",
+        "locText": "Trabajando como ejecutor del crimen organizado en Las Vegas, la encarnación oscura de Hulk llamada Joe Fixit es moralmente ambiguo en el mejor de los casos y francamente cruel en el peor. Vestido impecablemente con sus trajes característicos, el Sr. Fixit disfruta de las cosas buenas de la vida, como el dinero, las mujeres, los juegos de azar y matar a tiros a sus enemigos con sus dos Tommy Guns. Puede que sea una versión más débil de Hulk, pero lo compensa con creces con su potencia de fuego y su siniestra inteligencia."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk1.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Growing Rage",
+              "locText": ""
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, for each damage you take during Villain turn, you may gain 1 [ATTACK] token.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk2.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk3.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk4.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk5.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk6.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk7.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk8.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk9.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk10.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Superhuman Stamina",
+              "locText": ""
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if you start your turn with only 1 card in hand, you may draw 2 cards during your Draw step.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk11.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Outsmart",
+              "locText": ""
+            },
+            "description": {
+              "text": "When the next Master Plan card is revealed, you may put it on the bottom and draw another one instead.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Grey-Hulk12.jpg",
+          "title": {
+            "text": "Grey Hulk",
+            "locText": "Hulk Gris"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Controlled Strength",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] in your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": []
+}
