@@ -71,7 +71,7 @@
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
 
 ### [mun013 - Equipo Dorado](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun013.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
 ### [mun014 - Deadpool](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun014.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
@@ -89,7 +89,7 @@
 - BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
 
 ### [mun113 - Equipo Dorado - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun113.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
 ### [mun114 - Deadpool - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun114.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.

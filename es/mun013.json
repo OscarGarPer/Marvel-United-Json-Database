@@ -113,7 +113,190 @@
       "bio": {
         "text": "Warren Worthington III mutated wings during adolescence and gained the ability to fly. Swooped up by Professor X, he fought alongside the X-Men, the Champions, the Defenders, and X-Factor. When his wings were destroyed in the Mutant Massacre, he was brainwashed by Apocalypse who gave him metal wings and turned him into Archangel. He returned to X-Men and X-Force while secretly remaining Archangel.",
         "locText": "Warren Worthington III mutó alas durante la adolescencia y adquirió la capacidad de volar. Asaltado por el Profesor X, luchó junto a los X-Men, los Campeones, los Defensores y X-Factor. Cuando sus alas fueron destruidas en Mutant Massacre, Apocalipsis le lavó el cerebro, le dio alas de metal y lo convirtió en Arcángel. Regresó a X-Men y X-Force mientras permanecía en secreto como Arcángel."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel1.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel1.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel3.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel4.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel5.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel5.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel7.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel8.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel9.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Wing Shielding",
+              "locText": "Escudarse Con Las Alas"
+            },
+            "description": {
+              "text": "You cannot take any damage until the beginning of your next turn.",
+              "locText": "No puedes sufrir ningún Daño hasta\nel inicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel9.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Wing Shielding",
+              "locText": "Escudarse Con Las Alas"
+            },
+            "description": {
+              "text": "You cannot take any damage until the beginning of your next turn.",
+              "locText": "No puedes sufrir ningún Daño hasta\nel inicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel11.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Techno Organic Wings",
+              "locText": "Alas Tecnoorgánicas"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] [ATTACK] in an adjacent Location.",
+              "locText": "[ATAQUE] [ATAQUE] [ATAQUE]\nen un Lugar adyacente."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Archangel11.jpg",
+          "title": {
+            "text": "Archangel",
+            "locText": "Arcángel"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Techno Organic Wings",
+              "locText": "Alas Tecnoorgánicas"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] [ATTACK] in an adjacent Location.",
+              "locText": "[ATAQUE] [ATAQUE] [ATAQUE]\nen un Lugar adyacente."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Bishop.jpg",
@@ -129,7 +312,191 @@
       "bio": {
         "text": "Born during the future time of the mutant-hunting robot Sentinels, Lucas Bishop escaped through a portal back in time. He joined the X-Men in hopes of preventing the future. With his knowledge, he helped the X-Men It by preventing their deaths. Traveling to the future and back, Bishop fought many battles for the X-Men. But when the baby Mutant Messiah was born marking Bishop's bleak future, he attempted to murder it, but accidentally killed Xavier instead.",
         "locText": "Nacido durante el tiempo futuro del robot cazador de mutantes Sentinels, Lucas Bishop escapó a través de un portal en el tiempo. Se unió a los X-Men con la esperanza de prevenir el futuro. Con su conocimiento, ayudó a los X-Men It al evitar sus muertes. Al viajar al futuro y regresar, Bishop luchó en muchas batallas por los X-Men. Pero cuando nació el bebé Mutant Messiah marcando el sombrío futuro de Bishop, intentó asesinarlo, pero en su lugar mató accidentalmente a Xavier."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop1.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Energy Resistance",
+              "locText": "Resistencia A La Energía"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, you cannot take any damage dealt from adjacent Locations.",
+              "locText": "Mientras esta carta esté bocarriba en la\nTrama, no puedes sufrir ningún Daño infligido\ndesde Lugares adyacentes al tuyo."
+            }
+          },
+          "actions": [
+            "H"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop2.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop3.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop4.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop4.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop6.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop7.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop8.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop9.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop10.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Energy Absorption",
+              "locText": "Absorción De Energía"
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": "Recibe 1 ficha [ATAQUE]. Puedes\nignorar 1 punto de Daño hasta el\ninicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop10.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Energy Absorption",
+              "locText": "Absorción De Energía"
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": "Recibe 1 ficha [ATAQUE]. Puedes\nignorar 1 punto de Daño hasta el\ninicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bishop10.jpg",
+          "title": {
+            "text": "Bishop",
+            "locText": "Bishop"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Energy Absorption",
+              "locText": "Absorción De Energía"
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": "Recibe 1 ficha [ATAQUE]. Puedes\nignorar 1 punto de Daño hasta el\ninicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Colossus.jpg",
@@ -145,7 +512,191 @@
       "bio": {
         "text": "Piotr Rasputin grew up with his two mutant siblings, quietly manifesting his ability to become human steel desiring to live a simple life. After being discovered by Professor X, he became the peaceful giant Colossus, fighting for justice with the X-Men. When certain tragedies affected him deeply, he briefly joined Magneto's force. But once a cure was found for the Legacy Virus, he went back to the X-Men to continue helping with their fight.",
         "locText": "Piotr Rasputin creció con sus dos hermanos mutantes, manifestando silenciosamente su habilidad para convertirse en acero humano deseando vivir una vida simple. Después de ser descubierto por el Profesor X, se convirtió en el coloso gigante pacífico, luchando por la justicia con los X-Men. Cuando ciertas tragedias lo afectaron profundamente, se unió brevemente a la fuerza de Magneto. Pero una vez que se encontró una cura para el Legacy Virus, volvió con los X-Men para seguir ayudándolos en su lucha."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus1.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Organic Steel Body",
+              "locText": "Cuerpo De Acero Orgánico"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, you may ignore 1 damage during each Villain turn.",
+              "locText": "Mientras esta carta esté bocarriba\nen la Trama, puedes ignorar 1 punto\nde Daño en cada turno del Héroe."
+            }
+          },
+          "actions": [
+            "A"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus2.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus3.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus4.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus4.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus6.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus7.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus8.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus9.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus10.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fastball Special",
+              "locText": "Bola Rápida Especial"
+            },
+            "description": {
+              "text": "Move another Hero from your Location to an adjacent Location. That Hero shows their hand and deals as many [ATTACK] there as shown at the bottom of their cards.",
+              "locText": "Mueve a otro Héroe que esté en tu Lugar a uno de\nlos dos Lugares adyacentes a tu elección. Después,\nese Héroe enseña su mano de cartas y realiza tantos\n[ATAQUE] en ese Lugar como símbolos de ese tipo se muestren en la parte inferior de las cartas."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus10.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fastball Special",
+              "locText": "Bola Rápida Especial"
+            },
+            "description": {
+              "text": "Move another Hero from your Location to an adjacent Location. That Hero shows their hand and deals as many [ATTACK] there as shown at the bottom of their cards.",
+              "locText": "Mueve a otro Héroe que esté en tu Lugar a uno de\nlos dos Lugares adyacentes a tu elección. Después,\nese Héroe enseña su mano de cartas y realiza tantos\n[ATAQUE] en ese Lugar como símbolos de ese tipo se muestren en la parte inferior de las cartas."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Colossus10.jpg",
+          "title": {
+            "text": "Colossus",
+            "locText": "Coloso"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fastball Special",
+              "locText": "Bola Rápida Especial"
+            },
+            "description": {
+              "text": "Move another Hero from your Location to an adjacent Location. That Hero shows their hand and deals as many [ATTACK] there as shown at the bottom of their cards.",
+              "locText": "Mueve a otro Héroe que esté en tu Lugar a uno de\nlos dos Lugares adyacentes a tu elección. Después,\nese Héroe enseña su mano de cartas y realiza tantos\n[ATAQUE] en ese Lugar como símbolos de ese tipo se muestren en la parte inferior de las cartas."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Iceman.jpg",
@@ -161,7 +712,191 @@
       "bio": {
         "text": "Bobby Drake grew up hiding his powers until a fight ( , manifested them publicly, i turning an opponent into ice, scaring everyone. After rescuing him, Iceman was recruited by Professor X to attend his elite school. With the ability to drop his core temperature 1- -F- enough to turn into ice, among other mutations, he used his thermokinesis in the fight to unite humans and mutants with the X-Men and later with /X-Force, finally returning to the X-Men.",
         "locText": "Bobby Drake creció escondiendo sus poderes hasta una pelea ( , los manifestó públicamente, convirtiendo a un oponente en hielo, asustando a todos. Después de rescatarlo, Iceman fue reclutado por el Profesor X para asistir a su escuela de élite. Con la capacidad de bajar su temperatura central. 1- -F- suficiente para convertirse en hielo, entre otras mutaciones, usó su termoquinesis en la lucha para unir humanos y mutantes con los X-Men y más tarde con /X-Force, finalmente regresando a los X-Men."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman1.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman2.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman3.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman4.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman5.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman6.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman7.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman8.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman9.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Organic Ice Body",
+              "locText": "Cuerpo De Hielo Orgánico"
+            },
+            "description": {
+              "text": "You cannot take any damage until the beginning of your next turn.",
+              "locText": "No puedes sufrir ningún Daño hasta\nel inicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman10.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Organic Ice Body",
+              "locText": "Cuerpo De Hielo Orgánico"
+            },
+            "description": {
+              "text": "You cannot take any damage until the beginning of your next turn.",
+              "locText": "No puedes sufrir ningún Daño hasta\nel inicio de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman11.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Cryokinesis",
+              "locText": "Crioquinesis"
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o\nSecuaz que esté en tu Lugar. En el siguiente\nturno del Villano, el efecto «¡BAM!» de\nquien tenga la ficha de Aturdido se cancela\ny, a continuación, la ficha se descarta."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Iceman11.jpg",
+          "title": {
+            "text": "Iceman",
+            "locText": "Hombre De Hielo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Cryokinesis",
+              "locText": "Crioquinesis"
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o\nSecuaz que esté en tu Lugar. En el siguiente\nturno del Villano, el efecto «¡BAM!» de\nquien tenga la ficha de Aturdido se cancela\ny, a continuación, la ficha se descarta."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        }
+      ]
     },
     {
       "img": "villains/Sebastian-Shaw.jpg",
@@ -177,6 +912,413 @@
       "bio": {
         "text": "Mutant Sebastian Shaw started out in Pittsburgh poor and became a billionaire by 40 as the tycoon of Shaw Industries. After joining the Hellfire Club, he worked his way to the Inner Circle, eventually taking over the top position as Black King and made Emma Frost the White Queen. His goal was for mutants to take over the world, the opposite of the X-Men's who wanted to unite humans and mutants. His abilities included kinetic energy absorption, enabling him to gain strength in battle, making him a powerful foe to beat. He never lost sight of his desire to eliminate humans and continued battling the X-Men.",
         "locText": "El mutante Sebastian Shaw comenzó en la pobreza de Pittsburgh y se convirtió en multimillonario a los 40 como magnate de Shaw Industries. Después de unirse al Hellfire Club, se abrió camino hasta el Inner Circle, y finalmente asumió la posición más alta como Black King y convirtió a Emma Frost en White Queen. Su objetivo era que los mutantes se apoderaran del mundo, lo opuesto a los X-Men que querían unir humanos y mutantes. Sus habilidades incluían la absorción de energía cinética, lo que le permitía ganar fuerza en la batalla, lo que lo convertía en un poderoso enemigo a vencer. Nunca perdió de vista su deseo de eliminar a los humanos y continuó luchando contra los X-Men."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Sebastian-Shaw-T2.jpg",
+          "title": {
+            "text": "White Queen",
+            "locText": "Reina Blanca"
+          },
+          "description": {
+            "text": "Give each Hero in this Location 1 Crisis token and give 1 Crisis token to 1 Hero in each adjacent Locations.",
+            "locText": "Todos los Héroes que estén\nen este Lugar y un Héroe\nque esté en cada uno de los\nLugares adyacentes a este\nreciben 1 ficha de Crisis."
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Sebastian-Shaw-T3.jpg",
+          "title": {
+            "text": "White King",
+            "locText": "Rey Blanco"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in this Location. White King ignores 1 damage each Hero turn.",
+            "locText": "Inflige 1 punto de daño a un\nHéroe que esté en este Lugar. Rey Blanco ignora 1 punto de\nDaño en cada turno del Héroe."
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Sebastian-Shaw-T4.jpg",
+          "title": {
+            "text": "White Rook",
+            "locText": "Torre Blanca"
+          },
+          "description": {
+            "text": "Give each Hero in this Location 1 Crisis token.",
+            "locText": "Todos los Héroes que\nestén en este Lugar\nreciben 1 ficha de Crisis."
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Sebastian-Shaw-T5.jpg",
+          "title": {
+            "text": "Black Queen",
+            "locText": "Reina Negra"
+          },
+          "description": {
+            "text": "1 Hero in this Location and in both adjacent Locations takes damage equal to the number of their Hero cards with Special Effects faceup in the Storyline.",
+            "locText": "Un Héroe que esté en este\nLugar y en cada uno de los\nLugares adyacentes a él sufren\ntantos puntos de Daño como la\ncantidad de cartas de Héroe con\nefectos especiales suyas que\nestén bocarriba en la Trama."
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Sebastian-Shaw-T6.jpg",
+          "title": {
+            "text": "Black Bishop",
+            "locText": "Alfil Negro"
+          },
+          "description": {
+            "text": "Add [THUG] [THUG] to this Location.",
+            "locText": "Añade [MATÓN] [MATÓN]\na este Lugar."
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Sebastian-Shaw-T7.jpg",
+          "title": {
+            "text": "Black Rook",
+            "locText": "Torre Negra"
+          },
+          "description": {
+            "text": "Deal 1 damage to each Hero in this Location.",
+            "locText": "Inflige 1 punto de daño\na todos los Héroes que\nestén en este Lugar."
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP1.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 0,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP2.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 0,
+          "bam": false,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP3.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP4.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 1,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP5.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP6.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP7.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP8.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "M": 5,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP9.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hellfire Club Deception",
+              "locText": "Engaño Del Club Fuego Infernal"
+            },
+            "description": {
+              "text": "Give each Hero 1 Crisis token.",
+              "locText": "Todos los Héroes reciben 1 ficha de Crisis."
+            }
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP9.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hellfire Club Deception",
+              "locText": "Engaño Del Club Fuego Infernal"
+            },
+            "description": {
+              "text": "Give each Hero 1 Crisis token.",
+              "locText": "Todos los Héroes reciben 1 ficha de Crisis."
+            }
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP11.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hellfire Club Power",
+              "locText": "Poder Del Club Fuego Infernal"
+            },
+            "description": {
+              "text": "Return all Henchmen still in play to their starting Health value. Any Henchmen already at full Health resolve their BAM! again instead.",
+              "locText": "Todos los Secuaces que sigan en juego vuelven a tener su cantidad de fichas de Vida inicial. Además y en lugar de esto, los Secuaces que aún tengan su cantidad de fichas de Vida inicial resuelven otra vez su efecto «¡BAM!»"
+            }
+          },
+          "M": 0,
+          "bam": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Sebastian-Shaw-MP11.jpg",
+          "title": {
+            "text": "Sebastian Shaw",
+            "locText": "Sebastian Shaw"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hellfire Club Power",
+              "locText": "Poder Del Club Fuego Infernal"
+            },
+            "description": {
+              "text": "Return all Henchmen still in play to their starting Health value. Any Henchmen already at full Health resolve their BAM! again instead.",
+              "locText": "Todos los Secuaces que sigan en juego vuelven a tener su cantidad de fichas de Vida inicial. Además y en lugar de esto, los Secuaces que aún tengan su cantidad de fichas de Vida inicial resuelven otra vez su efecto «¡BAM!»"
+            }
+          },
+          "M": 0,
+          "bam": true
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Sebastian-Shaw-A.jpg",
+          "specialRules": {
+            "text": "Sebastian Shaw cannot take more than 1 damage each Hero turn. If a Hero damages Shaw, that Hero takes 2 damage. Heroes with any Crisis tokens at the beginning of their turn must play their Hero card randomly. Then, they discard all their Crisis tokens.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, draw a Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "If there are any Heroes in Sebastian Shaw's Location, draw another Master Plan card and add it facedown to the Storyline.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 2,
+            "threeHeroes": 3,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "villains/Sebastian-Shaw-B.jpg",
+          "superVillain": [
+            "W",
+            "W",
+            "A",
+            "A",
+            "A",
+            "A"
+          ]
+        }
       }
     }
   ],
