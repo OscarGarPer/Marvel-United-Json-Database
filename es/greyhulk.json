@@ -10,8 +10,8 @@
       "img": "heroes/Grey-Hulk.jpg",
       "loyalty": "hero",
       "name": {
-        "text": "Grey-Hulk",
-        "locText": "Grey-Hulk"
+        "text": "Grey Hulk",
+        "locText": "Hulk Gris"
       },
       "realName": {
         "text": "Robert Bruce Banner",
