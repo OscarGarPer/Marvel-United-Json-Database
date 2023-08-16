@@ -3,7 +3,7 @@
   "img": "mun112.jpg",
   "name": {
     "text": "Blue Team - KS",
-    "locText": "Equipo Azul- KS"
+    "locText": "Equipo Azul - KS"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
@@ -114,7 +114,189 @@
       "bio": {
         "text": "Former Interpol agent with an Audiokinesis mutation, Irish-born Sean Cassidy Banshee was manipulated by the evil Factor Three into participating in criminal activities. Freed by Professor X, he joined the X-Men and helped them succeed in many battles. After falling in / love with the geneticist Dr. Moira MacTaggert, he founded the new Generation X with Emma Frost.",
         "locText": "El ex agente de Interpol con una mutación de Audiokinesis, Sean Cassidy Banshee, nacido en Irlanda, fue manipulado por el malvado Factor Three para participar en actividades delictivas. Liberado por el Profesor X, se unió a los X-Men y los ayudó a triunfar en muchas batallas. Tras enamorarse de la genetista Dra. Moira MacTaggert, fundó la nueva Generación X junto a Emma Frost."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee1.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee2.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee3.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee4.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee5.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee5.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee7.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee8.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee9.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Stunning Waves",
+              "locText": "Ondas Aturdidoras"
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o Secuaz que esté en tu Lugar. En el siguiente turno del Villano, el efecto «¡BAM!» de quien tenga la ficha de Aturdido se cancela y, a continuación, la ficha se descarta."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee9.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Stunning Waves",
+              "locText": ""
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o Secuaz que esté en tu Lugar. En el siguiente turno del Villano, el efecto «¡BAM!» de quien tenga la ficha de Aturdido se cancela y, a continuación, la ficha se descarta."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee11.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Sonic Blasts",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] in an adjacent Location.",
+              "locText": "[ATAQUE] [ATAQUE] en un Lugar adyacente."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Banshee11.jpg",
+          "title": {
+            "text": "Banshee",
+            "locText": "Banshee"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Sonic Blasts",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] in an adjacent Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Gambit.jpg",
@@ -130,14 +312,196 @@
       "bio": {
         "text": "Thief, grifter, scoundrel — Remy LeBeau, the mutant better known as Gambit, has been called it all. After being exiled from his home in New Orleans, Gambit traveled the world seeking \"business opportunities,\" making many contacts and even more enemies along the way. Though seemingly an odd fit, he found a permanent home as part of the X-Men, showing that beneath his devil-may-care attitude, Gambit possesses a true heart of gold.",
         "locText": "Ladrón, estafador, sinvergüenza: Remy LeBeau, el mutante mejor conocido como Gambito, ha sido llamado de todo. Después de ser exiliado de su hogar en Nueva Orleans, Gambit viajó por el mundo en busca de \"oportunidades comerciales\", haciendo muchos contactos e incluso más enemigos en el camino. Aunque aparentemente encajaba de manera extraña, encontró un hogar permanente como parte de los X-Men, lo que demuestra que debajo de su actitud despreocupada, Gambit posee un verdadero corazón de oro."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit1.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit2.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit3.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit4.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit4.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit4.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit7.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit8.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit9.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Master Thief",
+              "locText": "Ladrón Magistral"
+            },
+            "description": {
+              "text": "Gain 1 [WILD] token and take 1 Action token of your choice from each other Hero.",
+              "locText": "Recibe 1 ficha [COMODÍN] y quédate 1 ficha de acción a tu elección de cada uno de los otros Héroes."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit9.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Master Thief",
+              "locText": "Ladrón Magistral"
+            },
+            "description": {
+              "text": "Gain 1 [WILD] token and take 1 Action token of your choice from each other Hero.",
+              "locText": "Recibe 1 ficha [COMODÍN] y quédate 1 ficha de acción a tu elección de cada uno de los otros Héroes."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit11.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Molecular Acceleration",
+              "locText": "Aceleración Molecular"
+            },
+            "description": {
+              "text": "Discard any Action token to [ATTACK] [ATTACK] [ATTACK] in an adjacent Location.",
+              "locText": "Descarta 1 de tus fichas de acción de cualquier tipo para [ATAQUE] [ATAQUE] [ATAQUE] en un Lugar adyacente."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Gambit11.jpg",
+          "title": {
+            "text": "Gambit",
+            "locText": "Gambito"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Molecular Acceleration",
+              "locText": "Aceleración Molecular"
+            },
+            "description": {
+              "text": "Discard any Action token to [ATTACK] [ATTACK] [ATTACK] in an adjacent Location.",
+              "locText": "Descarta 1 de tus fichas de acción de cualquier tipo para [ATAQUE] [ATAQUE] [ATAQUE] en un Lugar adyacente."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Jubilee.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Jubilee",
-        "locText": "Jubilo"
+        "locText": "Júbilo"
       },
       "realName": {
         "text": "Jubilation Lee",
@@ -146,14 +510,197 @@
       "bio": {
         "text": "A young mutant orphan whose explosive light powers manifested while she was seeking shelter at a mall, Jubilee encountered the heroic X-Men by accident. She was invited with open arms to start a new life at the Xavier Institute, where her upbeat personality allowed her to quickly befriend the team, particularly the normally gruff Wolverine. Though not as experienced as many of the other X-Men, Jubilee has proven herself to be a formidable and quick-thinking combatant.",
         "locText": "Jubilee, una joven huérfana mutante cuyos explosivos poderes de luz se manifestaron mientras buscaba refugio en un centro comercial, se encontró con los heroicos X-Men por accidente. Fue invitada con los brazos abiertos a comenzar una nueva vida en el Instituto Xavier, donde su personalidad optimista le permitió entablar amistad rápidamente con el equipo, en particular con el normalmente brusco Wolverine. Aunque no tiene tanta experiencia como muchos de los otros X-Men, Jubilee ha demostrado ser una combatiente formidable y de pensamiento rápido."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee1.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee2.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee3.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee4.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee3.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee6.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee7.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee8.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee9.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Explosive Light Blasts",
+              "locText": "Rayos De Luz Explosiva"
+            },
+            "description": {
+              "text": "[ATTACK] against up to 3 different targets in your Location.",
+              "locText": "[ATAQUE] contra hasta tres objetivos diferentes que estén en tu Lugar."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee9.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Explosive Light Blasts",
+              "locText": "Rayos De Luz Explosiva"
+            },
+            "description": {
+              "text": "[ATTACK] against up to 3 different targets in your Location.",
+              "locText": "[ATAQUE] contra hasta tres objetivos diferentes que estén en tu Lugar."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee11.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Psionic Shields",
+              "locText": "Escudos Psiónicos"
+            },
+            "description": {
+              "text": "Ignore the direct effects of the next Villain BAM! that would affect you (it can still affect other Heroes).",
+              "locText": "Ignora los efectos directos del siguiente ¡BAM! del Villano que pueda afectarte (esto no se aplica a otro Héroes que puedan verse afectados por ese ¡BAM!)."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Jubilee11.jpg",
+          "title": {
+            "text": "Jubilee",
+            "locText": "Júbilo"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Psionic Shields",
+              "locText": "ESEffectTitle"
+            },
+            "description": {
+              "text": "Ignore the direct effects of the next Villain BAM! that would affect you (it can still affect other Heroes).",
+              "locText": "Ignora los efectos directos del siguiente ¡BAM! del Villano que pueda afectarte (esto no se aplica a otro Héroes que puedan verse afectados por ese ¡BAM!)."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Psylocke.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Psylocke",
-        "locText": "Psylocke"
+        "locText": "Mariposa Mental"
       },
       "realName": {
         "text": "Betsy Braddock",
@@ -162,7 +709,190 @@
       "bio": {
         "text": "Twin of Brian Braddock, who would become Captain Britain, Betsy possessed telekinetic and precognitive powers. After her powers manifested, she joined S.T.R.I.K.E. She was kidnapped by Mojo on a mission and he turned her into Psylocke. He implanted in her cybernetic eyes which recorded everything she did. After many manipulations, she returned to the X-Men under Storm's leadership.",
         "locText": "Gemela de Brian Braddock, quien se convertiría en el Capitán Bretaña, Betsy poseía poderes telequinéticos y precognitivos. Después de que sus poderes se manifestaron, se unió a S.T.R.I.K.E. Mojo la secuestró en una misión y la convirtió en Psylocke. Él implantó en sus ojos cibernéticos que registraron todo lo que hizo. Después de muchas manipulaciones, regresó a los X-Men bajo el liderazgo de Tormenta."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke1.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke2.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke3.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke3.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke5.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke6.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke7.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke8.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke9.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Telepathy",
+              "locText": "Telepatía"
+            },
+            "description": {
+              "text": "Swap the previous Hero card in the Storyline with any other Hero card in the Storyline.",
+              "locText": "Intercambia la carta de Héroe que precede a esta en la Trama por cualquier otra carta del Héroe que esté en la Trama."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke9.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Telepathy",
+              "locText": "Telepatía"
+            },
+            "description": {
+              "text": "Swap the previous Hero card in the Storyline with any other Hero card in the Storyline.",
+              "locText": "Intercambia la carta de Héroe que precede a esta en la Trama por cualquier otra carta del Héroe que esté en la Trama."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke11.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Psionic Blast",
+              "locText": "Estallido Psiónico"
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o Secuaz que esté en tu Lugar. En el siguiente turno del Villano, el efecto «¡BAM!» de quien tenga la ficha de Aturdido se cancela y, a continuación, la ficha se descarta."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Psylocke11.jpg",
+          "title": {
+            "text": "Psylocke",
+            "locText": "Mariposa Mental"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Psionic Blast",
+              "locText": "Estallido Psiónico"
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o Secuaz que esté en tu Lugar. En el siguiente turno del Villano, el efecto «¡BAM!» de quien tenga la ficha de Aturdido se cancela y, a continuación, la ficha se descarta."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Rogue.jpg",
@@ -178,14 +908,195 @@
       "bio": {
         "text": "The charismatic Southern belle known as Rogue was not always the outgoing X-Man she is today. As a young woman, her dormant mutant power to absorb others' life essences through skin-to-skin contact suddenly manifested, inadvertently transforming an otherwise innocent kiss into a near-fatal disaster. Traumatized, Rogue fled from her onetime home, drifting through life confused and frightened. Having nearly turned to a life of crime and terrorism, Rogue ultimately found peace and purpose at the Xavier Institute.",
         "locText": "La carismática belleza sureña conocida como Rogue no siempre fue el extrovertido X-Man que es hoy. Cuando era joven, su poder mutante latente para absorber las esencias vitales de los demás a través del contacto piel con piel se manifestó repentinamente, sin darse cuenta, transformando un beso inocente en un desastre casi fatal. Traumatizada, Rogue huyó de su antiguo hogar, vagando por la vida confundida y asustada. Habiendo casi convertido a una vida de crimen y terrorismo, Rogue finalmente encontró paz y propósito en el Instituto Xavier."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue1.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue2.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue3.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue4.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue5.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue6.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue6.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue8.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue9.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Ability Absorption",
+              "locText": "Absorción De Habilidades"
+            },
+            "description": {
+              "text": "Use the Special Effect of another Hero's faceup card in the Storyline. At the end of your turn, turn that card facedown.",
+              "locText": "Usa el efecto especial de cualquier carta de otro Héroe que esté bocarriba en la Trama. Al final de tu turno, pon esa carta bocabajo."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue10.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Ability Absorption",
+              "locText": "Absorción De Habilidades"
+            },
+            "description": {
+              "text": "Use the Special Effect of another Hero's faceup card in the Storyline. At the end of your turn, turn that card facedown.",
+              "locText": "Usa el efecto especial de cualquier carta de otro Héroe que esté bocarriba en la Trama. Al final de tu turno, pon esa carta bocabajo."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue11.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Power Absorption",
+              "locText": "Absorción De Poderes"
+            },
+            "description": {
+              "text": "Use the Action symbols at the bottom of another Hero's faceup card in the Storyline. At the end of your turn, turn that card facedown.",
+              "locText": "Usa los símbolos de acción de la parte inferior de cualquier carta de otro Héroe que esté bocarriba en la Trama. Al final de tu turno, pon esa carta bocabajo."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Rogue12.jpg",
+          "title": {
+            "text": "Rogue",
+            "locText": "Pícara"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Power Absorption",
+              "locText": "Absorción De Poderes"
+            },
+            "description": {
+              "text": "Use the Action symbols at the bottom of another Hero's faceup card in the Storyline. At the end of your turn, turn that card facedown.",
+              "locText": "Usa los símbolos de acción de la parte inferior de cualquier carta de otro Héroe que esté bocarriba en la Trama. Al final de tu turno, pon esa carta bocabajo."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        }
+      ]
     },
     {
       "img": "villains/Mister-Sinister.jpg",
       "loyalty": "villain",
       "name": {
         "text": "Mister Sinister",
-        "locText": "Mister Sinister"
+        "locText": "Mr Siniestro"
       },
       "realName": {
         "text": "Nathaniel Essex",
@@ -194,6 +1105,455 @@
       "bio": {
         "text": "Genius Victorian geneticist Nathan Essex was given powers by Apocalypse, becoming Mister Sinister. Using DNA from mutants, he isolated the mutation gene and was able to inject himself with different powers. He experimented on as many mutants as he could get his hands on. Later, disguising himself as Doctor Robert Windsor, he brought back the Weapon X program as a way to experiment further.",
         "locText": "El genio genetista victoriano Nathan Essex recibió poderes de Apocalipsis, convirtiéndose en Mister Sinister. Usando ADN de mutantes, aisló el gen de la mutación y pudo inyectarse diferentes poderes. Experimentó con tantos mutantes como pudo. Más tarde, disfrazado como el Doctor Robert Windsor, trajo de vuelta el programa Arma X como una forma de experimentar más."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Mister-Sinister-T2.jpg",
+          "title": {
+            "text": "Morphing",
+            "locText": "Metamorfósis"
+          },
+          "description": {
+            "text": "Mister Sinister cannot take any damage as long as this Threat is in play.",
+            "locText": "Mientras esta Amenaza esté en juego, Mister Sinister no puede sufrir Daño."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Mister-Sinister-T2.jpg",
+          "title": {
+            "text": "Morphing",
+            "locText": "Metamorfósis"
+          },
+          "description": {
+            "text": "Mister Sinister cannot take any damage as long as this Threat is in play.",
+            "locText": "Mientras esta Amenaza esté en juego, Mister Sinister no puede sufrir Daño."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Mister-Sinister-T4.jpg",
+          "title": {
+            "text": "Telepathy",
+            "locText": "Telepatía"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank until the beginning of their next turn.",
+            "locText": "Los Héroes que empiecen su turno en este Lugar tratan todos los efectos especiales de sus cartas como si estuvieran en blanco hasta el inicio de su siguiente turno."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Mister-Sinister-T4.jpg",
+          "title": {
+            "text": "Telepathy",
+            "locText": "Telepatía"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank until the beginning of their next turn.",
+            "locText": "Los Héroes que empiecen su turno en este Lugar tratan todos los efectos especiales de sus cartas como si estuvieran en blanco hasta el inicio de su siguiente turno."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Mister-Sinister-T6.jpg",
+          "title": {
+            "text": "Manipulation",
+            "locText": "Manipulación"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location must play their Hero card randomly.",
+            "locText": "Los Héroes que empiecen su turno en este Lugar deben jugar su carta de Héroe al azar."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Mister-Sinister-T6.jpg",
+          "title": {
+            "text": "Manipulation",
+            "locText": "Manipulación"
+          },
+          "description": {
+            "text": "Heroes starting their turn in this Location must play their Hero card randomly.",
+            "locText": "Los Héroes que empiecen su turno en este Lugar deben jugar su carta de Héroe al azar."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP1.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP2.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP3.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP4.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP5.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP6.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 3,
+          "bam": false,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP7.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP8.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP9.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with a Hero with DNA Sample tokens.",
+            "locText": "Mueve en sentido horario al siguiente Lugar donde haya algún Héroe con fichas de Muestra de ADN."
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Genius Geneticist",
+              "locText": "Genetista Eminente"
+            },
+            "description": {
+              "text": "Take 1 DNA Sample from each Hero in Mister Sinister's Location.",
+              "locText": "Coge 1 fichad de Muestra de ADN de cada Héroe que esté en el Lugar de Mister Sinister."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP9.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with a Hero with DNA Sample tokens.",
+            "locText": "Mueve en sentido horario al siguiente Lugar donde haya algún Héroe con fichas de Muestra de ADN."
+          },
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Genius Geneticist",
+              "locText": "Genetista Eminente"
+            },
+            "description": {
+              "text": "Take 1 DNA Sample from each Hero in Mister Sinister's Location.",
+              "locText": "Coge 1 fichad de Muestra de ADN de cada Héroe que esté en el Lugar de Mister Sinister."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP11.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Master Manipulator",
+              "locText": "Maestro De La Manipulación"
+            },
+            "description": {
+              "text": "All Heroes with 2 or more cards in hand must discard their hand (they aren't KO'd) and draw back 1 less card.",
+              "locText": "Todos los Héroes que tengan 2 o más cartas en la mano deben descartar toda su mano de cartas (pero no quedan Fuera de combate) y, a continuación, volver a robar esa cantidad de cartas menos 1."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Mister-Sinister-MP12.jpg",
+          "title": {
+            "text": "Mister Sinister",
+            "locText": "Mr Siniestro"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Master Manipulator",
+              "locText": "Maestro De La Manipulación"
+            },
+            "description": {
+              "text": "All Heroes with 2 or more cards in hand must discard their hand (they aren't KO'd) and draw back 1 less card.",
+              "locText": "Todos los Héroes que tengan 2 o más cartas en la mano deben descartar toda su mano de cartas (pero no quedan Fuera de combate) y, a continuación, volver a robar esa cantidad de cartas menos 1."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Mister-Sinister-A.jpg",
+          "specialRules": {
+            "text": "Heroes without DNA Sample tokens treat all Special Effects on their cards as blank.",
+            "locText": "Los Héroes que no tengan fichas de Muestra de ADN tratan todos los efectos especiales de sus cartas como si estuvieran en blanco."
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, take 1 DNA Sample from 1 Hero there.",
+            "locText": "Si no se pueden añadir 1 o más fichas [CIVIL]/[MATÓN] a un Lugar, coge 1 ficha de Muestra de ADN de un Héroe que esté en ese Lugar."
+          },
+          "bam": {
+            "text": "Move each Hero 1 Location closer to Mister Sinister. Then, take 1 DNA Sample from 1 Hero in his Location.",
+            "locText": "Mueve a cada Héroe 1 Lugar en el sentido que lo deje más cerca de Mister Sinister. A continuación, coge 1 ficha de Muestra de ADN de un Héroe que esté en el Lugar de Mister Sinister."
+          },
+          "plot": {
+            "text": "The Heroes immediately lose if Mister Sinister has collected 9 DNA Sample tokens.",
+            "locText": "Los Héroes pierden inmediatamente cuando Mister Sinister haya acumulado 9 fichas de Muestra de ADN."
+          },
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 8,
+            "fourHeroes": 11
+          }
+        },
+        "back": {
+          "img": "villains/Mister-Sinister-B.jpg",
+          "specialSetup": {
+            "text": "Distribute 12 DNA Sample tokens equally among the Heroes.",
+            "locText": "Reparte 12 fichas de Muestra de ADN a partes iguales entre los Héroes."
+          },
+          "superVillain": [
+            "W",
+            "W",
+            "M",
+            "M",
+            "M",
+            "M",
+            "H",
+            "H"
+          ]
+        }
       }
     }
   ],
