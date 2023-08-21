@@ -68,7 +68,7 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun012 - Equipo Azul](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun012.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
 ### [mun013 - Equipo Dorado](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun013.json)
 - Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
@@ -86,7 +86,7 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun112 - Equipo Azul - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun112.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir las cartas.
+- Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
 ### [mun113 - Equipo Dorado - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun113.json)
 - Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
