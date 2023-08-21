@@ -23,7 +23,190 @@
       "bio": {
         "text": "Clarice Ferguson was kidnapped at a young age by the Phalanx, a technological alien race that wanted to experiment on her and other mutants. When they were rescued by the X-Men, Blink used her teleportation powers to attack the Phalanx. In doing so, she overwhelmed herpowers and died saving her rescuers. In fact, she'd been teleported to a close dimension and was pulled back by Dark Priestess Selene. Dr. Strange was able to free her from Selene's power and she joined the X-Men, fighting alongside them.",
         "locText": "Clarice Ferguson fue secuestrada a una edad temprana por Phalanx, una raza alienígena tecnológica que quería experimentar con ella y otros mutantes. Cuando fueron rescatados por los X-Men, Blink usó sus poderes de teletransportación para atacar a Phalanx. Al hacerlo, superó sus poderes y murió salvando a sus rescatadores. De hecho, había sido teletransportada a una dimensión cercana y la Sacerdotisa Oscura Selene la retiró. Dr. Strange pudo liberarla del poder de Selene y se unió a los X-Men, luchando junto a ellos."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink1.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink2.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink3.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink4.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink4.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink6.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink7.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink8.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink9.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Warp Portals",
+              "locText": ""
+            },
+            "description": {
+              "text": "Move to any Location. Then you may move any Heroes to your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink10.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Warp Portals",
+              "locText": ""
+            },
+            "description": {
+              "text": "Move to any Location. Then you may move any Heroes to your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink11.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Warp Portals",
+              "locText": ""
+            },
+            "description": {
+              "text": "Move to any Location. Then you may move any Heroes to your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Blink12.jpg",
+          "title": {
+            "text": "Blink",
+            "locText": "Blink"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Warp Portals",
+              "locText": ""
+            },
+            "description": {
+              "text": "Move to any Location. Then you may move any Heroes to your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Boom-Boom.jpg",
@@ -663,6 +846,647 @@
       "bio": {
         "text": "Pathological liar Arcade's past was a mystery. He killed victims in his deathtrap amusement park, Murderworld. Equipped with a nanomachine-enhanced suit, he possessed powers only when wearing it. He fought against the Avengers, the X-Men, and Canada's Alpha Flight.",
         "locText": "El pasado del mentiroso patológico Arcade era un misterio. Mató víctimas en su parque de diversiones trampa mortal, Murderworld. Equipado con un traje mejorado con nanomáquinas, solo poseía poderes cuando lo usaba. Luchó contra los Vengadores, los X-Men y Alpha Flight de Canadá."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T2.jpg",
+          "title": {
+            "text": "Fake Civilians In Peril Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero takes as many Crisis tokens as the number of [CIVILIAN] in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T2.jpg",
+          "title": {
+            "text": "Fake Civilians In Peril Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero takes as many Crisis tokens as the number of [CIVILIAN] in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T3.jpg",
+          "title": {
+            "text": "Deadly Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero takes 2 Crisis tokens.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T3.jpg",
+          "title": {
+            "text": "Deadly Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero takes 2 Crisis tokens.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T4.jpg",
+          "title": {
+            "text": "Debilitating Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero must discard 1 Action token. If they have none, they take 1 Crisis token.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T4.jpg",
+          "title": {
+            "text": "Debilitating Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero must discard 1 Action token. If they have none, they take 1 Crisis token.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T5.jpg",
+          "title": {
+            "text": "Entangling Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero can no longer use [MOVE] this turn and takes 1 Crisis token.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "M"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T5.jpg",
+          "title": {
+            "text": "Entangling Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero can no longer use [MOVE] this turn and takes 1 Crisis token.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "M"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T6.jpg",
+          "title": {
+            "text": "Confusing Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero immediately ends their turn.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T6.jpg",
+          "title": {
+            "text": "Confusing Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero immediately ends their turn.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T7.jpg",
+          "title": {
+            "text": "Assassin Drones Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero takes as many Crisis tokens as the number of [THUG] in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Arcade-T7.jpg",
+          "title": {
+            "text": "Assassin Drones Trap",
+            "locText": ""
+          },
+          "description": {
+            "text": "When this Threat is revealed, the entering Hero takes as many Crisis tokens as the number of [THUG] in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP1.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP2.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP3.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP4.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP5.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP6.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP7.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP8.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Quick Rebuild",
+              "locText": ""
+            },
+            "description": {
+              "text": "Place the top card of the Threat deck in teh first Location clockwise with no Threats, starting with Arcade's Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP9.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Surprise, Surprise",
+              "locText": ""
+            },
+            "description": {
+              "text": "Shuffle all Threats in play and place them back facedown, starting with Arcade's Location and proceeding clockwise.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP10.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Surprise, Surprise",
+              "locText": ""
+            },
+            "description": {
+              "text": "Shuffle all Threats in play and place them back facedown, starting with Arcade's Location and proceeding clockwise.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP11.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Defensive Protocols",
+              "locText": ""
+            },
+            "description": {
+              "text": "Until the start of the next Villain turn, Arcade can't be damaged if there are any [CIVILIAN] or [THUG] in his Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Arcade-MP12.jpg",
+          "title": {
+            "text": "Arcade",
+            "locText": "Arcade"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Defensive Protocols",
+              "locText": ""
+            },
+            "description": {
+              "text": "Until the start of the next Villain turn, Arcade can't be damaged if there are any [CIVILIAN] or [THUG] in his Location.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Arcade-A.jpg",
+          "specialRules": {
+            "text": "A Hero entering a Location with a facedown Threat turns it faceup. If multiple Heroes enter at the same time, the \"entering Hero\" is the active one (or Heroes choose, if the active one is not present). A facedown Threat cannot be cleared in any way. When a Hero is KO'd, Arcade doesn't activate his BAM! Instead, place 1 Crisis token on Arcade's dashboard.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, 1 Hero takes 2 Crisis tokens (Heroes choose).",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Each Hero takes 1 damage for each Crisis token they have. Then, discard all their Crisis tokens. Turn all Threat cards in play facedown, discarding any Action tokens on them.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "The Heroes lose if Arcade has 4 Crisis tokens on his dashboard.",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 6,
+            "threeHeroes": 9,
+            "fourHeroes": 11
+          }
+        },
+        "back": {
+          "img": "villains/Arcade-B.jpg",
+          "specialSetup": {
+            "text": "Heroes can choose Murderworld to be their starting Location. If they do, Arcade's Health is decreased by 2. Place facedown Threat cards in each Location, except for the Villain and Heroes' starting Locations. Keep the remaining 8 cards in a facedown Threat deck.",
+            "locText": ""
+          },
+          "superVillain": [
+            "M",
+            "M",
+            "H",
+            "H"
+          ]
+        }
       }
     },
     {
@@ -679,6 +1503,408 @@
       "bio": {
         "text": "Born in the Greek island of Crete, Dominikos' mutation allows him to generate powerful seismic waves from his hands, creating localized earthquakes. As Avalanche, he was recruited by Mystique to the second Brotherhood of Mutants. Though their schemes were often frustrated by the X-Men, Avalanche remained with the Brotherhood for quite some time. He eventually joined the X-Corps, helping police the mutant community. However, when the mind control he was under was removed, he went on a rampage through Paris, destroying the Eiffel Tower.",
         "locText": "Nacido en la isla griega de Creta, la mutación de Dominikos le permite generar poderosas ondas sísmicas de sus manos, creando terremotos localizados. Como Avalanche, fue reclutado por Mystique para la segunda Hermandad de Mutantes. Aunque sus planes a menudo fueron frustrados por los X-Men, Avalanche permaneció con la Hermandad durante bastante tiempo. Eventualmente se unió al X-Corps, ayudando a vigilar a la comunidad mutante. Sin embargo, cuando se eliminó el control mental bajo el que estaba, se enfureció en París y destruyó la Torre Eiffel."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Avalanche-T2.jpg",
+          "title": {
+            "text": "AFTERSHOCK",
+            "locText": ""
+          },
+          "description": {
+            "text": "If 1 or more Overflows are triggered anywhere, each Hero in this Location takes 1 damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Avalanche-T2.jpg",
+          "title": {
+            "text": "AFTERSHOCK",
+            "locText": ""
+          },
+          "description": {
+            "text": "If 1 or more Overflows are triggered anywhere, each Hero in this Location takes 1 damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Avalanche-T2.jpg",
+          "title": {
+            "text": "AFTERSHOCK",
+            "locText": ""
+          },
+          "description": {
+            "text": "If 1 or more Overflows are triggered anywhere, each Hero in this Location takes 1 damage.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Avalanche-T3.jpg",
+          "title": {
+            "text": "DEBRIS",
+            "locText": ""
+          },
+          "description": {
+            "text": "Heroes ending their turn in this Location take 1 damage for each Crisis token in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Avalanche-T3.jpg",
+          "title": {
+            "text": "DEBRIS",
+            "locText": ""
+          },
+          "description": {
+            "text": "Heroes ending their turn in this Location take 1 damage for each Crisis token in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Avalanche-T3.jpg",
+          "title": {
+            "text": "DEBRIS",
+            "locText": ""
+          },
+          "description": {
+            "text": "Heroes ending their turn in this Location take 1 damage for each Crisis token in this Location.",
+            "locText": ""
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },{
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP1.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP2.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP3.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP4.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP5.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP6.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP7.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP8.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP9.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP10.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP11.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "SEISMIC WAVE",
+              "locText": ""
+            },
+            "description": {
+              "text": "Fill the rightmost empty slot in Avalanche's and both adjacent Locatinns with a Crisis token. If there are no empty slots there, discard the rightmost [CIVILIAN]/[THUG] and replace it with a Crisis token.",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Avalanche-MP11.jpg",
+          "title": {
+            "text": "Avalanche",
+            "locText": "Avalancha"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "SEISMIC WAVE",
+              "locText": ""
+            },
+            "description": {
+              "text": "Fill the rightmost empty slot in Avalanche's and both adjacent Locatinns with a Crisis token. If there are no empty slots there, discard the rightmost [CIVILIAN]/[THUG] and replace it with a Crisis token.",
+              "locText": ""
+            }
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Avalanche-A.jpg",
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Deal 1 damage to each Hero in Avalanche's Location and in both Locations adjacent to it. Fill the rightmost empty slot in Avalanche's Location with a Crisis token. If there are no empty slots there, discard the rightmost [CIVILIAN]/[THUG] and replace it with a Crisis token.",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 7,
+            "fourHeroes": 9
+          }
+        },
+        "back": {
+          "img": "villains/Avalanche-B.jpg",
+          "superVillain": [
+            "M",
+            "M",
+            "H",
+            "H"
+          ]
+        }
       }
     },
     {

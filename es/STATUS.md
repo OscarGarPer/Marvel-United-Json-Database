@@ -14,7 +14,7 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks11 - Mutant Promos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks11.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los tableros y cartas.
+- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los tableros y cartas. Añadidos los primeros 3 personajes.
 
 ### [mun-ks12 - Storm (Mohawk)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks12.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
