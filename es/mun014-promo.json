@@ -1,0 +1,2030 @@
+{
+  "boxId": "MUN014-PROMO",
+  "img": "mun114.jpg",
+  "name": {
+    "text": "Deadpool (X-Force)",
+    "locText": "Deadpool (X-Force)"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "locations": [
+    {
+      "img": "locations/deadpools-apartment.jpg",
+      "title": {
+        "text": "Deadpool's Apartment",
+        "locText": "Deadpool's Apartment"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there is NOTHING other than your Hero here, you may relax with your feet on the couch. Draw 2 cards.",
+          "locText": "Si aquí no hay NADA más que tu Héroe, puedes relajarte tirado en el sofá. Roba 2 cartas."
+        }
+      },
+      "slots": [
+        "empty",
+        "empty"
+      ]
+    }
+  ],
+  "challenges": [
+    {
+      "img": "challenges/deadpool-challenge.jpg",
+      "title": {
+        "text": "Deadpool Chaos Challenge",
+        "locText": "Desafío Caos Deadpool"
+      },
+      "description": {
+        "text": "Drop this card on the table and place Deadpool in the Location the arrow is pointing at. Any time a Villain ends their movement or a Hero ends their turn in Deadpool's Location, draw the top card of the Deadpool Chaos deck and resolve it.",
+        "locText": "Tira esta carta encima de la mesa y coloca a Deadpool en el Lugar al que apunte la flecha. Siempre que un Villano termine su movimiento o un Héroe termine su turno en el Lugar de Deadpool, roba una carta del mazo de Caos Deadpool y resuélvela."
+      }
+    }
+  ],
+  "cards": [],
+  "characters": [
+    {
+      "img": "villains/Bob.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Bob, Agent Of Hydra",
+        "locText": "Bob, Agente De Hydra"
+      },
+      "realName": {
+        "text": "Robert Dobalina",
+        "locText": "Robert Dobalina"
+      },
+      "bio": {
+        "text": "Deadpool's sidekick Bob was goaded into joining Hydra by his wife who berated him for not having a steady job. Having met Deadpool on one of his Hydra missions, he was convinced to turn away from the evil corporation and help Deadpool instead. As an honorary member of Agency X, he worked with them as best he could since he had no powers or abilities.",
+        "locText": "El compañero de Deadpool, Bob, fue incitado a unirse a Hydra por su esposa, quien lo reprendió por no tener un trabajo estable. Habiendo conocido a Deadpool en una de sus misiones de Hydra, se convenció de alejarse de la corporación malvada y ayudar a Deadpool en su lugar. Como miembro honorario de la Agencia X, trabajó con ellos lo mejor que pudo ya que no tenía poderes ni habilidades."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob1.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob2.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob3.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob4.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob5.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob6.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Run Away!",
+              "locText": "¡Huir!"
+            },
+            "description": {
+              "text": "Until the beginning of your next turn, if a Villain ends their movement in your Location, you MUST move to the next clockwise Location.",
+              "locText": "Hasta el comienzo de tu siguiente turno, si un Villano finaliza su movimiento en tu Lugar, DEBES moverte al siguiente Lugar en el sentido de las agujas del reloj."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob7.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Throw Clumsily",
+              "locText": "Lanzamiento Torpe"
+            },
+            "description": {
+              "text": "Give 2 [ATTACK] tokens from the pool to another Hero in your Location. Accelerate the next Villain turn by 1 card.",
+              "locText": "Dale 2 fichas [ATAQUE] de la reserva a otro Héroe en tu Lugar. Acelera el siguiente turno del Villano en 1 carta."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob8.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Deadpool's Pet",
+              "locText": "Mascota de Deadpool"
+            },
+            "description": {
+              "text": "Until the beginning of your next turn, if you have to discard cards, you can have Hero Deadpool discard that number of cards instead.",
+              "locText": "Hasta el comienzo de tu siguiente turno, si tienes que descartar cartas, en vez de eso puedes hacer que Deadpool Héroe descarte esa cantidad de cartas."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob9.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Accidentally Heroic",
+              "locText": "Accidentalmente Heroico"
+            },
+            "description": {
+              "text": "Clear a Threat card in your Location. Then, discard all cards from your hand to the bottom of your deck.",
+              "locText": "Elimina una carta de Amenaza en tu Lugar. Luego, descarta todas las cartas de tu mano al final de tu mazo."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob10.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "I Wish I Joined A.I.M. Instead",
+              "locText": "Ojalá Me Hubiera Unido a A.I.M."
+            },
+            "description": {
+              "text": "Gain 1 [W] token. Each other hero must discard 1 Action token if they have any.",
+              "locText": "Obtienes 1 ficha [COMODÍN]. Los demás Héroes deben descartar 1 ficha de Acción si tienen alguna."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob11.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Plan Z",
+              "locText": "Plan Z"
+            },
+            "description": {
+              "text": "Add 2 [CIVILIAN], 2 [THUG], or 1 [THREAT] token from the pool to the corresponding Mission card of your choice. Accelerate the next Villain turn by 1 card.",
+              "locText": "Añade 2 fichas [CIVIL], 2 fichas [MATÓN] o 1 ficha [AMENAZA] de la reserva a la carta de Misión correspondiente. Acelera el siguiente turno del Villano en 1 carta."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Bob12.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agente De Hydra"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Messing Up Stuff",
+              "locText": "Estropear Cosas"
+            },
+            "description": {
+              "text": "[WILD] [WILD]. Draw a Master Plan card and add it facedown in the Storyline OR give 1 Crisis token to each Hero if there are effects in the game that use them.",
+              "locText": "[COMODÍN] [COMODÍN]. Roba una carta de Plan Maestro y añádela boca abajo en la Trama O dale 1 ficha de Crisis a cada Héroe si hay efectos en el juego que las usen."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Bob-T2.jpg",
+          "title": {
+            "text": "Kingpin",
+            "locText": "Kingpin"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in each Location with 1 or more [THUG].",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Bob-T3.jpg",
+          "title": {
+            "text": "Green Goblin",
+            "locText": "Green Goblin"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in each adjacent Location. Green Goblin can't be damaged unless the Rescue Civilians Mission has been completed.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Bob-T4.jpg",
+          "title": {
+            "text": "Taskmaster",
+            "locText": "Taskmaster"
+          },
+          "description": {
+            "text": "Place 1 Crisis token in the next clockwise Location with no Crisis token, cancelling its End of Turn effect. Taskmaster can't be damaged unless the Clear Threats Mission has been completed.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Bob-T5.jpg",
+          "title": {
+            "text": "Tiger Shark",
+            "locText": "Tiger Shark"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Bob-T6.jpg",
+          "title": {
+            "text": "M.O.D.O.K.",
+            "locText": "M.O.D.O.K."
+          },
+          "description": {
+            "text": "Flip the latest faceup hero card in the Storyline facedown.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Bob-T7.jpg",
+          "title": {
+            "text": "Red Skull",
+            "locText": "Red Skull"
+          },
+          "description": {
+            "text": "Deal 1 damage to each Hero in this Location. Red Skull can't be damaged unless the Defeat Thugs Mission has been completed.",
+            "locText": ""
+          },
+          "bam": true,
+          "locationEffect": false,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP1.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Discard all [THUG] in Bob's Location and increase the Retirement Plan track by 1 for each [THUG] discarded this way. Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Descarta todos los [MATÓN] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [MATÓN] descartado. Luego, añade 1 [CIVIL] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP2.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Deal 1 damage to the Henchman in Bob's Location. If there is none, deal 1 damage to each Hero there. Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Inflige 1 punto de daño al Secuaz en el Lugar de Bob. Si no hay ninguno, inflige 1 punto de daño a cada Héroe en ese Lugar. Luego, añade 1 [CIVIl] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP3.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Discard all [CIVILIAN] in Bob's Location and increase the Retirement Plan track by 1 for each [CIVILIAN] discarded this way. Then, add 1 [THUG] in every Location.",
+              "locText": "Descarta todos los [CIVIL] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [CIVIL] descartado. Luego, añade 1 [THUG] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP4.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "If there are no Heroes in Bob's Location, increase the Retirement Plan track by 1. Then, add 1 [THUG] in every Location.",
+              "locText": "Si no hay ningún Héroe en el Lugar de Bob, aumenta el medidor de Plan De Jubilación en 1. Luego, añade 1 [MATÓN] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP5.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Bob's Location. Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Inflige 1 punto de daño a cada Héroe en el Lugar de Bob. Luego, añade 1 [CIVIl] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP6.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Discard all [CIVILIAN] in Bob's Location and increase the Retirement Plan track by 1 for each [CIVILIAN] discarded this way. Then, add 1 [THUG] in every Location.",
+              "locText": "Descarta todos los [CIVIL] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [CIVIL] descartado. Luego, añade 1 [THUG] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP7.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Discard all [THUG] in Bob's Location and increase the Retirement Plan track by 1 for each [THUG] discarded this way. Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Descarta todos los [MATÓN] en el Lugar de Bob y aumenta el medidor de Plan De Jubilación en 1 por cada [MATÓN] descartado. Luego, añade 1 [CIVIl] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP8.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in the Locations adjacent to Bob's. Then, add 1 [THUG] in every Location.",
+              "locText": "Inflige 1 punto de daño a cada Héroe los Lugares adyacentes a Bob. Luego, añade 1 [MATÓN] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP9.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Increase the Retirement Plan track by 1 for each Hero in Bob's Location. Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Aumenta el medidor de Plan De Jubilación en 1 por cada Héroe en el Lugar de Bob. Luego, añade 1 [CIVIl] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP10.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Increase the Retirement Plan track by 1 for each Hero in the Locations adjacent to Bob's. Then, add 1 [THUG] in every Location.",
+              "locText": "Aumenta el medidor de Plan De Jubilación en 1 por cada Héroe en los Lugares adyacentes a Bob. Luego, añade 1 [MATÓN] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP11.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Add 1 [THUG] in every Location.",
+              "locText": "Añade 1 [MATÓN] a cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Bob-MP12.jpg",
+          "title": {
+            "text": "Bob, Agent Of Hydra",
+            "locText": "Bob, Agent Of Hydra"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Retirement Plan",
+              "locText": "Plan De Jubilación"
+            },
+            "description": {
+              "text": "Add 1 [CIVILIAN] in every Location.",
+              "locText": "Añade 1 [CIVIl] a cada Lugar."
+            }
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Bob-A.jpg",
+          "specialRules": {
+            "text": "Bob is never Under Pressure. In order to be able to damage Bob, the Heroes must first complete all 3 Missions.",
+            "locText": "Bob nunca está Bajo presión. Para poder dañar a Bob, los Héroes primero deben completar las 3 Misiones."
+          },
+          "overflow": {
+            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, increase the Savings tracker on the Retirement Plan track by 1.",
+            "locText": "Si 1 o más fichas de [CIVIL]/[MATÓN] no se pueden añadir a un Lugar, aumenta el medidor de Ahorros del Plan de Jubilación en 1."
+          },
+          "bam": {
+            "text": "If there are no Heroes in Bob's Location, increase the Savings tracker on the Retirement Plan track by 1. Otherwise, his Retirement Plan decreases by 1 for each Hero in Bob's Location.",
+            "locText": "Si no hay Héroes en el Lugar de Bob, aumenta el medidor de Ahorros del Plan de Jubilación en 1. De lo contrario, reduce el Plan de Jubilación en 1 por cada Héroe en el Lugar de Bob."
+          },
+          "plot": {
+            "text": "Retirement Plan Track - Heroes lose if the Savings tracker reaches 12.",
+            "locText": "Medidor de Plan de Jubilación - Si el medidor llega "
+          },
+          "lifePoints": {
+            "twoHeroes": 1,
+            "threeHeroes": 1,
+            "fourHeroes": 1
+          }
+        },
+        "back": {
+          "img": "villains/Bob-B.jpg",
+          "superVillain": [
+            "W"
+          ]
+        }
+      }
+    },
+    {
+      "img": "heroes/Deadpool.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Deadpool",
+        "locText": "Deadpool"
+      },
+      "realName": {
+        "text": "Wade Wilson",
+        "locText": "Wade Wilson"
+      },
+      "bio": {
+        "text": "The \"Merc with a Mouth\" started out as international assassin Wade Wilson when inoperable cancer sent him looking for a cure. Canada's Weapon X program took him in and cured him of the cancer, while also giving him superhuman powers. Eventually he was too much for them to handle, so was sent off to Hospice. Instead of stripping him of his abilities, they tortured him through experimentation. After escaping, he continued as a mercenary and was found by S.H.I.E.L.D. Mostly though, he fought anyone he saw fit.",
+        "locText": "El \"Mercenario Bocazas\" comenzó como el asesino internacional Wade Wilson cuando un cáncer inoperable lo envió a buscar una cura. El programa Arma X de Canadá lo acogió y lo curó del cáncer, al mismo tiempo que le otorgó poderes sobrehumanos. Finalmente, fue demasiado para ellos, por lo que lo enviaron a un hospicio. En lugar de despojarlo de sus habilidades, lo torturaron a través de la experimentación. Después de escapar, continuó como mercenario y fue encontrado por S.H.I.E.L.D. Sin embargo, en su mayoría, luchó contra cualquiera que creyó conveniente."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool1.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Regenerative Healing Factor",
+              "locText": "Factor Curativo Regenerativo"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+              "locText": "Mientras esta carta esté boca arriba en la Trama, si tienes menos de 3 cartas en tu mano al final de un turno de Villano, puedes robar 1 carta."
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool2.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool3.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool4.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Resistance To Everything",
+              "locText": "Resistencia A Todo"
+            },
+            "description": {
+              "text": "Any Special effects on the next Master plan card played have no effect on Deadpool.",
+              "locText": "Cualquier Efecto especial de la siguiente carta de Plan maestro jugada no tiene efecto en Deadpool."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool5.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Maximum Effort",
+              "locText": "Máximo Esfuerzo"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] [ATTACK] against a single target in your Location.",
+              "locText": "[ATAQUE] [ATAQUE] [ATAQUE] contra un solo enemigo en el Lugar en el que estás."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool5.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Maximum Effort",
+              "locText": "Máximo Esfuerzo"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] [ATTACK] against a single target in your Location.",
+              "locText": "[ATAQUE] [ATAQUE] [ATAQUE] contra un solo enemigo en el Lugar en el que estás."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool7.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Unpredictable",
+              "locText": "Impredecible"
+            },
+            "description": {
+              "text": "Gain 1 [WILD] token. On your next turn, you must play your Hero card randomly.",
+              "locText": "Recibe 1 ficha [COMODÍN]. En tu próximo turno, debes jugar tu carta de Héroe al azar."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool7.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Unpredictable",
+              "locText": "Impredecible"
+            },
+            "description": {
+              "text": "Gain 1 [WILD] token. On your next turn, you must play your Hero card randomly.",
+              "locText": "Recibe 1 ficha [COMODÍN]. En tu próximo turno, debes jugar tu carta de Héroe al azar."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool9.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fight Through The Pain",
+              "locText": "Combatir El Dolor"
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": "Recibe 1 ficha de [ATAQUE]. Puedes ignorar 1 punto de daño hasta el comienzo de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool9.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fight Through The Pain",
+              "locText": "Combatir El Dolor"
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": "Recibe 1 ficha de [ATAQUE]. Puedes ignorar 1 punto de daño hasta el comienzo de tu siguiente turno."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool11.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Breaking The Fourth Wall",
+              "locText": "Rompiendo La Cuarta Pared"
+            },
+            "description": {
+              "text": "You MUST draw the top 2 cards from the Deadpool Chaos challenge deck, choose 1, and resolve it.",
+              "locText": "DEBES robar las 2 primeras cartas del mazo del desafío Deadpool Chaos, elegir 1 y resolverla."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool11.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Breaking The Fourth Wall",
+              "locText": "Rompiendo La Cuarta Pared"
+            },
+            "description": {
+              "text": "You MUST draw the top 2 cards from the Deadpool Chaos challenge deck, choose 1, and resolve it.",
+              "locText": "DEBES robar las 2 primeras cartas del mazo del desafío Deadpool Chaos, elegir 1 y resolverla."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        }
+      ]
+    },
+    {
+      "img": "villains/Deadpool.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Deadpool",
+        "locText": "Deadpool"
+      },
+      "realName": {
+        "text": "Wade Wilson",
+        "locText": "Wade Wilson"
+      },
+      "bio": {
+        "text": "The \"Merc with a Mouth\" started out as international ass_ Do I really need to type this again? Listen, it's the same character, but now as a Villain...",
+        "locText": "El \"Mercenario Bocazas\" comenzó como asesino interna_ ¿Realmente necesito escribir esto de nuevo? Escucha, es el mismo personaje, pero ahora como Villano..."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force1.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Regenerative Healing Factor",
+              "locText": ""
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if you have less tha 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ],
+          "startingHand": true,
+          "bottomDeck": false
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force2.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Improved Resistance To Everything",
+              "locText": ""
+            },
+            "description": {
+              "text": "Until the beginning of your next turn, any special effects on Master Plan cards played have no effect on Deadpool.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force3.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force4.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force5.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Totally Unpredictable",
+              "locText": ""
+            },
+            "description": {
+              "text": "On your next turn, you MUST play your Hero card randomly.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force5.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "Totally Unpredictable",
+              "locText": ""
+            },
+            "description": {
+              "text": "On your next turn, you MUST play your Hero card randomly.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force7.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fight Through The Pain",
+              "locText": ""
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force7.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Fight Through The Pain",
+              "locText": ""
+            },
+            "description": {
+              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force9.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Bea Might Be In Danger",
+              "locText": ""
+            },
+            "description": {
+              "text": "Rescue 1 [CIVILIAN] in your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force9.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Bea Might Be In Danger",
+              "locText": ""
+            },
+            "description": {
+              "text": "Rescue 1 [CIVILIAN] in your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force11.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Maximum Firepower",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Deadpool-X-Force11.jpg",
+          "title": {
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Maximum Firepower",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Deadpool-T2.jpg",
+          "title": {
+            "text": "Wasting Your Time",
+            "locText": "Malgastas Tu Tiempo"
+          },
+          "description": {
+            "text": "Oh look, a boring threat! What are you even doing?",
+            "locText": "¡Oh mira, una aburrida Amenaza! ¿Qué estás haciendo?"
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Deadpool-T3.jpg",
+          "title": {
+            "text": "Spending Your Time",
+            "locText": "Pierdes Tu Tiempo"
+          },
+          "description": {
+            "text": "Watching the days go by...",
+            "locText": "Viendo la vida pasar..."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Deadpool-T4.jpg",
+          "title": {
+            "text": "Wasting Your Efforts",
+            "locText": "Malgastas Tus Esfuerzos"
+          },
+          "description": {
+            "text": "Do you feel like a Hero? Look at all those pretty stars!",
+            "locText": "¿Te sientes como un Héroe? ¡Mira todas esas lindas estrellas!"
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "H",
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Deadpool-T5.jpg",
+          "title": {
+            "text": "Wasting Your Energy",
+            "locText": "Malgastas Tu Energía"
+          },
+          "description": {
+            "text": "Are you punching the air?",
+            "locText": "¿Estás golpeando al aire?"
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "A",
+            "A",
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Deadpool-T6.jpg",
+          "title": {
+            "text": "Wasting Your Moves",
+            "locText": "Malgastas Tus Movimientos"
+          },
+          "description": {
+            "text": "Why are you running in place?",
+            "locText": "¿Por qué estás corriendo en el sitio?"
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "M",
+            "M",
+            "M"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Deadpool-T7.jpg",
+          "title": {
+            "text": "Wasting Your Wilds",
+            "locText": "Malgastas Tus Comodines"
+          },
+          "description": {
+            "text": "Oh, I love watching Heroes try to clear this! Only [WILD] can be used to clear this Threat. Grants +5 extra points when cleared.",
+            "locText": "¡Oh, me encanta ver Héroes tratando de elimminar esto! Solo se pueden usar [COMODÍN] para eliminar esta Amenaza. Otorga +5 puntos extra cuando se elimina."
+          },
+          "bam": false,
+          "locationEffect": false,
+          "actions": [
+            "M",
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP1.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Did You Wash Your Hands?",
+              "locText": "¿Te Has Lavado Las Manos?"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the last player to go to the restroom. BAM! Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en ir al baño. ¡BAM! Luego, añade 1 [CIVIL] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP2.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "I Can't Stand People That Are Always Late!",
+              "locText": "¡No Soporto A La Gente Que Siempre Llega Tarde!"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the last player to join this gaming session. BAM! Then, add 1 [THUG] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en unirse a esta partida. ¡BAM! Luego, añade 1 [MATÓN] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP3.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Going Around, Kicking Asses.",
+              "locText": "Dando Una Vuelta, Pateando Culos."
+            },
+            "description": {
+              "text": "Move to the next clockwise Location with any Heroes. BAM! Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Mueve al siguiente Lugar en el sentido de las agujas del reloj con algún Héroe. ¡BAM! Luego, añade 1 [CIVIL] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP4.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Going Around, Bringing The Pain.",
+              "locText": "Dando Una Vuelta, Haciendo Daño."
+            },
+            "description": {
+              "text": "Move to the next counter-clockwise Location with any Heroes. BAM! Then, add 1 [THUG] in every Location.",
+              "locText": "Mueve al siguiente Lugar en el sentido contrario de las agujas del reloj con algún Héroe. ¡BAM! Luego, añade 1 [MATÓN] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP5.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "This Goes Great With A Taco, Trust Me.",
+              "locText": "Esto Va Genial Con Un Taco, Créeme."
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the last player to drink from their glass. BAM! Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en beber de su vaso. ¡BAM! Luego, añade 1 [CIVIL] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP6.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Chimichanga, Anyone?",
+              "locText": "Chimichanga, ¿Alguien?"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the last player to eat something. BAM! Then, add 1 [THUG] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en comer algo. ¡BAM! Luego, añade 1 [MATÓN] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP7.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Feeling Lucky?",
+              "locText": "¿Te Sientes Afortunado?"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the last player to roll a die. BAM! Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en tirar un dado. ¡BAM! Luego, añade 1 [CIVIL] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP8.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Do I Smell A Ko?",
+              "locText": "¿Huele A KO?"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero whit the least cards in hand. BAM! Then, add 1 [THUG] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe con menos cartas en su mano. ¡BAM! Luego, añade 1 [MATÓN] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP9.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Sometimes You Win, Sometimes You Get The ******* Beaten Out Of You!",
+              "locText": "¡Unas Veces Se Gana, Otras Veces Te Dan Una **** Paliza!"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the last player to win a competitive game in your group. BAM! Then, add 1 [CIVILIAN] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en ganar en un juego competitivo. ¡BAM! Luego, añade 1 [CIVIL] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP10.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Psst! Hey! You! Yes, You!",
+              "locText": "¡Psst! ¡Eh! ¡Tú! ¡Sí, Tú!"
+            },
+            "description": {
+              "text": "Move to the Location with the Hero controlled by the player reading this card. Yes, this would be you. You're funny, gain 1 [MOVE] token. Then, the Hero controlled by the player to your left takes 1 damage. Then, add 1 [THUG] in every Location.",
+              "locText": "Mueve al Lugar con el Héroe controlado por el último jugador en ir al baño. Luego, añade 1 [MATÓN] en cada Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP11.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "I Really Don't Have The Time To Fill All These Card Effects. This Card Don't Do Anything Else Other Than Placing Stuff. I Also Don't Really Feel Like Moving Right Now, You Know? See All Those [civilian] Tokens? Add 1 In Every Location.",
+              "locText": "Realmente no tengo tiempo para escribir todos estos efectos de cartas. Esta carta no hace nada más que colocar cosas. Tampoco tengo ganas de moverme ahora mismo, ¿sabes? ¿Ves todas esas fichas [CIVILES]? Añade 1 en cada Lugar."
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Deadpool-MP12.jpg",
+          "title": {
+            "text": "Deadpool",
+            "locText": "Deadpool"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "I Know It's Hard To Believe, But Sometimes It Happens That Effects In The Game Are Similar, But Not So Similar. So You Have To Write Something, Even If Nothing Really Happens. Wanna Be Useful? Add 1 [thug] In Every Location.",
+              "locText": "Sé que es difícil de creer, pero a veces sucede que los efectos en el juego son similares, pero no tanto. Así que tienes que escribir algo, aunque en realidad no pase nada. ¿Quieres ser útil? Agrega 1 [MATÓN] en cada Lugar."
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Deadpool-A.jpg",
+          "specialRules": {
+            "text": "Deadpool starts the game already under pressure and can be damaged from the star. When a Hero is KO'd, their piece should be ground to a fine powder. OR, the Hero is just removed from the game and the player must resume playing with a different Hero. (Choose whichever loser you want from your collection)",
+            "locText": "Deadpool comienza la partida Bajo presión y puede ser dañado desde el incio. Cuando un Héroe queda Fuera de combate, su miniatura debe ser molida hasta convertirla en un polvo fino. O, el Héroe se retira del juego y el jugador debe volver a jugar con un Héroe diferente. (Elige el perdedor que quieras de tu colección)"
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to each Hero in that Location. Cards discarded this way should be torn up, unless you feel shame and declare out loud that you are not a smart hero.",
+            "locText": "Si 1 o más fichas de [CIVIL]/[MATÓN] no se pueden añadir a un Lugar, inflige 1 punto de daño a cada Héroe en ese Lugar. Las cartas descartadas de esta manera deben romperse, a menos que sientas vergüenza y declares en voz alta que no eres un héroe inteligente."
+          },
+          "bam": {
+            "text": "Deal 2 damage to each Hero in Deadpool's Location. Players controlling these Heroes either shout \"OUCH!\" or their Hero suffers 1 extra damage.",
+            "locText": "Inflige 2 daños a cada héroe en la ubicación de Deadpool. Los jugadores que controlan a estos héroes gritan \"¡AY!\" o su Héroe sufre 1 daño extra."
+          },
+          "plot": {
+            "text": "Deadpool can't be defeated. Point. Ever. Heroes can't win the game. Never. (YES, THIS IS CHEATING.) All you can do is try to survive until the end of Deadpool's Master Plan (i.e., until he gets bored). When Deadpool loses his last Health, he immediately goes back to his starting Health. Then, delay his next Villain turn by 1 card. At the end of the game, calculate your score as follows: +1 point for each rescued [CIVILIAN]. +1 point for each defeated [THUG]. +5 points for each cleared Threat (+10 for the Wasting Your Wilds Threat). -10 points for each Hero eliminated. A negative score means you really suck at this game. Any score over 50 means you probably have cheated AND THIS IS NOT ACCEPTABLE. Just kidding. Good luck getting more than 50 points!",
+            "locText": "Deadpool no puede ser derrotado. Punto. Jamás. Los Héroes no pueden ganar. Nunca. (SÍ, ESTO ES HACER TRAMPA.) Todo lo que puedes hacer es tratar de sobrevivir hasta el final del Plan maestro de Deadpool (es decir, hasta que se aburra). Cuando Deadpool pierde su última Vida, vuelve inmediatamente a su Vida inicial. Luego, retrasa su próximo turno de Villano en 1 carta. Al final del juego, calcula tu puntuación así: +1 punto por cada  rescatado. +1 punto por cada  derrotado. +5 puntos por cada Amenaza eliminada (+10 por la Amenaza Wasting Your Wilds). -10 puntos por cada Héroe eliminado. Una puntuación negativa significa que realmente apestas en este juego.  Cualquier puntaje superior a 50 significa que probablemente haS hecho trampas Y ESTO NO ES ACEPTABLE. Es una broma. ¡Buena suerte consiguiendo más de 50 puntos!"
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 6,
+            "fourHeroes": 8
+          }
+        },
+        "back": {
+          "img": "villains/Deadpool-B.jpg",
+          "specialSetup": {
+            "text": "Mission cards are not used in this game. Keep count of the number of [CIVILIAN] recued and [THUG] defeated. You will need these for your final score. When choosing Locations during setup, any Location whose End of Turn effect allows Heroes to draw cards is not allowed. (Yes, that's kind of cheating. Got a problem with that?)",
+            "locText": "Las cartas de Misión no se utilizan en este juego. Lleva la cuenta del número de [CIVIL] rescatados y [MATÓN] derrotados. Los necesitarás para tu puntuación final. Al elegir Lugares durante la preparación, no se permite ningún Lugar cuyo efecto de Fin de turno permita a los héroes robar cartas. (Sí, es una especie de trampa. ¿Tienes algún problema con eso?)"
+          }
+        }
+      }
+    },
+    {
+      "img": "heroes/Deadpool-Challenge.jpg",
+      "loyalty": "challenge",
+      "name": {
+        "text": "Deadpool",
+        "locText": "Deadpool"
+      },
+      "realName": {
+        "text": "Wade Wilson",
+        "locText": "Wade Wilson"
+      },
+      "bio": {
+        "text": "All work and no play makes Wade a dull\nAll work and no play makes Wade a dullboy.\nAll work and no play makes Wade a dull boy.\nAll work and no play make Wade a dul boy.\nAll work and no play makes Wade a dull boy.\nAll work and no play makes Wade a dull boy.\nAll work and no play makes Wade a dull boy.\nAll worf and no play makes Wade a dull boy.\nAll work and no play makes Wade a dull boy.\nAll work and no play makes Wade a duff boy.\nAll work and no play makes Wade a dull boy.",
+        "locText": "Todo trabajo y nada de juego hacen de Wade un aburrido\nTodo trabajo y nada de juego hacen de Wade un niño aburrido.\nTodo trabajo y nada de juego hacen de Wade un niño aburrido.\nTodo trabajo y nada de juego hacen de Wade un niño aburrido.\nTodo trabajo y nada de juego hace que Wade sea un niño aburrido.\nTodo el trabajo y nada de juego hacen de Wade un niño aburrido.\nTodo el trabajo y nada de juego hacen de Wade un niño aburrido.\nTodo el trabajo y nada de juego hacen de Wade un niño aburrido.\nTodo el trabajo y nada de juego hacen de Wade un chico aburrido.\nTodo el trabajo y nada de juego hacen de Wade un chico tonto.\nTodo el trabajo y nada de juego hacen de Wade un chico aburrido."
+      },
+      "cards": [
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/01.jpg",
+          "title": {
+            "text": "In-Laws Came To Visit",
+            "locText": "Visita De Los Suegros"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "In-Laws Came To Visit",
+              "locText": "Visita De Los Suegros"
+            },
+            "description": {
+              "text": "Add [CIVILIAN] [CIVILIAN] to this Location.",
+              "locText": "Añade [CIVIL] [CIVIL] a este Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/02.jpg",
+          "title": {
+            "text": "Surprise Party!",
+            "locText": "¡Fiesta Sorpresa!"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Surprise Party!",
+              "locText": "¡Fiesta Sorpresa!"
+            },
+            "description": {
+              "text": "Move all Heroes and Villains to Deadpool's Location. Each Hero draws 1 card. Each Villain gains 2 Health (may go above starting value).",
+              "locText": "Mueve a todos los Héroes y Villanos al Lugar de Deadpool. Cada Héroe roba 1 carta. Cada Villano obtiene 2 de Vida (puede superar el valor inicial)."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/03.jpg",
+          "title": {
+            "text": "Time For Some Ultra Violence!",
+            "locText": "¡Un Poco De Ultra Violencia!"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Time For Some Ultra Violence!",
+              "locText": "¡Un Poco De Ultra Violencia!"
+            },
+            "description": {
+              "text": "Each Hero, Henchman, and Villain takes 1 damage.",
+              "locText": "Cada Héroe, Secuaz y Villano recibe 1 punto de daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/04.jpg",
+          "title": {
+            "text": "Carpool",
+            "locText": "Cochepool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Carpool",
+              "locText": "Cochepool"
+            },
+            "description": {
+              "text": "* Move Deadpool and all heroes and Villains to the Location opposite to where Deadpool was.",
+              "locText": "* Mueve a Deadpool y a todos los Héroes y Villanos al Lugar opuesto a donde estaba Deadpool."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/05.jpg",
+          "title": {
+            "text": "Play Pool",
+            "locText": "Billar Pool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Play Pool",
+              "locText": "Billar Pool"
+            },
+            "description": {
+              "text": "Whoever revealed this card flicks a [ATTACK] token. The first character piece hit by the token takes 2 damage. If no piece is hit, whoever revealed this card takes 1 damage.",
+              "locText": "Quien haya cogido esta carta lanza una ficha de [ATAQUE]. La primera mini golpeada por la ficha recibe 2 puntos de daño. Si no se golpea ninguna mini, quien haya revelado esta carta recibe 1 punto de daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/06.jpg",
+          "title": {
+            "text": "Kidpool",
+            "locText": "Niñopool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Kidpool",
+              "locText": "Niñopool"
+            },
+            "description": {
+              "text": "Parents of kids under 10 years old gain 1 [MOVE], [HEROIC], or [ATTACK] token.",
+              "locText": "Los padres de niños menores de 10 años obtienen 1 ficha de [MOVER], [HEROICA] o [ATAQUE]."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/07.jpg",
+          "title": {
+            "text": "See You In The Funny Pages",
+            "locText": "Nos Vemos En Las Viñetas"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "See You In The Funny Pages",
+              "locText": "Nos Vemos En Las Viñetas"
+            },
+            "description": {
+              "text": "The last Hero player to read a comic book draws 2 cards if it was a Deadpool comic. Otherwise, that Hero takes 1 damage.",
+              "locText": "El último Héroe (jugador) en leer un cómic roba 2 cartas si era un cómic de Deadpool. De lo contrario, ese Héroe recibe 1 punto de daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/08.jpg",
+          "title": {
+            "text": "Headpool",
+            "locText": "Cabezapool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Headpool",
+              "locText": "Cabezapool"
+            },
+            "description": {
+              "text": "Each Hero player that has never played a game with zombies must discard 1 card. If all Hero players have played a game with zombies, the Villain takes 1 damage.",
+              "locText": "Cada Héroe que nunca haya jugado un juego con zombis debe descartar 1 carta. Si todos los Héroes han jugado a un juego con zombis, el Villano recibe 1 punto de daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/09.jpg",
+          "title": {
+            "text": "Dogpool",
+            "locText": "Perropool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Dogpool",
+              "locText": "Perropool"
+            },
+            "description": {
+              "text": "Dog owners gain 1 [ATTACK] token. Cat owners gain 1 [HEROIC] token. Horse owners gain 1 [MOVE] token. Other animal owners draw 1 card. Hero players with no animals take 1 damage.",
+              "locText": "Quien tenga perro obtiene 1 ficha [ATAQUE]. Quien tenga gato obtiene 1 ficha [HEROICA]. Quien tenga caballo obtiene 1 ficha [MOVER]. Otros dueños de animales roban 1 carta. Los Héroes (jugadores) sin animales reciben 1 daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/10.jpg",
+          "title": {
+            "text": "Musical Chairs!",
+            "locText": "¡Sillas Musicales!"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Musical Chairs!",
+              "locText": "¡Sillas Musicales!"
+            },
+            "description": {
+              "text": "From now on, everybody plays with the Hero (or Villain) that was controlled by the player to their right.",
+              "locText": "De ahora en adelante, todos juegan con el Héroe (o Villano) que estaba controlado por el jugador a su derecha."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/11.jpg",
+          "title": {
+            "text": "No Ticket",
+            "locText": "Sin Billete"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "No Ticket",
+              "locText": "Sin Billete"
+            },
+            "description": {
+              "text": "Discard all [CIVILIAN] and [THUG] from this Location.",
+              "locText": "Descarta todos los [CIVIL] y [MATÓN] de este Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/12.jpg",
+          "title": {
+            "text": "Pay-Per-Kill",
+            "locText": "Pago-Por-Muerte"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Pay-Per-Kill",
+              "locText": "Pago-Por-Muerte"
+            },
+            "description": {
+              "text": "If this was a Hero turn, deal 2 damage to a Henchman or Villain. If this was a Villain turn, deal 1 damage to each Hero.",
+              "locText": "Si este fue un turno de Héroe, inflige 2 puntos de daño a un Secuaz o Villano. Si este fue un turno de Villano, inflige 1 daño a cada Héroe."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/13.jpg",
+          "title": {
+            "text": "Bettingpool",
+            "locText": "Apuestapool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Bettingpool",
+              "locText": "Apuestapool"
+            },
+            "description": {
+              "text": "Each Hero player bets on the next total Villain movement (even or odd). Whoever guesses right gains 1 [WILD] token. If the Villain doesn't move, Heroes lose all their Action tokens.",
+              "locText": "Cada Héroe apuesta (par o impar) por el próximo movimiento total de Villano. Quien acierte gana 1 ficha [COMODÍN]. Si el Villano no se mueve, los Héroes pierden todas sus fichas de Acción."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/14.jpg",
+          "title": {
+            "text": "Let's Play Catch",
+            "locText": "Juguemos A Atraparla"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Let's Play Catch",
+              "locText": "Juguemos A Atraparla"
+            },
+            "description": {
+              "text": "Whoever revealed this card takes 1 [WILD] from the pool and tosses it behind their shoulder to a Hero player of their choice. If they catch the token in the air, they can keep it.",
+              "locText": "Quien haya revelado esta carta coge 1 ficha [COMODÍN] de la reserva y la lanza por encima del hombro a un jugador Héroe de su elección. Si atrapa la ficha en el aire, puede quedársela."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/15.jpg",
+          "title": {
+            "text": "(Dead)pool Party",
+            "locText": "Fiesta (Dead)pool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "(Dead)pool Party",
+              "locText": "Fiesta (Dead)pool"
+            },
+            "description": {
+              "text": "The last Hero player to attend a pool party, draws 1 card. Anybody who's never been to a pool party takes 1 damage.",
+              "locText": "El último Héroe en asistir a una fiesta en una piscina roba 1 carta. Quien nunca haya estado en una fiesta en una piscina recibe 1 punto de daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/16.jpg",
+          "title": {
+            "text": "Rock Around The Clock",
+            "locText": "Rock Around The Clock"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Rock Around The Clock",
+              "locText": "Rock Around The Clock"
+            },
+            "description": {
+              "text": "Move all Heroes and Villains 1 Location clockwise.",
+              "locText": "Mueve todos los Héroes y Villanos 1 Lugar en el sentido de las agujas del reloj."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/17.jpg",
+          "title": {
+            "text": "Ex X-Men",
+            "locText": "Ex X-Men"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Ex X-Men",
+              "locText": "Ex X-Men"
+            },
+            "description": {
+              "text": "Each Hero that has ever been a member of the X-Men draws 1 card. Each Hero that has not takes 1 damage.",
+              "locText": "Cada Héroe que alguna vez haya sido miembro de los X-Men roba 1 carta. Cada Héroe que no, recibe 1 punto de daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/18.jpg",
+          "title": {
+            "text": "Saving Throw",
+            "locText": "Tirada De Salvación"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Saving Throw",
+              "locText": "Tirada De Salvación"
+            },
+            "description": {
+              "text": "Each Hero player rolls a die (don't pretend you don't have dice available at home/club/wherever you're playing). Highest roll draws 1 card. Lowest roll takes 1 damage.",
+              "locText": "Cada Héroe tira un dado (no finjas que no tienes dados disponibles en casa/club/donde sea que juegues). La tirada más alta roba 1 carta. La tirada más baja recibe 1 daño."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/19.jpg",
+          "title": {
+            "text": "\"Hulkpool\"",
+            "locText": "\"Hulkpool\""
+          },
+          "specialEffect": {
+            "title": {
+              "text": "\"Hulkpool\"",
+              "locText": "\"Hulkpool\""
+            },
+            "description": {
+              "text": "Deal 2 damage to each Hero and Villain in this Location. Discard all [CIVILIAN] and [THUG] from this Location.",
+              "locText": "Inflige 2 puntos de daño a cada Héroe y Villano en este Lugar. Descarta todos los [CIVIL] y [MATÓN] de este Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/20.jpg",
+          "title": {
+            "text": "Need Some \"Me Time\"",
+            "locText": "Necesito Algo De \"Tiempo Para Mí\""
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Need Some \"Me Time\"",
+              "locText": "Necesito Algo De \"Tiempo Para Mí\""
+            },
+            "description": {
+              "text": "Nothing happens! Relax...",
+              "locText": "¡No pasa nada! Relax..."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/21.jpg",
+          "title": {
+            "text": "Lady Deadpool",
+            "locText": "Lady Deadpool"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Lady Deadpool",
+              "locText": "Lady Deadpool"
+            },
+            "description": {
+              "text": "Female Heroes gain 1 [WILD] token. Female Villains gain 1 Health (may go above starting value). Male Heroes and Villains take 1 damage. Anybody else may move to any Location.",
+              "locText": "Las Heroínas obtienen 1 ficha [COMODÍN]. Las Villanas obtienen 1 de Vida (puede superar el valor inicial). Los Héroes y Villanos masculinos reciben 1 daño. Cualquier otro puede mover a cualquier Lugar."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/22.jpg",
+          "title": {
+            "text": "Outta The Way, Nerds!",
+            "locText": "¡Apartar Nerds!"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Outta The Way, Nerds!",
+              "locText": "¡Apartar Nerds!"
+            },
+            "description": {
+              "text": "Move all Heroes and Villains in this Location to the opposite Location.",
+              "locText": "Mueve a todos los Héroes y Villanos de este Lugar al Lugar opuesto."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/23.jpg",
+          "title": {
+            "text": "A Little More Conversation...",
+            "locText": "Un Poco Más De Conversación..."
+          },
+          "specialEffect": {
+            "title": {
+              "text": "A Little More Conversation...",
+              "locText": "Un Poco Más De Conversación..."
+            },
+            "description": {
+              "text": "Each Hero discards 1 Action token (if the have any). If there are Crisis tokens in play, discard 1 (Heroes choose).",
+              "locText": "Cada Héroe descarta 1 ficha de Acción (si tiene alguna). Si hay fichas de Crisis en juego, descarta 1 (los Héroes eligen)."
+            }
+          }
+        },
+        {
+          "cardType": "challenge",
+          "img": "challenges/deadpool/24.jpg",
+          "title": {
+            "text": "Laughter Is The Best Medicine",
+            "locText": "La Risa Es La Mejor Medicina"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Laughter Is The Best Medicine",
+              "locText": "La Risa Es La Mejor Medicina"
+            },
+            "description": {
+              "text": "The last Hero player to go to a stand-up comedy show draws 1 card. Anybody who's never been to a stand-up comedy show takes 1 damage.",
+              "locText": "El último Héroe que haya estado en un monólogo roba 1 carta. Quien nunca haya ido a un monólogo recibe 1 punto de daño."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "faq": []
+}

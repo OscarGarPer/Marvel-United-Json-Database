@@ -14,7 +14,7 @@
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks11 - Mutant Promos](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks11.json)
-- BIOs pendientes de revisión. Versión para poder usar el generador de partidas. Trabajando en añadir los tableros y cartas. Añadidos los primeros 3 personajes.
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun-ks12 - Storm (Mohawk)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-ks12.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
@@ -70,10 +70,16 @@
 ### [mun012 - Equipo Azul](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun012.json)
 - Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
+### [mun012-promo - Equipo Azul (Promo)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun012-promo.json)
+- Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
+
 ### [mun013 - Equipo Dorado](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun013.json)
 - Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
 ### [mun014 - Deadpool](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun014.json)
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
+
+### [mun014-promo - Deadpool (X-Force promo)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun014-promo.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
 
 ### [mun103 - Entra En El Spider-Verso - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun103.json)
@@ -88,8 +94,14 @@
 ### [mun112 - Equipo Azul - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun112.json)
 - Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
+### [mun112-promo - Equipo Azul - KS (Promo)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun112-promo.json)
+- Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
+
 ### [mun113 - Equipo Dorado - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun113.json)
 - Primera versión. Faltan algunos textos de las cartas en español. Pendiente de revisión.
 
 ### [mun114 - Deadpool - KS](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun114.json)
+- Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
+
+### [mun114-promo - Deadpool - KS (X-Force promo)](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun114-promo.json)
 - Primera versión. Faltan los textos de las cartas en español. Pendiente de revisión.
