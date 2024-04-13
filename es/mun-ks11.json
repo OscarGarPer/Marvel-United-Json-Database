@@ -7471,16 +7471,6 @@
             "text": "Emma Frost",
             "locText": "Emma Frost"
           },
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
-          },
           "M": 1,
           "bam": true,
           "add": {
@@ -8253,6 +8243,16 @@
             "text": "Move clockwise to the next Location with the most [THUG].",
             "locText": ""
           },
+          "specialEffect": {
+            "title": {
+              "text": "Chain",
+              "locText": "Chain"
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
           "bam": false,
           "add": {
             "left": [
@@ -8329,8 +8329,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "The Clown",
+              "locText": "The Clown"
             },
             "description": {
               "text": "Deal 3 damage to each Hero in Legion's Location and 2 damage to each Hero in adjacent Locations.",
@@ -8365,8 +8365,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "The Clown",
+              "locText": "The Clown"
             },
             "description": {
               "text": "Deal 3 damage to each Hero in Legion's Location and 2 damage to each Hero in adjacent Locations.",
@@ -8402,8 +8402,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "The Clown",
+              "locText": "The Clown"
             },
             "description": {
               "text": "Deal 3 damage to each Hero in Legion's Location and 2 damage to each Hero in adjacent Locations.",
@@ -8434,8 +8434,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "Time-Sink",
+              "locText": "Time-Sink"
             },
             "description": {
               "text": "Return the earliest 4 faceup Hero cards in the Storyline to the bottom of their respective Hero decks. Accelerate the next Villain turn by 1 card.",
@@ -8468,8 +8468,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "Time-Sink",
+              "locText": "Time-Sink"
             },
             "description": {
               "text": "Return the earliest 4 faceup Hero cards in the Storyline to the bottom of their respective Hero decks. Accelerate the next Villain turn by 1 card.",
@@ -8501,8 +8501,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "Time-Sink",
+              "locText": "Time-Sink"
             },
             "description": {
               "text": "Return the earliest 4 faceup Hero cards in the Storyline to the bottom of their respective Hero decks. Accelerate the next Villain turn by 1 card.",
@@ -8533,8 +8533,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "The Nazi Doctor",
+              "locText": "The Nazi Doctor"
             },
             "description": {
               "text": "Until the start of the next Villain turn, cancel all Special Effects on Hero cards.",
@@ -8566,8 +8566,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "The Nazi Doctor",
+              "locText": "The Nazi Doctor"
             },
             "description": {
               "text": "Until the start of the next Villain turn, cancel all Special Effects on Hero cards.",
@@ -8600,8 +8600,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "The Nazi Doctor",
+              "locText": "The Nazi Doctor"
             },
             "description": {
               "text": "Until the start of the next Villain turn, cancel all Special Effects on Hero cards.",
@@ -8633,8 +8633,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "Jemail Karami",
+              "locText": "Jemail Karami"
             },
             "description": {
               "text": "Place 1 Crisis token in Legion's and both adjacent Locations. Before revealing the next Master Plan card, deal 2 damage to each Hero in those Locations. If there are no Heroes, discard all [CIVILIAN] there. Then, discard all those Crisis tokens.",
@@ -8666,8 +8666,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "Jemail Karami",
+              "locText": "Jemail Karami"
             },
             "description": {
               "text": "Place 1 Crisis token in Legion's and both adjacent Locations. Before revealing the next Master Plan card, deal 2 damage to each Hero in those Locations. If there are no Heroes, discard all [CIVILIAN] there. Then, discard all those Crisis tokens.",
@@ -8699,8 +8699,8 @@
           "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
-              "locText": ""
+              "text": "Jemail Karami",
+              "locText": "Jemail Karami"
             },
             "description": {
               "text": "Place 1 Crisis token in Legion's and both adjacent Locations. Before revealing the next Master Plan card, deal 2 damage to each Hero in those Locations. If there are no Heroes, discard all [CIVILIAN] there. Then, discard all those Crisis tokens.",
@@ -11537,16 +11537,6 @@
           },
           "M": 2,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
-          },
           "add": {
             "left": [
               "T"
