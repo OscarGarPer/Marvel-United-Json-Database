@@ -5328,7 +5328,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Snowbird3.jpg",
+          "img": "heroes/Snowbird4.jpg",
           "title": {
             "text": "Snowbird",
             "locText": "Snowbird"
@@ -8055,7 +8055,7 @@
           ]
         },
         {
-          "cardType": "other",
+          "cardType": "personality",
           "img": "villains/Legion-P1.jpg",
           "title": {
             "text": "Jemail Karami",
@@ -8073,7 +8073,7 @@
           }
         },
         {
-          "cardType": "other",
+          "cardType": "personality",
           "img": "villains/Legion-P2.jpg",
           "title": {
             "text": "The Clown",
@@ -8091,7 +8091,7 @@
           }
         },
         {
-          "cardType": "other",
+          "cardType": "personality",
           "img": "villains/Legion-P3.jpg",
           "title": {
             "text": "The Nazi Doctor",
@@ -8109,7 +8109,7 @@
           }
         },
         {
-          "cardType": "other",
+          "cardType": "personality",
           "img": "villains/Legion-P4.jpg",
           "title": {
             "text": "Time-Sink",
@@ -8127,7 +8127,7 @@
           }
         },
         {
-          "cardType": "other",
+          "cardType": "personality",
           "img": "villains/Legion-P5.jpg",
           "title": {
             "text": "Chain",
@@ -8145,7 +8145,7 @@
           }
         },
         {
-          "cardType": "other",
+          "cardType": "personality",
           "img": "villains/Legion-P6.jpg",
           "title": {
             "text": "Endgame",
@@ -10030,7 +10030,7 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "Teleport Fury",
+              "text": "Teleport Away",
               "locText": ""
             },
             "description": {
@@ -10591,6 +10591,30 @@
               "locText": ""
             }
           }
+        },
+        {
+          "cardType": "mission",
+          "img": "villains/Spiral-Break-The-Spell.jpg",
+          "title": {
+            "text": "BREAK THE SPELL",
+            "locText": ""
+          },
+          "description": {
+            "text": "To complete the Mission, Heroes must fill all the slots, placing rescued [CIVILIAN], defeated [THUG] and cleared [THREAT] tokens following the order shown in the sequence. If a [CIVILIAN] is rescued, a [THUG] defeated, or a [THREAT] cleared, but it doesn't match the first empty slot in the secuence, that token is discarded.",
+            "locText": ""
+          }
+        },
+        {
+          "cardType": "mission",
+          "img": "villains/Spiral-Break-The-Spell-Team.jpg",
+          "title": {
+            "text": "BREAK THE SPELL - TEAM VS TEAM MODE",
+            "locText": ""
+          },
+          "description": {
+            "text": "To complete the Mission, a team must fill all their slots, placing rescued [CIVILIAN], defeated [THUG] and cleared [THREAT] tokens following the order shown in the sequence matching their color. If a team rescues a [CIVILIAN], defeats a [THUG], or clears a [THREAT], but that doesn't match the first empty slot in their team's sequence, that token is discarded. Threat token slots are common to both teams. Each team only benefits from the effects of completing the Mission once they've done it themselves.",
+            "locText": ""
+          }
         }
       ],
       "dashboard": {
@@ -10631,31 +10655,7 @@
             "A"
           ]
         }
-      },
-      "otherItems": [
-        {
-          "img": "villains/Spiral-Break-The-Spell.jpg",
-          "title": {
-            "text": "BREAK THE SPELL",
-            "locText": ""
-          },
-          "description": {
-            "text": "To complete the Mission, Heroes must fill all the slots, placing rescued [CIVILIAN], defeated [THUG] and cleared [THREAT] tokens following the order shown in the sequence. If a [CIVILIAN] is rescued, a [THUG] defeated, or a [THREAT] cleared, but it doesn't match the first empty slot in the secuence, that token is discarded.",
-            "locText": ""
-          }
-        },
-        {
-          "img": "villains/Spiral-Break-The-Spell-Team.jpg",
-          "title": {
-            "text": "BREAK THE SPELL - TEAM VS TEAM MODE",
-            "locText": ""
-          },
-          "description": {
-            "text": "To complete the Mission, a team must fill all their slots, placing rescued [CIVILIAN], defeated [THUG] and cleared [THREAT] tokens following the order shown in the sequence matching their color. If a team rescues a [CIVILIAN], defeats a [THUG], or clears a [THREAT], but that doesn't match the first empty slot in their team's sequence, that token is discarded. Threat token slots are common to both teams. Each team only benefits from the effects of completing the Mission once they've done it themselves.",
-            "locText": ""
-          }
-        }
-      ]
+      }
     },
     {
       "img": "villains/Arcade.jpg",
