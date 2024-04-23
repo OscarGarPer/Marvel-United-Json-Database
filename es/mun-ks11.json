@@ -8170,7 +8170,6 @@
             "locText": "Endgame"
           },
           "M": 0,
-          "bam": false,
           "add": {
             "left": [
               "C"
@@ -8192,7 +8191,6 @@
             "locText": "Endgame"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
               "C",
@@ -8216,7 +8214,6 @@
             "locText": "Endgame"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
               "C",
@@ -8239,10 +8236,6 @@
             "locText": "Chain"
           },
           "M": 0,
-          "movementText": {
-            "text": "Move clockwise to the next Location with the most [THUG].",
-            "locText": ""
-          },
           "specialEffect": {
             "title": {
               "text": "Chain",
@@ -8253,7 +8246,10 @@
               "locText": ""
             }
           },
-          "bam": false,
+          "movementText": {
+            "text": "Move clockwise to the next Location with the most [THUG].",
+            "locText": ""
+          },
           "add": {
             "left": [
               "T",
@@ -8274,7 +8270,6 @@
             "locText": "Chain"
           },
           "M": 2,
-          "bam": false,
           "add": {
             "left": [
               "T",
@@ -8298,7 +8293,6 @@
             "locText": "Chain"
           },
           "M": 4,
-          "bam": false,
           "add": {
             "left": [
               "T",
@@ -8326,7 +8320,6 @@
             "text": "Move clockwise to the next Location with the most Heroes.",
             "locText": ""
           },
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "The Clown",
@@ -8362,7 +8355,6 @@
             "text": "Move counter-clockwise to the next Location with the most Heroes.",
             "locText": ""
           },
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "The Clown",
@@ -8399,7 +8391,6 @@
             "text": "Move clockwise to the next Location with the most Heroes.",
             "locText": ""
           },
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "The Clown",
@@ -8431,7 +8422,6 @@
             "locText": "Time-Sink"
           },
           "M": 3,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Time-Sink",
@@ -8465,7 +8455,6 @@
             "locText": "Time-Sink"
           },
           "M": 3,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Time-Sink",
@@ -8498,7 +8487,6 @@
             "locText": "Time-Sink"
           },
           "M": 3,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Time-Sink",
@@ -8530,7 +8518,6 @@
             "locText": "The Nazi Doctor"
           },
           "M": 5,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "The Nazi Doctor",
@@ -8563,7 +8550,6 @@
             "locText": "The Nazi Doctor"
           },
           "M": 3,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "The Nazi Doctor",
@@ -8597,7 +8583,6 @@
             "locText": "The Nazi Doctor"
           },
           "M": 1,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "The Nazi Doctor",
@@ -8630,7 +8615,6 @@
             "locText": "Jemail Karami"
           },
           "M": 4,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Jemail Karami",
@@ -8663,7 +8647,6 @@
             "locText": "Jemail Karami"
           },
           "M": 3,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Jemail Karami",
@@ -8696,7 +8679,6 @@
             "locText": "Jemail Karami"
           },
           "M": 2,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Jemail Karami",
@@ -10028,7 +10010,6 @@
             "locText": "Espiral"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Teleport Away",
               "locText": ""
@@ -10144,7 +10125,6 @@
             "locText": "Espiral"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Spell Dance",
               "locText": ""
@@ -10166,7 +10146,6 @@
             "locText": "Espiral"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Spell Dance",
               "locText": ""
@@ -10188,7 +10167,6 @@
             "locText": "Espiral"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Spell Dance",
               "locText": ""
@@ -10206,15 +10184,13 @@
           "cardType": "threat",
           "img": "villains/Spiral-T2.jpg",
           "title": {
-            "text": "PARALYZING SPELLS",
+            "text": "Paralyzing Spells",
             "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location must ignore 1 action symbol at the bottom of Hero cards.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -10225,15 +10201,13 @@
           "cardType": "threat",
           "img": "villains/Spiral-T2.jpg",
           "title": {
-            "text": "PARALYZING SPELLS",
+            "text": "Paralyzing Spells",
             "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location must ignore 1 action symbol at the bottom of Hero cards.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -10244,15 +10218,13 @@
           "cardType": "threat",
           "img": "villains/Spiral-T3.jpg",
           "title": {
-            "text": "INTERFERING SPELLS",
+            "text": "Interfering Spells",
             "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location must discard 1 Action token (if they have any).",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -10263,15 +10235,13 @@
           "cardType": "threat",
           "img": "villains/Spiral-T3.jpg",
           "title": {
-            "text": "INTERFERING SPELLS",
+            "text": "Interfering Spells",
             "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location must discard 1 Action token (if they have any).",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -10282,15 +10252,13 @@
           "cardType": "threat",
           "img": "villains/Spiral-T4.jpg",
           "title": {
-            "text": "CONCUSSING SPELLS",
+            "text": "Concussing Spells",
             "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location, with 2 or more cards in hand, must discard 1 card to the bottom of their deck (before the Draw step).",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -10301,15 +10269,13 @@
           "cardType": "threat",
           "img": "villains/Spiral-T4.jpg",
           "title": {
-            "text": "CONCUSSING SPELLS",
+            "text": "Concussing Spells",
             "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location, with 2 or more cards in hand, must discard 1 card to the bottom of their deck (before the Draw step).",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -10327,7 +10293,7 @@
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "TELEPORT INNOCENTS",
+              "text": "Teleport Innocents",
               "locText": ""
             },
             "description": {
@@ -10347,7 +10313,7 @@
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "TELEPORT INNOCENTS",
+              "text": "Teleport Innocents",
               "locText": ""
             },
             "description": {
@@ -10367,7 +10333,7 @@
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "TELEPORT INNOCENTS",
+              "text": "Teleport Innocents",
               "locText": ""
             },
             "description": {
@@ -10534,7 +10500,7 @@
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "WHIRLWIND OF SWORDS",
+              "text": "Whirlwind Of Swords",
               "locText": ""
             },
             "description": {
@@ -10596,7 +10562,7 @@
           "cardType": "mission",
           "img": "villains/Spiral-Break-The-Spell.jpg",
           "title": {
-            "text": "BREAK THE SPELL",
+            "text": "Break The Spell",
             "locText": ""
           },
           "description": {
@@ -10608,7 +10574,7 @@
           "cardType": "mission",
           "img": "villains/Spiral-Break-The-Spell-Team.jpg",
           "title": {
-            "text": "BREAK THE SPELL - TEAM VS TEAM MODE",
+            "text": "Break The Spell - Team Vs Team Mode",
             "locText": ""
           },
           "description": {
