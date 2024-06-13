@@ -927,7 +927,7 @@
       },
       "realName": {
         "text": "Clone of Nathan Christopher Summers",
-        "locText": "Clone of Nathan Christopher Summers"
+        "locText": "Clon de Nathan Christopher Summers"
       },
       "bio": {
         "text": "When Nathan Summers was pulled into the future by Mother Askani to save him from a techno-organic virus injection, she created a clone in case he didn't survive. Cable did survive and Apocalypse kidnapped the baby clone, dubbing him Stryfe. Trained to be evil, Stryfe possessed Cable's powers and Apocalypse hoped to embody him. Nathan Summers killed the Super Villain before the transition could happen and Cable and Stryfe became lifelong enemies. Stryfe introduced the lethal Legacy Virus to the world, killing many mutants. He was eventually defeated by the demon Blackheart, ending his reign of terror.",
@@ -945,13 +945,11 @@
             "text": "As long as this Threat is in play, Stryfe ignores 1 damage during each Hero turn (Forcefields effects are cumulative)",
             "locText": "Mientras esta Amenaza esté en juego, Stryfe ignora 1 daño durante cada turno de héroe (los efectos de Campos De Fuerza son acumulativos)."
           },
-          "bam": false,
           "actions": [
             "H",
             "H",
             "H"
-          ],
-          "locationEffect": false
+          ]
         },
         {
           "cardType": "threat",
@@ -964,13 +962,11 @@
             "text": "As long as this Threat is in play, Stryfe ignores 1 damage during each Hero turn (Forcefields effects are cumulative)",
             "locText": "Mientras esta Amenaza esté en juego, Stryfe ignora 1 daño durante cada turno de héroe (los efectos de Campos De Fuerza son acumulativos)."
           },
-          "bam": false,
           "actions": [
             "H",
             "H",
             "H"
-          ],
-          "locationEffect": false
+          ]
         },
         {
           "cardType": "threat",
@@ -983,13 +979,11 @@
             "text": "As long as this Threat is in play, Stryfe ignores 1 damage during each Hero turn (Forcefields effects are cumulative)",
             "locText": "Mientras esta Amenaza esté en juego, Stryfe ignora 1 daño durante cada turno de héroe (los efectos de Campos De Fuerza son acumulativos)."
           },
-          "bam": false,
           "actions": [
             "H",
             "H",
             "H"
-          ],
-          "locationEffect": false
+          ]
         },
         {
           "cardType": "threat",
@@ -1002,13 +996,11 @@
             "text": "A Hero starting their turn in this Location chooses to either skip their Draw a Card step or ignore 1 action symbol at the bottom of the Hero cards.",
             "locText": "Un Héroe que comienza su turno en este Lugar elige saltarse el paso de Robar una Carta o ignorar 1 símbolo de acción de la parte inferior de las cartas de Héroe."
           },
-          "bam": false,
           "actions": [
             "H",
             "H",
             "H"
-          ],
-          "locationEffect": false
+          ]
         },
         {
           "cardType": "threat",
@@ -1021,13 +1013,11 @@
             "text": "A Hero starting their turn in this Location chooses to either skip their Draw a Card step or ignore 1 action symbol at the bottom of the Hero cards.",
             "locText": "Un Héroe que comienza su turno en este Lugar elige saltarse el paso de Robar una Carta o ignorar 1 símbolo de acción de la parte inferior de las cartas de Héroe."
           },
-          "bam": false,
           "actions": [
             "H",
             "H",
             "H"
-          ],
-          "locationEffect": false
+          ]
         },
         {
           "cardType": "threat",
@@ -1040,13 +1030,11 @@
             "text": "A Hero starting their turn in this Location chooses to either skip their Draw a Card step or ignore 1 action symbol at the bottom of the Hero cards.",
             "locText": "Un Héroe que comienza su turno en este Lugar elige saltarse el paso de Robar una Carta o ignorar 1 símbolo de acción de la parte inferior de las cartas de Héroe."
           },
-          "bam": false,
           "actions": [
             "H",
             "H",
             "H"
-          ],
-          "locationEffect": false
+          ]
         },
         {
           "cardType": "plan",
@@ -1167,7 +1155,6 @@
             "locText": "Stryfe"
           },
           "movement": 3,
-          "bam": false,
           "add": {
             "left": [
               "C",
@@ -1279,7 +1266,6 @@
             "text": "Move clockwise to the next Location with the most Heroes.",
             "locText": "Mueve en sentido horario al siguiente Lugar con más Héroes."
           },
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Telekinesis Mastery",
@@ -1302,7 +1288,6 @@
             "text": "Move clockwise to the next Location with the most Heroes.",
             "locText": "Mueve en sentido horario al siguiente Lugar con más Héroes."
           },
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Telekinesis Mastery",
@@ -1328,22 +1313,26 @@
         "front": {
           "img": "villains/Stryfe-A.jpg",
           "specialRules": {
-            "text": "DARK RIDERS: On each Hero turn, the first THUG attacked requires 2 ATTACK to be defeated.",
+            "text": "DARK RIDERS: On each Hero turn, the first [THUG] attacked requires 2 ATTACK to be defeated.",
             "locText": "JINETES OSCUROS: en cada turno de Héroe, el primer [MATÓN] atacado requiere [ATAQUE] [ATAQUE] para ser derrotado."
           },
           "overflow": {
-            "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, turn all CIVILIAN into THUG in the next Location clockwise with any CIVILIAN.",
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, turn all [CIVILIAN] into [THUG] in the next Location clockwise with any [CIVILIAN].",
             "locText": "Si 1 o más fichas de [CIVIL]/[MATÓN] no se pueden añadir a un Lugar, convierte todos los [CIVIL] en [MATÓN] en el siguiente Lugar en el sentido de las agujas del reloj con algún [CIVIL]."
           },
           "bam": {
-            "text": "Deal 1 damage to each Hero in Stryfe's Location and add 1 THUG to the next Location clockwise with an empty slot.",
-            "locText": "Inflige 1 punto de daño a cada Héroe en el Lugar de Stryfe y añade 1 [MATÓN] al siguiente Lugar en el sentido de las agujas del reloj con un hueco disponible."
+            "text": "Deal 1 damage to each Hero in Stryfe's Location and add 1 [THUG] to the next Location clockwise with an empty slot.",
+            "locText": "Inflige 1 punto de daño a cada Héroe en el Lugar de Stryfe y añade 1 [MATÓN] al siguiente Lugar en el sentido de las agujas del reloj con un espacio disponible."
           },
           "plot": {
-            "text": "The Heroes lose if all Locations are fully accupied by THUG.",
+            "text": "The Heroes lose if all Locations are fully occupied by [THUG].",
             "locText": "Los Héroes pierden si todos los Lugares están completamente ocupados por fichas [MATÓN]."
           },
-          "lifePoints": null
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 9,
+            "fourHeroes": 12
+          }
         }
       }
     }

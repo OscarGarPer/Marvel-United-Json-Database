@@ -1164,8 +1164,8 @@
         "locText": "Emma Frost"
       },
       "bio": {
-        "text": "Emma Frost used her powerful telepathy to plot against the Avengers while possessed with the Phoenix Force. Able to determine their plans and hiding places, she used the knowledge to help the Five fight them. As the Phoenix Force grew in Emma Frost, she used Force grew in Emma Frost, she used her mind to find and kill those who had hurt mutants, even if accidental. Her need to be worshiped consumed her and she turned against her fellow X-Men. When only she and Cyclops remained, their once friendly relationship turned menacing and she taunted him into taking her powers. Once she was powerless, only Cyclops remained.",
-        "locText": "Emma Frost usó su poderosa telepatía para conspirar contra los Vengadores mientras estaba poseída por la Fuerza Fénix. Capaz de determinar sus planes y escondites, usó el conocimiento para ayudar a los Cinco a luchar contra ellos. A medida que la Fuerza Fénix creció en Emma Frost, usó la Fuerza creció en Emma Frost, usó su mente para encontrar y matar a aquellos que habían lastimado a los mutantes, incluso si era accidental. Su necesidad de ser adorada la consumió y se volvió contra sus compañeros X-Men. Cuando solo quedaron ella y Cíclope, su relación una vez amistosa se volvió amenazante y ella se burló de él para que tomara sus poderes. Una vez que estuvo impotente, solo quedó Cíclope."
+        "text": "Emma Frost used her powerful telepathy to plot against the Avengers while possessed with the Phoenix Force. Able to determine their plans and hiding places, she used the knowledge to help the Five fight them. As the Phoenix Force grew in Emma Frost, she used her mind to find and kill those who had hurt mutants, even if accidental. Her need to be worshiped consumed her and she turned against her fellow X-Men. When only she and Cyclops remained, their once friendly relationship turned menacing and she taunted him into taking her powers. Once she was powerless, only Cyclops remained.",
+        "locText": "Emma Frost usó su poderosa telepatía para conspirar contra los Vengadores mientras estaba poseída por la Fuerza Fénix. Capaz de determinar sus planes y escondites, usó el conocimiento para ayudar a los Cinco a luchar contra ellos. A medida que la Fuerza Fénix creció en Emma Frost, usó su mente para encontrar y matar a aquellos que habían lastimado a los mutantes, incluso si era accidental. Su necesidad de ser adorada la consumió y se volvió contra sus compañeros X-Men. Cuando solo quedaron ella y Cíclope, su relación una vez amistosa se volvió amenazante y ella se burló de él para que tomara sus poderes. Una vez que estuvo impotente, solo quedó Cíclope."
       },
       "cards": [
         {
@@ -1176,11 +1176,9 @@
             "locText": "Fuerza Fénix"
           },
           "description": {
-            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [W] can be used to clear this Threat.",
-            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [W] para eliminar esta Amenaza."
+            "text": "Before drawing their card for the turn, Heroes starting their turn in this Location must discard cards until they have only 1 in hand. Only [WILD] can be used to clear this Threat.",
+            "locText": "Antes de robar su carta para el turno, los Héroes que comiencen su turno en este Lugar deben descartar cartas hasta tener solo 1 en su mano. Solo se pueden usar [WILD] para eliminar esta Amenaza."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "W",
             "W",
@@ -1195,11 +1193,9 @@
             "locText": "Fuerza Fénix"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [W] can be used to clear this Threat.",
-            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [W] para eliminar esta Amenaza."
+            "text": "Heroes starting their turn in this Location treat all Special Effects on their cards as blank this turn. Only [WILD] can be used to clear this Threat.",
+            "locText": "Los Héroes que comiencen su turno en este Lugar tratan todos los Efectos Especiales de sus cartas como si estuvieran en blanco este turno. Solo se pueden usar [WILD] para eliminar esta Amenaza."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "W",
             "W",
@@ -1214,11 +1210,9 @@
             "locText": "Alterando La Percepción"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location cannot perform [W] actions this turn.",
+            "text": "Heroes starting their turn in this Location cannot perform [WILD] actions this turn.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "M",
             "H",
@@ -1233,11 +1227,9 @@
             "locText": "Alterando La Percepción"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location cannot perform [M] actions this turn.",
+            "text": "Heroes starting their turn in this Location cannot perform [MOVE] actions this turn.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -1252,11 +1244,9 @@
             "locText": "Alterando La Percepción"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location cannot perform [H] actions this turn.",
+            "text": "Heroes starting their turn in this Location cannot perform [HEROIC] actions this turn.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "M",
             "A",
@@ -1271,11 +1261,9 @@
             "locText": "Alterando La Percepción"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location cannot perform [A] actions this turn.",
+            "text": "Heroes starting their turn in this Location cannot perform [ATTACK] actions this turn.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "M",
             "H",
@@ -1293,8 +1281,6 @@
             "text": "Heroes ending their turn in this Location take 1 Crisis token.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "M",
             "H",
@@ -1312,8 +1298,6 @@
             "text": "Before drawing their card for the turn, heroes starting their turn in this Location must discard cards until they have only 1 in hand.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "M",
             "H",
@@ -1324,7 +1308,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP1.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 0,
@@ -1334,7 +1318,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP2.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 1,
@@ -1357,7 +1341,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP2.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 1,
@@ -1380,7 +1364,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP4.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 2,
@@ -1403,7 +1387,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP4.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 2,
@@ -1426,11 +1410,10 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP6.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
               "C",
@@ -1450,7 +1433,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP7.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 4,
@@ -1473,7 +1456,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP8.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "M": 5,
@@ -1496,7 +1479,7 @@
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP9.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "specialEffect": {
@@ -1509,14 +1492,13 @@
               "locText": ""
             }
           },
-          "M": 0,
-          "bam": false
+          "M": 0
         },
         {
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP9.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "specialEffect": {
@@ -1529,14 +1511,13 @@
               "locText": ""
             }
           },
-          "M": 0,
-          "bam": false
+          "M": 0
         },
         {
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP11.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "specialEffect": {
@@ -1549,14 +1530,13 @@
               "locText": ""
             }
           },
-          "M": 0,
-          "bam": false
+          "M": 0
         },
         {
           "cardType": "plan",
           "img": "villains/Emma-Frost-Phoenix-Five-MP11.jpg",
           "title": {
-            "text": "Emma Frost (Phoenix Five)",
+            "text": "Emma Frost (phoenix Five)",
             "locText": "Emma Frost (Cinco Fénix)"
           },
           "specialEffect": {
@@ -1569,8 +1549,7 @@
               "locText": ""
             }
           },
-          "M": 0,
-          "bam": false
+          "M": 0
         }
       ],
       "dashboard": {
@@ -1581,7 +1560,7 @@
             "locText": ""
           },
           "overflow": {
-            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, give each Hero in that Location 1 Crisis token.",
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, give each Hero in that Location 1 Crisis token.",
             "locText": ""
           },
           "bam": {

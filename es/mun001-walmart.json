@@ -1144,7 +1144,7 @@
       },
       "bio": {
         "text": "A chance encounter with an alien being granted ace U.S. Air Force pilot Carol Danvers incredible powers. Endeavoring to use her fantastic new abilities for the forces of good, Danvers joined the Super Hero community in their ongoing struggle against evil. After years served protecting the planet, she began a new chapter in her heroic story when she took the legendary mantle of Captain Marvel, earth's mightiest hero!",
-        "locText": "Un encuentro casual con un extraterrestre al que se le otorgan poderes increíbles a la piloto de la Fuerza Aérea de los EE. UU. Carol Danvers. Esforzándose por usar sus fantásticas nuevas habilidades para las fuerzas del bien, Danvers se unió a la comunidad de superhéroes en su lucha continua contra el mal. Después de años sirviendo protegiendo el planeta, comenzó un nuevo capítulo en su heroica historia cuando tomó el legendario manto del Capitán Marvel, ¡el héroe más poderoso de la tierra!"
+        "locText": "Un encuentro casual con un extraterrestre otorgó poderes increíbles a la piloto de la Fuerza Aérea de los EE. UU. Carol Danvers. Esforzándose por usar sus fantásticas nuevas habilidades para las fuerzas del bien, Danvers se unió a la comunidad de superhéroes en su lucha continua contra el mal. Después de años sirviendo protegiendo el planeta, comenzó un nuevo capítulo en su heroica historia cuando tomó el legendario manto del Capitán Marvel, ¡el héroe más poderoso de la tierra!"
       },
       "cards": [
         {
@@ -1154,19 +1154,9 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1175,20 +1165,10 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1197,20 +1177,10 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1219,20 +1189,10 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1241,20 +1201,10 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1263,20 +1213,10 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1285,19 +1225,9 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1306,19 +1236,9 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1327,20 +1247,10 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W",
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1349,7 +1259,6 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
@@ -1361,17 +1270,9 @@
               "locText": "Ataque Ataque en un Lugar adyacente."
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1380,7 +1281,6 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
@@ -1392,17 +1292,9 @@
               "locText": "Ataque Ataque en un Lugar adyacente."
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1411,7 +1303,6 @@
             "text": "Captain Marvel",
             "locText": "Capitana Marvel"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
@@ -1423,21 +1314,11 @@
               "locText": "Ataque Ataque en un Lugar adyacente."
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         }
-      ],
-      "dashboard": null,
-      "tokens": null
+      ]
     },
     {
       "img": "heroes/Hulk.jpg",

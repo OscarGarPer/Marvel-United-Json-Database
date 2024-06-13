@@ -148,7 +148,6 @@
             "locText": "Tormenta (Mohicano)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Preemptive Strike",
               "locText": ""
@@ -170,7 +169,6 @@
             "locText": "Tormenta (Mohicano)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Preemptive Strike",
               "locText": ""
@@ -192,7 +190,6 @@
             "locText": "Tormenta (Mohicano)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Preemptive Strike",
               "locText": ""

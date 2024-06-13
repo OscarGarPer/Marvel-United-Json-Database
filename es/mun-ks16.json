@@ -279,9 +279,7 @@
           "description": {
             "text": "Heroes that take damage in this Location take 1 extra damage. When this Threat is cleared, decrease the Nimrod Activation track by 1.",
             "locText": "Los Héroes que reciben daño en este Lugar reciben 1 punto de daño adicional. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
-          },
-          "bam": false,
-          "locationEffect": false
+          }
         },
         {
           "cardType": "threat",
@@ -293,9 +291,7 @@
           "description": {
             "text": "Heroes that take damage in this Location take 1 extra damage. When this Threat is cleared, decrease the Nimrod Activation track by 1.",
             "locText": "Los Héroes que reciben daño en este Lugar reciben 1 punto de daño adicional. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
-          },
-          "bam": false,
-          "locationEffect": false
+          }
         },
         {
           "cardType": "threat",
@@ -307,9 +303,7 @@
           "description": {
             "text": "See Sentinel Activation Protocol. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
             "locText": "Mira el Protocolo de Activación del Centinela. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
-          },
-          "bam": false,
-          "locationEffect": false
+          }
         },
         {
           "cardType": "threat",
@@ -321,9 +315,7 @@
           "description": {
             "text": "See Sentinel Activation Protocol. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
             "locText": "Mira el Protocolo de Activación del Centinela. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
-          },
-          "bam": false,
-          "locationEffect": false
+          }
         },
         {
           "cardType": "threat",
@@ -335,9 +327,7 @@
           "description": {
             "text": "See Sentinel Special Rules in the Villain Dashboard. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
             "locText": "Mira las Reglas Especiales de los Centinelas en el Tablero del Villano. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
-          },
-          "bam": false,
-          "locationEffect": false
+          }
         },
         {
           "cardType": "threat",
@@ -349,9 +339,7 @@
           "description": {
             "text": "See Sentinel Special Rules in the Villain Dashboard. When this Threat si cleared, decrease the Nimrod Activation track by 1.",
             "locText": "Mira las Reglas Especiales de los Centinelas en el Tablero del Villano. Cuando se elimina esta Amenaza, reduce el medidor de Activación de Nimrod en 1."
-          },
-          "bam": false,
-          "locationEffect": false
+          }
         },
         {
           "cardType": "plan",
@@ -361,16 +349,17 @@
             "locText": "Nimrod"
           },
           "M": 0,
-          "bam": false,
           "add": {
             "left": [
-              "C","C"
+              "C",
+              "C"
             ],
             "center": [
               "C"
             ],
             "right": [
-              "C","C"
+              "C",
+              "C"
             ]
           }
         },
@@ -382,16 +371,17 @@
             "locText": "Nimrod"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
-              "C","C"
+              "C",
+              "C"
             ],
             "center": [
               "C"
             ],
             "right": [
-              "C","C"
+              "C",
+              "C"
             ]
           }
         },
@@ -410,13 +400,15 @@
           "bam": true,
           "add": {
             "left": [
-              "T","T"
+              "T",
+              "T"
             ],
             "center": [
               "T"
             ],
             "right": [
-              "T","T"
+              "T",
+              "T"
             ]
           }
         },
@@ -435,13 +427,15 @@
           "bam": true,
           "add": {
             "left": [
-              "C","C"
+              "C",
+              "C"
             ],
             "center": [
               "C"
             ],
             "right": [
-              "C","C"
+              "C",
+              "C"
             ]
           }
         },
@@ -460,13 +454,15 @@
           "bam": true,
           "add": {
             "left": [
-              "T","T"
+              "T",
+              "T"
             ],
             "center": [
               "T"
             ],
             "right": [
-              "T","T"
+              "T",
+              "T"
             ]
           }
         },
@@ -485,13 +481,15 @@
           "bam": true,
           "add": {
             "left": [
-              "C","C"
+              "C",
+              "C"
             ],
             "center": [
               "C"
             ],
             "right": [
-              "C","C"
+              "C",
+              "C"
             ]
           }
         },
@@ -510,13 +508,15 @@
           "bam": true,
           "add": {
             "left": [
-              "T","T"
+              "T",
+              "T"
             ],
             "center": [
               "T"
             ],
             "right": [
-              "T","T"
+              "T",
+              "T"
             ]
           }
         },
@@ -535,13 +535,15 @@
           "bam": true,
           "add": {
             "left": [
-              "C","C"
+              "C",
+              "C"
             ],
             "center": [
               "C"
             ],
             "right": [
-              "C","C"
+              "C",
+              "C"
             ]
           }
         },
@@ -602,8 +604,7 @@
               "locText": "Aumenta el medidor de Activación de Nimrod en 2. Luego, BAM!"
             }
           },
-          "M": 0,
-          "bam": false
+          "M": 0
         },
         {
           "cardType": "plan",
@@ -622,8 +623,7 @@
               "locText": "Aumenta el medidor de Activación de Nimrod en 2. Luego, BAM!"
             }
           },
-          "M": 0,
-          "bam": false
+          "M": 0
         }
       ],
       "dashboard": {
@@ -634,7 +634,7 @@
             "locText": "Centinelas: Las Misiones no se utilizan en esta partida. Los Héroes pueden dañar a los Centinelas desde el principio. Los Centinelas no tienen mazo de Plan Maestro. En su lugar, sigue la carta del Protocolo de Activación del Centinela. Cuando un Héroe queda fuera de combate, aumenta el medidor de Activación de Nimrod en 1, más 1 por cada carta de Amenaza Analizador de Datos en juego. Nimrod: Nimrod siempre está bajo presión y puede ser dañado tan pronto como entre en juego (ver Preparación especial). Al final del turno en el que la Salud de Nimrod se reduce a 4 o menos, se mueve inmediatamente al Lugar opuesto. Cuando un Héroe queda fuera de combate, Nimrod no activa su BAM! En vez de eso, ese Héroe es eliminado de la partida."
           },
           "overflow": {
-            "text": "If 1 or more [C]/[T] tokens can't be added to a Location, increase the Nimrod Activation track by 1.",
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, increase the Nimrod Activation track by 1.",
             "locText": "Si 1 o más fichas de [CIVIL]/[MATÓN] no se pueden añadir a un Lugar, aumenta el medidor de Activación de Nimrod en 1."
           },
           "bam": {

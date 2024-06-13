@@ -126,26 +126,25 @@
         "locText": "Jonathan Storm"
       },
       "bio": {
-        "text": "Johnny Storm was a high school student and amateur mechanic from Long Island before he was exposed to high levels of cosmic radiation. This occurred when his c sister's boyfriend, Dr. Reed Richards, took him, his sister Sue, and pilot Ben Grimm, on an unauthorized trip to space in the stolen rocket Marvel-1. The radiation mutated all of them, but Johnny's specific mutation turned his entire body into a fiery, plasma-like state. From then on, he became the Human Torch. The group teamed up and became the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way.",
-        "locText": "Johnny Storm era un estudiante de secundaria y mecánico aficionado de Long Island antes de verse expuesto a altos niveles de radiación cósmica. Esto ocurrió cuando el novio de su hermana c, el Dr. Reed Richards, lo llevó a él, a su hermana Sue y al piloto Ben Grimm a un viaje no autorizado al espacio en el cohete robado Marvel-1. La radiación los mutó a todos, pero la mutación específica de Johnny convirtió todo su cuerpo en un estado ardiente similar al plasma. A partir de entonces, se convirtió en la Antorcha Humana. El grupo se unió y se convirtió en los Cuatro Fantásticos, explorando el espacio, el tiempo y dimensiones alternativas mientras salvaba el mundo y la galaxia por el camino."
+        "text": "Johnny Storm was a high school student and amateur mechanic from Long Island before he was exposed to high levels of cosmic radiation. This occurred when his sister's boyfriend, Dr. Reed Richards, took him, his sister Sue, and pilot Ben Grimm, on an unauthorized trip to space in the stolen rocket Marvel-1. The radiation mutated all of them, but Johnny's specific mutation turned his entire body into a fiery, plasma-like state. From then on, he became the Human Torch. The group teamed up and became the Fantastic Four, exploring space, time and alternate dimensions while saving the world and larger galaxy along the way.",
+        "locText": "Johnny Storm era un estudiante de secundaria y mecánico aficionado de Long Island antes de verse expuesto a altos niveles de radiación cósmica. Esto ocurrió cuando el novio de su hermana, el Dr. Reed Richards, lo llevó a él, a su hermana Sue y al piloto Ben Grimm a un viaje no autorizado al espacio en el cohete robado Marvel-1. La radiación los mutó a todos, pero la mutación específica de Johnny convirtió todo su cuerpo en un estado ardiente similar al plasma. A partir de entonces, se convirtió en la Antorcha Humana. El grupo se unió y se convirtió en los Cuatro Fantásticos, explorando el espacio, el tiempo y dimensiones alternativas mientras salvaba el mundo y la galaxia por el camino."
       },
       "cards": [
         {
           "cardType": "hero",
           "img": "heroes/Human-Torch1.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "PYROGENESIS",
-              "locText": "PIROGÉNESIS"
+              "text": "Pyrogenesis",
+              "locText": "Pirogénesis"
             },
             "description": {
-              "text": "As lons as this card is faceup in the Storyline, you can treat [H] as [A].",
-              "locText": "Mientras esta carta esté boca arriba en la Trama, puedes usar las [H] como [A]."
+              "text": "As lons as this card is faceup in the Storyline, you can treat [HEROIC] as [ATTACK].",
+              "locText": "Mientras esta carta esté bocarriba en la Trama, puedes usar las [HEROIC] como [ATTACK]."
             }
           },
           "actions": [
@@ -157,8 +156,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch2.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "M",
@@ -169,8 +168,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch2.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "M",
@@ -181,8 +180,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch2.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "M",
@@ -193,8 +192,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch5.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "A"
@@ -204,8 +203,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch6.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "H"
@@ -215,8 +214,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch7.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "M",
@@ -227,8 +226,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch8.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "W"
@@ -238,8 +237,8 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch9.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "actions": [
             "W",
@@ -250,18 +249,17 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch10.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "NOVA FLAME",
-              "locText": "NOVA FLAME"
+              "text": "Nova Flame",
+              "locText": "Nova Flame"
             },
             "description": {
-              "text": "Discard 1 card from your hand to the bottom of your deck to deal 2 damage to EVERYTHING else in your Location. Discard all [C] there.",
-              "locText": "Discard 1 card from your hand to the bottom of your deck to deal 2 damage to EVERYTHING else in your Location. Discard all [C] there."
+              "text": "Discard 1 card from your hand to the bottom of your deck to deal 2 damage to EVERYTHING else in your Location. Discard all [CIVILIAN] there.",
+              "locText": "Discard 1 card from your hand to the bottom of your deck to deal 2 damage to EVERYTHING else in your Location. Discard all [CIVILIAN] there."
             }
           },
           "actions": [
@@ -273,17 +271,17 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch11.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "specialEffect": {
             "title": {
-              "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "text": "Teamwork",
+              "locText": "Trabajo en equipo"
             },
             "description": {
-              "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [M] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [M] de la reserva a la carta Fantastic Four."
+              "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [MOVE] token from the pool to the Fantastic Four card.",
+              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [MOVE] de la reserva a la carta Fantastic Four."
             }
           },
           "actions": [
@@ -294,17 +292,17 @@
           "cardType": "hero",
           "img": "heroes/Human-Torch12.jpg",
           "title": {
-            "text": "HUMAN TORCH",
-            "locText": "ANTORCHA HUMANA"
+            "text": "Human Torch",
+            "locText": "Antorcha Humana"
           },
           "specialEffect": {
             "title": {
-              "text": "TEAMWORK",
-              "locText": "TRABAJO EN EQUIPO"
+              "text": "Teamwork",
+              "locText": "Trabajo en equipo"
             },
             "description": {
-              "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [H] token from the pool to the Fantastic Four card.",
-              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [H] de la reserva a la carta Fantastic Four."
+              "text": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then, add 1 [HEROIC] token from the pool to the Fantastic Four card.",
+              "locText": "Realiza tantas Acciones del mismo tipo como fichas haya en la carta Fantastic Four. Después, añade una ficha [HEROIC] de la reserva a la carta Fantastic Four."
             }
           },
           "actions": [
@@ -1129,40 +1127,38 @@
         "locText": "Dr. Víctor von Doom"
       },
       "bio": {
-        "text": "Doctor Doom is a Latverian politician who serves as the monarch and supreme leader for the Kingdom of Latveria. He was scarred from an accident and wears an iron mask and armor to hide his face. Considered to be one of the most brilliant scientists on earth, he is also a sorcerer with the ability to match the magic of the most powerful beings in the universe. His driving force is / to bring order to humanity through world conquest. With no equal, he has become the foe of superhumans and cosmic beings alike, but his arch enemy is the Fantastic Four.",
-        "locText": "Doctor Doom es un político de Latveria que se desempeña como monarca y líder supremo del Reino de Latveria. Tenía cicatrices de un accidente y usa una máscara de hierro y una armadura para ocultar su rostro. Considerado como uno de los científicos más brillantes de la tierra, también es un hechicero con la capacidad de igualar la magia de los seres más poderosos del universo. Su fuerza motriz es / poner orden en la humanidad a través de la conquista del mundo. Sin igual, se ha convertido en el enemigo tanto de los superhumanos como de los seres cósmicos, pero sus archienemigos son los Cuatro Fantásticos."
+        "text": "Doctor Doom is a Latverian politician who serves as the monarch and supreme leader for the Kingdom of Latveria. He was scarred from an accident and wears an iron mask and armor to hide his face. Considered to be one of the most brilliant scientists on earth, he is also a sorcerer with the ability to match the magic of the most powerful beings in the universe. His driving force is to bring order to humanity through world conquest. With no equal, he has become the foe of superhumans and cosmic beings alike, but his arch enemy is the Fantastic Four.",
+        "locText": "Doctor Doom es un político de Latveria que se desempeña como monarca y líder supremo del Reino de Latveria. Tenía cicatrices de un accidente y usa una máscara de hierro y una armadura para ocultar su rostro. Considerado como uno de los científicos más brillantes de la tierra, también es un hechicero con la capacidad de igualar la magia de los seres más poderosos del universo. Su fuerza motriz es poner orden en la humanidad a través de la conquista del mundo. Sin igual, se ha convertido en el enemigo tanto de los superhumanos como de los seres cósmicos, pero sus archienemigos son los Cuatro Fantásticos."
       },
       "cards": [
         {
           "cardType": "hero",
           "img": "heroes/Doctor-Doom1.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "PAIN IS FOR LESSER MEN",
-              "locText": "EL DOLOR ES PARA LOS DÉBILES"
+              "text": "Pain Is For Lesser Men",
+              "locText": "El dolor es para Los Débiles"
             },
             "description": {
-              "text": "As long as this card is faceup in the Storyline, for each damage you take during a Villain turn, you may gain 1 [M], 1 [H], or 1 [A] token.",
-              "locText": "Mientras esta carta esté boca arriba en la Trama, por cada daño que recibas durante el turno del Villano, puedes recibir una ficha de [M], [H] o [A]."
+              "text": "As long as this card is faceup in the Storyline, for each damage you take during a Villain turn, you may gain 1 [MOVE], 1 [HEROIC], or 1 [ATTACK] token.",
+              "locText": "Mientras esta carta esté bocarriba en la Trama, por cada daño que recibas durante el turno del Villano, puedes recibir una ficha de [MOVE], [HEROIC] o [ATTACK]."
             }
           },
           "actions": [
             "M"
           ],
-          "startingHand": true,
-          "bottomDeck": false
+          "startingHand": true
         },
         {
           "cardType": "hero",
           "img": "heroes/Doctor-Doom2.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "M",
@@ -1173,8 +1169,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom3.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "A"
@@ -1184,8 +1180,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom4.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "M",
@@ -1196,8 +1192,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom5.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "A",
@@ -1208,8 +1204,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom6.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "W"
@@ -1219,8 +1215,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom6.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "W"
@@ -1230,8 +1226,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom6.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "W"
@@ -1241,8 +1237,8 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom9.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "actions": [
             "W",
@@ -1253,18 +1249,17 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom10.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
+              "text": "Mine Is The Power",
+              "locText": "Mío es El Poder"
             },
             "description": {
               "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas bocabajo."
             }
           },
           "actions": [
@@ -1275,18 +1270,17 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom10.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
+              "text": "Mine Is The Power",
+              "locText": "Mío es El Poder"
             },
             "description": {
               "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas bocabajo."
             }
           },
           "actions": [
@@ -1297,18 +1291,17 @@
           "cardType": "hero",
           "img": "heroes/Doctor-Doom10.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "MINE IS THE POWER",
-              "locText": "MÍO ES EL PODER"
+              "text": "Mine Is The Power",
+              "locText": "Mío es El Poder"
             },
             "description": {
               "text": "This turn, you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline (instead of only the previous one). Then, turn them all facedown.",
-              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas boca abajo."
+              "locText": "En este turno, puedes usar los símbolos de la parte inferior de las 3 últimas cartas de Héroe en la Trama (en lugar de solo los de la última). Después, pon esas cartas bocabajo."
             }
           },
           "actions": [
@@ -1319,15 +1312,13 @@
           "cardType": "threat",
           "img": "villains/Doctor-Doom-T2.jpg",
           "title": {
-            "text": "AUTO ASSEMBLY",
-            "locText": "AUTO ASSEMBLY"
+            "text": "Auto Assembly",
+            "locText": "Auto Assembly"
           },
           "description": {
-            "text": "When adding [D] in this and adjacent Locations, add 1 extra [D] there.",
-            "locText": "When adding [D] in this and adjacent Locations, add 1 extra [D] there."
+            "text": "When adding [DOOMBOT] in this and adjacent Locations, add 1 extra [DOOMBOT] there.",
+            "locText": "When adding [DOOMBOT] in this and adjacent Locations, add 1 extra [DOOMBOT] there."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -1338,15 +1329,13 @@
           "cardType": "threat",
           "img": "villains/Doctor-Doom-T3.jpg",
           "title": {
-            "text": "SELF-DESTRUCT PROTOCOL",
-            "locText": "SELF-DESTRUCT PROTOCOL"
+            "text": "Self-destruct Protocol",
+            "locText": "Self-destruct Protocol"
           },
           "description": {
-            "text": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
-            "locText": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
+            "text": "When a [DOOMBOT] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
+            "locText": "When a [DOOMBOT] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -1357,15 +1346,13 @@
           "cardType": "threat",
           "img": "villains/Doctor-Doom-T3.jpg",
           "title": {
-            "text": "SELF-DESTRUCT PROTOCOL",
-            "locText": "SELF-DESTRUCT PROTOCOL"
+            "text": "Self-destruct Protocol",
+            "locText": "Self-destruct Protocol"
           },
           "description": {
-            "text": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
-            "locText": "When a [D] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
+            "text": "When a [DOOMBOT] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage.",
+            "locText": "When a [DOOMBOT] is defeated in this or adjacent Locations, each Hero in its Location takes 1 damage."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -1376,15 +1363,13 @@
           "cardType": "threat",
           "img": "villains/Doctor-Doom-T5.jpg",
           "title": {
-            "text": "ADDITIONAL ARMOR",
-            "locText": "ADDITIONAL ARMOR"
+            "text": "Additional Armor",
+            "locText": "Additional Armor"
           },
           "description": {
-            "text": "Each [D] in this and adjacent Locations requires 2 damage to be defeated.",
-            "locText": "Each [D] in this and adjacent Locations requires 2 damage to be defeated."
+            "text": "Each [DOOMBOT] in this and adjacent Locations requires 2 damage to be defeated.",
+            "locText": "Each [DOOMBOT] in this and adjacent Locations requires 2 damage to be defeated."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -1395,15 +1380,13 @@
           "cardType": "threat",
           "img": "villains/Doctor-Doom-T5.jpg",
           "title": {
-            "text": "ADDITIONAL ARMOR",
-            "locText": "ADDITIONAL ARMOR"
+            "text": "Additional Armor",
+            "locText": "Additional Armor"
           },
           "description": {
-            "text": "Each [D] in this and adjacent Locations requires 2 damage to be defeated.",
-            "locText": "Each [D] in this and adjacent Locations requires 2 damage to be defeated."
+            "text": "Each [DOOMBOT] in this and adjacent Locations requires 2 damage to be defeated.",
+            "locText": "Each [DOOMBOT] in this and adjacent Locations requires 2 damage to be defeated."
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -1414,8 +1397,8 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP1.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 0,
           "bam": true,
@@ -1432,8 +1415,8 @@
           },
           "specialEffect": {
             "title": {
-              "text": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!",
-              "locText": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!"
+              "text": "You'll Rue The Day You Ever Heard The Name Victor Von Doom!",
+              "locText": "You'll rue the day you ever heard the name victor Von Doom!"
             },
             "description": {
               "text": "1 Hero takes 1 Crisis token.",
@@ -1445,19 +1428,19 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP2.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 1,
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "MY ROBOTS ARE THE MOST SOPHISTICATED",
-              "locText": "MY ROBOTS ARE THE MOST SOPHISTICATED"
+              "text": "My Robots Are The Most Sophisticated",
+              "locText": "My robots are the Most Sophisticated"
             },
             "description": {
-              "text": "Turn all [C] in Doom's Location into [D].",
-              "locText": "Turn all [C] in Doom's Location into [D]."
+              "text": "Turn all [CIVILIAN] in Doom's Location into [DOOMBOT].",
+              "locText": "Turn all [CIVILIAN] in Doom's Location into [DOOMBOT]."
             }
           }
         },
@@ -1465,24 +1448,23 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP3.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "specialEffect": {
-            "mandatory": null,
             "title": {
-              "text": "THIS IS MY COUNTRY, MY HOME",
-            "locText": "THIS IS MY COUNTRY, MY HOME"
+              "text": "This Is My Country, My Home",
+              "locText": "This is my country, My Home"
             },
             "description": {
               "text": "Move to Latveria.",
-            "locText": "Move to Latveria."
+              "locText": "Move to Latveria."
             }
           },
           "M": 0,
           "movementText": {
-            "text": "THIS IS MY COUNTRY, MY HOME\nMove to Latveria.",
-            "locText": "THIS IS MY COUNTRY, MY HOME\nMove to Latveria."
+            "text": "THIS IS MY COUNTRY, MY HOME Move to Latveria.",
+            "locText": "THIS IS MY COUNTRY, MY HOME Move to Latveria."
           },
           "bam": true,
           "add": {
@@ -1501,15 +1483,15 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP4.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 2,
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!",
-              "locText": "YOU'LL RUE THE DAY YOU EVER HEARD THE NAME VICTOR VON DOOM!"
+              "text": "You'll Rue The Day You Ever Heard The Name Victor Von Doom!",
+              "locText": "You'll rue the day you ever heard the name victor Von Doom!"
             },
             "description": {
               "text": "1 Hero takes 1 Crisis token.",
@@ -1531,15 +1513,15 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP5.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 4,
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
+              "text": "You All Fell Into My Trap",
+              "locText": "You all fell into My Trap"
             },
             "description": {
               "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
@@ -1561,15 +1543,15 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP6.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 5,
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "YOU MUST SURRENDER, RICHARDS!",
-              "locText": "YOU MUST SURRENDER, RICHARDS!"
+              "text": "You Must Surrender, Richards!",
+              "locText": "You must Surrender, Richards!"
             },
             "description": {
               "text": "Each Hero chooses to either discard 1 card from their hand to the bottom of their deck OR take 1 Crisis token.",
@@ -1591,15 +1573,15 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP7.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 4,
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
+              "text": "You All Fell Into My Trap",
+              "locText": "You all fell into My Trap"
             },
             "description": {
               "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
@@ -1622,15 +1604,14 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP8.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 2,
-          "bam": false,
           "specialEffect": {
             "title": {
-              "text": "FEW MEN ARE AS SUBTLE AS DOCTOR DOOM",
-              "locText": "FEW MEN ARE AS SUBTLE AS DOCTOR DOOM"
+              "text": "Few Men Are As Subtle As Doctor Doom",
+              "locText": "Few men are as subtle as Doctor Doom"
             },
             "description": {
               "text": "Each Hero chooses to either discard all their Action tokens (if they have any) OR take 1 Crisis token.",
@@ -1653,15 +1634,15 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP9.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 1,
           "bam": true,
           "specialEffect": {
             "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
+              "text": "You All Fell Into My Trap",
+              "locText": "You all fell into My Trap"
             },
             "description": {
               "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
@@ -1684,15 +1665,14 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP10.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 5,
-          "bam": false,
           "specialEffect": {
             "title": {
-              "text": "YOU ALL FELL INTO MY TRAP",
-              "locText": "YOU ALL FELL INTO MY TRAP"
+              "text": "You All Fell Into My Trap",
+              "locText": "You all fell into My Trap"
             },
             "description": {
               "text": "Increase the Doom track by the number of Crisis tokens the Heroes have. Then, 1 Hero takes 1 Crisis token.",
@@ -1711,11 +1691,10 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP11.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
               "C"
@@ -1733,11 +1712,10 @@
           "cardType": "plan",
           "img": "villains/Doctor-Doom-MP11.jpg",
           "title": {
-            "text": "DOCTOR DOOM",
-            "locText": "DOCTOR DOOM"
+            "text": "Doctor Doom",
+            "locText": "Doctor Doom"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
               "C"
@@ -1756,15 +1734,15 @@
         "front": {
           "img": "villains/Doctor-Doom-A.jpg",
           "specialRules": {
-            "text": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way.",
-            "locText": "As long as there are any [D] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way."
+            "text": "As long as there are any [DOOMBOT] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way.",
+            "locText": "As long as there are any [DOOMBOT] in Doom's Location, he can't be damaged. Once per turn, a Hero can forfeit 1 action to discard 1 of their Crisis tokens. Heroes cannot affect the Master Plan deck in any way."
           },
           "overflow": {
-            "text": "If a [C], [T] or [D] can't be added to a Location, increase the Doom track by 1 for each token you couldn't add.",
-            "locText": "Si una ficha de CIVIL, MATÓN o DOOMBOT no se puede añadir a un Lugar, avanza el marcador de Doom una posición por cada ficha que no pudiste añadir."
+            "text": "If a [CIVILIAN], [THUG] or [DOOMBOT] can't be added to a Location, increase the Doom track by 1 for each token you couldn't add.",
+            "locText": "Si una ficha de CIVIL, MATÓN o DOOMBOT no se puede añadir a un Lugar, aumenta el marcador de Doom una posición por cada ficha que no pudiste añadir."
           },
           "bam": {
-            "text": "Deal 1 damage to each Hero in Doom's Location, plus 1 damage to each Hero in Locations with any [D]. Then, increase the Doom track by 2.",
+            "text": "Deal 1 damage to each Hero in Doom's Location, plus 1 damage to each Hero in Locations with any [DOOMBOT]. Then, increase the Doom track by 2.",
             "locText": "Inflige 1 daño a cada Héroe en el Lugar de Killmonger. Luego sustituye la ficha de CIVIL / MATÓN más a la izquierda (si hay alguna) con una ficha de Crisis."
           },
           "plot": {
@@ -1780,8 +1758,8 @@
         "back": {
           "img": "villains/Doctor-Doom-B.jpg",
           "specialSetup": {
-            "text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects.",
-            "locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [T] Thugs in it with [D] Doombots. [D] are treated as [T] for all game effects."
+            "text": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [THUG] [THUG]s in it with [DOOMBOT] Doombots. [DOOMBOT] are treated as [THUG] for all game effects.",
+            "locText": "Latveria must be the Villain's starting Location. Don't place a Threat card in Latveria. Replace all starting [THUG] [THUG]s in it with [DOOMBOT] Doombots. [DOOMBOT] are treated as [THUG] for all game effects."
           },
           "superVillain": [
             "M",

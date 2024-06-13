@@ -624,14 +624,13 @@
             "locText": "Bestia (Primera Generación)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Star Athlete",
               "locText": "Atleta Estrella"
             },
             "description": {
-              "text": "[M] [A]",
-              "locText": "[M] [A]"
+              "text": "[MOVE] [ATTACK]",
+              "locText": "[MOVE] [ATTACK]"
             }
           },
           "actions": [
@@ -646,14 +645,13 @@
             "locText": "Bestia (Primera Generación)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Star Athlete",
               "locText": ""
             },
             "description": {
-              "text": "[M] [H]",
-              "locText": "[M] [H]"
+              "text": "[MOVE] [HEROIC]",
+              "locText": "[MOVE] [HEROIC]"
             }
           },
           "actions": [
@@ -668,14 +666,13 @@
             "locText": "Bestia (Primera Generación)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Brilliant Student",
               "locText": "Estudiante Brillante"
             },
             "description": {
-              "text": "Gain 1 [M], [H], or [A] token.",
-              "locText": "Recibe 1 ficha de [M], [H], o [A]."
+              "text": "Gain 1 [MOVE], [HEROIC], or [ATTACK] token.",
+              "locText": "Recibe 1 ficha de [MOVE], [HEROIC], o [ATTACK]."
             }
           },
           "actions": [
@@ -691,14 +688,13 @@
             "locText": "Bestia (Primera Generación)"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Brilliant Student",
               "locText": "Estudiante Brillante"
             },
             "description": {
-              "text": "Gain 1 [M], [H], or [A] token.",
-              "locText": "Recibe 1 ficha de [M], [H], o [A]."
+              "text": "Gain 1 [MOVE], [HEROIC], or [ATTACK] token.",
+              "locText": "Recibe 1 ficha de [MOVE], [HEROIC], o [ATTACK]."
             }
           },
           "actions": [

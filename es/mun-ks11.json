@@ -1015,7 +1015,7 @@
       },
       "bio": {
         "text": "Alison Blaire wanted to be a singer despite her father's protests. During a school performance, her mutant abilities manifested by creating a brilliant light. Playing off of her abilities to manipulate music into colorful light, she became the performer Dazzler, though hiding her identity was challenging. The X-Men and the Hellfire Club fought for her to join them but Dazzler chose to continue her musical career. The psychic Malice possessed her and infiltrated the X-Men, but after she was defeated, Dazzler joined the X-Men and helped them fight evil.",
-        "locText": "Alison Blaire quería ser cantante a pesar de las protestas de su padre. Durante una presentación escolar, sus habilidades mutantes se manifestaron al crear una luz brillante. Jugando con sus habilidades para manipular la música en una luz colorida, se convirtió en la intérprete Dazzler, aunque ocultar su identidad fue un desafío. Los X-Men y el Hellfire Club lucharon para que ella se uniera a ellos, pero Dazzler decidió continuar con su carrera musical. La malicia psíquica la poseyó y se infiltró en los X-Men, pero después de que fue derrotada, Dazzler se unió a los X-Men y los ayudó a luchar contra el mal."
+        "locText": "Alison Blaire quería ser cantante a pesar de las protestas de su padre. Durante una presentación escolar, sus habilidades mutantes se manifestaron al crear una luz brillante. Jugando con sus habilidades para manipular la música en una luz colorida, se convirtió en la intérprete Dazzler, aunque ocultar su identidad fue un desafío. Los X-Men y el Hellfire Club lucharon para que ella se uniera a ellos, pero Dazzler decidió continuar con su carrera musical. La psíquica Malicia la poseyó y se infiltró en los X-Men, pero después de que fue derrotada, Dazzler se unió a los X-Men y los ayudó a luchar contra el mal."
       },
       "cards": [
         {
@@ -1118,7 +1118,6 @@
             "locText": "Dazzler"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Sound Conversion",
               "locText": ""
@@ -1140,7 +1139,6 @@
             "locText": "Dazzler"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Sound Conversion",
               "locText": ""
@@ -1162,7 +1160,6 @@
             "locText": "Dazzler"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Light Projection",
               "locText": ""
@@ -1184,7 +1181,6 @@
             "locText": "Dazzler"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Light Projection",
               "locText": ""
@@ -2019,7 +2015,7 @@
       },
       "bio": {
         "text": "James Hudson worked for the Am-Can Oil Corporation and developed a powered exoskeleton suit. When he found out it was to be used by the military, he stole his Guardian's Battle-suit's prototype and resigned. To avoid prosecution, Hudson made arrangements with the Canadian Parliament. The Minister of Defense named him head of operations for the Ministry's research and development program. Using the suit he formed a team of heroes. Alpha Flight, and eventually took the codename Guardian. Later, the suit would be fused with Hudson's biological and nervous systems, and he'd eventually become a cyborg, gaining all its powers - like supersonic flight, body armor, flares, ultrasound, and more - himself.",
-        "locText": "James Hudson trabajó para Am-Can Oil Corporation y desarrolló un traje de exoesqueleto motorizado. Cuando descubrió que iba a ser utilizado por los militares, robó el prototipo de su traje de batalla de guardián y renunció. Para evitar el enjuiciamiento, Hudson hizo arreglos con el Parlamento canadiense. El Ministro de Defensa lo nombró jefe de operaciones del programa de investigación y desarrollo del Ministerio. Usando el traje, formó un equipo de héroes. Alpha Flight, y finalmente tomó el nombre en clave de Guardian. Más tarde, el traje se fusionaría con los sistemas nervioso y biológico de Hudson, y eventualmente se convertiría en un cyborg, obteniendo todos sus poderes, como vuelo supersónico, chaleco antibalas, bengalas, ultrasonido y más, él mismo."
+        "locText": "James Hudson trabajó para Am-Can Oil Corporation y desarrolló un traje de exoesqueleto motorizado. Cuando descubrió que iba a ser utilizado por los militares, robó el prototipo de su traje de batalla de guardián y renunció. Para evitar el enjuiciamiento, Hudson hizo arreglos con el Parlamento canadiense. El Ministro de Defensa lo nombró jefe de operaciones del programa de investigación y desarrollo del Ministerio. Usando el traje, formó un equipo de héroes. Alpha Flight, y finalmente tomó el nombre en clave de Guardian. Más tarde, el traje se fusionaría con los sistemas nervioso y biológico de Hudson, y eventualmente se convertiría en un cyborg, obteniendo todos sus poderes, como vuelo supersónico, chaleco antibalas, bengalas, ultrasonido y más."
       },
       "cards": [
         {
@@ -3771,8 +3767,8 @@
         "locText": "Kurt Wagner"
       },
       "bio": {
-        "text": "The son of Mystique, who abandoned him at birth, Kurt Wagner was rescued by his powerful father Azazel and raised by the sorcerous Margali Szardos in a circus. He claimed that his unnatural blue skin, tail, fangs and pointed ears were a 0 costume in order to fit in. He was a skilled acrobat, , ; fighter, and teleporter. / After injuring a friend unintentionally, causing those around him 1./4111 to think he was a demon, Professor X saved him and invited him to join the X-Men who he stayed with for many years.",
-        "locText": "Hijo de Mística, quien lo abandonó al nacer, Kurt Wagner fue rescatado por su poderoso padre Azazel y criado por la hechicera Margali Szardos en un circo. Afirmó que su piel azul antinatural, cola, colmillos y orejas puntiagudas eran un disfraz de 0 para encajar. Era un hábil acróbata, , ; luchador y teletransportador. / Después de herir a un amigo sin querer, lo que hizo que quienes lo rodeaban 1./4111 pensaran que era un demonio, el Profesor X lo salvó y lo invitó a unirse a los X-Men con los que se quedó durante muchos años."
+        "text": "The son of Mystique, who abandoned him at birth, Kurt Wagner was rescued by his powerful father Azazel and raised by the sorcerous Margali Szardos in a circus. He claimed that his unnatural blue skin, tail, fangs and pointed ears were a costume in order to fit in. He was a skilled acrobat, fighter, and teleporter. After injuring a friend unintentionally, causing those around him to think he was a demon, Professor X saved him and invited him to join the X-Men who he stayed with for many years.",
+        "locText": "Hijo de Mística, quien lo abandonó al nacer, Kurt Wagner fue rescatado por su poderoso padre Azazel y criado por la hechicera Margali Szardos en un circo. Afirmó que su piel azul antinatural, cola, colmillos y orejas puntiagudas eran un disfraz para encajar. Era un hábil acróbata, luchador y teletransportador. Después de herir a un amigo sin querer, lo que hizo que quienes lo rodeaban pensaran que era un demonio, el Profesor X lo salvó y lo invitó a unirse a los X-Men con los que se quedó durante muchos años."
       },
       "cards": [
         {
@@ -14859,8 +14855,6 @@
             "text": "If there are any number of Heroes in this Location at the end of a Villain turn, increase the Ratings track by 1.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -14878,8 +14872,6 @@
             "text": "If there are any number of Heroes in this Location at the end of a Villain turn, increase the Ratings track by 1.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -15660,21 +15652,20 @@
       },
       "bio": {
         "text": "Living inside Charles Xavier's consciousness was a sentience psionic entity created during a telepathic battle with Magneto. After Xavier turned off Magneto's mind, he ended up absorbing anger, hatred, and lust for revenge from Magneto. His own anger mixed and Onslaught was created. When Xavier's anger reached a boiling point, Onslaught woke up and was able to take over his body. He was taken on by the X-Men, the Fantastic Four, and the Avengers, who were able to free the trapped professor.",
-        "locText": "Viviendo dentro de la conciencia de Charles Xavier había una entidad psiónica sensible creada durante una batalla telepática con Magneto. Después de que Xavier apagó la mente de Magneto, terminó absorbiendo la ira, el odio y la sed de venganza de Magneto. Su propia ira se mezcló y se creó Onslaught. Cuando la ira de Xavier alcanzó un punto de ebullición, Onslaught se despertó y pudo apoderarse de su cuerpo. Fue asumido por los X-Men, los Cuatro Fantásticos y los Vengadores, quienes pudieron liberar al profesor atrapado."
+        "locText": "Viviendo dentro de la conciencia de Charles Xavier había una entidad psiónica sensible creada durante una batalla telepática con Magneto. Después de que Xavier apagó la mente de Magneto, terminó absorbiendo la ira, el odio y la sed de venganza de Magneto. Su propia ira se mezcló y se creó Onslaught. Cuando la ira de Xavier alcanzó un punto de ebullición, Onslaught se despertó y pudo apoderarse de su cuerpo. Fue derrotado por los X-Men, los Cuatro Fantásticos y los Vengadores, quienes pudieron liberar al profesor atrapado."
       },
       "cards": [
         {
           "cardType": "threat",
           "img": "villains/Onslaught-T2.jpg",
           "title": {
-            "text": "MIND CONTROL",
+            "text": "Mind Control",
             "locText": ""
           },
           "description": {
             "text": "Give 1 Crisis token to each Hero in this and adjacent Locations.",
             "locText": ""
           },
-          "bam": false,
           "locationEffect": true,
           "actions": [
             "H",
@@ -15686,14 +15677,13 @@
           "cardType": "threat",
           "img": "villains/Onslaught-T3.jpg",
           "title": {
-            "text": "ASTRAL PROJECTION",
+            "text": "Astral Projection",
             "locText": ""
           },
           "description": {
             "text": "Until the next Villain turn, Onslaught cannot be damaged by Heroes in his Location.",
             "locText": ""
           },
-          "bam": false,
           "locationEffect": true,
           "actions": [
             "H",
@@ -15705,14 +15695,13 @@
           "cardType": "threat",
           "img": "villains/Onslaught-T4.jpg",
           "title": {
-            "text": "SUPERIOR STRATEGIST",
+            "text": "Superior Strategist",
             "locText": ""
           },
           "description": {
             "text": "Each Hero must move 1 Location away from Onslaught OR take 1 Crisis token.",
             "locText": ""
           },
-          "bam": false,
           "locationEffect": true,
           "actions": [
             "H",
@@ -15724,15 +15713,13 @@
           "cardType": "threat",
           "img": "villains/Onslaught-T5.jpg",
           "title": {
-            "text": "NIGH-INVULNERABLE",
+            "text": "Nigh-invulnerable",
             "locText": ""
           },
           "description": {
             "text": "As long as this Threat is in play, Onslaught ignores 1 damage each Hero turn.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -15743,14 +15730,13 @@
           "cardType": "threat",
           "img": "villains/Onslaught-T6.jpg",
           "title": {
-            "text": "POWER ABSORPTION",
+            "text": "Power Absorption",
             "locText": ""
           },
           "description": {
             "text": "Draw 1 Master Plan card and add it facedown in the Storyline. Then, do that again for each Hero in this Location.",
             "locText": ""
           },
-          "bam": false,
           "locationEffect": true,
           "actions": [
             "H",
@@ -15762,15 +15748,13 @@
           "cardType": "threat",
           "img": "villains/Onslaught-T7.jpg",
           "title": {
-            "text": "ELECTROMAGNETIC PULSES",
+            "text": "Electromagnetic Pulses",
             "locText": ""
           },
           "description": {
             "text": "Each Hero in this and adjacent Locations turns their earliest faceup Hero card with Special Effects in the Storyline facedown.",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -15993,7 +15977,6 @@
             "locText": "Onslaught"
           },
           "M": 0,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Mental Illusions",
@@ -16024,7 +16007,6 @@
             "locText": "Onslaught"
           },
           "M": 2,
-          "bam": false,
           "specialEffect": {
             "title": {
               "text": "Mental Illusions",
@@ -16055,10 +16037,9 @@
             "locText": "Onslaught"
           },
           "M": 1,
-          "bam": false,
           "specialEffect": {
             "title": {
-              "text": "ENERGY PROJECTION",
+              "text": "Energy Projection",
               "locText": ""
             },
             "description": {
@@ -16086,10 +16067,9 @@
             "locText": "Onslaught"
           },
           "M": 3,
-          "bam": false,
           "specialEffect": {
             "title": {
-              "text": "ENERGY PROJECTION",
+              "text": "Energy Projection",
               "locText": ""
             },
             "description": {

@@ -113,7 +113,7 @@
       },
       "bio": {
         "text": "Thief, grifter, scoundrel — Remy LeBeau, the mutant better known as Gambit, has been called it all. After being exiled from his home in New Orleans, Gambit traveled the world seeking \"business opportunities,\" making many contacts and even more enemies along the way. Though seemingly an odd fit, he found a permanent home as part of the X-Men, showing that beneath his devil-may-care attitude, Gambit possesses a true heart of gold.",
-        "locText": "Ladrón, estafador, sinvergüenza: Remy LeBeau, el mutante mejor conocido como Gambito, ha sido llamado de todo. Después de ser exiliado de su hogar en Nueva Orleans, Gambit viajó por el mundo en busca de \"oportunidades comerciales\", haciendo muchos contactos e incluso más enemigos en el camino. Aunque aparentemente encajaba de manera extraña, encontró un hogar permanente como parte de los X-Men, lo que demuestra que debajo de su actitud despreocupada, Gambit posee un verdadero corazón de oro."
+        "locText": "Ladrón, estafador, sinvergüenza: Remy LeBeau, el mutante mejor conocido como Gambito, ha sido llamado de todo. Después de ser exiliado de su hogar en Nueva Orleans, Gambito viajó por el mundo en busca de \"oportunidades comerciales\", haciendo muchos contactos e incluso más enemigos en el camino. Aunque aparentemente encajaba de manera extraña, encontró un hogar permanente como parte de los X-Men, lo que demuestra que debajo de su actitud despreocupada, Gambito posee un verdadero corazón de oro."
       },
       "cards": [
         {
@@ -218,7 +218,6 @@
             "locText": "Gambito"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Master Thief",
               "locText": "Ladrón Magistral"
@@ -240,7 +239,6 @@
             "locText": "Gambito"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Master Thief",
               "locText": "Ladrón Magistral"
@@ -709,7 +707,7 @@
       },
       "bio": {
         "text": "The charismatic Southern belle known as Rogue was not always the outgoing X-Man she is today. As a young woman, her dormant mutant power to absorb others' life essences through skin-to-skin contact suddenly manifested, inadvertently transforming an otherwise innocent kiss into a near-fatal disaster. Traumatized, Rogue fled from her onetime home, drifting through life confused and frightened. Having nearly turned to a life of crime and terrorism, Rogue ultimately found peace and purpose at the Xavier Institute.",
-        "locText": "La carismática belleza sureña conocida como Rogue no siempre fue el extrovertido X-Man que es hoy. Cuando era joven, su poder mutante latente para absorber las esencias vitales de los demás a través del contacto piel con piel se manifestó repentinamente, sin darse cuenta, transformando un beso inocente en un desastre casi fatal. Traumatizada, Rogue huyó de su antiguo hogar, vagando por la vida confundida y asustada. Habiendo casi convertido a una vida de crimen y terrorismo, Rogue finalmente encontró paz y propósito en el Instituto Xavier."
+        "locText": "La carismática belleza sureña conocida como Pícara no siempre fue el extrovertido X-Man que es hoy. Cuando era joven, su poder mutante latente para absorber las esencias vitales de los demás a través del contacto piel con piel se manifestó repentinamente, sin darse cuenta, transformando un beso inocente en un desastre casi fatal. Traumatizada, Pícara huyó de su antiguo hogar, vagando por la vida confundida y asustada. Habiendo casi entregado su vida al crimen y el terrorismo, Pícara finalmente encontró paz y propósito en el Instituto Xavier."
       },
       "cards": [
         {
@@ -811,7 +809,6 @@
             "locText": "Pícara"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Ability Absorption",
               "locText": "Absorción De Habilidades"
@@ -833,7 +830,6 @@
             "locText": "Pícara"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Ability Absorption",
               "locText": "Absorción De Habilidades"
@@ -855,7 +851,6 @@
             "locText": "Pícara"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Power Absorption",
               "locText": "Absorción De Poderes"
@@ -877,7 +872,6 @@
             "locText": "Pícara"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Power Absorption",
               "locText": "Absorción De Poderes"

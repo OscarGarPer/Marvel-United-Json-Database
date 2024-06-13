@@ -22,7 +22,7 @@
       },
       "bio": {
         "text": "In an alternate universe in a world run by Super Villains, retired Old Man Logan just wanted to live out his life peacefully. Needing rent money, he accepted to help with a delivery. When the package contained Super-Soldier Serum, S.H.I.E.L.D revealed themselves and killed him. Immortal, Logan killed Red Skull and his cohorts, who'd taken him. When he learned the Hulk Gang had decimated his family, he killed some of Banner's. Banner just wanted to fight his boredom. So, he killed Logan and ate him, but Logan burst out of the Hulk's stomach.",
-        "locText": "En un universo alternativo en un mundo dirigido por supervillanos, el anciano retirado Logan solo quería vivir su vida en paz. Como necesitaba dinero para el alquiler, aceptó ayudar con una entrega. Cuando el paquete contenía Suero del Súper-Soldado, S.H.I.E.L.D se reveló y lo mató. Inmortal, Logan mató a Red Skull y sus secuaces, quienes se lo habían llevado. Cuando se enteró de que Hulk Gang había diezmado a su familia, mató a algunos de Banner. Banner solo quería luchar contra su aburrimiento. Entonces, mató a Logan y se lo comió, pero Logan salió del estómago de Hulk."
+        "locText": "En un universo alternativo en un mundo dirigido por supervillanos, el anciano retirado Logan solo quería vivir su vida en paz. Como necesitaba dinero para el alquiler, aceptó ayudar con una entrega. Cuando el paquete contenía Suero del Súper-Soldado, S.H.I.E.L.D se reveló y lo mató. Al ser inmortal, Logan mató a Red Skull y sus secuaces, quienes se lo habían llevado. Cuando se enteró de que Hulk Gang había diezmado a su familia, mató a algunos de Banner. Banner solo quería luchar contra su aburrimiento. Entonces, mató a Logan y se lo comió, pero Logan salió del estómago de Hulk."
       },
       "cards": [
         {
@@ -33,14 +33,13 @@
             "locText": "Viejo Logan"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Retired",
               "locText": "Retirado"
             },
             "description": {
               "text": "Gain 2 [ATTACK] tokens. As long as this card is faceup in the Storyline, you can't use [ATTACK] tokens to Attack.",
-              "locText": "Recibe 2 fichas [ATAQUE]. Mientras esta carta esté boca arriba en la Trama, no puedes usar fichas [ATAQUE] para Atacar."
+              "locText": "Recibe 2 fichas [ATAQUE]. Mientras esta carta esté bocarriba en la Trama, no puedes usar fichas [ATAQUE] para Atacar."
             }
           },
           "actions": [
@@ -126,14 +125,13 @@
             "locText": "Viejo Logan"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Tired Of Fighting",
               "locText": "Cansado De Luchar"
             },
             "description": {
               "text": "If Retired is faceup in the Storyline, gain 1 [ATTACK] token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
-              "locText": "Si Retirado está boca arriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
+              "locText": "Si Retirado está bocarriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
             }
           },
           "actions": [
@@ -148,14 +146,13 @@
             "locText": "Viejo Logan"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Tired Of Fighting",
               "locText": "Cansado De Luchar"
             },
             "description": {
               "text": "If Retired is faceup in the Storyline, gain 1 [ATTACK] token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
-              "locText": "Si Retirado está boca arriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
+              "locText": "Si Retirado está bocarriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
             }
           },
           "actions": [
@@ -170,14 +167,13 @@
             "locText": "Viejo Logan"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Tired Of Fighting",
               "locText": "Cansado De Luchar"
             },
             "description": {
               "text": "If Retired is faceup in the Storyline, gain 1 [ATTACK] token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
-              "locText": "Si Retirado está boca arriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
+              "locText": "Si Retirado está bocarriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
             }
           },
           "actions": [
@@ -192,14 +188,13 @@
             "locText": "Viejo Logan"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Tired Of Fighting",
               "locText": "Cansado De Luchar"
             },
             "description": {
               "text": "If Retired is faceup in the Storyline, gain 1 [ATTACK] token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
-              "locText": "Si Retirado está boca arriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
+              "locText": "Si Retirado está bocarriba en la Trama, recibe 1 ficha [ATAQUE]. Hasta el comienzo de tu siguiente turno, puedes ignorar 1 punto de daño durante cada turno del Villano."
             }
           },
           "actions": [
@@ -214,14 +209,13 @@
             "locText": "Viejo Logan"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "My Name Is Wolverine!",
               "locText": "¡Mi Nombre Es Lobezno!"
             },
             "description": {
               "text": "Gain 4 [ATTACK] tokens. If Retired is faceup in the Storyline, turn it facedown.",
-              "locText": "Recibe 4 fichas [ATAQUE]. Si Retirado está boca arriba en la Trama, colócala boca abajo."
+              "locText": "Recibe 4 fichas [ATAQUE]. Si Retirado está bocarriba en la Trama, colócala bocabajo."
             }
           },
           "actions": [

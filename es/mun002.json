@@ -1088,7 +1088,7 @@
       },
       "bio": {
         "text": "Killmonger is the nemesis of Black Panther and a fierce warrior. A native of Wakanda, he survived his father's death and his family's exile. Thus began Killmonger's lifelong mission to avenge his father's death by reclaiming Wakanda and returning it to its ancient ways. He would use Black Panther's frequent absences to try to overthrow their government. Killmonger's skills are concentrated in hand-to-hand combat as well as his ever-evolving uniform, which usually has deadly elements like energy blasters. He has extensive martial arts knowledge and a willingness to do whatever it takes to achieve his goals.",
-        "locText": "Killmonger es la némesis de Negro Pantera y un guerrero feroz. Originario de Wakanda, sobrevivió a la muerte de su padre y al exilio de su familia. Así comenzó la misión de toda la vida de Killmonger de vengar la muerte de su padre recuperando Wakanda y devolviéndola a sus antiguas costumbres. Utilizaría las frecuentes ausencias de Black Panther para tratar de derrocar a su gobierno. Las habilidades de Killmonger se concentran en el combate cuerpo a cuerpo, así como en su uniforme en constante evolución, que generalmente tiene elementos mortales como desintegradores de energía. Tiene un amplio conocimiento de las artes marciales y la voluntad de hacer lo que sea necesario para lograr sus objetivos."
+        "locText": "Killmonger es la némesis de Pantera Negra y un guerrero feroz. Originario de Wakanda, sobrevivió a la muerte de su padre y al exilio de su familia. Así comenzó la misión de toda la vida de Killmonger de vengar la muerte de su padre recuperando Wakanda y devolviéndola a sus antiguas costumbres. Utilizaría las frecuentes ausencias de Black Panther para tratar de derrocar a su gobierno. Las habilidades de Killmonger se concentran en el combate cuerpo a cuerpo, así como en su uniforme en constante evolución, que generalmente tiene elementos mortales como desintegradores de energía. Tiene un amplio conocimiento de las artes marciales y la voluntad de hacer lo que sea necesario para lograr sus objetivos."
       },
       "cards": [
         {
@@ -1098,17 +1098,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1117,17 +1107,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1136,17 +1116,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1155,17 +1125,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1174,17 +1134,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1193,17 +1143,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1212,17 +1152,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1231,17 +1161,7 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1250,22 +1170,17 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "OVERTHROW",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Move to the closest Location with the most CIVILIAN and replace all CIVILIAN there with Crisis tokens. If there are no CIVILIAN in any Location, move to the next one clockwise.",
               "locText": "N'Jadaka (Erik Killmonger)"
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1276,11 +1191,7 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "plan",
@@ -1289,22 +1200,17 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "OVERTHROW",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Move to the closest Location with the most CIVILIAN and replace all CIVILIAN there with Crisis tokens. If there are no CIVILIAN in any Location, move to the next one clockwise.",
               "locText": "N'Jadaka (Erik Killmonger)"
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1315,11 +1221,7 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "plan",
@@ -1328,22 +1230,17 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "DUEL",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Deal 2 damage to 1 Hero in Killmonger's Location (Heroes choose).",
               "locText": "N'Jadaka (Erik Killmonger)"
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1354,11 +1251,7 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "plan",
@@ -1367,22 +1260,17 @@
             "text": "Killmonger",
             "locText": "Killmonger"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "DUEL",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Deal 2 damage to 1 Hero in Killmonger's Location (Heroes choose).",
               "locText": "N'Jadaka (Erik Killmonger)"
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1393,173 +1281,126 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "threat",
           "img": "villains/Killmonger-T1.jpg",
           "title": {
             "text": "Mercenaries",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Each THUG in this Location requires 2 damage to be defeated.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Killmonger-T1.jpg",
           "title": {
             "text": "Mercenaries",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Each THUG in this Location requires 2 damage to be defeated.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Killmonger-T3.jpg",
           "title": {
             "text": "Assasination Attemp",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Heroes ending their turn in this Location take 1 damage.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Killmonger-T3.jpg",
           "title": {
             "text": "Assasination Attemp",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Heroes ending their turn in this Location take 1 damage.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Killmonger-T5.jpg",
           "title": {
             "text": "Weapon Smuggling",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "LOCATION. Place 1 Crisis token in an empty slot in this Location. If all slots are full, it replaces the leftmost THUG/CIVILIAN token.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Killmonger-T5.jpg",
           "title": {
             "text": "Weapon Smuggling",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "LOCATION. Place 1 Crisis token in an empty slot in this Location. If all slots are full, it replaces the leftmost THUG/CIVILIAN token.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         }
       ],
       "dashboard": {
         "back": {
           "img": "villains/Killmonger-B.jpg",
-          "specialSetup": null,
           "superVillain": [
             "A",
             "A"
@@ -1567,23 +1408,20 @@
         },
         "front": {
           "img": "villains/Killmonger-A.jpg",
-          "specialRules": null,
           "overflow": {
             "text": "If 1 or more CIVILIAN/THUG tokens can't be added to a Location, replace the leftmost CIVILIAN/THUG token on Killmonger's Location (if present) with a Crisis token.",
-            "locText": null
+            "locText": ""
           },
           "bam": {
             "text": "Deal 1 damage to each Hero in Killmonger's Location. Then, replace the leftmost CIVILIAN/THUG token there (if present) with a Crisis token.",
-            "locText": null
+            "locText": ""
           },
           "plot": {
             "text": "The Heroes lose when 4 or more Locations have 3 or more Crisis tokens.",
-            "locText": null
-          },
-          "lifePoints": null
+            "locText": ""
+          }
         }
-      },
-      "tokens": null
+      }
     }
   ]
 }

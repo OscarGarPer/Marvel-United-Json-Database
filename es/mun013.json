@@ -310,8 +310,8 @@
         "locText": "Lucas Bishop"
       },
       "bio": {
-        "text": "Born during the future time of the mutant-hunting robot Sentinels, Lucas Bishop escaped through a portal back in time. He joined the X-Men in hopes of preventing the future. With his knowledge, he helped the X-Men It by preventing their deaths. Traveling to the future and back, Bishop fought many battles for the X-Men. But when the baby Mutant Messiah was born marking Bishop's bleak future, he attempted to murder it, but accidentally killed Xavier instead.",
-        "locText": "Nacido durante el tiempo futuro del robot cazador de mutantes Sentinels, Lucas Bishop escapó a través de un portal en el tiempo. Se unió a los X-Men con la esperanza de prevenir el futuro. Con su conocimiento, ayudó a los X-Men It al evitar sus muertes. Al viajar al futuro y regresar, Bishop luchó en muchas batallas por los X-Men. Pero cuando nació el bebé Mutant Messiah marcando el sombrío futuro de Bishop, intentó asesinarlo, pero en su lugar mató accidentalmente a Xavier."
+        "text": "Born during the future time of the mutant-hunting robot Sentinels, Lucas Bishop escaped through a portal back in time. He joined the X-Men in hopes of preventing the future. With his knowledge, he helped the X-Men by preventing their deaths. Traveling to the future and back, Bishop fought many battles for the X-Men. But when the baby Mutant Messiah was born marking Bishop's bleak future, he attempted to murder it, but accidentally killed Xavier instead.",
+        "locText": "Nacido durante el tiempo futuro dominado por los robot cazadores de mutantes Centinelas, Lucas Bishop escapó a través de un portal en el tiempo. Se unió a los X-Men con la esperanza de prevenir el futuro. Con su conocimiento, ayudó a los X-Men al evitar sus muertes. Al viajar al futuro y regresar, Bishop luchó en muchas batallas por los X-Men. Pero cuando nació el bebé Mesías Mutante marcando el sombrío futuro de Bishop, intentó asesinarlo, pero en su lugar mató accidentalmente a Xavier."
       },
       "cards": [
         {
@@ -322,14 +322,13 @@
             "locText": "Bishop"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Energy Resistance",
               "locText": "Resistencia A La Energía"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, you cannot take any damage dealt from adjacent Locations.",
-              "locText": "Mientras esta carta esté bocarriba en la\nTrama, no puedes sufrir ningún Daño infligido\ndesde Lugares adyacentes al tuyo."
+              "locText": "Mientras esta carta esté bocarriba en la Trama, no puedes sufrir ningún Daño infligido desde Lugares adyacentes al tuyo."
             }
           },
           "actions": [
@@ -438,14 +437,13 @@
             "locText": "Bishop"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Energy Absorption",
               "locText": "Absorción De Energía"
             },
             "description": {
               "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": "Recibe 1 ficha [ATAQUE]. Puedes\nignorar 1 punto de Daño hasta el\ninicio de tu siguiente turno."
+              "locText": "Recibe 1 ficha [ATAQUE]. Puedes ignorar 1 punto de Daño hasta el inicio de tu siguiente turno."
             }
           },
           "actions": [
@@ -460,14 +458,13 @@
             "locText": "Bishop"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Energy Absorption",
               "locText": "Absorción De Energía"
             },
             "description": {
               "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": "Recibe 1 ficha [ATAQUE]. Puedes\nignorar 1 punto de Daño hasta el\ninicio de tu siguiente turno."
+              "locText": "Recibe 1 ficha [ATAQUE]. Puedes ignorar 1 punto de Daño hasta el inicio de tu siguiente turno."
             }
           },
           "actions": [
@@ -482,14 +479,13 @@
             "locText": "Bishop"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Energy Absorption",
               "locText": "Absorción De Energía"
             },
             "description": {
               "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": "Recibe 1 ficha [ATAQUE]. Puedes\nignorar 1 punto de Daño hasta el\ninicio de tu siguiente turno."
+              "locText": "Recibe 1 ficha [ATAQUE]. Puedes ignorar 1 punto de Daño hasta el inicio de tu siguiente turno."
             }
           },
           "actions": [
@@ -710,8 +706,8 @@
         "locText": "Robert \"Bobby\" Louis Drake"
       },
       "bio": {
-        "text": "Bobby Drake grew up hiding his powers until a fight ( , manifested them publicly, i turning an opponent into ice, scaring everyone. After rescuing him, Iceman was recruited by Professor X to attend his elite school. With the ability to drop his core temperature 1- -F- enough to turn into ice, among other mutations, he used his thermokinesis in the fight to unite humans and mutants with the X-Men and later with /X-Force, finally returning to the X-Men.",
-        "locText": "Bobby Drake creció escondiendo sus poderes hasta una pelea ( , los manifestó públicamente, convirtiendo a un oponente en hielo, asustando a todos. Después de rescatarlo, Iceman fue reclutado por el Profesor X para asistir a su escuela de élite. Con la capacidad de bajar su temperatura central. 1- -F- suficiente para convertirse en hielo, entre otras mutaciones, usó su termoquinesis en la lucha para unir humanos y mutantes con los X-Men y más tarde con /X-Force, finalmente regresando a los X-Men."
+        "text": "Bobby Drake grew up hiding his powers until a fight manifested them publicly, turning an opponent into ice, scaring everyone. After rescuing him, Iceman was recruited by Professor X to attend his elite school. With the ability to drop his core temperature enough to turn into ice, among other mutations, he used his thermokinesis in the fight to unite humans and mutants with the X-Men and later with X-Force, finally returning to the X-Men.",
+        "locText": "Bobby Drake creció ocultando sus poderes hasta que una pelea los manifestó públicamente, convirtiendo a un oponente en hielo, asustando a todos. Después de rescatarlo, el Profesor X reclutó a Iceman para asistir a su escuela de élite. Con la capacidad de bajar su temperatura central lo suficiente como para convertirse en hielo, entre otras mutaciones, usó su termoquinesis en la lucha para unir a humanos y mutantes con los X-Men y más tarde con X-Force, regresando finalmente a los X-Men."
       },
       "cards": [
         {
@@ -814,14 +810,13 @@
             "locText": "Hombre De Hielo"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Organic Ice Body",
               "locText": "Cuerpo De Hielo Orgánico"
             },
             "description": {
               "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": "No puedes sufrir ningún Daño hasta\nel inicio de tu siguiente turno."
+              "locText": "No puedes sufrir ningún Daño hasta el inicio de tu siguiente turno."
             }
           },
           "actions": [
@@ -837,14 +832,13 @@
             "locText": "Hombre De Hielo"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Organic Ice Body",
               "locText": "Cuerpo De Hielo Orgánico"
             },
             "description": {
               "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": "No puedes sufrir ningún Daño hasta\nel inicio de tu siguiente turno."
+              "locText": "No puedes sufrir ningún Daño hasta el inicio de tu siguiente turno."
             }
           },
           "actions": [
@@ -860,14 +854,13 @@
             "locText": "Hombre De Hielo"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Cryokinesis",
               "locText": "Crioquinesis"
             },
             "description": {
               "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
-              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o\nSecuaz que esté en tu Lugar. En el siguiente\nturno del Villano, el efecto «¡BAM!» de\nquien tenga la ficha de Aturdido se cancela\ny, a continuación, la ficha se descarta."
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o Secuaz que esté en tu Lugar. En el siguiente turno del Villano, el efecto «¡BAM!» de quien tenga la ficha de Aturdido se cancela y, a continuación, la ficha se descarta."
             }
           },
           "actions": [
@@ -882,14 +875,13 @@
             "locText": "Hombre De Hielo"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Cryokinesis",
               "locText": "Crioquinesis"
             },
             "description": {
               "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
-              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o\nSecuaz que esté en tu Lugar. En el siguiente\nturno del Villano, el efecto «¡BAM!» de\nquien tenga la ficha de Aturdido se cancela\ny, a continuación, la ficha se descarta."
+              "locText": "Coloca 1 ficha de Aturdido junto a un Villano o Secuaz que esté en tu Lugar. En el siguiente turno del Villano, el efecto «¡BAM!» de quien tenga la ficha de Aturdido se cancela y, a continuación, la ficha se descarta."
             }
           },
           "actions": [

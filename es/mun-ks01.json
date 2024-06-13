@@ -24,7 +24,7 @@
       },
       "bio": {
         "text": "Due to her past trauma and loner status, America often challenges authority and keeps others at arms' length. She has a strong independent streak, which makes her less quick to gel into the team dynamic with the others. She openly rejects leadership, preferring to do her own thing and act in her own best interest. America knows how to use her powers very well (maybe too well), which can make her a little critical of the others' flailing efforts. As America begins to trust her team and let them in, we will see her soften and become a better teammate and hero.",
-        "locText": "Debido a su trauma pasado y su condición de solitaria, América a menudo desafía la autoridad y mantiene a los demás a distancia. Tiene una fuerte racha independiente, lo que la hace menos rápida para integrarse en la dinámica del equipo con los demás. Ella rechaza abiertamente el liderazgo, prefiriendo hacer sus propias cosas y actuar en su propio interés. Estados Unidos sabe cómo usar sus poderes muy bien (quizás demasiado bien), lo que puede hacerla un poco crítica de los esfuerzos vacilantes de los demás. A medida que Estados Unidos comience a confiar en su equipo y a dejarlos entrar, la veremos suavizarse y convertirse en una mejor compañera de equipo y heroína."
+        "locText": "Debido a su trauma pasado y su condición de solitaria, América a menudo desafía la autoridad y mantiene a los demás a distancia. Tiene una fuerte tendencia independiente, lo que la hace menos rápida para integrarse en la dinámica del equipo con los demás. Ella rechaza abiertamente el liderazgo, prefiriendo hacer sus propias cosas y actuar en su propio interés. América sabe cómo usar sus poderes muy bien (quizás demasiado bien), lo que puede hacerla un poco crítica de los esfuerzos vacilantes de los demás. A medida que América comience a confiar en su equipo y a dejarlos entrar, la veremos suavizarse y convertirse en una mejor compañera de equipo y heroína."
       },
       "cards": [
         {
@@ -34,19 +34,9 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -55,20 +45,10 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -77,20 +57,10 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -99,19 +69,9 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -120,20 +80,10 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -142,20 +92,10 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -164,20 +104,10 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -186,19 +116,9 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -207,20 +127,10 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W",
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -229,29 +139,20 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Invulnerability",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": null
+              "locText": ""
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -260,29 +161,20 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Star portal",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "[W] [W]",
               "locText": "Comodín Comodín"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -291,33 +183,22 @@
             "text": "America Chavez",
             "locText": "América Chávez"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Energy Infusion",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "[A] [A]",
               "locText": "Ataque Ataque"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         }
-      ],
-      "dashboard": null,
-      "tokens": null
+      ]
     },
     {
       "img": "heroes/Black-Cat.jpg",

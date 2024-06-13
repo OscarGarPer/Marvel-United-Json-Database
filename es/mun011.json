@@ -1551,6 +1551,10 @@
         "text": "Ororo Munroe",
         "locText": "Ororo Munroe"
       },
+      "bio": {
+        "text": "Born in New York but raised in Egypt, Ororo Munroe lost her parents in a tragic military conflict, subsequently surviving as a pickpocket on the streets of Cairo. When her nascent mutant power to control the weather manifested, she was for a time worshipped as a goddess by the people of the Serengeti before being recruited by Professor X to join his squad of mutant Super Heroes. As part of the X-Men, Ororo became Storm, a pillar of the group and one of the most respected and tenured leaders in the team's long history.",
+        "locText": "Nacida en Nueva York pero criada en Egipto, Ororo Munroe perdió a sus padres en un trágico conflicto militar y posteriormente sobrevivió como carterista en las calles de El Cairo. Cuando se manifestó su incipiente poder mutante para controlar el clima, la gente del Serengeti la adoró como una diosa durante un tiempo antes de ser reclutada por el Profesor X para unirse a su escuadrón de superhéroes mutantes. Como parte de los X-Men, Ororo se convirtió en Storm, un pilar del grupo y uno de los líderes más respetados y permanentes en la larga historia del equipo."
+      },
       "cards": [
         {
           "cardType": "hero",
@@ -1653,7 +1657,6 @@
             "locText": "Tormenta"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Atmokinesis",
               "locText": ""
@@ -1675,7 +1678,6 @@
             "locText": "Tormenta"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Atmokinesis",
               "locText": ""
@@ -1697,7 +1699,6 @@
             "locText": "Tormenta"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Goodess Of Weather",
               "locText": ""
@@ -1719,7 +1720,6 @@
             "locText": "Tormenta"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Goodess Of Weather",
               "locText": ""
@@ -1733,11 +1733,7 @@
             "M"
           ]
         }
-      ],
-      "bio": {
-        "text": "Born in New York but raised in Egypt, Uroro Munroe lost her parents in a tragic military conflict, subsequently surviving as a pickpocket on the streets of Cairo. When her nascent mutant power to control the weather manifested, she was for a time worshipped as a goddess by the people of the Serengeti before being recruited by Professor X to join his squad of mutant Super Heroes. As part of the X-Men, Oruro became Storm, a pillar of the group and one of the most respected and tenured leaders in the team's long history.",
-        "locText": "Nacida en Nueva York pero criada en Egipto, Uroro Munroe perdió a sus padres en un trágico conflicto militar y posteriormente sobrevivió como carterista en las calles de El Cairo. Cuando se manifestó su incipiente poder mutante para controlar el clima, la gente del Serengeti la adoró como una diosa durante un tiempo antes de ser reclutada por el Profesor X para unirse a su escuadrón de superhéroes mutantes. Como parte de los X-Men, Oruro se convirtió en Storm, un pilar del grupo y uno de los líderes más respetados y permanentes en la larga historia del equipo."
-      }
+      ]
     },
     {
       "img": "heroes/Wolverine.jpg",
@@ -2575,7 +2571,7 @@
       },
       "bio": {
         "text": "Abandoned at an early age after her shapeshifting mutation revealed itself, Raven Darkholme fended for herself. Able to psionically alter her cells at will, she had the power to exactly duplicate any living creature, though she couldn't take on their powers. A strong believer in preserving mutants, she vacillated between helping humans and fighting them, often engaging in criminal activity. As a member of Magneto's Brotherhood of Evil Mutants and later a leader of it, she fought many groups, including the X-Men.",
-        "locText": "Abandonada a una edad temprana después de que se revelara su mutación de cambio de forma, Raven Darkholme se las arregló para sí misma. Capaz de alterar psiónicamente sus células a voluntad, tenía el poder de duplicar exactamente a cualquier criatura viviente, aunque no podía asumir sus poderes. Una firme creyente en la preservación de los mutantes, vaciló entre ayudar a los humanos y luchar contra ellos, a menudo participando en actividades delictivas. Como miembro de la Hermandad de mutantes malvados de Magneto y más tarde líder de la misma, luchó contra muchos grupos, incluidos los X-Men."
+        "locText": "Abandonada a una edad temprana después de que se revelara su mutación de cambio de forma, Raven Darkholme se las arregló por sí misma. Capaz de alterar psiónicamente sus células a voluntad, tenía el poder de duplicar exactamente a cualquier criatura viviente, aunque no podía asumir sus poderes. Una firme creyente en la preservación de los mutantes, vaciló entre ayudar a los humanos y luchar contra ellos, a menudo participando en actividades delictivas. Como miembro de la Hermandad de mutantes malvados de Magneto y más tarde líder de la misma, luchó contra muchos grupos, incluidos los X-Men."
       },
       "cards": [
         {
@@ -2586,7 +2582,6 @@
             "locText": "Mística"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Metamorph",
               "locText": ""
@@ -2599,8 +2594,7 @@
           "actions": [
             "H"
           ],
-          "startingHand": true,
-          "bottomDeck": false
+          "startingHand": true
         },
         {
           "cardType": "hero",
@@ -2610,7 +2604,6 @@
             "locText": "Mística"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Metamorph",
               "locText": ""
@@ -2623,8 +2616,7 @@
           "actions": [
             "A"
           ],
-          "startingHand": true,
-          "bottomDeck": false
+          "startingHand": true
         },
         {
           "cardType": "hero",
@@ -2727,7 +2719,6 @@
             "locText": "Mística"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Spymaster",
               "locText": ""
@@ -2749,7 +2740,6 @@
             "locText": "Mística"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Spymaster",
               "locText": ""
@@ -2774,8 +2764,7 @@
             "text": "Discard 1 [CIVILIAN] from this and each adjacent Location. Deal 1 damage to 1 hero in each of these Locations that had no [CIVILIAN].",
             "locText": ""
           },
-          "bam": true,
-          "locationEffect": false
+          "bam": true
         },
         {
           "cardType": "threat",
@@ -2788,7 +2777,6 @@
             "text": "Move Senator Kelly 1 Location counter-clockwise. Heroes can prevent this by drawing another Master Plan card and adding it facedown in the Storyline.",
             "locText": ""
           },
-          "bam": false,
           "locationEffect": true
         },
         {
@@ -2802,8 +2790,7 @@
             "text": "Deal 1 damage to 1 Hero in his and each adjacent Location.",
             "locText": ""
           },
-          "bam": true,
-          "locationEffect": false
+          "bam": true
         },
         {
           "cardType": "threat",
@@ -2816,8 +2803,7 @@
             "text": "If possible, move Toal to the next clockwise Location with no Threat. Then, deal 1 damage to 1 Hero in Toad's Location.",
             "locText": ""
           },
-          "bam": true,
-          "locationEffect": false
+          "bam": true
         },
         {
           "cardType": "threat",
@@ -2830,8 +2816,6 @@
             "text": "As long as this Threat is in play, damage to Mystique is dealt to the next clockwise Henchman instead (if present).",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -2849,8 +2833,6 @@
             "text": "As long as this Threat is in play, damage to Mystique is dealt to the next clockwise Henchman instead (if present).",
             "locText": ""
           },
-          "bam": false,
-          "locationEffect": false,
           "actions": [
             "H",
             "H",
@@ -2937,7 +2919,6 @@
             "locText": "Mística"
           },
           "M": 3,
-          "bam": false,
           "add": {
             "left": [
               "T",

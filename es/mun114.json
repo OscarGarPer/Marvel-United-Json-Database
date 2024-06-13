@@ -929,8 +929,8 @@
         "locText": "Wade Wilson"
       },
       "bio": {
-        "text": "The \"Merc with a Mouth\" started out as international ass_\nDo I really need to type this again? Listen, it's the same character, but now as a Villain...",
-        "locText": "El \"Mercenario Bocazas\" comenzó como asesino interna_\n¿Realmente necesito escribir esto de nuevo? Escucha, es el mismo personaje, pero ahora como Villano..."
+        "text": "The \"Merc with a Mouth\" started out as international ass_\n\nDo I really need to type this again? Listen, it's the same character, but now as a Villain...",
+        "locText": "El \"Mercenario Bocazas\" comenzó como asesino interna_\n\n¿Realmente necesito escribir esto de nuevo? Escucha, es el mismo personaje, pero ahora como Villano..."
       },
       "cards": [
         {
@@ -1787,8 +1787,8 @@
         "locText": "Wanda Wilson"
       },
       "bio": {
-        "text": "Deadpool's Lady counterpart possessed his regenerative healing powers, superhuman stamina, agility and reflexes, and came from Earth-3010. Wanda Wilson rebelled against a group of fascists who were taking over the government. Leader of the loyalists was General America and Deadpool showed up to help her / defeat him. Going back and forth between her world and his, she spent time in the Deadpool Corps, but eventually decided to head back home and remain there.",
-        "locText": "La contraparte de Lady de Deadpool poseía sus poderes curativos regenerativos, resistencia sobrehumana, agilidad y reflejos, y provenía de la Tierra-3010. Wanda Wilson se rebeló contra un grupo de fascistas que tomaban el gobierno. El líder de los leales era el General América y Deadpool apareció para ayudarla/derrotarlo. Iba y venía entre su mundo y el de él, pasó un tiempo en Deadpool Corps, pero finalmente decidió regresar a casa y permanecer allí."
+        "text": "Deadpool's Lady counterpart possessed his regenerative healing powers, superhuman stamina, agility and reflexes, and came from Earth-3010. Wanda Wilson rebelled against a group of fascists who were taking over the government. Leader of the loyalists was General America and Deadpool showed up to help her defeat him. Going back and forth between her world and his, she spent time in the Deadpool Corps, but eventually decided to head back home and remain there.",
+        "locText": "La contraparte femenina de Deadpool poseía sus poderes curativos regenerativos, resistencia sobrehumana, agilidad y reflejos, y provenía de la Tierra-3010. Wanda Wilson se rebeló contra un grupo de fascistas que tomaban el gobierno. El líder de los leales era el General América y Deadpool apareció para ayudarla a derrotarlo. Iba y venía entre su mundo y el de él, pasó un tiempo en Deadpool Corps, pero finalmente decidió regresar a casa y permanecer allí."
       },
       "cards": [
         {
@@ -1799,14 +1799,13 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Regenerative Healing Factor",
               "locText": "Factor Curativo Regenerativo"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
-              "locText": "Mientras esta carta esté boca arriba en la Trama, si tienes menos de 3 cartas en tu mano al final de un turno de Villano, puedes robar 1 carta."
+              "locText": "Mientras esta carta esté bocarriba en la Trama, si tienes menos de 3 cartas en tu mano al final de un turno de Villano, puedes robar 1 carta."
             }
           },
           "actions": [
@@ -1845,7 +1844,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Rescuing Charles",
               "locText": "Rescatando a Charles"
@@ -1867,7 +1865,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Recuing Charles",
               "locText": "Rescatando a Charles"
@@ -1889,7 +1886,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Merc With A Mouth With Lipgloss",
               "locText": "Mercenaria Bocazas Con Brillo Labial"
@@ -1911,7 +1907,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Merc With A Mouth With Lipgloss",
               "locText": "Mercenaria Bocazas Con Brillo Labial"
@@ -1933,7 +1928,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Master Assasin",
               "locText": "Asesina Experta"
@@ -1955,7 +1949,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Master Assasin",
               "locText": "Asesina Experta"
@@ -1977,7 +1970,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Totally Unpredictable",
               "locText": "Totalmente Impredecible"
@@ -1999,7 +1991,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Totally Unpredictable",
               "locText": "Totalmente Impredecible"
@@ -2021,7 +2012,6 @@
             "locText": "Lady Deadpool"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
               "text": "Resistance To Everything",
               "locText": "Resistencia A Todo"

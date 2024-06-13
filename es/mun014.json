@@ -929,8 +929,8 @@
         "locText": "Wade Wilson"
       },
       "bio": {
-        "text": "The \"Merc with a Mouth\" started out as international ass_\nDo I really need to type this again? Listen, it's the same character, but now as a Villain...",
-        "locText": "El \"Mercenario Bocazas\" comenzó como asesino interna_\n¿Realmente necesito escribir esto de nuevo? Escucha, es el mismo personaje, pero ahora como Villano..."
+        "text": "The \"Merc with a Mouth\" started out as international ass_\n\nDo I really need to type this again? Listen, it's the same character, but now as a Villain...",
+        "locText": "El \"Mercenario Bocazas\" comenzó como asesino interna_\n\n¿Realmente necesito escribir esto de nuevo? Escucha, es el mismo personaje, pero ahora como Villano..."
       },
       "cards": [
         {

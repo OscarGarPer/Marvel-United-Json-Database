@@ -773,7 +773,7 @@
       },
       "bio": {
         "text": "Once a shy science nerd, Peter Parker's life was changed forever when a bite by a radioactive spider granted him amazing arachnid-like abilities. After the tragic death of his beloved Uncle Ben, Peter realized that with great power, there must also come great responsibility. He has since devoted his life to protecting New York City and its citizens as the Amazing Spider-Man!",
-        "locText": "Una vez un tímido nerd de la ciencia, la vida de Peter Parker cambió para siempre cuando una picadura de una araña radiactiva le otorgó increíbles habilidades similares a las de los arácnidos. Después de la trágica muerte de su amado tío Ben, Peter se dio cuenta de que un gran poder conlleva una gran responsabilidad. ¡Desde entonces ha dedicado su vida a proteger la ciudad de Nueva York y sus ciudadanos como el asombroso Hombre Araña!"
+        "locText": "La vida de Peter Parker, un tímido nerd de la ciencia, cambió para siempre cuando una picadura de una araña radiactiva le otorgó increíbles habilidades similares a las de los arácnidos. Después de la trágica muerte de su amado tío Ben, Peter se dio cuenta de que un gran poder conlleva una gran responsabilidad. Desde entonces ha dedicado su vida a proteger la ciudad de Nueva York y sus ciudadanos como ¡el asombroso Hombre Araña!"
       },
       "cards": [
         {
@@ -783,20 +783,10 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -805,20 +795,10 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -827,19 +807,9 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -848,19 +818,9 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -869,20 +829,10 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -891,20 +841,10 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -913,20 +853,10 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -935,19 +865,9 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -956,20 +876,10 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W",
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -978,29 +888,20 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Webslinging",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Gain 2 MOVE tokens.",
               "locText": "Peter Parker"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1009,29 +910,20 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Great Power",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "ATTACK ATTACK ATTACK. For each THUG defeated with this Special Effect, gain 1 HEROIC token.",
               "locText": "Peter Parker"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1040,33 +932,22 @@
             "text": "Spider-Man",
             "locText": "Spider-Man"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Great Responsibility",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Rescue up to 3 CIVILIAN in you Location. For each CIVILIAN rescued with this Special Effect, gain 1 ATTACK token.",
               "locText": "Peter Parker"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         }
-      ],
-      "dashboard": null,
-      "tokens": null
+      ]
     },
     {
       "img": "villains/Green-Goblin.jpg",

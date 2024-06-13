@@ -885,7 +885,7 @@
       },
       "bio": {
         "text": "A headstrong intergalactic adventurer, Peter Quill was taken from his Earthly home at a young age, growing up in outer space alongside the pirate-like Ravagers. As the intrepid Star-Lord, Quill travels the cosmos in his spaceship, the Milano, seeking his fortune. Equipped with a high-tech blaster and a mix-tape of music from his home, Star-Lord leads an unlikely team of interstellar misfits - the Guardians of the Galaxy - in their attempts to do a little good, a little bad, a little of both!!",
-        "locText": "Peter Quill, un aventurero intergaláctico testarudo, fue sacado de su hogar terrenal a una edad temprana, y creció en el espacio exterior junto a los Devastadores piratas. Como el intrépido Star-Lord, Quill viaja por el cosmos en su nave espacial, el Milano, en busca de fortuna. Equipado con un desintegrador de alta tecnología y una mezcla de música de su casa, Star-Lord lidera un equipo poco probable de desajustes interestelares, los Guardianes de la Galaxia, en sus intentos de hacer un poco de bien, un poco de mal, ¡¡un poco de de ambos!!"
+        "locText": "Peter Quill, un aventurero intergaláctico testarudo, fue sacado de su hogar terrenal a una edad temprana, y creció en el espacio exterior junto al grupo pirata Devastadores. Como el intrépido Star-Lord, Quill viaja por el cosmos en su nave espacial, la Milano, en busca de fortuna. Equipado con un desintegrador de alta tecnología y una mezcla de música de su casa, Star-Lord lidera un equipo poco probable de desajustes interestelares, los Guardianes de la Galaxia, en sus intentos de hacer un poco de bien, un poco de mal, ¡¡un poco de de ambos!!"
       },
       "cards": [
         {
@@ -895,20 +895,10 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "M"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -917,20 +907,10 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -939,19 +919,9 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -960,19 +930,9 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -981,20 +941,10 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "A"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1003,20 +953,10 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "M",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1025,20 +965,10 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "H",
             "H"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1047,19 +977,9 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1068,20 +988,10 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W",
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1090,29 +1000,20 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "PROBLEM SOLVER",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Give an ATTACK, HEROIC, or MOVE token from the pool to another Hero.",
               "locText": "Peter Quill"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1121,29 +1022,20 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "PROBLEM SOLVER",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Give an ATTACK, HEROIC, or MOVE token from the pool to another Hero.",
               "locText": "Peter Quill"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         },
         {
           "cardType": "hero",
@@ -1152,33 +1044,22 @@
             "text": "Star-Lord",
             "locText": "Star-Lord"
           },
-          "description": null,
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "PROBLEM SOLVER",
-              "locText": null
+              "locText": ""
             },
             "description": {
               "text": "Give an ATTACK, HEROIC, or MOVE token from the pool to another Hero.",
               "locText": "Peter Quill"
             }
           },
-          "movement": null,
-          "movementText": null,
-          "bam": null,
           "actions": [
             "W"
-          ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          ]
         }
-      ],
-      "dashboard": null,
-      "tokens": null
+      ]
     },
     {
       "img": "villains/Ronan.jpg",
@@ -1193,7 +1074,7 @@
       },
       "bio": {
         "text": "Raised on the Kree homeworld, Hala, Ronan's fierce devotion and aptitude allowed him to rise in the exalted position of Supreme Accuser of the Kree Empire. However, his overly zealous lust for justice and draconian adherence to ancient traditions caused Ronan to be seen as a fanatic in the eyes of his people, leading him and the more progressive Kree to a divisive split. Setting out with an army of devoted followers, Ronan now seeks to pass judgment on all those he sees as heathens, and scour the galaxy of their presence.",
-        "locText": "Criado en el mundo natal de los Kree, Hala, la feroz devoción y aptitud de Ronan le permitieron ascender en la exaltada posición de Acusador Supremo del Imperio Kree. Sin embargo, su ansia excesivamente celosa por la justicia y su adherencia draconiana a las tradiciones antiguas hicieron que Ronan fuera visto como un fanático a los ojos de su pueblo, lo que lo llevó a él y al más progresista Kree a una división divisoria. Partiendo con un ejército de seguidores devotos, Ronan ahora busca juzgar a todos aquellos que él ve como paganos, y rastrear la galaxia de su presencia."
+        "locText": "Criado en el mundo natal de los Kree, Hala, la feroz devoción y aptitud de Ronan le permitieron ascender en la exaltada posición de Acusador Supremo del Imperio Kree. Sin embargo, su ansia excesivamente celosa por la justicia y su adherencia draconiana a las tradiciones antiguas hicieron que Ronan fuera visto como un fanático a los ojos de su pueblo, lo que lo llevó a él y a los Kree más progresistas a una separación divisoria. Partiendo con un ejército de seguidores devotos, Ronan ahora busca juzgar a todos aquellos que él ve como paganos, y limpiar la galaxia de su presencia."
       },
       "cards": [
         {
@@ -1203,17 +1084,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1222,17 +1093,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1241,17 +1102,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1260,17 +1111,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1279,17 +1120,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1298,17 +1129,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1317,17 +1138,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1336,17 +1147,7 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
-          "bam": true,
-          "actions": null,
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          "bam": true
         },
         {
           "cardType": "plan",
@@ -1355,22 +1156,17 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "KREE-LAW",
               "locText": "title"
             },
             "description": {
               "text": "Add THUG to every Location.",
-              "locText": null
+              "locText": ""
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1381,11 +1177,7 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "plan",
@@ -1394,22 +1186,17 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "KREE-LAW",
               "locText": "title"
             },
             "description": {
               "text": "Add THUG to every Location.",
-              "locText": null
+              "locText": ""
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1420,11 +1207,7 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "plan",
@@ -1433,22 +1216,17 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "COSMI-ROD",
               "locText": "title"
             },
             "description": {
               "text": "Deal 1 damage to each Hero in Ronan's Location.",
-              "locText": null
+              "locText": ""
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1459,11 +1237,7 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "plan",
@@ -1472,22 +1246,17 @@
             "text": "Ronan",
             "locText": "Ronan"
           },
-          "description": null,
           "specialEffect": {
-            "mandatory": null,
             "title": {
               "text": "COSMI-ROD",
               "locText": "title"
             },
             "description": {
               "text": "Deal 1 damage to each Hero in Ronan's Location.",
-              "locText": null
+              "locText": ""
             }
           },
-          "movement": null,
-          "movementText": null,
           "bam": true,
-          "actions": null,
           "add": {
             "left": [
               "D"
@@ -1498,173 +1267,126 @@
             "right": [
               "D"
             ]
-          },
-          "lifePoints": null,
-          "locationEffect": null,
-          "startingHand": null,
-          "bottomDeck": null
+          }
         },
         {
           "cardType": "threat",
           "img": "villains/Ronan-T1.jpg",
           "title": {
             "text": "KREE ELITE FORCE",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Each THUG in this Location requires 2 damage to be defeated.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Ronan-T1.jpg",
           "title": {
             "text": "KREE ELITE FORCE",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Each THUG in this Location requires 2 damage to be defeated.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Ronan-T3.jpg",
           "title": {
             "text": "JAILBREAK",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Heroes using MOVE to leave this Location must use MOVE MOVE instead.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Ronan-T3.jpg",
           "title": {
             "text": "JAILBREAK",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Heroes using MOVE to leave this Location must use MOVE MOVE instead.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Ronan-T5.jpg",
           "title": {
             "text": "SPACE AMBUSH",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location take 1 damage.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         },
         {
           "cardType": "threat",
           "img": "villains/Ronan-T5.jpg",
           "title": {
             "text": "SPACE AMBUSH",
-            "locText": null
+            "locText": ""
           },
           "description": {
             "text": "Heroes starting their turn in this Location take 1 damage.",
-            "locText": null
+            "locText": ""
           },
-          "specialEffect": null,
-          "movement": null,
-          "movementText": null,
           "bam": false,
           "actions": [
             "H",
             "H",
             "H"
           ],
-          "add": null,
-          "lifePoints": null,
-          "locationEffect": false,
-          "startingHand": null,
-          "bottomDeck": null
+          "locationEffect": false
         }
       ],
       "dashboard": {
         "back": {
           "img": "villains/Ronan-B.jpg",
-          "specialSetup": null,
           "superVillain": [
             "W",
             "W",
@@ -1676,24 +1398,22 @@
           "img": "villains/Ronan-A.jpg",
           "specialRules": {
             "text": "Whenever a Hero is KO'd, they get a KO token.",
-            "locText": null
+            "locText": ""
           },
           "overflow": {
             "text": "If a CIVILIAN or THUG token can't be added to a Location, deal 1 damage to 1 Hero for each token that can't be added (Heroes choose who gets each damage).",
-            "locText": null
+            "locText": ""
           },
           "bam": {
             "text": "Deal 2 damage to 1 Hero in Ronan's Location (Heroes choose).",
-            "locText": null
+            "locText": ""
           },
           "plot": {
             "text": "The Heroes lose when the group has 4 KO tokens.",
-            "locText": null
-          },
-          "lifePoints": null
+            "locText": ""
+          }
         }
-      },
-      "tokens": null
+      }
     }
   ]
 }
