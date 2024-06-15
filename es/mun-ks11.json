@@ -18309,7 +18309,11 @@
     },
     {
       "img": "villains/Brotherhood.jpg",
-      "loyalty": "hidden"
+      "loyalty": "hidden",
+      "name": {
+        "text": "Toad, Blob & Pyro",
+        "locText": "Toad, Blob & Pyro"
+      }
     }
   ],
   "faq": []

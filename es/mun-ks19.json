@@ -1835,7 +1835,11 @@
     },
     {
       "img": "villains/Horsemen.jpg",
-      "loyalty": "hidden"
+      "loyalty": "hidden",
+      "name": {
+        "text": "Apocalypse's Horsemen",
+        "locText": "Jinetes de Apocalipsis"
+      }
     }
   ],
   "faq": []

@@ -2166,7 +2166,11 @@
     },
     {
       "img": "villains/Twins.jpg",
-      "loyalty": "hidden"
+      "loyalty": "hidden",
+      "name": {
+        "text": "Scarlet Witch & Quicksilver",
+        "locText": "Scarlet Witch & Quicksilver"
+      }
     }
   ],
   "faq": []
