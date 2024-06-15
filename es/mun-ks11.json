@@ -7094,7 +7094,7 @@
     },
     {
       "img": "heroes/Lockheed.jpg",
-      "loyalty": "other",
+      "loyalty": "pet",
       "name": {
         "text": "Lockheed",
         "locText": "Lockheed"
