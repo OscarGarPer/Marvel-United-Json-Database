@@ -21708,7 +21708,7 @@
     },
     {
       "img": "villains/Sinister-Six.jpg",
-      "loyalty": "villain",
+      "loyalty": "hidden",
       "name": {
         "text": "Sinister Six",
         "locText": ""
