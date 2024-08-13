@@ -9,7 +9,7 @@
   "tokens": [],
   "characters": [
     {
-      "img": "heroes/Agatha-Harkness.jpg",
+      "img": "villains/Agatha-Harkness.jpg",
       "loyalty": "anti-hero",
       "name": {
         "text": "Agatha Harkness",
@@ -698,7 +698,7 @@
       ]
     },
     {
-      "img": "villains/Mister-Sinister.jpg",
+      "img": "heroes/Mister-Sinister.jpg",
       "loyalty": "hero",
       "name": {
         "text": "Mister Sinister",
