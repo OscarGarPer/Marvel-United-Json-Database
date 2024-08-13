@@ -1,0 +1,172 @@
+{
+  "boxId": "MUN-Spidergeddon",
+  "img": "mun-ks25.jpg",
+  "name": {
+    "text": "Marvel United Spider-geddon",
+    "locText": "Marvel United Omniverse Pledge"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "characters": [
+    {
+      "img": "villains/Anti-Venom.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Anti-Venom",
+        "locText": "Anti-Venom"
+      },
+      "realName": {
+        "text": "Eddie Brock",
+        "locText": "Eddie Brock"
+      },
+      "bio": {
+        "text": "Having separated from the Venom symbiote, Eddie tried to lead a normal life. However, he could not get a break as he soon developed cancer and intended to spend his remaining days as a volunteer at F.E.A.S.T. His kindness would ultimately pay off. as F.E.A.S.T's founder would use his powers to cure Eddie of his cancer. This unintentionally caused the traces of the symbiote that was still within him to fuse with his white blood cell and create a new symbiote, Anti-Venom. This new symbiote allows him to produce powerful antibodies that can cure any type of diseases and even eradicate other symbiotes with ease.",
+        "locText": "Habiéndose separado del simbionte Venom, Eddie intentó llevar una vida normal. Sin embargo, no pudo tomar un descanso ya que pronto desarrolló cáncer y tenía la intención de pasar los días que le quedaban como voluntario en F.E.A.S.T. Su amabilidad finalmente daría sus frutos, ya que el fundador de F.E.A.S.T usaría sus poderes para curar a Eddie de su cáncer. Esto, sin querer, provocó que los rastros del simbionte que todavía estaba dentro de él se fusionaran con sus glóbulos blancos y crearan un nuevo simbionte, Anti-Venom. Este nuevo simbionte le permite producir poderosos anticuerpos que pueden curar cualquier tipo de enfermedades e incluso erradicar otros simbiontes con facilidad."
+      }
+    },
+    {
+      "img": "villains/Morlun.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Morlun",
+        "locText": "Morlun"
+      },
+      "realName": {
+        "text": "Morlun",
+        "locText": "Morlun"
+      },
+      "bio": {
+        "text": "Morlun belongs to a clan known as the Inheritors beings that consume the life force of other creatures. They are essentially vampires that scour the multiverse for the purest life forces and have taken a liking to hunting down Totems, beings that connect the animal and human kingdoms. Morlun possesses superhuman capabilities, a result of the countless Totems that he had fed upon, allowing him to easily overpower his prey. He can not only drain one's life force with a mere physical touch, but it also allows him to sense where they are at any time.",
+        "locText": "Morlun pertenece a un clan conocido como los seres Herederos que consumen la fuerza vital de otras criaturas. Son esencialmente vampiros que recorren el multiverso en busca de las fuerzas vitales más puras y les ha gustado cazar Tótems, seres que conectan los reinos animal y humano. Morlun posee capacidades sobrehumanas, resultado de los innumerables tótems de los que se había alimentado, lo que le permitía dominar fácilmente a su presa. No sólo puede drenar la fuerza vital de uno con un simple toque físico, sino que también le permite sentir dónde están en cualquier momento."
+      }
+    },
+    {
+      "img": "heroes/Peni-Parker.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Peni Parker",
+        "locText": "Peni Parker"
+      },
+      "realName": {
+        "text": "Peni Parker",
+        "locText": "Peni Parker"
+      },
+      "bio": {
+        "text": "Regular 14-year-old schoolgirl by day, crimefighter by night. Peni protects the people of New York city as the pilot of the highly advanced SP//dr suit. She was only 9 when she lost her father to an unfortunate accident when he was piloting the SP//dr suit. With no other suitable candidate to take over but her, due to her genetic makeup, she agreed to carry on her father's legacy and enlisted into the SP//dr program. This was where she formed a psychic link with the radioactive spider that bit her, allowing her to pilot the SP//dr suit.",
+        "locText": "Colegiala normal de 14 años de día, luchadora contra el crimen de noche. Peni protege a la gente de la ciudad de Nueva York como piloto del muy avanzado traje SP//dr. Tenía sólo nueve años cuando perdió a su padre en un desafortunado accidente cuando él piloteaba el traje SP//dr. Sin ningún otro candidato adecuado para asumir el cargo excepto ella, debido a su composición genética, aceptó continuar con el legado de su padre y se alistó en el programa SP//dr. Aquí fue donde formó un vínculo psíquico con la araña radiactiva que la mordió, permitiéndole pilotar el traje SP//dr."
+      }
+    },
+    {
+      "img": "heroes/Scarlet-Spider.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Scarlet Spider",
+        "locText": "Araña Escarlata"
+      },
+      "realName": {
+        "text": "Benjamin Reilly",
+        "locText": "Benjamin Reilly"
+      },
+      "bio": {
+        "text": "Benjamin Reilly was a perfect genetic clone of Peter Parker, made to torment Peter. It was presumed that he died in his fight with Peter, but he survived with the help of his creator. He spent several years roaming the country trying to carve out an identity for himself. Being the perfect clone of Peter, he possessed the same powers as Spider-Man and used them to help people he encountered along his journey. But after learning of Aunt May' declining health, Benjamin would return to New York, and he would cross paths with Peter once again. However, they now fight alongside one another with the common goal of protecting the ones that they hold dear.",
+        "locText": "Benjamin Reilly era un clon genético perfecto de Peter Parker, creado para atormentar a Peter. Se presumió que murió en su pelea con Peter, pero sobrevivió con la ayuda de su creador. Pasó varios años vagando por el país tratando de forjarse una identidad. Al ser el clon perfecto de Peter, poseía los mismos poderes que Spider-Man y los usaba para ayudar a las personas que encontraba a lo largo de su viaje. Pero después de enterarse del deterioro de la salud de la tía May, Benjamin regresaría a Nueva York y se cruzaría con Peter una vez más. Sin embargo, ahora luchan uno junto al otro con el objetivo común de proteger a sus seres queridos."
+      }
+    },
+    {
+      "img": "heroes/Silk.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Silk",
+        "locText": "Seda"
+      },
+      "realName": {
+        "text": "Cindy Moon",
+        "locText": "Cindy Moon"
+      },
+      "bio": {
+        "text": "Mere moments after Peter Parker was bitten by the radioactive spider, Cindy Moon was bitten by the very same spider. This gifted her the same powers that Peter had. However, unlike Peter, she struggled to control her power and was eventually taken in by Ezekiel Sims. Under his tutelage, Cindy mastered the use of her powers, but she was eventually locked up by Ezekiel to keep her safe from Morlun. She would eventually be freed by Peter after Morlun's defeat. Now she swings across the skylines of New York as Silk. hoping to make up for the years she lost during her isolation.",
+        "locText": "Momentos después de que Peter Parker fuera mordido por la araña radiactiva, Cindy Moon fue mordida por la misma araña. Esto le otorgó los mismos poderes que tenía Peter. Sin embargo, a diferencia de Peter, ella luchó por controlar su poder y finalmente fue acogida por Ezekiel Sims. Bajo su tutela, Cindy dominó el uso de sus poderes, pero finalmente Ezekiel la encerró para mantenerla a salvo de Morlun. Peter la liberaría después de la derrota de Morlun. Ahora recorre los horizontes de Nueva York como Seda. con la esperanza de recuperar los años que perdió durante su aislamiento."
+      }
+    },
+    {
+      "img": "heroes/Spider-Man-Noir.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Spider-Man Noir",
+        "locText": "Spider-Man Noir"
+      },
+      "realName": {
+        "text": "Peter Parker",
+        "locText": "Peter Parker"
+      },
+      "bio": {
+        "text": "This universe's Peter Parker was from 1930s New York, during the Great Depression. He was an investigative journalist who resolved to become a seeker of justice after his uncle was murdered for rallying supporters to strike against sweatshops. While investigating a smuggling ring, he was bitten by a venomous spider that emerged from a mysterious spider idol. In his fevered state, he saw visions of a Spider-god and was promised incredible powers. He emerges from his dream with his newfound spider powers and metes out justice in brutal fashion to the criminal underworld of New York.",
+        "locText": "El Peter Parker de este universo era del Nueva York de los años 30, durante la Gran Depresión. Era un periodista de investigación que decidió convertirse en un buscador de justicia después de que su tío fuera asesinado por reunir a sus partidarios para hacer huelga contra las fábricas clandestinas. Mientras investigaba una red de contrabando, fue mordido por una araña venenosa que emergió de un misterioso ídolo araña. En su estado febril, tuvo visiones de un dios araña y le prometieron poderes increíbles. Emerge de su sueño con sus nuevos poderes de araña e imparte justicia de manera brutal en el inframundo criminal de Nueva York."
+      }
+    },
+    {
+      "img": "heroes/Spider-Punk.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Spider-Punk",
+        "locText": "Spider-Punk"
+      },
+      "realName": {
+        "text": "Hobart 'Hobie' Brown",
+        "locText": "Hobart 'Hobie' Brown"
+      },
+      "bio": {
+        "text": "In an alternate universe, many suffered under the ruthless dictatorship of Norman Osborn, president of the United States. With Osborn's great power, there was no future for its citizens. Hobart 'Hobie Brown, a foul-mouthed and rebellious teenager, took to punk rock to strike out at the injustice brought upon by Oscorp. However, in an ironic twist of fate, Hobie was given the chance to topple this regime when he was bitten by a spider which was irradiated by illegal wastes dumped by Oscorp itself. With his newfound powers, Spider-Punk actively fights against those that dare to abuse their power.",
+        "locText": "En un universo alternativo, muchos sufrieron bajo la despiadada dictadura de Norman Osborn, presidente de los Estados Unidos. Con el gran poder de Osborn, no había futuro para sus ciudadanos. Hobart 'Hobie Brown, un adolescente malhablado y rebelde, recurrió al punk rock para atacar la injusticia provocada por Oscorp. Sin embargo, en un irónico giro del destino, Hobie tuvo la oportunidad de derrocar este régimen cuando fue mordido por una araña que fue irradiada por desechos ilegales vertidos por la propia Oscorp. Con sus nuevos poderes, Spider-Punk lucha activamente contra aquellos que se atreven a abusar de su poder."
+      }
+    },
+    {
+      "img": "villains/Spot.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Spot",
+        "locText": "La Mancha"
+      },
+      "realName": {
+        "text": "Jonathan Ohnn",
+        "locText": "Jonathan Ohnn"
+      },
+      "bio": {
+        "text": "Former MIT scientist working for the Kingpin, Dr. Jonathan Ohnn was tasked with finding a way to mimic the powers of the super hero, Cloak. Working late one night, the doctor created a solid black portal, which he then stepped into. When he emerged back into his lab, he realized the portals from the other dimension had adhered to his skin, covering him with black spots and bleaching his skin white. And thus, the Spot was born! It changed his physical appearance and gave him the ability to open various portals into other dimensions, allowing him to traverse or transport various objects through them.",
+        "locText": "El Dr. Jonathan Ohnn, ex científico del MIT que trabajaba para Kingpin, recibió la tarea de encontrar una manera de imitar los poderes del superhéroe Capa. Una noche, trabajando hasta tarde, el doctor creó un portal negro sólido, por el que luego entró. Cuando regresó a su laboratorio, se dio cuenta de que los portales de la otra dimensión se habían adherido a su piel, cubriéndolo con manchas negras y blanqueando su piel. ¡Y así nació La Mancha! Cambió su apariencia física y le dio la capacidad de abrir varios portales a otras dimensiones, permitiéndole atravesar o transportar varios objetos a través de ellos."
+      }
+    },
+    {
+      "img": "villains/Superior-Spider-Man.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Superior Spider-Man",
+        "locText": "Spider-Man Superior"
+      },
+      "realName": {
+        "text": "Otto Octavius",
+        "locText": "Otto Octavius"
+      },
+      "bio": {
+        "text": "This version of Spider-Man may appear to be Peter Parker, but he is really Otto Octavius. On his deathbed, Otto switched his mind with Peter's, leaving him in his dying body. Otto was overwhelmed by Peter's memories and was inspired by his selflessness and heroism. He vowed to honor Peter's dying wish and used his newfound powers to protect the people of New York. He took on the mantle of Superior Spider-Man, believing he would be even better than the original super hero due to his intellect and experience. Octavius eventually sacrificed himself to save the city, allowing Peter Parker's return as Superior Spider-Man.",
+        "locText": "Esta versión de Spider-Man puede parecer Peter Parker, pero en realidad es Otto Octavius. En su lecho de muerte, Otto cambió su mente con la de Peter, dejándolo en su cuerpo moribundo. Otto quedó abrumado por los recuerdos de Peter y se sintió inspirado por su altruismo y heroísmo. Prometió honrar el último deseo de Peter y utilizó sus nuevos poderes para proteger a la gente de Nueva York. Asumió el papel de Spider-Man Superior, creyendo que sería incluso mejor que el superhéroe original debido a su intelecto y experiencia. Octavius finalmente se sacrificó para salvar la ciudad, permitiendo el regreso de Peter Parker como Spider-Man Superior."
+      }
+    },
+    {
+      "img": "heroes/Symbiote-Spider-Man.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Symbiote Spider-Man",
+        "locText": "Spider-Man Simbionte"
+      },
+      "realName": {
+        "text": "Peter Parker",
+        "locText": "Peter Parker"
+      },
+      "bio": {
+        "text": "What if Peter never rejected the symbiote? In this alternate universe, Peter embraced the Symbiote and continued using it knowing that it was an alien lifeform. The Symbiote further enhanced his already superhuman capabilities and its shapeshifting abilities further augmented his crime fighting abilities. However, the more he used the Symbiote, the more tightly it bonded to Peter. He eventually noticed that his movements grew more feral, and the Symbiote would act of its own accord on some occasions. He could feel his control over the Symbiote gradually slipping away... Great power comes at a great cost.",
+        "locText": "¿Qué pasaría si Peter nunca rechazara el simbionte? En este universo alternativo, Peter abrazó el Simbionte y continuó usándolo sabiendo que era una forma de vida alienígena. El Simbionte mejoró aún más sus capacidades ya sobrehumanas y sus habilidades de cambio de forma aumentaron aún más sus habilidades para luchar contra el crimen. Sin embargo, cuanto más usaba el Simbionte, más estrechamente se unía a Peter. Finalmente notó que sus movimientos se volvían más salvajes y que el Simbionte actuaba por sí solo en algunas ocasiones. Podía sentir que su control sobre el Simbionte se le escapaba gradualmente... Un gran poder tiene un gran coste."
+      }
+    } 
+  ]
+}

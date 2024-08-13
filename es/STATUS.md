@@ -10,7 +10,7 @@
 ### [Marvel United Omniverse Pledge](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-omniverse.json)
 - BIOs listas. WIP.
 
-### [Witching Hour](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-promo02.json)
+### [Witching Hour](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-pr02.json)
 - BIOs listas. WIP.
 
 ### [Symbiotes Promo Deck](https://raw.githubusercontent.com/OscarGarPer/Marvel-United-Json-Database/main/es/mun-symbiotes.json)

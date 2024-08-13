@@ -10526,7 +10526,7 @@
     },
     {
       "img": "villains/Deadpool.jpg",
-      "loyalty": "anti-hero",
+      "loyalty": "villain",
       "name": {
         "text": "Deadpool",
         "locText": "Deadpool"
@@ -10540,247 +10540,6 @@
         "locText": "El \"Mercenario Bocazas\" comenzó como asesino interna_\n\n¿Realmente necesito escribir esto de nuevo? Escucha, es el mismo personaje, pero ahora como Villano..."
       },
       "cards": [
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force1.jpg",
-          "title": {
-            "text": "Deadpool (X-Force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Regenerative Healing Factor",
-              "locText": ""
-            },
-            "description": {
-              "text": "As long as this card is faceup in the Storyline, if you have less tha 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "H"
-          ],
-          "startingHand": true
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force2.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Improved Resistance To Everything",
-              "locText": ""
-            },
-            "description": {
-              "text": "Until the beginning of your next turn, any special effects on Master Plan cards played have no effect on Deadpool.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "A"
-          ],
-          "startingHand": true
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force3.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force4.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "actions": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force5.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "mandatory": true,
-            "title": {
-              "text": "Totally Unpredictable",
-              "locText": ""
-            },
-            "description": {
-              "text": "On your next turn, you MUST play your Hero card randomly.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M",
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force5.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "mandatory": true,
-            "title": {
-              "text": "Totally Unpredictable",
-              "locText": ""
-            },
-            "description": {
-              "text": "On your next turn, you MUST play your Hero card randomly.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M",
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force7.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Fight Through The Pain",
-              "locText": ""
-            },
-            "description": {
-              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force7.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Fight Through The Pain",
-              "locText": ""
-            },
-            "description": {
-              "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force9.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Bea Might Be In Danger",
-              "locText": ""
-            },
-            "description": {
-              "text": "Rescue 1 [CIVILIAN] in your Location.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force9.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Bea Might Be In Danger",
-              "locText": ""
-            },
-            "description": {
-              "text": "Rescue 1 [CIVILIAN] in your Location.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force11.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Maximum Firepower",
-              "locText": ""
-            },
-            "description": {
-              "text": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force11.jpg",
-          "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (X-Force)"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Maximum Firepower",
-              "locText": ""
-            },
-            "description": {
-              "text": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M"
-          ]
-        },
         {
           "cardType": "threat",
           "img": "villains/Deadpool-T2.jpg",
@@ -17538,7 +17297,7 @@
     },
     {
       "img": "villains/Juggernaut.jpg",
-      "loyalty": "anti-hero",
+      "loyalty": "villain",
       "name": {
         "text": "Juggernaut",
         "locText": "Juggernaut"
@@ -17552,203 +17311,6 @@
         "locText": "Nacido sin genes mutantes, Cain Marko ganó sus poderes después de tocar la Gema Carmesí de Cyttorak, que lo convirtió en el Juggernaut sobrehumano. Más tarde se enteró de que él era el avatar de Cyttorak diseñado para eliminar el libre albedrío humano. Con la ayuda de los X-Men, frustró el plan. Habiendo crecido como el hermanastro de Charles Xavier, Cain lo había odiado por sus poderes innatos. Pasó su vida en la búsqueda de acabar con la de Xavier, pero no tuvo éxito en cada intento."
       },
       "cards": [
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut1.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Protecting The Weakness",
-              "locText": ""
-            },
-            "description": {
-              "text": "As long as this card is faceup in the Storyline, each time 1 [CIVILIAN] in your Location is about to be discarded, you may take 1 damage to prevent it.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "H"
-          ],
-          "startingHand": true
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut2.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "actions": [
-            "H"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut3.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "actions": [
-            "M",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut3.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "actions": [
-            "M",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut5.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "actions": [
-            "M",
-            "H"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut6.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut7.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "actions": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut8.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Charge",
-              "locText": ""
-            },
-            "description": {
-              "text": "[MOVE], then [ATTACK].",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut8.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Charge",
-              "locText": ""
-            },
-            "description": {
-              "text": "[MOVE], then [ATTACK].",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut10.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Juggernaut Armor",
-              "locText": ""
-            },
-            "description": {
-              "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut10.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Juggernaut Armor",
-              "locText": ""
-            },
-            "description": {
-              "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Juggernaut12.jpg",
-          "title": {
-            "text": "Juggernaut",
-            "locText": "Juggernaut"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Double Agent Juggernaut",
-              "locText": ""
-            },
-            "description": {
-              "text": "As long a this card is faceup in the Storyline, if during your turn you enter a Location with a Henchman you may reveal the top card of the Master Plan deck.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M"
-          ]
-        },
         {
           "cardType": "threat",
           "img": "villains/Juggernaut-T2.jpg",
@@ -23522,10 +23084,10 @@
     },
     {
       "img": "villains/Mister-Sinister.jpg",
-      "loyalty": "anti-hero",
+      "loyalty": "villain",
       "name": {
         "text": "Mister Sinister",
-        "locText": "Mr Siniestro"
+        "locText": "Míster Siniestro"
       },
       "realName": {
         "text": "Nathaniel Essex",
@@ -23536,213 +23098,6 @@
         "locText": "El genio genetista victoriano Nathan Essex recibió poderes de Apocalipsis, convirtiéndose en Mister Sinister. Usando ADN de mutantes, aisló el gen de la mutación y pudo inyectarse diferentes poderes. Experimentó con tantos mutantes como pudo. Más tarde, disfrazado como el Doctor Robert Windsor, trajo de vuelta el programa Arma X como una forma de experimentar más."
       },
       "cards": [
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister1.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Master Geneticist",
-              "locText": ""
-            },
-            "description": {
-              "text": "As long as this card is faceup in the Storyline, if you end your turn in a Location with any other Heroes, you may place 1 DNA token on one of their faceup cards in the Storyline with not DNA token.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ],
-          "startingHand": true
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister2.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "actions": [
-            "M",
-            "H"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister3.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "actions": [
-            "H",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister4.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "actions": [
-            "M",
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister5.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister6.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "actions": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister7.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Secret Agenda",
-              "locText": ""
-            },
-            "description": {
-              "text": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister7.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Secret Agenda",
-              "locText": ""
-            },
-            "description": {
-              "text": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister7.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Secret Agenda",
-              "locText": ""
-            },
-            "description": {
-              "text": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose.",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister10.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Master Manipulator",
-              "locText": ""
-            },
-            "description": {
-              "text": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly).",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister10.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Master Manipulator",
-              "locText": ""
-            },
-            "description": {
-              "text": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly).",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Mister-Sinister10.jpg",
-          "title": {
-            "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
-          },
-          "specialEffect": {
-            "title": {
-              "text": "Master Manipulator",
-              "locText": ""
-            },
-            "description": {
-              "text": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly).",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "W"
-          ]
-        },
         {
           "cardType": "threat",
           "img": "villains/Mister-Sinister-T2.jpg",
@@ -23850,7 +23205,7 @@
           "img": "villains/Mister-Sinister-MP1.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 0,
           "bam": true,
@@ -23874,7 +23229,7 @@
           "img": "villains/Mister-Sinister-MP2.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 1,
           "bam": true,
@@ -23896,7 +23251,7 @@
           "img": "villains/Mister-Sinister-MP3.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 1,
           "bam": true,
@@ -23918,7 +23273,7 @@
           "img": "villains/Mister-Sinister-MP4.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 2,
           "bam": true,
@@ -23940,7 +23295,7 @@
           "img": "villains/Mister-Sinister-MP5.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 2,
           "bam": true,
@@ -23962,7 +23317,7 @@
           "img": "villains/Mister-Sinister-MP6.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 3,
           "add": {
@@ -23983,7 +23338,7 @@
           "img": "villains/Mister-Sinister-MP7.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 4,
           "bam": true,
@@ -24005,7 +23360,7 @@
           "img": "villains/Mister-Sinister-MP8.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 5,
           "bam": true,
@@ -24029,7 +23384,7 @@
           "img": "villains/Mister-Sinister-MP9.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 0,
           "movementText": {
@@ -24052,7 +23407,7 @@
           "img": "villains/Mister-Sinister-MP9.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 0,
           "movementText": {
@@ -24075,7 +23430,7 @@
           "img": "villains/Mister-Sinister-MP11.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 0,
           "bam": true,
@@ -24106,7 +23461,7 @@
           "img": "villains/Mister-Sinister-MP12.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": "Mr Siniestro"
+            "locText": "Míster Siniestro"
           },
           "M": 0,
           "bam": true,
@@ -32013,7 +31368,7 @@
       }
     },
     {
-      "img": "villains/Scarlet-Witch.jpg",
+      "img": "villains/Scarlet-Witch-FC.jpg",
       "loyalty": "villain-bio",
       "name": {
         "text": "Scarlet Witch (First Class)",

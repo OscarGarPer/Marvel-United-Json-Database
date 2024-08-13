@@ -1,0 +1,2164 @@
+{
+  "boxId": "MUN-Omniverse",
+  "img": "mun-ks25.jpg",
+  "name": {
+    "text": "Marvel United Omniverse Pledge",
+    "locText": "Marvel United Omniverse Pledge"
+  },
+  "rulebook": "rulebooks/Unificado.pdf",
+  "tokens": [],
+  "characters": [
+    {
+      "img": "villains/Abomination.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Abomination",
+        "locText": "Abominación"
+      },
+      "realName": {
+        "text": "Emil Blonsky",
+        "locText": "Emil Blonsky"
+      },
+      "bio": {
+        "text": "While secretly loitering in Bruce Banner's lab, Emil stood in front of Banner's gamma radiation equipment and activated it, bombarding himself with a more concentrated and intense dosage of gamma radiation than that which first turned Banner into the Hulk. Like Banner, Blonsky had an unknown genetic factor in his body that saved him from being killed by the massive dose. Instead, the radiation transformed Blonsky into a monster General Ross's daughter called the Abomination.",
+        "locText": "Mientras merodeaba en secreto en el laboratorio de Bruce Banner, Emil se paró frente al equipo de radiación gamma de Banner y lo activó, bombardeándose con una dosis de radiación gamma más concentrada e intensa que la que convirtió a Banner en Hulk. Al igual que Banner, Blonsky tenía un factor genético desconocido en su cuerpo que lo salvó de morir por la dosis masiva. En cambio, la radiación transformó a Blonsky en un monstruo que la hija del general Ross llamó la Abominación."
+      }
+    },
+    {
+      "img": "villains/Absorbing-Man.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Absorbing Man",
+        "locText": "Hombre absorbente"
+      },
+      "realName": {
+        "text": "Carl Creel",
+        "locText": "Carl Creel"
+      },
+      "bio": {
+        "text": "Creel was a kid living on the streets at 16, embarking on a life of crime until he was arrested and imprisoned. During his sentence, Creel was chosen by Loki as his unwitting agent in a scheme against Thor. Loki added rare Asgardian herbs to Creel's drinking water, granting him the power to absorb the physical properties of anything with which he came in contact. Creel used his new-found power to break free from prison and battle with Thor. Absorbing the properties of Thor's hammer and Thor himself. Greel, now called the Absorbing Man, became one of the strongest mortal foes Thor ever combated.",
+        "locText": "Creel era un niño que vivía en la calle a los 16 años y se embarcó en una vida delictiva hasta que fue arrestado y encarcelado. Durante su sentencia, Creel, sin saberlo, fue elegido por Loki como su agente en un plan contra Thor. Loki añadió raras hierbas asgardianas al agua potable de Creel, otorgándole el poder de absorber las propiedades físicas de cualquier cosa con la que entrara en contacto. Creel usó su nuevo poder para liberarse de la prisión y luchar contra Thor. Absorbiendo las propiedades del martillo de Thor y del propio Thor. Greel, ahora llamado el Hombre Absorbente, se convirtió en uno de los enemigos mortales más fuertes que Thor jamás haya combatido."
+      }
+    },
+    {
+      "img": "heroes/Agent-Venom.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Agent Venom",
+        "locText": "Agente Venom"
+      },
+      "realName": {
+        "text": "Eugene Thompson",
+        "locText": "Eugene Thompson"
+      },
+      "bio": {
+        "text": "\"Flash\" Thompson, who lost both legs in the Iraq war, turns into the superhero Agent Venom after being bound to the Venom symbiote, which he controls via drugs He did this because, as dangerous as the symbiote was, bonding with it allowed him to walk again. But he can't stay bonded to the Venom symbiote for more than 48 hours at a time, or the symbiote may gain complete control over him. He joins the Secret Avengers as hero Agent Venom, battling the Human Fly and infiltrating and attacking Crime Master and his men.",
+        "locText": "\"Flash\" Thompson, que perdió ambas piernas en la guerra de Irak, se convierte en el superhéroe Agente Venom después de estar vinculado al simbionte Venom, que controla a través de drogas. Hizo esto porque, por muy peligroso que fuera el simbionte, el vínculo con el le permitió volver a caminar. Pero no puede permanecer unido al simbionte de Venom durante más de 48 horas seguidas, o el simbionte podría obtener un control total sobre él. Se une a los Vengadores Secretos como el héroe Agente Venom, luchando contra la Mosca Humana e infiltrándose y atacando al Maestro del Crimen y sus hombres."
+      }
+    },
+    {
+      "img": "villains/Air-Walker.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Air-Walker",
+        "locText": "Caminante Aéreo"
+      },
+      "realName": {
+        "text": "Gabriel Lan",
+        "locText": "Gabriel Lan"
+      },
+      "bio": {
+        "text": "A captain in the Xandarian Nova Corps, Gabriel Lan was abducted and transformed into Air-Walker by Galactus, becoming his herald. The Air-Walker possessed superhuman strength, endurance, reflexes and reactions, mastery of the electromagnetic spectrum and total immunity to the rigors of space. On a journey to seek a planet for Galactus' sustenance, Air-Walker battled the alien Ovoids race. They kill Lan, but not before Galactus retrieves and transfers the last spank of Lan's soul into an android body.",
+        "locText": "Capitán del Cuerpo Nova Xandariano, Gabriel Lan fue secuestrado y transformado en Caminante Aéreo por Galactus, convirtiéndose en su heraldo. El Caminante Aéreo poseía una fuerza sobrehumana, resistencia, reflejos, dominio del espectro electromagnético y total inmunidad a los rigores del espacio. En un viaje para buscar un planeta para el sustento de Galactus, Caminante Aéreo luchó contra la raza alienígena Ovoides. Matan a Lan, pero no antes de que Galactus recupere y transfiera el último azote del alma de Lan a un cuerpo de androide."
+      }
+    },
+    {
+      "img": "pets/Alligator-Loki.jpg",
+      "loyalty": "pet",
+      "name": {
+        "text": "Alligator Loki",
+        "locText": "Caimán Loki"
+      },
+      "bio": {
+        "text": "This reptilian God of Mischief is as devious as his human counterpart and he's ready to cause trouble. Alligator Loki is from an alternate reality, but it's not known whether he was born an alligator or turned into one. What is certain is that this Loki variant is as devious as any Loki. Don't trust his alligator smile or crocodile tears. While he can be a valuable companion, he might also just bite your hand off.",
+        "locText": "Este Dios de las travesuras reptiliano es tan tortuoso como su contraparte humana y está listo para causar problemas. El caimán Loki es de una realidad alternativa, pero no se sabe si nació caimán o se convirtió en uno. Lo que es seguro es que esta variante de Loki es tan tortuosa como cualquier Loki. No confíes en su sonrisa de caimán ni en sus lágrimas de cocodrilo. Si bien puede ser un compañero valioso, también podría arrancarte la mano de un mordisco."
+      }
+    },
+    {
+      "img": "villains/Annihilus.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Annihilus",
+        "locText": "Annihilus"
+      },
+      "bio": {
+        "text": "Annihilus is an interdimensional insectoid conqueror and tyrant hailing from the Negative Zone, a pocket dimension located on Earth-616. Birthed from the planet Arthros, he attempted to take over the entire realm wielding the Cosmic Control Rod. As a nihilist, he destroys any other living being he sees as a threat to his existence. Most recently, Annihilus learned that our positive-matter universe was gradually expanding into his anti-matter Negative Zone. Seeking to take back what he believed was rightfully his, Annihilus led a majority of his Annihilation Wave fleet through the Crunch.",
+        "locText": "Annihilus es un conquistador y tirano insectoide interdimensional proveniente de la Zona Negativa, una dimensión de bolsillo ubicada en la Tierra-616. Nacido en el planeta Arthros, intentó apoderarse de todo el reino empuñando la Vara de Control Cósmico. Como nihilista, destruye cualquier otro ser vivo que vea como una amenaza a su existencia. Más recientemente, Annihilus descubrió que nuestro universo de materia positiva se estaba expandiendo gradualmente hacia su Zona Negativa de antimateria. Buscando recuperar lo que creía que era suyo por derecho, Annihilus lideró la mayoría de su flota Annihilation Wave a través del Crunch."
+      }
+    },
+    {
+      "img": "villains/Apocalypse-Age-Of.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Apocalypse (Age Of Apocalypse)",
+        "locText": "Apocalipsis (Era De Apocalipsis)"
+      },
+      "realName": {
+        "text": "En Sabah Nur",
+        "locText": "En Sabah Nur"
+      },
+      "bio": {
+        "text": "En Sabah Nur was one of the earliest mutants on earth. A strict believer in the survival of the fittest, after the murder of Charles Xavier by Legion, he officially launched his offensive against humankind. With Xavier dead, and Apocalypse beginning ten years earlier than he did before, there was no one to stand in his way. He gathered a large group of Horsemen to fight his battles, but only landed up with four. Apocalypse eventually defeated most of the world's governments, with only one remaining threat: the X-Men.",
+        "locText": "En Sabah Nur fue uno de los primeros mutantes de la tierra. Creyente estricto en la supervivencia del más fuerte, tras el asesinato de Charles Xavier a manos de Legion, lanzó oficialmente su ofensiva contra la humanidad. Con Xavier muerto y Apocalipsis comenzando diez años antes de cuando lo había hecho, no había nadie que se interpusiera en su camino. Reunió un gran grupo de jinetes para librar sus batallas, pero terminó solo con cuatro. Apocalipsis finalmente derrotó a la mayoría de los gobiernos del mundo, y solo quedó una amenaza: los X-Men."
+      }
+    },
+    {
+      "img": "villains/Ares.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Ares",
+        "locText": "Ares"
+      },
+      "realName": {
+        "text": "Ares",
+        "locText": "Ares"
+      },
+      "bio": {
+        "text": "He's an Olympian god of savage warfare, an arms dealer and registered superhero. Ares possesses superhuman speed, strength, stamina, durability, and reflexes, and he's got regenerative healing powers. As God of War, Ares has the power to influence all forms of conflict including mental, physical, spiritual, and conceptual ones. Initially seen as a super villain, Ares would later be seen as a being who lived to take part in battle. Ares took part in the battle against the Hulk and his Warbound. He was charged with punishing his half-brother, Hercules, for aiding the Hulk, but Ares failed, and Hercules escaped.",
+        "locText": "Es un dios olímpico de la guerra salvaje, un traficante de armas y un superhéroe registrado. Ares posee velocidad, fuerza, resistencia, durabilidad y reflejos sobrehumanos, y tiene poderes curativos regenerativos. Como Dios de la guerra, Ares tiene el poder de influir en todas las formas de conflicto, incluidos los mentales, físicos, espirituales y conceptuales. Inicialmente visto como un súper villano, Ares luego sería visto como un ser que vivía para participar en la batalla. Ares participó en la batalla contra Hulk y sus Warbound. Fue acusado de castigar a su medio hermano, Hércules, por ayudar a Hulk, pero Ares falló y Hércules escapó."
+      }
+    },
+    {
+      "img": "heroes/Aurora.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Aurora",
+        "locText": "Aurora"
+      },
+      "realName": {
+        "text": "Jeanne-Marie Beaubier",
+        "locText": "Jeanne-Marie Beaubier"
+      },
+      "bio": {
+        "text": "Orphaned as a baby, Jeanne-Marie Beaubier was sent to a religious school in Quebec. Unhappy, she attempted suicide by jumping off a roof, but instead of falling, she began to fly. Unaware of her mutant nature, the school punished her, triggering a dissociative identity disorder that she learned to suppress. It emerged again as an adult. While in Montreal, she faced a pair of muggers managing to subdue them. Wolverine saw the attack and brought her to meet James MacDonald Hudson, creator of a group superhuman agents. She joined his team under the codename Aurora.",
+        "locText": "Huérfana de bebé, Jeanne-Marie Beaubier fue enviada a una escuela religiosa en Quebec. Infeliz, intentó suicidarse saltando desde un tejado, pero en lugar de caer, empezó a volar. Sin darse cuenta de su naturaleza mutante, la escuela la castigó, lo que desencadenó un trastorno de identidad disociativo que aprendió a reprimir. Surgió nuevamente como adulto. Mientras estaba en Montreal, se enfrentó a un par de atracadores que lograron someterlos. Lobezno vio el ataque y la llevó a conocer a James MacDonald Hudson, creador de un grupo sobrehumano agentes. Se unió a su equipo con el nombre en clave Aurora."
+      }
+    },
+    {
+      "img": "heroes/Black-Bolt.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Black Bolt",
+        "locText": "Rayo Negro"
+      },
+      "realName": {
+        "text": "Blackagar Boltagon",
+        "locText": "Blackagar Boltagon"
+      },
+      "bio": {
+        "text": "Black Bolt possesses superhuman strength, speed, stamina, reflexes, telepathic immunity, particle manipulation and flight. He's the ruler of Attilan and a member of the Inhumans. Bolt's signature power is his voice. Speaking triggers a massive disturbance in the form of a highly destructive shockwave capable of leveling a city. Due to the extreme danger posed by this power, Bolt has undergone rigorous mental training to prevent himself from uttering a sound... and speaks through sign language or via a spokesperson. Black Bolt embarks on an aggressive campaign against all former persecutors of the Inhumans in the War of Kings.",
+        "locText": "Rayo Negro posee fuerza, velocidad, resistencia, reflejos, inmunidad telepática, manipulación de partículas y vuelo sobrehumanos. Es el gobernante de Attilan y miembro de los Inhumanos. El poder característico de Rayo Negro es su voz. Hablar desencadena una perturbación masiva en forma de una onda de choque altamente destructiva capaz de arrasar una ciudad. Debido al peligro extremo que representa este poder, Rayo Negro se ha sometido a un riguroso entrenamiento mental para evitar emitir un sonido... y habla mediante lenguaje de señas o a través de un portavoz. Rayo Negro se embarca en una agresiva campaña contra todos los antiguos perseguidores de los Inhumanos en la Guerra de los Reyes."
+      }
+    },
+    {
+      "img": "heroes/Black-Knight.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Black Knight",
+        "locText": "Caballero Negro"
+      },
+      "realName": {
+        "text": "Dane Whitman",
+        "locText": "Dane Whitman"
+      },
+      "bio": {
+        "text": "Dane became the modern-day Black Knight when his uncle, the villainous Black Knight, summoned him after being mortally wounded. With his last words, his uncle confessed to his life of crime and bid Dane to restore the honor of the Black Knight legacy. He gave Whitman the weapons he used for crime, including the Ebony Blade, a magical blade forged by Merlin. With the Blade he defeated the demonic guardian of the sword. Black Knight would infiltrate the Masters of Evil to prove himself to the Avengers, who offer him membership.",
+        "locText": "Dane se convirtió en el Caballero Negro de hoy en día cuando su tío, el villano Caballero Negro, lo convocó después de haber sido herido de muerte. Con sus últimas palabras, su tío confesó su vida criminal y le pidió a Dane que restaurara el honor del legado del Caballero Negro. Le dio a Whitman las armas que usó para cometer crímenes, incluida la Espada Ébano, una espada mágica forjada por Merlín. Con la Espada Ébano derrotó al demoníaco guardián de la espada. Caballero Negro se infiltraría en los Maestros del Mal para demostrar su valía ante los Vengadores, quienes le ofrecen ser miembro."
+      }
+    },
+    {
+      "img": "heroes/Black-Panther-Shuri.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Black Panther (Shuri)",
+        "locText": "Pantera Negra (Shuri)"
+      },
+      "realName": {
+        "text": "Shuri",
+        "locText": "Shuri"
+      },
+      "bio": {
+        "text": "Princess of Wakanda and half-sister of T'Challa, Shuri spent much of her life living in his shadow. After working to stop an invasion of Wakanda and helping her brother recover, Shuri stepped into the spotlight and became the Black Panther herself.",
+        "locText": "Princesa de Wakanda y medio hermana de T'Challa, Shuri pasó gran parte de su vida viviendo a su sombra. Después de trabajar para detener una invasión de Wakanda y ayudar a su hermano a recuperarse, Shuri saltó al centro de atención y se convirtió en la Pantera Negra."
+      }
+    },
+    {
+      "img": "villains/Blastaar.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Blastaar",
+        "locText": "Blastaar"
+      },
+      "bio": {
+        "text": "Blastaar ruled the Baluurians of the planet Baluur in the Negative Zone. He was their ruthlessly monarch until his subjects rose against him. Blastaar was deposed and became a Negative Zone outlaw. He would repeatedly return to Earth attempting to conquer it but failing. Blastaar was later discovered in the Negative Zone by the Eternals. He overthrew them but was then defeated by the Avengers. He tried unsuccessfully to become King of the Kree, Shi'ar, and Inhumans by staging a coup against Medusa. He beat her, but before he could claim the throne, the Annihilators banished him back to the Negative Zone.",
+        "locText": "Blastaar gobernó a los balurianos del planeta Balur en la Zona Negativa. Fue su monarca despiadado hasta que sus súbditos se levantaron contra él. Blastaar fue depuesto y se convirtió en un forajido de la Zona Negativa. Regresaría repetidamente a la Tierra intentando conquistarla pero fracasando. Blastaar fue descubierto más tarde en la Zona Negativa por los Eternos. Los derrocó pero luego fue derrotado por los Vengadores. Intentó sin éxito convertirse en Rey de los Kree, Shi'ar e Inhumanos dando un golpe de estado contra Medusa. Él la venció, pero antes de que pudiera reclamar el trono, los Aniquiladores lo desterraron de regreso a la Zona Negativa."
+      }
+    },
+    {
+      "img": "villains/Bulldozer.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Bulldozer",
+        "locText": "Bulldozer"
+      },
+      "realName": {
+        "text": "Henry Camp",
+        "locText": "Henry Camp"
+      },
+      "bio": {
+        "text": "After Henry was dishonorably discharged from the Army, he entered a life of crime and was later imprisoned, where he became cellmates with Dirk Garthwaite, the Wrecker. Camp would become part of Garthwaite's Wrecking Crew comprised of escaped convicts. Camp became Bulldozer, constructing a special metal helmet that allowed him to withstand high amounts of concussive force. Bulldozer would always be a vital part of the villain team, remaining loyal to The Wrecker and separated from the Wrecking Crew only through his various prison terms.",
+        "locText": "Después de que Henry fuera dado de baja deshonrosamente del ejército, entró en una vida delictiva y luego fue encarcelado, donde se convirtió en compañero de celda de Dirk Garthwaite, El Demoledor. Camp pasaría a formar parte de la Brigada de Demolición de Garthwaite compuesto de presos fugados. Camp se convirtió en Bulldozer y construyó un casco de metal especial que le permitió soportar grandes cantidades de fuerza de conmoción. Bulldozer siempre sería una parte vital del equipo de villanos, permaneciendo leal a El Demoledor y separado de la Brigada de Demolición solo a través de sus diversas penas de prisión."
+      }
+    },
+    {
+      "img": "heroes/Captain-America-Classic.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Captain America (Classic)",
+        "locText": "Capitán América (Clásico)"
+      },
+      "realName": {
+        "text": "Steve Rogers",
+        "locText": "Steve Rogers"
+      },
+      "bio": {
+        "text": "Rejected by the army because of his small size and underdeveloped physique, Steve Rogers allowed himself to be used for Project Rebirth, an experiment to create super soldiers. Empowered with extensive combat training, superhuman strength, stamina, agility and durability, Rogers becomes Captain America, wearing a red, white, and blue uniform and carrying a nearly indestructible shield of vibranium and steel alloy. When his teammate, Iron Man, approved of and helped pass the Superhero Registration Act, Captain America made his opposition known, leading to a war between both sides.",
+        "locText": "Rechazado por el ejército debido a su pequeño tamaño y su físico poco desarrollado, Steve Rogers se dejó utilizar para el Proyecto Renacimiento, un experimento para crear súper soldados. Dotado de un amplio entrenamiento de combate y fuerza sobrehumana, resistencia, agilidad y durabilidad, Rogers se convierte en el Capitán América, vestido de con uniforme rojo, blanco y azul y portando un escudo casi indestructible de vibranio y aleación de acero. Cuando su compañero de equipo, Iron Man, aprobó y ayudó a aprobar la Ley de Registro de Superhéroes, el Capitán América hizo saber su oposición, lo que llevó a una guerra entre ambos bandos."
+      }
+    },
+    {
+      "img": "heroes/Captain-America-Sam-Wilson.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Captain America (Sam Wilson)",
+        "locText": "Capitán América (Sam Wilson)"
+      },
+      "realName": {
+        "text": "Samuel Thomas Wilson",
+        "locText": "Samuel Thomas Wilson"
+      },
+      "bio": {
+        "text": "Sam Wilson is a social worker who was lured to Exile, a Caribbean island where the Red Skull and his henchmen were hiding out. There he befriends Steve Rogers and together they battle and defeat the Red Skull. Allegedly, Red Skull used the Cosmic Cube to give Sam the ability to telepathically communicate with birds, especially a falcon Wilson bought, named Redwing. The Black Panther created a harness for Wilson that allowed him to fly. Captain America and The Falcon would partner for years until The Falcon left when he was named the leader of the S.H.I.E.L.D. Super-Agents.",
+        "locText": "Sam Wilson es un trabajador social que fue atraído al Exilio, una isla caribeña donde se escondían Red Skull y sus secuaces. Allí se hace amigo de Steve Rogers y juntos luchan y derrotan a Red Skull. Supuestamente, Red Skull usó el Cubo Cósmico para darle a Sam la capacidad de comunicarse telepáticamente con las aves, especialmente un halcón que compró Wilson, llamado Ala Roja. Pantera Negra creó un arnés para Wilson que le permitía volar. El Capitán América y El Halcón se asociarían durante años hasta que El Halcón se fue cuando fue nombrado líder de los Superagentes de S.H.I.E.L.D."
+      }
+    },
+    {
+      "img": "heroes/Captain-Britain-S3.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Captain Britain",
+        "locText": "Capitana Bretaña"
+      },
+      "realName": {
+        "text": "Elizabeth Braddock",
+        "locText": "Elizabeth Braddock"
+      },
+      "bio": {
+        "text": "Betsy Braddock is a British mutant telepath. While her twin brother Brian became the original Captain Britain. Betsy developed psychic powers. By serving in S.T.R.I. K.E. Psi Division, she became a secret agent. She acted as an ally to her brother in several conflicts, eventually adopting the Captain Britain mantle.",
+        "locText": "Betsy Braddock es una telépata mutante británica. Mientras que su hermano gemelo Brian se convirtió en el Capitán Bretaña original. Betsy desarrolló poderes psíquicos. Al servir en la División Psi de S.T.R.I.K.E., se convirtió en agente secreta. Actuó como aliada de su hermano en varios conflictos y finalmente adoptó el manto de Capitán Bretaña."
+      }
+    },
+    {
+      "img": "heroes/Captain-Carter.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Captain Carter",
+        "locText": "Capitana Carter"
+      },
+      "realName": {
+        "text": "Margaret \"Peggy\" Carter",
+        "locText": "Margaret \"Peggy\" Carter"
+      },
+      "bio": {
+        "text": "During World War II, the Britain-born Peggy Carter received the Super Soldier Serum and lead her own unit of Howling Commandos against the Nazis and HYDRA. Presumed to be killed after crashing a plane into the Arctic Ice, she was found alive in modern times and was recruited to S.T.R.I.K.E.",
+        "locText": "Durante la Segunda Guerra Mundial, Peggy Carter, nacida en Gran Bretaña, recibió el Suero del Súper Soldado y lideró su propia unidad de Comandos Aulladores contra los nazis e HYDRA. Se presume que murió después de estrellar un avión en el hielo del Ártico, pero fue encontrada viva en los tiempos modernos y reclutada para S.T.R.I.K.E."
+      }
+    },
+    {
+      "img": "villains/Carnage-S3.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Carnage",
+        "locText": "Matanza"
+      },
+      "realName": {
+        "text": "Cletus Kasady",
+        "locText": "Cletus Kasady"
+      },
+      "bio": {
+        "text": "Cletus Kasady was a serial killer and became Carnage after merging with the offspring of the Venom symbiote. The symbiote amplified his psychotic nature, making him a dangerous super-villain. After his alien symbiote was seemingly destroyed by a sonic weapon, he was transferred to the Ravencroft Institute. The symbiote had merged with Kasady's blood, and he released it by cutting his wrists with his handcuffs, allowing him to turn into Carnage. After slaughtering most of the doctors, guards, and inmates in his escape, he went on to recruit a \"family\" and attack New York.",
+        "locText": "Cletus Kasady era un asesino en serie y se convirtió en Carnage después de fusionarse con la descendencia del simbionte Venom. El simbionte amplificó su naturaleza psicótica, convirtiéndolo en un supervillano peligroso. Después de que su simbionte alienígena fuera aparentemente destruido por un arma sónica, fue transferido al Instituto Ravencroft. El simbionte se había fusionado con la sangre de Kasady y lo liberó cortándose las muñecas con las esposas, lo que le permitió convertirse en Carnage. Después de masacrar a la mayoría de los médicos, guardias y reclusos en su fuga, reclutó una \"familia\" y atacó Nueva York."
+      }
+    },
+    {
+      "img": "heroes/Chamber.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Chamber",
+        "locText": "Cámara"
+      },
+      "realName": {
+        "text": "Jonathon Evan Starsmore",
+        "locText": "Jonathon Evan Starsmore"
+      },
+      "bio": {
+        "text": "Jono Starsmore was at a London nightclub when his mutant ability erupted in an explosion of psionic energy. The blast tore a hole in his body from his mouth to his navel, destroying several of his major internal organs including his heart and lungs. Jono survived, though his body had been transformed into a \"chamber\" of volatile energy. Denied a normal existence, he was invited by Charles Xavier to join the reopened Massachusetts Academy as a member of the mutant trainees Generation X.",
+        "locText": "Jono Starsmore estaba en un club nocturno de Londres cuando su habilidad mutante estalló en una explosión de energía psiónica. La explosión abrió un agujero en su cuerpo desde la boca hasta el ombligo, destruyendo varios de sus principales órganos internos, incluidos el corazón y los pulmones. Jono sobrevivió, aunque su cuerpo se había transformado en una \"cámara\" de energía volátil. Al negarle una existencia normal, Charles Xavier lo invitó a unirse a la reabierta Academia de Massachusetts como miembro de los aprendices mutantes Generación X."
+      }
+    },
+    {
+      "img": "villains/Chameleon.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Chameleon",
+        "locText": "Camaleón"
+      },
+      "realName": {
+        "text": "Dmitri Smerdyakov",
+        "locText": "Dmitri Smerdyakov"
+      },
+      "bio": {
+        "text": "The Chameleon was the first-ever enemy of the superhero Spider-Man. His ability to impersonate people nearly perfectly makes him extremely dangerous! Apparently while still a teen, Dmitri became a Soviet spy and disguise artist code-named the Chameleon. He nearly framed Spider-Man as a traitor while impersonating him to steal secret LS documents. But he wouldn't defeat Spider-Man this time or the many times thereafter leading him to seek revenge on the superhero, only to end up insane and in Ravencroft Asylum.",
+        "locText": "El Camaleón fue el primer enemigo del superhéroe Spider-Man. ¡Su habilidad para hacerse pasar por personas casi a la perfección lo hace extremadamente peligroso! Aparentemente, cuando aún era un adolescente, Dmitri se convirtió en un espía soviético con el nombre en código de Camaleón. Casi acusó a Spider-Man de traidor mientras se hacía pasar por él para robar documentos secretos de LS. Pero no derrotaría a Spider-Man esta vez ni las muchas veces posteriores, lo que lo llevó a buscar venganza contra el superhéroe, solo para terminar loco e interno en el Asilo Ravencroft."
+      }
+    },
+    {
+      "img": "heroes/Chod.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Ch'od",
+        "locText": "Ch'od"
+      },
+      "bio": {
+        "text": "Ch'od is one of the founding members of the Starjammers, who, like the other original Starjammers, was a slave until Corsair led a rebellion, forming the group. Ch'od is almost always accompanied by his small, furry pet Er'reee. Ch'od has been an integral part of the Starjammers, helping the Hulk when he tried infiltrating an alien empire that was threatening the lives of his friends. He fought to depose and kill Emperor Vulcan but was captured and tortured by Vulcan for months before gaining his, and the rest of the Starjammers, freedom.",
+        "locText": "Ch'od es uno de los miembros fundadores de los Saqueadores Estelares, quien, al igual que los otros Saqueadores Estelares originales, era un esclavo hasta que Corsario lideró una rebelión, formando el grupo. Ch'od casi siempre está acompañado por su pequeña y peluda mascota Er'reee. Ch'od ha sido una parte integral de los Saqueadores Estelares, ayudando a Hulk cuando intentó infiltrarse en un imperio alienígena que amenazaba las vidas de sus amigos. Luchó para deponer y matar al Emperador Vulcano, pero fue capturado y torturado por Vulcano durante meses antes de obtener su libertad y la del resto de los Saqueadores Estelares."
+      }
+    },
+    {
+      "img": "heroes/Corsair.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Corsair",
+        "locText": "Corsario"
+      },
+      "realName": {
+        "text": "Christopher Summers",
+        "locText": "Christopher Summers"
+      },
+      "bio": {
+        "text": "A test pilot for NASA, Christopher Summers was flying his family in their private airplane when he and his wife were teleported aboard a Shi'ar starship and taken to the Shi'ar Imperial Throneworld of Chandilar. Mad Shi'ar Emperor D'Ken ordered Summers be sent to the Slave Pits of Alsibar. There, Summers met four aliens imprisoned for crimes against the Shilan Empire. Together, they escaped and stole a starship, naming their vessel the Starjammer and themselves the Starjammers. The group functioned as space pirates targeting Shi'ar vessels, taking vengeance on the Shi'ar, but taking care not to harm innocent passengers in the process.",
+        "locText": "Christopher Summers, piloto de pruebas de la NASA, estaba volando con su familia en su avión privado cuando él y su esposa fueron teletransportados a bordo de una nave espacial Shi'ar y llevados al Trono de Chandilar. El emperador Shi'ar D'Ken, enojado, ordenó que Summers fuera enviado a los Pozos de Esclavos de Alsibar. Allí, Summers conoció a cuatro extraterrestres encarcelados por crímenes contra el Imperio Shilan. Juntos, escaparon y robaron una nave estelar, llamando a su nave Starjammer y a ellos mismos Saqueadores Estelares. El grupo funcionó como piratas espaciales atacando a las naves Shi'ar, vengándose de los Shi'ar, pero teniendo cuidado de no dañar a pasajeros inocentes en el proceso."
+      }
+    },
+    {
+      "img": "villains/Cosmic-Ghost-Rider.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Cosmic Ghost Rider",
+        "locText": "Motorista Fantasma Cósmico"
+      },
+      "realName": {
+        "text": "Francis Castle",
+        "locText": "Francis Castle"
+      },
+      "bio": {
+        "text": "In the alternate reality where Thanos won, Frank Castle, originally known as the Punisher, was one of his last casualties on Earth. His soul was subsequently sent to Hell. Willing to give anything in order to punish Thanos for slaughtering his planet, the Punisher signed a demonic deal with Mephisto and became the Ghost Rider, capable of manipulating both Hellfire and the Power Cosmic.",
+        "locText": "En la realidad alternativa donde ganó Thanos, Frank Castle, originalmente conocido como El Castigador, fue una de sus últimas víctimas en la Tierra. Posteriormente su alma fue enviada al infierno. Dispuesto a dar cualquier cosa para castigar a Thanos por masacrar su planeta, El Castigador firmó un acuerdo demoníaco con Mefisto y se convirtió en el Motorista Fantasma, capaz de manipular tanto el Fuego infernal como el Poder cósmico."
+      }
+    },
+    {
+      "img": "pets/Cosmo.jpg",
+      "loyalty": "pet",
+      "name": {
+        "text": "Cosmo",
+        "locText": "Cosmo"
+      },
+      "bio": {
+        "text": "Cosmo was launched into Earth's orbit in the 1960's by the Soviet Space Program as part of an experiment but was lost in space, arriving at the Celestial space station, Knowhere, and at some point being mutated by cosmic rays. He's now a telepath who \"\"speaks\" with a Russian accent and emits telekinetic blasts,\" reads minds, and often eavesdrops on conversations. Cosmo protects Knowhere as its chief of security, often alongside his pal Nova, the last of the Nova Corps. Occasionally, Cosmo joins his friends, the Guardians of the Galaxy, on missions. This Golden Retriever-Labrador Retriever mix - with an obviously considerable lifespan - has access to all of Knowhere's technology and information resources.",
+        "locText": "Cosmo fue lanzado a la órbita de la Tierra en la década de 1960 por el Programa Espacial Soviético como parte de un experimento, pero se perdió en el espacio, llegó a la estación espacial Celestial, Sapiencial, y en algún momento fue mutado por rayos cósmicos. Ahora es un telépata que \"\"habla\"con un acento ruso y emite explosiones telequinéticas,\" lee mentes y, a menudo, escucha a escondidas las conversaciones. Cosmo protege a Sapiencial como su jefe de seguridad, a menudo junto a su amigo Nova, el último del Cuerpo Nova. De vez en cuando, Cosmo se une a sus amigos, los Guardianes de la Galaxia, en misiones. Esta mezcla de Golden Retriever y Labrador Retriever, con una vida útil obviamente considerable, tiene acceso a toda la tecnología y los recursos de información de Sapiencial."
+      }
+    },
+    {
+      "img": "villains/Crimson-Dynamo.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Crimson Dynamo",
+        "locText": "Dinamo Carmesí"
+      },
+      "realName": {
+        "text": "Anton Igorevich Vanko",
+        "locText": "Anton Igorevich Vanko"
+      },
+      "bio": {
+        "text": "Renowned to be the greatest expert on electricity of the east block. Due to his brilliance, he was funded by the Soviet Union. In his labs, he created the Jet Paralyzer technology, the costume of the Unicorn and the Crimson Dynamo Armor. After he abandoned his labs, he took on the name of \"The Crimson Dynamo\", eventually switching sides and working for Stark Industries.",
+        "locText": "Reconocido por ser el mayor experto en electricidad del bloque este. Debido a su brillantez, fue financiado por la Unión Soviética. En sus laboratorios, creó la tecnología Jet Paralyzer, el disfraz del Unicornio y la Armadura Dinamo Carmesí. Después de abandonar sus laboratorios, adoptó el nombre de \"Dinamo Carmesí\", y finalmente cambió de bando y trabajó para Stark Industries."
+      }
+    },
+    {
+      "img": "villains/Crossbones.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Crossbones",
+        "locText": "Calavera"
+      },
+      "realName": {
+        "text": "Brock Rumlow",
+        "locText": "Brock Rumlow"
+      },
+      "bio": {
+        "text": "Former New York City gang member and graduate of the infamous Taskmaster's school for criminals, Brock Rumlow became Crossbones, one of the most dangerous and feared mercenaries on the planet. Crossbones is a dangerous hand-to-hand combatant, with extensive training in multiple martial arts and fighting forms.",
+        "locText": "Brock Rumlow, ex miembro de una pandilla de la ciudad de Nueva York y graduado de la infame escuela para criminales del Supervisor, se convirtió en Calavera, uno de los mercenarios más peligrosos y temidos del planeta. Calavera es un peligroso combatiente cuerpo a cuerpo, con un amplio entrenamiento en múltiples artes marciales y formas de lucha."
+      }
+    },
+    {
+      "img": "heroes/Crystal.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Crystal",
+        "locText": "Cristal"
+      },
+      "realName": {
+        "text": "Crystalia Amaquelin",
+        "locText": "Crystalia Amaquelin"
+      },
+      "bio": {
+        "text": "Crystal is a member of the Inhumans. As an infant she was subjected to the Terrigen Mist, endowing her with powers, including the ability to mentally manipulate the four elements. Her wedding to Ronan the Accuser was interrupted by the Shi'ar Imperial Guard, who attacked as part of Emperor Vulcan's invasion of the Kree Imperium. Ronan was severely beaten. While visiting a recuperating Ronan, she inadvertently helped rally the Kree people when she showed compassion towards injured Kree commoners. This led to her being referred to as the \"people princess\" among some of the Kree people.",
+        "locText": "Crystal es miembro de los Inhumanos. Cuando era niña, fue sometida a la Niebla Terrigena, lo que le otorgó poderes, incluida la capacidad de manipular mentalmente los cuatro elementos. Su boda con Ronan el Acusador fue interrumpida por la Guardia Imperial Shi'ar, que atacó como parte de la invasión del Imperio Kree por parte del Emperador Vulcano. Ronan fue brutalmente golpeado. Mientras visitaba a Ronan en recuperación, sin darse cuenta ayudó a unir al pueblo Kree cuando mostró compasión hacia los plebeyos Kree heridos. Esto la llevó a ser conocida como la \"princesa del pueblo\" entre algunos miembros del pueblo Kree."
+      }
+    },
+    {
+      "img": "heroes/Cyborg-Spider-Man.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cyborg Spider-Man",
+        "locText": "Spider-Man Cíborg"
+      },
+      "realName": {
+        "text": "Peter Parker",
+        "locText": "Peter Parker"
+      },
+      "bio": {
+        "text": "When Spider-Man and a mercenary named Solo attacked the Sinister Six, Mysterio used his technology to create an illusion that made it appear Solo was attacking the Sinister Six when he was really attacking Spider-Man. Before Solo could kill Spider-Man, Spider-Man was saved by a man named Cyborg X. Cyborg X then took Spider-Man to a scientist named Oscar McDonnell who saved Spider-Man's life by turning him into a cyborg. Now Cyborg Spider-Man has enhanced cybernetic capabilities in addition to all the powers of Spider-Man.",
+        "locText": "Cuando Spider-Man y un mercenario llamado Solo atacaron a los Seis Siniestros, Misterio usó su tecnología para crear una ilusión que hizo que pareciera que Solo estaba atacando a los Seis Siniestros cuando en realidad estaba atacando a Spider-Man. Antes de que Solo pudiera matar a Spider-Man, Spider-Man fue salvado por un hombre llamado Cíborg X. Cíborg X luego llevó a Spider-Man a un científico llamado Oscar McDonnell, quien salvó la vida de Spider-Man convirtiéndolo en un cíborg. Ahora Spider-Man Cíborg tiene capacidades cibernéticas mejoradas además de todos los poderes de Spider-Man."
+      }
+    },
+    {
+      "img": "heroes/Cypher.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Cypher",
+        "locText": "Cifra"
+      },
+      "realName": {
+        "text": "Douglas Aaron Ramsey",
+        "locText": "Douglas Aaron Ramsey"
+      },
+      "bio": {
+        "text": "Doug Ramsey befriended Kitty Pryde as a teenager and later became a friend of the New Mutants. Ramsey was unaware that he and them were mutants until Warlock arrived on Earth. Needing help communicating with the alien, The New Mutants revealed their identities to Ramsey. He succeeded in communicating with Warlock, and both joined the New Mutants. Ramsey was code-named Cypher, because of his ability to decipher languages.",
+        "locText": "Doug Ramsey se hizo amigo de Kitty Pryde cuando era adolescente y luego se hizo amigo de los Nuevos Mutantes. Ramsey no sabía que él y ellos eran mutantes hasta que Warlock llegó a la Tierra. Al necesitar ayuda para comunicarse con el extraterrestre, Los Nuevos Mutantes revelaron sus identidades a Ramsey. Logró comunicarse con Warlock y ambos se unieron a los Nuevos Mutantes. Ramsey recibió el nombre en código Cifra debido a su capacidad para descifrar idiomas."
+      }
+    },
+    {
+      "img": "villains/Daken.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Daken",
+        "locText": "Daken"
+      },
+      "realName": {
+        "text": "Akihiro",
+        "locText": "Akihiro"
+      },
+      "bio": {
+        "text": "Decades ago, the pregnant, Japanese wife of James Howlett (Wolverine) was killed by the Winter Soldier (James Buchanan \"Bucky\" Barnes). Unbeknownst to Wolverine, his unborn baby survived. The baby's survival was thought to be possible by his inherited mutant healing factor. The child was abducted by the Winter Soldier and eventually became the assassin known as Daken.",
+        "locText": "Hace décadas, la esposa japonesa embarazada de James Howlett (Lobezno) fue asesinada por el Soldado de Invierno (James Buchanan \"Bucky\" Barnes). Sin que Lobezno lo supiera, su bebé por nacer sobrevivió. Se pensaba que la supervivencia del bebé era posible gracias a su factor de curación mutante heredado. El niño fue secuestrado por el Soldado de Invierno y finalmente se convirtió en el asesino conocido como Daken."
+      }
+    },
+    {
+      "img": "villains/Dark-Beast.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Dark Beast",
+        "locText": "Bestia Oscura"
+      },
+      "realName": {
+        "text": "Henry Philip McCoy",
+        "locText": "Henry Philip McCoy"
+      },
+      "bio": {
+        "text": "The genius Hank McCoy is one of Apocalypse's leading scientists. McCoy was responsible for creating the process needed to build the gene-spliced Infinite army used by Apocalypse to take over much of the world. Mutants deemed unfit for survival were given to him for gruesome experiments, to use in his creation of an unbeatable army for his master.",
+        "locText": "El genio Hank McCoy es uno de los principales científicos de Apocalipsis. McCoy fue responsable de crear el proceso necesario para construir el ejército Infinito con genes empalmados utilizado por Apocalipsis para apoderarse de gran parte del mundo. Se le entregaron mutantes considerados no aptos para sobrevivir para experimentos horripilantes, para que los utilizara en la creación de un ejército inmejorable para su maestro."
+      }
+    },
+    {
+      "img": "villains/Darkchild.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Darkchild",
+        "locText": "Darkchild"
+      },
+      "realName": {
+        "text": "Illyana Rasputin",
+        "locText": "Illyana Rasputin"
+      },
+      "bio": {
+        "text": "Ilyana Rasputin is a mutant sorceress who rules the demonic realm known as Limbo and is also known as Magik. As the younger sister of the X-Man Colossus, she was forcedly taken to Limbo by the malignant Belasco when she was under the X-Men's custody. In the very few seconds that passed on Earth, Ilyana aged years in Limbo, a process which caused her to master different dark arts including mutant teleporting abilities linked to Limbo, adopting the Darkchild identity.",
+        "locText": "Ilyana Rasputin es una hechicera mutante que gobierna el reino demoníaco conocido como Limbo y también conocida como Magik. Como la hermana menor del Hombre X Coloso, ella fue llevada a la fuerza al Limbo por el maligno Belasco cuando estaba bajo la custodia de los X-Men. En los poquísimos segundos que pasaron en la Tierra, Ilyana pasó años en Limbo, un proceso que la llevó a dominar diferentes artes oscuras, incluidas habilidades de teletransportación mutantes vinculadas al Limbo, adoptando la identidad Darkchild."
+      }
+    },
+    {
+      "img": "villains/Darkstar.jpg",
+      "loyalty": "anti-hero-bio",
+      "name": {
+        "text": "Darkstar",
+        "locText": "Estrella Oscura"
+      },
+      "realName": {
+        "text": "Laynia Sergeievna Petrovna",
+        "locText": "Laynia Sergeievna Petrovna"
+      },
+      "bio": {
+        "text": "Laynia Petrovna was born to Russian nuclear physicist Sergei Krylov as a mutant. She and her twin brother were taken into custody by the state and, when their superhuman abilities first manifested, were turned over to Professor Phobos. She was given the codename Darkstar because of her mutant ability to manipulate the ebony extradimensional energy known as the Darkforce, Petrovna and her brother Nikolai, codenamed Vanguard, both trained to become government agents.",
+        "locText": "Laynia Petrovna nació como mutante del físico nuclear ruso Sergei Krylov. Ella y su hermano gemelo fueron detenidos por el estado y, cuando sus habilidades sobrehumanas se manifestaron por primera vez, fueron entregados al profesor Phobos. Le dieron el nombre en clave Estrella Oscura debido a su habilidad mutante para manipular la energía extradimensional conocida como Fuerza Oscura, Petrovna y su hermano Nikolai, cuyo nombre en código es Vanguardia, fueron entrenados para convertirse en agentes del gobierno."
+      }
+    },
+    {
+      "img": "heroes/Deathlok.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Deathlok",
+        "locText": "Deathlok"
+      },
+      "realName": {
+        "text": "Michael Collins",
+        "locText": "Michael Collins"
+      },
+      "bio": {
+        "text": "Michael Collins was a computer programmer working for Roxxon Dil. Unaware that his work was being used for the Deathlok Project, when he found out, he complained to his boss Harlan Кукег. Кукег betrayed Collins and had his brain placed into the Deathlok cyborg body. Originally unable to control his new body, eventually he learns to assert his will over the program. He joins the cause to stop Carnage with the rest of the heroes.",
+        "locText": "Michael Collins era un programador informático que trabajaba para Roxxon Dil. Sin saber que su trabajo estaba siendo utilizado para el Proyecto Deathlok, cuando se enteró, se quejó a su jefe Harlan Кукег. Кукег traicionó a Collins y colocó su cerebro en el cuerpo cíborg de Deathlok. Originalmente incapaz de controlar su nuevo cuerpo, eventualmente aprende a hacer valer su voluntad sobre el programa. Se une a la causa para detener Matanza con el resto de héroes."
+      }
+    },
+    {
+      "img": "villains/Demogoblin.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Demogoblin",
+        "locText": "Demogoblin"
+      },
+      "realName": {
+        "text": "Jason Macendale",
+        "locText": "Jason Macendale"
+      },
+      "bio": {
+        "text": "Jason was down on his luck. He offered the demon Nastich his soul in exchange for power during the Inferno crisis. N'astirh bonded a demon from the \"Otherplace\" with Jason, giving him superhuman powers. He went on to fight Doctor Strange, Moon Knight and Spider-Man, but was defeated and put in prison. While incarcerated, Jason and the entity now known as Demogoblin physically split apart. After some time, he was freed and joined a gang which included Carnage, Doppelganger, Shriek and Carrion.",
+        "locText": "Jason no tuvo suerte. Le ofreció al demonio Nastich su alma a cambio de poder durante la crisis del Infierno. N'astirh vinculó a un demonio del \"Limbo\" con Jason, dándole poderes sobrehumanos. Continuó luchando contra Doctor Extraño, Caballero Luna y Spider-Man, pero fue derrotado y encarcelado. Mientras estaba encarcelado, Jason y la entidad ahora conocida como Demogoblin se separaron físicamente. Después de algún tiempo, fue liberado y se unió a una pandilla que incluía a Matanza, Doppelganger, Grito y Carrión."
+      }
+    },
+    {
+      "img": "heroes/Doc-Samson.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Doc Samson",
+        "locText": "Doctor Samson"
+      },
+      "realName": {
+        "text": "Leonard Skivorski Jr.",
+        "locText": "Leonard Skivorski Jr."
+      },
+      "bio": {
+        "text": "Doc Samson is a superhero and psychiatrist, with high intelligence, superhuman strength, stamina, speed and gamma ray empowerment. He also has the Hulk as a patient and it's been his desire to permanently cure the Hulk. During the Civil War, Samson fought alongside the Pro-Registration alliance. It's during World War Hulk that Samson worked with the Illuminati plan to exile the Hulk, helping to evacuate New York. He battled the Hulk and the Warbound upon their return to Earth, ultimately being defeated and imprisoned.",
+        "locText": "Doctor Samson es un superhéroe y psiquiatra, con gran inteligencia, fuerza sobrehumana, resistencia, velocidad y potenciación de rayos gamma. También tiene a Hulk como paciente y ha sido su deseo curar permanentemente a Hulk. Durante la Guerra Civil, Samson luchó junto a la alianza Pro-Registro. Es durante la Guerra Mundial Hulk cuando Samson trabajó con el plan de los Illuminati para exiliar a Hulk, ayudando a evacuar Nueva York. Luchó contra Hulk y Warbound a su regreso a la Tierra, y finalmente fue derrotado y encarcelado."
+      }
+    },
+    {
+      "img": "villains/Doppelganger.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Doppelganger",
+        "locText": "Doppelganger"
+      },
+      "bio": {
+        "text": "The Doppelganger began life as a living fractal, able to assume the forms and attributes of any being, real or abstract. Transformed into a monstrous version of Spider-Man by Magus. It was sent to Earth to fight in the Infinity War. Following the battle, the Doppelganger was found by Demogoblin. In New York it was attacked by the psychotic Carnage, who mistook the creature for their mutual enemy Spider-Man. However, Shriek took a liking to the Doppelganger, and they adopted it as their \"son\".",
+        "locText": "El Doppelganger comenzó su vida como un fractal viviente, capaz de asumir las formas y atributos de cualquier ser, real o abstracto. Transformado en una versión monstruosa de Spider-Man por Magus. Fue enviado a la Tierra para luchar en la Guerra del Infinito. Después de la batalla, Demogoblin encontró al Doppelganger. En Nueva York fue atacado por el psicótico Matanza, quien confundió a la criatura con su enemigo común Spider-Man. Sin embargo, a Grito le gustó el Doppelganger y lo adoptaron como su \"hijo\"."
+      }
+    },
+    {
+      "img": "heroes/Elsa-Bloodstone.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Elsa Bloodstone",
+        "locText": "Elsa Bloodstone"
+      },
+      "realName": {
+        "text": "Elsa Bloodstone",
+        "locText": "Elsa Bloodstone"
+      },
+      "bio": {
+        "text": "Hailing from a long line of monster hunters. Elsa is a naturally gifted marksman, athlete, and fighter, inheriting a degree of superhuman strength, speed, stamina, and regenerative ability from her father, Llysees, as well as an immunity to vampire bites.",
+        "locText": "Proveniente de una larga línea de cazadores de monstruos. Elsa es una tiradora, atleta y luchadora con talento natural, que hereda un grado de fuerza, velocidad, resistencia y capacidad regenerativa sobrehumanas de su padre, Llysees, así como inmunidad a las mordeduras de vampiros."
+      }
+    },
+    {
+      "img": "villains/Emperor-Doom.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Emperor Doom",
+        "locText": "Emperador Doom"
+      },
+      "realName": {
+        "text": "Victor von Doom",
+        "locText": "Víctor von Doom"
+      },
+      "bio": {
+        "text": "As part of a plan to conquer the world, Doom kidnapped the mind-controlling super villain Purple Man and imprisoned him in a Psycho-Prism that not only gave his powers to Doom, but augmented them to a global scale. Through his new power he became emperor of the Earth. His rule brought prosperity and equality to the Earth but at the cost of every citizen's free will.",
+        "locText": "Como parte de un plan para conquistar el mundo, Doom secuestró al supervillano Hombre Púrpura, que controla la mente, y lo encarceló en un Psycho-Prisma que no solo le dio sus poderes a Doom, sino que los aumentó a escala global. Gracias a su nuevo poder se convirtió en emperador de la Tierra. Su gobierno trajo prosperidad e igualdad a la Tierra, pero a costa del libre albedrío de cada ciudadano."
+      }
+    },
+    {
+      "img": "villains/Enchantress.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Enchantress",
+        "locText": "Encantadora"
+      },
+      "realName": {
+        "text": "Amora",
+        "locText": "Amora"
+      },
+      "bio": {
+        "text": "Born into the other-dimensional Asgardian race, Enchantress is an immortal sorceress who uses her manipulative abilities and beauty in pursuit of power. She is capable of energy blasts, protective shields, illusions, levitation, teleportation, conjuring, interdimensional travel, transmutation, time-disruption, and mind control.",
+        "locText": "Nacida en la raza asgardiana de otra dimensión, Encantadora es una hechicera inmortal que utiliza sus habilidades manipuladoras y su belleza en busca de poder. Es capaz de realizar explosiones de energía y escudos protectores, ilusiones, levitación, teletransportación, conjuros, viajes interdimensionales, transmutación, interrupción del tiempo y control mental."
+      }
+    },
+    {
+      "img": "villains/Fin-Fang-Foom.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Fin Fang Foom",
+        "locText": "Fin Fang Foom"
+      },
+      "bio": {
+        "text": "Fin Fang Foom is a shape-shifting alien being from the world of Kakaranthara. Foom departed his homeworld centuries ago to conquer other planets. Landing on Earth in ancient China, the crew used their shape-shifting powers to mimic human form, intending to infiltrate human society before beginning their takeover. The navigator of the craft, Foom acted as a reserve and was placed in a tomb in a deep, herb-induced sleep. He would be awakened time and again to battle numerous foes, always before returning to his entombed deep sleep.",
+        "locText": "Fin Fang Foom es un ser alienígena que cambia de forma del mundo de Kakaranthara. Foom abandonó su mundo natal hace siglos para conquistar otros planetas. Al aterrizar en la Tierra en la antigua China, la tripulación utilizó sus poderes de cambio de forma para imitar la forma humana, con la intención de infiltrarse en la sociedad humana antes de comenzar a tomar el control. Foom, el navegante de la nave, actuó como reserva y fue colocado en una tumba en un sueño profundo inducido por hierbas. Lo despertarían una y otra vez para luchar contra numerosos enemigos, siempre antes de regresar a su sueño profundo sepultado."
+      }
+    },
+    {
+      "img": "villains/Firelord.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Firelord",
+        "locText": "Señor del Fuego"
+      },
+      "realName": {
+        "text": "Pyreus Kril",
+        "locText": "Pyreus Kril"
+      },
+      "bio": {
+        "text": "Pyreus was a naval officer aboard a Xandarian explorer ship when his commander and friend, Gabriel Lan, was abducted by Galactus. Kril pursued Galactus' ship and teleported himself aboard, demanding Lan's release. Galactus was impressed by Kril and offered to help if he agreed to become his new herald. Kril was transformed by Galactus' power into Firelord. As Firelord, he wields a flaming staff and is capable of energy projection, has superhuman strength, reflexes and durability, flight, mastery of the electromagnetic spectrum and total immunity to the rigors of space. Firelord is also able to travel faster than the speed of light.",
+        "locText": "Pyreus era un oficial naval a bordo de una nave exploradora xandariana cuando su comandante y amigo, Gabriel Lan, fue secuestrado por Galactus. Kril persiguió la nave de Galactus y se teletransportó a bordo, exigiendo la liberación de Lan. Galactus quedó impresionado por Kril y se ofreció a ayudarlo si aceptaba convertirse en su nuevo heraldo. Kril fue transformado por el poder de Galactus en Señor del Fuego. Como Señor del Fuego, empuña un bastón en llamas y es capaz de proyectar energía, tiene fuerza, reflejos y durabilidad sobrehumanos, vuelo, dominio del espectro electromagnético y total inmunidad a los rigores del espacio. Señor del Fuego también puede viajar más rápido que la velocidad de la luz."
+      }
+    },
+    {
+      "img": "villains/Galactus.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Galactus",
+        "locText": "Galactus"
+      },
+      "realName": {
+        "text": "Galan",
+        "locText": "Galán"
+      },
+      "bio": {
+        "text": "At the end of his universe, Galan was approached by the Sentience of the Cosmos and fused with its essence, allowing him to survive and become Galactus, a cosmic being that consumes the energy found in planets for sustenance. Eventually, Galactus was determined to consume the energy-rich planet Earth, returning several times to try to consume it, but always being narrowly thwarted. Meanwhile, he consumed numerous inhabited worlds throughout the known universe to satiate his hunger and was feared.",
+        "locText": "Al final de su universo, la Sentiencia del Cosmos se acercó a Galán y se fusionó con su esencia, lo que le permitió sobrevivir y convertirse en Galactus, un ser cósmico que consume la energía que se encuentra en los planetas para sustentarse. Finalmente, Galactus estaba decidido a consumir el planeta Tierra, rico en energía, regresando varias veces para intentar consumirlo, pero siempre siendo frustrado por poco. Mientras tanto, consumió numerosos mundos habitados en todo el universo conocido para saciar su hambre y era temido."
+      }
+    },
+    {
+      "img": "heroes/Ghost-Rider-Johnny-Blaze.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Ghost Rider (Johnny Blaze)",
+        "locText": "Motorista Fantasma (Johnny Blaze)"
+      },
+      "realName": {
+        "text": "Johnathon Blaze",
+        "locText": "Johnathon Blaze"
+      },
+      "bio": {
+        "text": "Johnny Blaze was a motorcycle stunt performer. He became bound to Zarathos, the Spirit of Vengeance, after making a deal with the demon Mephisto to spare the life of his surrogate father, Craig \"Crash\" Simpson. Now with the power to control Hellfire and to inflict pain with his Penance Stare against the souls of those who would do harm in the world, riding his Hell Cycle as the Ghost Rider, a leather-clad skeleton with a flaming head.",
+        "locText": "Johnny Blaze era un acróbata especializado en motocicletas. Quedó vinculado a Zarathos, el Espíritu de Venganza, después de hacer un trato con el demonio Mefisto para perdonarle la vida a su padre sustituto, Craig \"Crash\" Simpson. Ahora con el poder de controlar el Fuego Infernal e infligir dolor con su Mirada de Penitencia contra las almas de aquellos que harían daño en el mundo, montando su Hell Cycle como Motorista Fantasma, un esqueleto vestido de cuero con una cabeza en llamas."
+      }
+    },
+    {
+      "img": "villains/Gladiator-Hulk.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Gladiator Hulk",
+        "locText": "Gladiador Hulk"
+      },
+      "realName": {
+        "text": "Bruce Banner",
+        "locText": "Bruce Banner"
+      },
+      "bio": {
+        "text": "Hulk's jet crashed on the planet Sakaar. This left him weak and unable to fight to his full potential, making him vulnerable enough to have an obedience disk implanted in his skin. He quickly become a servant to the evil Red King, and one of his fighting gladiators. Gladiator Hulk outperformed all the Red King's other gladiators, becoming the Champion of Sakaar. His popularity grew, and with it, his legion of fans who come to believe he's the planet's savior. Gladiator Hulk would gain the support of the planet's army, and its people, when he saved Sakaar from the Red King's plan to destroy the planet from inside.",
+        "locText": "El avión de Hulk se estrelló en el planeta Sakaar. Esto lo dejó débil e incapaz de luchar con todo su potencial, haciéndolo lo suficientemente vulnerable como para que le implantaran un disco de obediencia en la piel. Rápidamente se convierte en un sirviente del malvado Rey Rojo y uno de sus gladiadores luchadores. Gladiador Hulk superó a todos los demás gladiadores del Rey Rojo y se convirtió en el Campeón de Sakaar. Su popularidad creció, y con ella, su legión de fans que llegan a creer que es el salvador del planeta. Gladiador Hulk obtendría el apoyo del ejército del planeta y su gente cuando salvó a Sakaar del plan del Rey Rojo de destruir el planeta desde dentro."
+      }
+    },
+    {
+      "img": "villains/Gladiator.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Gladiator",
+        "locText": "Gladiador"
+      },
+      "realName": {
+        "text": "Kallark",
+        "locText": "Kallark"
+      },
+      "bio": {
+        "text": "Kallark was a cadet on his native planet Strontia. The new Imperial Guard of the Shi'ar Empire would include the finest warrior of each race of the Empire as its representative after they slayed the Council of Elders. While most of the cadets died during the mission, Kallark defeated the Council and was named Gladiator, Praetor of the Imperial Guard. Gladiator served succeeding rulers of the Shi'ar Empire, including Vulcan. Eventually, however, he'd disobey his orders to execute Lilandra and rise up against Vulcan.",
+        "locText": "Kallark era cadete en su planeta natal Strontia. La nueva Guardia Imperial del Imperio Shi'ar incluiría al mejor guerrero de cada raza del Imperio como su representante después de que asesinaran al Consejo de Ancianos. Mientras que la mayoría de los cadetes murieron durante la misión, Kallark derrotó al Consejo y fue nombrado Gladiador, Pretor de la Guardia Imperial. Gladiador sirvió a los sucesivos gobernantes del Imperio Shi'ar, incluido Vulcano. Sin embargo, eventualmente desobedecería sus órdenes de ejecutar a Lilandra y se rebeló contra Vulcano."
+      }
+    },
+    {
+      "img": "heroes/Goliath.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Goliath",
+        "locText": "Goliat"
+      },
+      "realName": {
+        "text": "William Barrett Foster",
+        "locText": "William Barrett Foster"
+      },
+      "bio": {
+        "text": "Bill Foster worked as the lab assistant of Dr. Hank Pym and then took over the research and development section of Stark International. Having memorized the formula to \"Pym Particles,\" he experimented with trying to eliminate the formula's harmful side effects. When tested on himself, - he was able to grow large like Pym and successfully duplicate Pym's powers. With Pym's encouragement, Foster became crime fighter Goliath. During the superhuman Civil War, Goliath was a member of Captain America's Secret Avengers.",
+        "locText": "Bill Foster trabajó como asistente de laboratorio del Dr. Hank Pym y luego se hizo cargo de la sección de investigación y desarrollo de Stark International. Habiendo memorizado la fórmula de las \"partículas Pym\", experimentó tratando de eliminar los efectos secundarios dañinos de la fórmula. Cuando la probó en sí mismo, pudo crecer como Pym y duplicar con éxito los poderes de Pym. Con el apoyo de Pym, Foster se convirtió en Goliat, el luchador contra el crimen. Durante la Guerra Civil sobrehumana, Goliat fue miembro de los Vengadores Secretos del Capitán América."
+      }
+    },
+    {
+      "img": "pets/Goose.jpg",
+      "loyalty": "pet",
+      "name": {
+        "text": "Goose",
+        "locText": "Goose"
+      },
+      "bio": {
+        "text": "Flerkens are alien creatures physically resembling Earth cats. But that's where the similarities end. They reproduce by laying eggs and have a pocket dimension inside their body, a bubble of space and time that exists in other worlds, from which they can spring fanged mouths or tentacles for offensive capabilities, and inside which they can keep sizeable objects. Goose was Captain Marvel's pet, though she was unaware this adorable tabby cat was actually a dangerous alien creature.",
+        "locText": "Los Flerkens son criaturas alienígenas que se parecen físicamente a los gatos terrestres. Pero ahí es donde terminan las similitudes. Se reproducen poniendo huevos y tienen una dimensión de bolsillo dentro de su cuerpo, una burbuja de espacio y tiempo que existe en otros mundos, de la que pueden brotar bocas con colmillos o tentáculos para capacidades ofensivas, y dentro de la cual pueden mantener considerable objetos. Goose era la mascota de la Capitana Marvel, aunque ella no sabía que este adorable gato atigrado era en realidad una peligrosa criatura alienígena."
+      }
+    },
+    {
+      "img": "heroes/Gorgon.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Gorgon",
+        "locText": "Gorgon"
+      },
+      "realName": {
+        "text": "Gorgon Petragon",
+        "locText": "Gorgon Petragon"
+      },
+      "bio": {
+        "text": "A member of the Inhuman Royal Family. Gorgon was subjected to the Terrigen Mists as an infant. Endowed with superhuman strength, Gorgon's modified legs can genenate powerful shock waves when he stomps his hoof-like feet. He also possesses the ability to manipulate energy. He commands the Attilan Militia, the Inhumans' military force. When the Inhumans decided to leave Earth to take over the weakened Kree Empire, Gorgon led the assault against the Kree defenses and led the Kree forces against the Shi'ar in the War of Kings.",
+        "locText": "Miembro de la Familia Real Inhumana. Gorgon fue sometido a la Niebla Terrigena cuando era niño. Dotadas de una fuerza sobrehumana, las piernas modificadas de Gorgon pueden generar poderosas ondas de choque cuando pisa fuerte con sus pies en forma de pezuñas. También posee la capacidad de manipular la energía. Él comanda la Milicia Attilan, la fuerza militar de los Inhumanos. Cuando los Inhumanos decidieron abandonar la Tierra para apoderarse del debilitado Imperio Kree, Gorgon lideró el asalto contra las defensas Kree y dirigió las fuerzas Kree contra los Shi'ar en la Guerra de los Reyes."
+      }
+    },
+    {
+      "img": "villains/Gorr.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Gorr",
+        "locText": "Gorr"
+      },
+      "bio": {
+        "text": "Gorr the Gods Butcher suffered the insurmountable loss of his entire family. After his son's death, Gorr expressed his belief there were no gods since they never helped him, being exiled by his superstitious people. While wandering the desert, Gorr witnessed a pair of battling gods fall from the sky. Shocked that gods really did exist, Gorr was enraged when the gold-armored god begged for help; the dark god's sword transforming into an amorphous mass of living darkness and bonding to him. Gorr used his new weapon, the Necrosword, to kill the gold-armored god, then vowed to seek vengeance against all gods for never answering his prayers.",
+        "locText": "Gorr el Carnicero de Dioses sufrió la pérdida insuperable de toda su familia. Después de la muerte de su hijo, Gorr expresó su creencia de que no existían dioses ya que nunca lo ayudaron, siendo exiliado por su pueblo supersticioso. Mientras deambulaba por el desierto, Gorr fue testigo de cómo un par de dioses en lucha caían del cielo. Sorprendido de que los dioses realmente existieran, Gorr se enfureció cuando el dios con armadura dorada pidió ayuda; la espada del dios oscuro se transformó en una masa amorfa de oscuridad viva y se unió a él. Gorr usó su nueva arma, la Necroespada, para matar al dios con armadura dorada, luego juró buscar venganza contra todos los dioses por nunca responder a sus oraciones."
+      }
+    },
+    {
+      "img": "heroes/Havok-X-Factor.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Havok (X-Factor)",
+        "locText": "Kaos (Factor-X)"
+      },
+      "realName": {
+        "text": "Alexander Summers",
+        "locText": "Alexander Summers"
+      },
+      "bio": {
+        "text": "Growing up estranged from his brother Scott (aka Cyclops), Alex was unaware of his mutant abilities until mutant Living Monolith captured him and absorbed his cosmic radiation. After the X-Men defeated Monolith, Alex was captured by a Sentinel and brought to Larry Trask, who gave him the codename Havok. Alex returned to New York and joined the X-Men, training to control his powers and becoming a formidable mutant. Later, Havok joined the second incarnation of X-Factor, a newly formed, government-funded, mutant agency.",
+        "locText": "Al crecer alejado de su hermano Scott (también conocido como Cíclope), Álex desconocía sus habilidades mutantes hasta que el mutante Monolito Viviente lo capturó y absorbió su radiación cósmica. Después de que los X-Men derrotaron a Monolito, Álex fue capturado por un Centinela y llevado a Larry Trask, quien le dio el nombre en clave Kaos. Álex regresó a Nueva York y se unió a los X-Men, entrenándose para controlar sus poderes y convirtiéndose en un mutante formidable. Más tarde, Kaos se unió a la segunda encarnación de Factor-X, una agencia mutante recién formada y financiada por el gobierno."
+      }
+    },
+    {
+      "img": "heroes/Hepzibah.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Hepzibah",
+        "locText": "Hepzibah"
+      },
+      "realName": {
+        "text": "*Unrevealed*",
+        "locText": "*No revelado*"
+      },
+      "bio": {
+        "text": "Hepzibah was born on the planet Tryl'sart, while under Shi'ar Imperial Rule. She spent time in the prison on the planet Alsibar, where she met Corsair for the first time. Hepzibah, with the help of several other prisoners who would later form the Starjammers, helped Corsair in their mutual escape from Shi'ar prison. With the Starjammers, Hepzibah teamed up with the X-Men on multiple occasions. During one battle, she'd be separated from the Starjammers and forced to reside with the X-Men on Earth.",
+        "locText": "Hepzibah nació en el planeta Tryl'sart, mientras estaba bajo el dominio imperial Shi'ar. Pasó un tiempo en la prisión del planeta Alsibar, donde conoció a Corsario por primera vez. Hepzibah, con la ayuda de otros prisioneros que más tarde formarían los Saqueadores Estelares, ayudó a Corsario en su escape mutuo de la prisión de Shi'ar. Con los Saqueadores Estelares, Hepzibah se asoció con los X-Men en múltiples ocasiones. Durante una batalla, sería separada de los Saqueadores Estelares y obligada a residir con los X-Men en la Tierra."
+      }
+    },
+    {
+      "img": "heroes/Hercules.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Hercules",
+        "locText": "Hércules"
+      },
+      "realName": {
+        "text": "Hercules Panhellenios",
+        "locText": "Hércules Panhellenios"
+      },
+      "bio": {
+        "text": "During Hulk's attack on Earth, Hercules, a human/Olympian hybrid with powers of a god, and Archangel united with one of the Hulk's supporters, Amadeus Cho. They agreed to help the Hulk, but when confronted, the Hulk charged them. Defending himself, Hercules gained the upper-hand against the Hulk, but was beaten down after he stopped fighting and defending himself against the Hulk to prove that he was not there to hurt him. In fact, Hercules chose to help the Hulk because of their shared sense of loss.",
+        "locText": "Durante el ataque de Hulk a la Tierra, Hércules, un híbrido humano/olímpico con poderes de un dios, y Arcángel se unieron a uno de los partidarios de Hulk, Amadeus Cho. Acordaron ayudar a Hulk, pero cuando se enfrentaron, Hulk los atacó. Al defenderse, Hércules tomó ventaja contra Hulk, pero fue derrotado después de que dejó de luchar y defenderse contra Hulk para demostrar que no estaba allí para lastimarlo. De hecho, Hércules decidió ayudar a Hulk debido a su sentimiento compartido de pérdida."
+      }
+    },
+    {
+      "img": "villains/High-Evolutionary.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "High Evolutionary",
+        "locText": "Alto Evolucionador"
+      },
+      "realName": {
+        "text": "Herbert Edgar Wyndham",
+        "locText": "Herbert Edgar Wyndham"
+      },
+      "bio": {
+        "text": "In 1928, Oxford University student Herbert Wyndham was a genetic scientist obsessed with gene mutation. Getting expelled, he moved to Transia's Wundagore Mountain, using an army of Moloids to build the \"Citadel of Science\". Wyndham developed a way to evolve animals into humans, naming them \"New Men\" and being called by them Lord High Evolutionary. The High Evolutionary evolves his brain to its full potential, giving him virtually unlimited knowledge and intellectual ability. His vast psionic powers also enable him to rearrange matter.",
+        "locText": "En 1928, Herbert Wyndham, estudiante de la Universidad de Oxford, era un científico genético obsesionado con la mutación genética. Al ser expulsado, se trasladó a la montaña Wundagore de Transia, utilizando un ejército de moloides para construir la \"Ciudadela de la Ciencia\". Wyndham desarrolló una manera de convertir animales en humanos, llamándolos \"Hombres Nuevos\" y siendo llamado por ellos Señor Alto Evolucionador. El Alto Evolucionador desarrolla su cerebro a su máximo potencial, dándole conocimiento y capacidad intelectual prácticamente ilimitados. Sus vastos poderes psiónicos también le permiten reorganizar la materia."
+      }
+    },
+    {
+      "img": "villains/Hobgoblin.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Hobgoblin",
+        "locText": "Duende"
+      },
+      "realName": {
+        "text": "Roderick Kingsley",
+        "locText": "Roderick Kingsley"
+      },
+      "bio": {
+        "text": "Kingsley was a fashion designer operating in New York City. Using ruthless business practices, he developed a financial empire reaching far beyond the fashion industry. Kingsley was able to access Norman Osborn's hideout that housed the Green Goblin's equipment. He upgraded the inventions and perfected the Goblin formula, enhancing his physical abilities and intellect without insanity. Adopting a Halloween-themed appearance and an arsenal of weapons including explosive Pumpkin Bombs, razor-sharp bats, and a high-tech Goblin Glider, Kingsley became the criminal mastermind known as the Hobgoblin.",
+        "locText": "Kingsley era un diseñador de moda que operaba en la ciudad de Nueva York. Utilizando prácticas comerciales despiadadas, desarrolló un imperio financiero que llegó mucho más allá de la industria de la moda. Kingsley pudo acceder al escondite de Norman Osborn que albergaba el equipo del Duende Verde. Mejoró los inventos y perfeccionó la fórmula Goblin, mejorando sus habilidades físicas y su intelecto sin locura. Adoptando una apariencia temática de Halloween y un arsenal de armas que incluyen bombas de calabaza explosivas, murciélagos afilados y un planeador Goblin de alta tecnología, Kingsley se convirtió en el cerebro criminal conocido como el Duende."
+      }
+    },
+    {
+      "img": "heroes/Hulkbuster-Iron-Man.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Hulkbuster Iron Man",
+        "locText": "Iron Man Hulkbuster"
+      },
+      "realName": {
+        "text": "Anthony Stark",
+        "locText": "Anthony Stark"
+      },
+      "bio": {
+        "text": "Fearing Hulk's rage might eventually become too much to control, Tony Stark developed this powerful armor from a series of modular components to confront Hulk's animal-like strength. The Hulkbuster is an armor that encases Iron Man (in his regular suit) in a protective shell. The Hulkbuster wearer is bestowed superhuman strength and durability, flight capabilities, repulsor generation, modular remote assembly, and all the standard technological enhancements common to Iron Man's armors.",
+        "locText": "Temiendo que la ira de Hulk eventualmente se vuelva demasiado difícil de controlar, Tony Stark desarrolló esta poderosa armadura a partir de una serie de componentes modulares para enfrentar la fuerza animal de Hulk. El Hulkbuster es una armadura que encierra a Iron Man (con su traje normal) en una coraza protectora. El portador de Hulkbuster recibe resistencia sobrehumana y durabilidad, capacidades de vuelo, generación de repulsores, ensamblaje remoto modular y todas las mejoras tecnológicas estándar comunes a las armaduras de Iron Man."
+      }
+    },
+    {
+      "img": "heroes/Hulkling.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Hulkling",
+        "locText": "Hulkling"
+      },
+      "realName": {
+        "text": "Dorrek-Vell",
+        "locText": "Dorrek-Vell"
+      },
+      "bio": {
+        "text": "The child of Captain Marvel and the Skrull Emperor's daughter, he was sent to Earth for his own safety, to live with his mother's servant as Theodore \"Teddy\" Rufus Altman. Altman was able to shapeshift from a young age, and also possessed super strength. Не joined the Young Avengers and adopted the super hero identity of the Hulkling. During the Civil War, S.H.I.E.L.D. arrested the Young Avengers. But Falcon and Captain America intercepted the S.H.I.E.L.D. bus transporting them. Teddy worked alongside Captain America in his plan for a final confrontation with Iron Man and his team, impersonating Yellowjacket to free the heroes held in Prison 42.",
+        "locText": "Hijo del Capitán Marvel y la hija del Emperador Skrull, fue enviado a la Tierra por su propia seguridad, para vivir con el sirviente de su madre como Theodore \"Teddy\" Rufus Altman. Altman pudo cambiar de forma desde una edad temprana y también poseía una gran fuerza. Se unió a los Jóvenes Vengadores y adoptó la identidad super heroica de Hulkling. Durante la Guerra Civil, S.H.I.E.L.D. arrestó a los Jóvenes Vengadores. Pero Halcón y el Capitán América interceptaron el autobús de S.H.I.E.L.D. que los transporta. Teddy trabajó junto al Capitán América en su plan para una confrontación final con Iron Man y su equipo, haciéndose pasar por Chaqueta Amarilla para liberar a los héroes retenidos en la Prisión 42."
+      }
+    },
+    {
+      "img": "heroes/Husk.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Husk",
+        "locText": "Vaina"
+      },
+      "realName": {
+        "text": "Paige Elisabeth Guthrie",
+        "locText": "Paige Elisabeth Guthrie"
+      },
+      "bio": {
+        "text": "After her mutant brother Sam joined the New Mutants, Paige desperately tried to discover her powers, eventually finding out that her power was to shed her skin. She kept her nature secret until her brother and others were abducted for a contest organized by the Gamesmaster. When X-Force teamed up with the New Warriors to rescue the abductees, Paige secretly followed them and managed to defeat the Gamesmaster. Soon after, Paige was kidnapped by Phalanx. When rescued by the X-Men, she subsequently became a founding member of Generation X.",
+        "locText": "Después de que su hermano mutante Sam se uniera a los Nuevos Mutantes, Paige intentó desesperadamente descubrir sus poderes y finalmente descubrió que su poder era mudar de piel. Mantuvo su naturaleza en secreto hasta que su hermano y otros fueron secuestrados para un concurso organizado por el Amo del Juego. Cuando Fuerza-X se asoció con los Nuevos Guerreros para rescatar a los secuestrados, Paige los siguió en secreto y logró derrotar al Amo del Juego. Poco después, Paige fue secuestrada por Phalanx. Tras ser rescatada por los X-Men, se convirtió en miembro fundador de la Generación X."
+      }
+    },
+    {
+      "img": "villains/Immortus.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Immortus",
+        "locText": "Immortus"
+      },
+      "realName": {
+        "text": "Nathaniel Richards",
+        "locText": "Nathaniel Richards"
+      },
+      "bio": {
+        "text": "In the future, the time-traveling Kang decided to give up his conquests. He journeyed to Limbo, a dimension that exists outside time. Immortus was contacted by the trinity of beings known as the TimeKeepers to keep humanity from expanding into space. Immortus acted as \"custodian\" of time to prevent the disastrous effects this would have on the multiverse.",
+        "locText": "En el futuro, Kang, que viajaba en el tiempo, decidió renunciar a sus conquistas. Viajó al Limbo, una dimensión que existe fuera del tiempo. Immortus fue contactado por la trinidad de seres conocidos como Guardianes del Tiempo para evitar que la humanidad se expandiera al espacio. Immortus actuó como \"custodio\" del tiempo para evitar los efectos desastrosos que esto tendría en el multiverso."
+      }
+    },
+    {
+      "img": "heroes/Iron-Lad.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Iron Lad",
+        "locText": "Iron Lad"
+      },
+      "realName": {
+        "text": "Nathaniel Richards",
+        "locText": "Nathaniel Richards"
+      },
+      "bio": {
+        "text": "In the year 3016 on an alternate Earth, robotics student Nathaniel was rescued from a life-threatening situation by his future-self, the time-traveling Kang The Conqueror. Kang gave his younger self a suit of psychokinetic armor that responded to his thoughts and gave him a glimpse of his future. Horrified at the destruction he would cause, Nathaniel rejected Kangs help and used the armor to escape to modern-day Earth, hoping to get the Avengers help against Kang. Instead, he followed Vision's plan and created the Young Avengers, taking on the identity of Iron Lad and recruiting a new generation of heroes.",
+        "locText": "En el año 3016, en una Tierra alternativa, el estudiante de robótica Nathaniel fue rescatado de una situación que amenazaba su vida por su yo futuro, el viajero en el tiempo Kang El Conquistador. Kang le dio a su yo más joven una armadura psicoquinética que respondía a sus pensamientos y le dio una idea de su futuro. Horrorizado por la destrucción que causaría, Nathaniel rechazó la ayuda de Kang y usó la armadura para escapar a la Tierra actual, con la esperanza de obtener ayuda de los Vengadores contra Kang. En cambio, siguió el plan de Vision y creó a los Jóvenes Vengadores, asumiendo la identidad de Iron Lad y reclutando una nueva generación de héroes."
+      }
+    },
+    {
+      "img": "heroes/Iron-Man-Civil-War.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Iron Man (Civil War)",
+        "locText": "Iron Man (Guerra Civil)"
+      },
+      "realName": {
+        "text": "Tony Stark",
+        "locText": "Tony Stark"
+      },
+      "bio": {
+        "text": "Tony Stark was among those working against passage of the U.S. government's proposed Superhero Registration Act, a registry for all super-powered individuals. But Stark's opinion of the Act changed when he came to view it as a means to tie the knots of friendship between humans and superheroes. He became leader of the Pro-Registration group and unmasked himself as Iron Man. The new act was divisive and split the superhero community. To deal with the Anti-Registration foes. Iron Man created Prison 42, to contain rogue superheroes for as long as the Civil War lasted.",
+        "locText": "Tony Stark fue uno de los que trabajaron contra la aprobación de la Ley de Registro de Superhéroes propuesta por el gobierno de EE. UU., un registro para todos los individuos con superpoderes. Pero la opinión de Stark sobre la Ley cambió cuando llegó a verla como un medio para unir los nudos de la amistad entre humanos y superhéroes. Se convirtió en líder del grupo Pro-Registro y se desenmascaró como Iron Man. El nuevo acto fue divisivo y separó a la comunidad de superhéroes. Para hacer frente a los enemigos Anti-Registro, Iron Man creó la Prisión 42 para contener superhéroes rebeldes mientras durara la Guerra Civil."
+      }
+    },
+    {
+      "img": "villains/Iron-Patriot.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Iron Patriot",
+        "locText": "Iron Patriot"
+      },
+      "realName": {
+        "text": "Norman Osborn",
+        "locText": "Norman Osborn"
+      },
+      "bio": {
+        "text": "Looking for a symbol to rally America behind him after becoming a hero during the Secret Invasion, Norman Osborn (better known as the Green Goblin) developed the Iron Patriot persona. He formed a coalition of the most powerful villains in the world to oppose the heroes Illuminati, though this Cabal soon began to form alliances within the group and to work against each other.",
+        "locText": "Buscando un símbolo que uniera a Estados Unidos trás él después de convertirse en un héroe durante la Invasión Secreta, Norman Osborn (más conocido como el Duende Verde) desarrolló el personaje de Iron Patriot. Formó una coalición de los villanos más poderosos del mundo para oponerse a los héroes Illuminati, aunque la Camarilla pronto comenzó a formar alianzas dentro del grupo y a enfrentarse unos contra otros."
+      }
+    },
+    {
+      "img": "heroes/Iron-Spider.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Iron Spider",
+        "locText": "Iron Spider"
+      },
+      "realName": {
+        "text": "Peter Parker",
+        "locText": "Peter Parker"
+      },
+      "bio": {
+        "text": "Designed for Spider-Man, as a gift, the Iron Spider armor wearer assumes the powers inherent in it: gadgets, including mechanical spider-arms, or \"waldoes,\" that can be used to see around corners (via cameras in the tips) and to manipulate objects, web-shooters and wall-crawling capability. The suit responds to mental control. Parker abandoned the Iron Spider armor when he switched sides during the Civil War, from the pro-side of the Superhero Registration Act, led by Iron Man, to the anti-registration side, led by Captain America.",
+        "locText": "Diseñado para Spider-Man, como regalo, el portador de la armadura Iron Spider asume los poderes inherentes a ella: dispositivos, incluidos brazos de araña mecánicos o \"waldoes\", que pueden usarse para ver en las esquinas (a través de cámaras en las puntas) y para manipular objetos, lanzar telarañas y trepar por las paredes. El traje responde al control mental. Parker abandonó la armadura Iron Spider cuando cambió de bando durante la Guerra Civil, del lado a favor de la Ley de Registro de Superhéroes, liderado por Iron Man, al lado anti-registro, liderado por el Capitán América."
+      }
+    },
+    {
+      "img": "heroes/Ironheart.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Ironheart",
+        "locText": "Ironheart"
+      },
+      "realName": {
+        "text": "Riri Williams",
+        "locText": "Riri Williams"
+      },
+      "bio": {
+        "text": "Riri Williams is a young engineering student at MIT and certified super-genius. Inspired by Tony Stark, AKA Iron Man, and determined to follow in his heroic footsteps, she reverse-engineered and built her own suit of advanced armor, similar to Iron Man, using material from campus. She now leads a life of adventure, crime-fighting, and humanitarianism as the Super Hero known as Ironheart.",
+        "locText": "Riri Williams es una joven estudiante de ingeniería en el MIT y supergenia certificada. Inspirada por Tony Stark, también conocido como Iron Man, y decidida a seguir sus heroicos pasos, realizó ingeniería inversa y construyó su propia armadura avanzada, similar a la de Iron Man, utilizando material del campus. Ahora lleva una vida de aventuras, lucha contra el crimen y realiza misiones humanitarias como la superheroína conocida como Ironheart."
+      }
+    },
+    {
+      "img": "pets/Jeffrey.jpg",
+      "loyalty": "pet",
+      "name": {
+        "text": "Jeffrey",
+        "locText": "Jeffrey"
+      },
+      "bio": {
+        "text": "Jeff the Land Shark was adopted by Gwenpool as a pet during her time on the West Coast Avengers. Her teammates were less than thrilled, but eventually accepted him, he eventually joined Gwen on Gwenpool's Island.",
+        "locText": "Jeff el Tiburón terrestre fue adoptado por Gwenpool como mascota durante su estancia en los Vengadores de la Costa Oeste. Sus compañeros de equipo no estaban muy emocionados, pero finalmente lo aceptaron y acabó uniéndose a Gwen en la isla de Gwenpool."
+      }
+    },
+    {
+      "img": "heroes/Karnak.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Karnak",
+        "locText": "Karnak"
+      },
+      "realName": {
+        "text": "Karnak Mander-Azur",
+        "locText": "Karnak Mander-Azur"
+      },
+      "bio": {
+        "text": "Karnak is the Magister of the Second Tower of Wisdom, a priest, philosopher, and adventurer. He fought with the Fantastic Four, defeated a Super-Skrull and joined the Attilan Royal Family to rescue Black Bolt from the Skrull Battleship Ryb'ik where he was being experimented on. When the Inhumans left Earth to take over the weakened Kree Empire, Karnak used his abilities to uncover weaknesses in the planet Hala's shields, allowing the Inhumans to invade and rule over the Kree.",
+        "locText": "Karnak es el Magíster de la Segunda Torre de la Sabiduría, sacerdote, filósofo y aventurero. Luchó con los Cuatro Fantásticos, derrotó a un Super-Skrull y se unió a la Familia Real Attilan para rescatar a Rayo Negro del acorazado Skrull Ryb'ik, donde se estaban experimentando con él. Cuando los Inhumanos abandonaron la Tierra para apoderarse del debilitado Imperio Kree, Karnak usó sus habilidades para descubrir debilidades en los escudos del planeta Hala, permitiendo a los Inhumanos invadir y gobernar a los Kree."
+      }
+    },
+    {
+      "img": "heroes/Kate-Bishop.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Kate Bishop",
+        "locText": "Kate Bishop"
+      },
+      "realName": {
+        "text": "Katherine Bishop",
+        "locText": "Katherine Bishop"
+      },
+      "bio": {
+        "text": "Kate Bishop, a daughter of wealth, was once held for ransom by a man her father had beaten up, El Matador. During her captivity, she attempted an escape and was saved by the Avengers. It was Hawkeye who impressed Bishop the most, and the one she would look to as a role model. She's proficient in swordplay, archery, and martial arts. A note from admirer Captain America came addressed to \"Hawkeye,\" so Bishop officially adopted the name and joined Captain America and the Secret Avengers in battle against the Superhero Registration Act.",
+        "locText": "Kate Bishop, una hija adinerada, una vez fue scuestrada para pedir un rescate por un hombre al que su padre había golpeado, El Matador. Durante su cautiverio, intentó escapar y fue salvada por los Vengadores. Fue Ojo de Halcón quien más impresionó a Bishop y a quien ella consideraría un modelo a seguir. Ella domina el manejo de la espada, el tiro con arco y las artes marciales. Una nota del Capitán América llegó dirigida a \"Hawkeye\", por lo que Bishop adoptó oficialmente el nombre y se unió al Capitán América y los Vengadores Secretos en la batalla contra la Ley de Registro de Superhéroes."
+      }
+    },
+    {
+      "img": "heroes/Kid-Loki.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Kid Loki",
+        "locText": "Loki Niño"
+      },
+      "realName": {
+        "text": "Loki Laufeyson",
+        "locText": "Loki Laufeyson"
+      },
+      "bio": {
+        "text": "Kid Loki is the Asgardian \"God of Mischief,\" the adopted son of Odin and the adopted brother of Thor. He's the reincarnation of the original Loki, who was killed at the Siege of Asgard. Before the original Loki's death, he duplicated himself. This copy, known as Ikol, had an antagonistic relationship with Kid Loki, seeing Kid Loki as the obstacle to his becoming the true Loki. During a crisis, Ikol sabotaged Kid Loki, ending when Ikol melded with Kid Loki, erasing the other's mind from existence and becoming the true Loki. But Loki unleashed Kid Loki when he needed help.",
+        "locText": "Loki Niño es el \"Dios de las Travesuras\" asgardiano, el hijo adoptivo de Odín y el hermano adoptivo de Thor. Es la reencarnación del Loki original, que murió en el Asedio de Asgard. Antes de la muerte del Loki original, se duplicó a sí mismo. Esta copia, conocida como Ikol, tenía una relación antagónica con Loki Niño, viendo a Loki Niño como el obstáculo para convertirse en el verdadero Loki. Durante una crisis, Ikol saboteó a Loki Niño, y terminó cuando Ikol se fusionó con Loki Niño, borrando la mente del otro de la existencia y convirtiéndose en el verdadero Loki. Pero Loki liberó a Loki Niño cuando necesitaba ayuda."
+      }
+    },
+    {
+      "img": "villains/Klaw.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Klaw",
+        "locText": "Klaw"
+      },
+      "realName": {
+        "text": "Ulysses Klaw",
+        "locText": "Ulysses Klaw"
+      },
+      "bio": {
+        "text": "Klaw became a physicist in the field of applied sonics. To power his sound transducer that converts sound waves into physical mass, he stole vibranium from Wakanda. The theft drew Klaw into battle against Wakandan ruler T'Chaka, whom Klaw killed. T'Chaka's son, T'Challa, who saw his father's murder, attacked Klaw, but Klaw escaped. Years later, Klaw would attack the Wakandans again, this time defeated by the Fantastic Four and T'Challa. He'd continue traveling back to Wakanda, encountering - and being defeated by - the Thing, the Human Torch, and the Black Panther.",
+        "locText": "Klaw se convirtió en físico en el campo de los sonidos aplicados. Para alimentar su transductor de sonido que convierte ondas sonoras en masa física, robó vibranio de Wakanda. El robo llevó a Klaw a la batalla contra el gobernante de Wakanda, T'Chaka, a quien Klaw mató. El hijo de T'Chaka, T'Challa, que vio el asesinato de su padre, atacó a Klaw, pero Klaw escapó. Años más tarde, Klaw volvería a atacar a los habitantes de Wakanda, esta vez fue derrotado por los Cuatro Fantásticos y T'Challa. Continuaría viajando de regreso a Wakanda, encontrándose (y siendo derrotado) por La Cosa, la Antorcha Humana y Pantera Negra."
+      }
+    },
+    {
+      "img": "villains/Knull.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Knull",
+        "locText": "Knull"
+      },
+      "bio": {
+        "text": "Knull is a primordial deity who created an army of symbiotes with himself in the center of the hive mind and used them to spread across the universe establishing the Symbiote Hive and killing gods, while enslaving others. When one dragon-like symbiote arrived on medieval Earth to claim the planet as part of the Symbiote Hive, a young Thor arrived and defeated the dragon, breaking the connection between Knull and the symbiote hive mind. The symbiotes rebelled against him and trapped him inside an artificial planet formed of billions of symbiotes. Later freed by Carnage, Knull would arrive on Earth and face the host of the Venom symbiote, Eddie Brock.",
+        "locText": "Knull es una deidad primordial que creó un ejército de simbiontes consigo mismo en el centro de la mente colmena y los usó para extenderse por todo el universo, estableciendo la Colmena Simbionte y matando dioses, mientras esclavizaba a otros. Cuando un simbionte parecido a un dragón llegó a la Tierra medieval para reclamar el planeta como parte de la Colmena Simbionte, un joven Thor llegó y derrotó al dragón, rompiendo la conexión entre Knull y la mente de la colmena simbionte. Los simbiontes se rebelaron contra él y lo atraparon dentro de un planeta artificial formado por miles de millones de simbiontes. Más tarde liberado por Matanza, Knull llegaría a la Tierra y se enfrentaría al anfitrión del simbionte de Venom, Eddie Brock."
+      }
+    },
+    {
+      "img": "heroes/Lilandra.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Lilandra",
+        "locText": "Lilandra"
+      },
+      "realName": {
+        "text": "Lilandra Neramani",
+        "locText": "Lilandra Neramani"
+      },
+      "bio": {
+        "text": "Princess-Majestrix Lilandra was a member of the royal family of the Shi'ar Empire. The power-hungry younger sister of Emperor D'ken, she served as Grand Admiral of the Imperial Guard, enforcing Shi'ar law throughout the empire. When she learned her brother wanted to use the power of the M'kraan Crystal for nefarious purposes, she fled to Earth looking for allies. Lilandra found them in the X-Men. With D'ken banished, Lilandra took the throne, but her position would be attacked by her older sister, Deathbird, and Lilandra would find herself exiled to Earth. She became a freedom fighter and aligned with the Starjammers, leading her to decide to take back her throne.",
+        "locText": "La Princesa Majestrix Lilandra era miembro de la familia real del Imperio Shi'ar. La hermana menor del Emperador D'ken, hambrienta de poder, sirvió como Gran Almirante de la Guardia Imperial, haciendo cumplir la ley Shi'ar en todo el imperio. Cuando supo que su hermano quería usar el poder del Cristal M'kraan para propósitos nefastos, huyó a la Tierra buscando aliados. Lilandra los encontró en los X-Men. Con D'ken desterrado, Lilandra tomó el trono, pero su posición sería atacada por su hermana mayor, Ave de Muerte, y Lilandra se encontraría exiliada a la Tierra. Se convirtió en una luchadora por la libertad y se alineó con los Saqueadores Estelares, llevándola a decidir recuperar su trono."
+      }
+    },
+    {
+      "img": "villains/Lizard.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Lizard",
+        "locText": "Lagarto"
+      },
+      "realName": {
+        "text": "Dr. Curtis Connors",
+        "locText": "Dr. Curtis Connors"
+      },
+      "bio": {
+        "text": "Curt Connors was a gifted surgeon in the U.S. Army who lost his right arm in a wartime blast. After returning to civilian life, he dedicated his life to creating a serum to regenerate lost limbs, using DNA from reptiles, who naturally re-grew lost limbs. Using himself as the first test subject, Connors was ecstatic when his arm began to regenerate. However, the reptilian DNA his serum was based on turned him into a vicious creature, The Lizard. While Connors was eventually \"cured\" by Spider-Man and returned to his human appearance, in times of anger, stress or sadness, Connors' body often reverts back into his reptilian form.",
+        "locText": "Curt Connors fue un talentoso cirujano en el ejército de EE.UU que perdió su brazo derecho en una explosión en tiempos de guerra. Después de regresar a la vida civil, dedicó su vida a crear un suero para regenerar las extremidades perdidas, utilizando ADN de reptiles, a quienes naturalmente les crecían las extremidades perdidas. Usándose a sí mismo como el primer sujeto de prueba, Connors quedó extasiado cuando su brazo comenzó a regenerarse. Sin embargo, el ADN reptil en el que se basó su suero lo convirtió en una criatura viciosa, El Lagarto. Si bien Connors finalmente fue \"curado\" por Spider-Man y volvió a su apariencia humana, en momentos de ira, estrés o tristeza, el cuerpo de Connors a menudo vuelve a su forma de reptil."
+      }
+    },
+    {
+      "img": "heroes/Lockjaw.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Lockjaw",
+        "locText": "Mandíbulas"
+      },
+      "bio": {
+        "text": "Lockjaw is an Inhuman giant bulldog that can open passages between dimensions, has superhuman strength in his jaw, precognition, matter ingestion and teleportation abilities. He serves the Inhuman Royal Family as their escort and protector. He has a special fondness for Crystal (Medusa's sister) and her daughter, Luna, and is highly protective of them. When Kree super-soldier Phyla-Vell kidnapped Crystal, Lockjaw teleported Black Bolt and the Inhumans to Knowhere to get her back.",
+        "locText": "Mandíbulas es un bulldog gigante inhumano que puede abrir pasajes entre dimensiones, tiene fuerza sobrehumana en su mandíbula, precognición, ingestión de materia y habilidades de teletransportación. Sirve a la Familia Real Inhumana como su escolta y protector. Tiene un cariño especial por Cristal (la hermana de Medusa) y su hija, Luna, y es muy protector con ellas. Cuando el súper soldado Kree Phyla-Vell secuestró a Cristal, Mandíbulas teletransportó a Rayo Negro y los Inhumanos a Sapiencial para recuperarla."
+      }
+    },
+    {
+      "img": "heroes/Loki.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Loki",
+        "locText": "Loki"
+      },
+      "realName": {
+        "text": "Loki Laufeyson",
+        "locText": "Loki Laufeyson"
+      },
+      "bio": {
+        "text": "The abandoned son of Frost Giant royalty, Loki was rescued from his home realm of Jotunheim and raised as a prince of Asgard by Odin. Loki became the God of Mischief and a potent agent of chaos across the realms. While his deeds could often be considered evil, he is also capable of being heroic if it serves his designs.",
+        "locText": "Loki, el hijo abandonado de la realeza de los Gigantes de Hielo, fue rescatado de su reino natal de Jotunheim y criado como príncipe de Asgard por Odin. Loki se convirtió en el Dios de las Travesuras y en un potente agente del caos en todos los reinos. Si bien sus acciones a menudo pueden considerarse malvadas, también es capaz de ser heroico si sirve a sus designios."
+      }
+    },
+    {
+      "img": "heroes/M.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "M",
+        "locText": "M"
+      },
+      "realName": {
+        "text": "Monet St. Croix",
+        "locText": "Monet St. Croix"
+      },
+      "bio": {
+        "text": "Born as a mutant, Monet St. Groix was her wealthy father's favorite child. Her brother Marius, a student of dark magic, invited her to join him in world conquest, but she rejected him. In retaliation, he turned her into a red-skinned mute, Penance. Thinking she had died, her younger twin sisters banished Marius to another dimension and Monet followed. To spare their father from a broken heart, the twins used their powers to merge with each other into a single being that duplicated Monet mentally and physically.",
+        "locText": "Nacida como mutante, Monet St. Groix era la hija favorita de su padre rico. Su hermano Marius, un estudiante de magia oscura, la invitó a unirse a él en la conquista del mundo, pero ella lo rechazó. En represalia, la convirtió en una criatura de piel roja y muda, Penitencia. Pensando que había muerto, sus hermanas gemelas menores desterraron a Marius a otra dimensión y Monet lo siguió. Para evitarle a su padre un corazón roto, las gemelas usaron sus poderes para fusionarse en un solo ser que duplicaba a Monet mental y físicamente."
+      }
+    },
+    {
+      "img": "villains/Maestro.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Maestro",
+        "locText": "Maestro"
+      },
+      "realName": {
+        "text": "Bruce Banner",
+        "locText": "Bruce Banner"
+      },
+      "bio": {
+        "text": "Maestro is an evil version of the Hulk, born in an alternate future timeline. He has Bruce Banner's intelligence combined with the malevolent personality traits of the Hulk. After the Earth is destroyed by nuclear war, he is kept in stasis by A.I.M. until he escapes.",
+        "locText": "Maestro es una versión malvada de Hulk, nacido en una línea de tiempo futura alternativa. Tiene la inteligencia de Bruce Banner combinada con los rasgos de personalidad malévolos de Hulk. Después de que la Tierra es destruida por una guerra nuclear, A.I.M. lo mantiene en estasis hasta que escapa."
+      }
+    },
+    {
+      "img": "heroes/Magneto-Age-Of.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Magneto (Age Of Apocalypse)",
+        "locText": "Magneto (Era De Apocalipsis)"
+      },
+      "realName": {
+        "text": "Erik Magnus Lehnsherr",
+        "locText": "Erik Magnus Lehnsherr"
+      },
+      "bio": {
+        "text": "When his best friend Charles Xavier was murdered at the hands of his son Legion, Erik (aka Magneto) adopted Xavier's mission of coexistence between Mutants and humans. To fight against Apocalypse, he founded the X-Men. His recruits were a formidable power in the war and soon they gathered other mutants to train them in the use of their powers.",
+        "locText": "Cuando su mejor amigo Charles Xavier fue asesinado a manos de su hijo Legión, Erik (también conocido como Magneto) adoptó la misión de Xavier de coexistencia entre mutantes y humanos. Para luchar contra Apocalipsis, fundó los X-Men. Sus reclutas eran una potencia formidable en la guerra y pronto reunieron a otros mutantes para entrenarlos en el uso de sus poderes."
+      }
+    },
+    {
+      "img": "heroes/Man-Thing.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Man-Thing",
+        "locText": "Hombre Cosa"
+      },
+      "realName": {
+        "text": "Ted Sallis",
+        "locText": "Ted Sallis"
+      },
+      "bio": {
+        "text": "Dr. Sallis was a biochemistry professor assigned to a S.H.I.E.L.D. research program where he developed a serum which grants immunity to all known toxic biochemicals. However, its mutagenic effects transformed people into monsters. While fleeing an ambush by A.I.M., Sallis injected himself with the only existing sample of the serum just before his car crashed into a swamp. The magical energies of the swamp, combined with the serum. transformed him into the Man-Thing. His human intelligence rapidly faded, but Man-Thing proceeded to aid those who'd been wronged.",
+        "locText": "El Dr. Sallis era un profesor de bioquímica asignado a un programa de investigación de S.H.I.E.L.D. donde desarrolló un suero que otorga inmunidad a todos los productos bioquímicos tóxicos conocidos. Sin embargo, sus efectos mutagénicos transformaron a las personas en monstruos. Mientras huía de una emboscada de A.I.M. Sallis se inyectó la única muestra existente del suero justo antes de que su coche se estrellara en un pantano. Las energías mágicas del pantano, combinadas con el suero, lo transformaron en el Hombre Cosa. Su inteligencia humana se desvaneció rápidamente, pero Hombre Cosa procedió a ayudar a aquellos que habían sido agraviados."
+      }
+    },
+    {
+      "img": "heroes/Maria-Hill.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Maria Hill",
+        "locText": "María Hill"
+      },
+      "bio": {
+        "text": "An accomplished S.H.I.E.L.D agent, Maria Hill is experienced in espionage, hand-to-hand combat, and the use of a variety of weapons. The second in command to Nick Fury, Maria Hill becomes his replacement while he is in hiding. During the Skrull Invasion, she reunites with Fury to try and stop them (though he initially suspected her of being a Skrull).",
+        "locText": "Maria Hill, una consumada agente de S.H.I.E.L.D, tiene experiencia en espionaje, combate cuerpo a cuerpo y el uso de una variedad de armas. Maria Hill, la segunda al mando de Nick Fury, se convierte en su reemplazo mientras él se esconde. Durante la invasión Skrull, ella se reúne con Fury para intentar detenerlos (aunque inicialmente él sospechaba que ella era una Skrull)."
+      }
+    },
+    {
+      "img": "villains/Maximus.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Maximus",
+        "locText": "Máximus"
+      },
+      "realName": {
+        "text": "Maximus Boltagon",
+        "locText": "Máximus Boltagon"
+      },
+      "bio": {
+        "text": "Maximus is a member of the Inhuman royal family. But he's not content with being just a brilliant Attilan scientist, he wants ultimate power - the throne occupied by his older brother, Black Bolt. Maximus was subjected to Terrigen Mist while still in his mother's womb, resulting in increased intelligence and mental control. Because of his quest for the throne, Maximus alienates nearly all Inhumans, including those he considers his biggest foes: Black Bolt and his sister-in-law/cousin Medusa. Maximus would stage coups to ascend the throne, only to be defeated each time by his more noble siblings and other heroes.",
+        "locText": "Máximus es miembro de la familia real Inhumana. Pero no se contenta con ser simplemente un brillante científico attilano, sino que quiere el poder supremo: el trono que ocupa su hermano mayor, Rayo Negro. Máximus fue sometido a la Niebla Terrigena mientras aún estaba en el útero de su madre, lo que resultó en una mayor inteligencia y control mental. Debido a su búsqueda del trono, Máximus aliena a casi todos los Inhumanos, incluidos aquellos que considera sus mayores enemigos: Rayo Negro y su cuñada y prima Medusa. Máximus daría golpes de estado para ascender al trono, solo para ser derrotado cada vez por sus hermanos más nobles y otros héroes."
+      }
+    },
+    {
+      "img": "heroes/Medusa.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Medusa",
+        "locText": "Medusa"
+      },
+      "realName": {
+        "text": "Medusalith Amaquelin",
+        "locText": "Medusalith Amaquelin"
+      },
+      "bio": {
+        "text": "Medusa is the wife of Black Bolt and Queen of the Innumans. Purposefully exposed to the mutagenic Terrigen Mist as an infant, she has hair she can use as added appendages. Medusa was with the Inhumans when they went into space and allied with the Kree. When Ronan was wounded in battle with Vulcan's forces, Medusa vowed the Shi'ar would pay. Medusa told the Kree Empire citizens they suffered an unprovoked assault by the force of the Shi'ar. The shield that once protected their star system had fallen. She stated that Shi'ar blood would spill in the next fight while trying to keep the Kree in line.",
+        "locText": "Medusa es la esposa de Rayo Negro y Reina de los Inhumanos. Expuesta intencionalmente al mutagénico Niebla Terrigena cuando era bebé, tiene cabello que puede usar como apéndices adicionales. Medusa estaba con los Inhumanos cuando fueron al espacio y se aliaron con los Kree. Cuando Ronan resultó herido en batalla con las fuerzas de Vulcano, Medusa juró que los Shi'ar pagarían. Medusa les dijo a los ciudadanos del Imperio Kree que sufrieron un asalto no provocado por la fuerza de los Shi'ar. El escudo que alguna vez protegió su sistema estelar había caído. Ella dijo que la sangre Shi'ar se derramaría en la próxima pelea mientras intentaba mantener a los Kree a raya."
+      }
+    },
+    {
+      "img": "heroes/Meggan.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Meggan",
+        "locText": "Meggan"
+      },
+      "realName": {
+        "text": "Meggan Puceanu Braddock",
+        "locText": "Meggan Puceanu Braddock"
+      },
+      "bio": {
+        "text": "Born to a Romani family in Britain, Meggan was thought to be a wolf girl, thanks to her mutant shape changing power. She was kept hidden in her parent's van until she was seventeen. When reality-altering mutant Mad dim Jaspers turned Britain into a fascist state where superhumans were hunted, Meggan was placed in a concentration camp. When finally freed, she hid until she was in a battle with Captain Britain, who she eventually ended up with. Alison Double realized Meggan's true powers and provided the clues to unlocking them.",
+        "locText": "Nacida en una familia romaní en Gran Bretaña, se pensaba que Meggan era una niña loba, gracias a su poder mutante para cambiar de forma. La mantuvieron escondida en la camioneta de sus padres hasta los diecisiete años. Cuando el mutante Mad Dim Jaspers, que altera la realidad, convirtió a Gran Bretaña en un estado fascista donde se cazaban superhumanos, Meggan fue enviada a un campo de concentración. Cuando finalmente fue liberada, se escondió hasta que estuvo en una batalla con el Capitán Bretaña, con quien finalmente terminó. Alison Double se dio cuenta de los verdaderos poderes de Meggan y proporcionó las pistas para desbloquearlos."
+      }
+    },
+    {
+      "img": "heroes/Mighty-Thor.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Mighty Thor",
+        "locText": "Mighty Thor"
+      },
+      "realName": {
+        "text": "Dr. Jane Foster",
+        "locText": "Dra. Jane Foster"
+      },
+      "bio": {
+        "text": "After Thor was deemed no longer worthy of wielding Mjolnir, Jane Foster was telepathically drawn to the Moon where Mjolnir was waiting. Upon lifting the hammer, Jane underwent a physical transformation and took on the powers of Thor. As the Mighty Thor, she knows how to wield Mjolnir like only a Thor knows how.",
+        "locText": "Después de que se consideró que Thor ya no era digno de empuñar a Mjolnir, Jane Foster fue atraída telepáticamente a la Luna donde el Mjolnir estaba esperando. Al levantar el martillo, Jane sufrió una transformación física y asumió los poderes de Thor. Como Mighty Thor, ella sabe cómo manejar el Mjolnir como solo un Thor sabe hacerlo."
+      }
+    },
+    {
+      "img": "villains/Mole-Man.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Mole Man",
+        "locText": "Hombre Topo"
+      },
+      "realName": {
+        "text": "Harvey Rupert Elder",
+        "locText": "Harvey Rupert Elder"
+      },
+      "bio": {
+        "text": "Nuclear engineer and explorer Harvey Elder was shunned throughout his childhood because of his odd appearance and poor eyesight. During an expedition, he stumbled upon Monster Isle, falling into a cave leading into the underground realm of Subterranea. Partially blind and apparently secluded from the surface world forever, Elder dubbed himself the Mole Man, eventually becoming the ruler of much of Subterranea and the caverns of Monster Isle. Mole Man would make it his mission to get revenge against the surface world that rejected him.",
+        "locText": "El ingeniero nuclear y explorador Harvey Elder fue rechazado durante su infancia debido a su extraña apariencia y mala vista. Durante una expedición, se topó con la Isla  de los Monstruos y cayó en una cueva que conducía al reino subterráneo de Subterránea. Parcialmente ciego y aparentemente apartado del mundo de la superficie para siempre, Elder se autodenominó el Hombre Topo y finalmente se convirtió en el gobernante de gran parte de Subterránea y las cavernas de la Isla de los Monstruos. El Hombre Topo tendría como misión vengarse del mundo de la superficie que lo rechazó."
+      }
+    },
+    {
+      "img": "heroes/Moon-Girl.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Moon Girl & Devil Dinosaur",
+        "locText": "Chica Luna & Dinosaurio Diabólico"
+      },
+      "realName": {
+        "text": "Lunella Louise Lafayette",
+        "locText": "Lunella Louise Lafayette"
+      },
+      "bio": {
+        "text": "Young genius Lunella picked up the name Moon Girl from her classmates. thanks to her head-in-the-clouds demeanor. Her obsessive interest with the Kree led her to discover a Kree Omni-Wave Projector. When her teacher accidentally activated it, it brought a tribe of primitive Killer Folk from an alternate Earth. Along for the ride was the 20-foot-tall red Devil Dinosaur. Moon Girl and Devil Dinosaur formed an instant bond. Moon Girl confessed that she was Human/Inhuman hybrid and was terrified of undergoing Terrigenesis.",
+        "locText": "La joven genio Lunella tomó el nombre de Chica Luna de sus compañeros de clase, gracias a su comportamiento de cabeza en las nubes. Su interés obsesivo por los Kree la llevó a descubrir un proyector Kree Omni-Wave. Cuando su maestra lo activó accidentalmente, trajo una tribu de Killer Folk primitivos de una Tierra alternativa. Junto al viaje estaba un dinosaurio diabólico rojo de 6 metros de altura. Chica Luna y Dinosaurio Diabólico formaron un vínculo instantáneo. Chica Luna confesó que era un híbrido humano/inhumano y estaba aterrorizada de sufrir Terrigénesis."
+      }
+    },
+    {
+      "img": "heroes/Moondragon.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Moondragon",
+        "locText": "Dragón Lunar"
+      },
+      "realName": {
+        "text": "Heather Douglas",
+        "locText": "Heather Douglas"
+      },
+      "bio": {
+        "text": "An Earth girl adopted by the Eternals of Saturn's moon Titan after Thanos killed her parents. Heather was raised by Titan's Shao-Lom monks, whose tutelage awakened her latent psionic powers. Unfortunately, she grew arrogant, a trait reflected by her adoption of the name Moondragon after she seemingly destroyed the cosmic demon Dragon of the Moon. Thanos's assaults on Titan drove Moondragon to Earth where she allied herself with various heroes and joined the Avengers. She was a friend of Captain Marvel and eventually is romantically linked with Phyla-Vell.",
+        "locText": "Una niña terrestre adoptada por los Eternos de Titán, la luna de Saturno, después de que Thanos matara a sus padres. Heather fue criada por los monjes Shao-Lom de Titán, cuya tutela despertó sus poderes psiónicos latentes. Desafortunadamente, se volvió arrogante, un rasgo que se refleja en su adopción del nombre Dragón Lunar después de que aparentemente destruyó al demonio cósmico Dragón de la Luna. Los ataques de Thanos a Titán llevaron a Moondragon a la Tierra, donde se alió con varios héroes y se unió a los Vengadores. Era amiga del Capitán Marvel y eventualmente está vinculada sentimentalmente con Phyla-Vell."
+      }
+    },
+    {
+      "img": "villains/Moonstone.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Moonstone",
+        "locText": "Piedra Lunar"
+      },
+      "realName": {
+        "text": "Karla Sofen",
+        "locText": "Karla Sofen"
+      },
+      "bio": {
+        "text": "Karla Sofen is a fiercely - some might say obsessively - independent woman, a psychologist with an evil streak. She became Moonstone's (Lloyd Bloch) psychologist and manipulated him, eventually absorbing his powers including superhuman strength, speed, control of gravity and more. Moonstone's powers derive from a Kree gravity stone (found on Earth's moon). She can use the stone to fly and to become intangible. She can project laser-like energy beams from her hands and she has enhanced healing. As Moonstone, Sofen was a member of the Dark Avengers, The Thunderbolts, and Masters of Evil.",
+        "locText": "Karla Sofen es una mujer ferozmente (algunos dirían obsesivamente) independiente, una psicóloga con un lado malvado. Se convirtió en la psicóloga de Piedra Lunar (Lloyd Bloch) y lo manipuló, y finalmente absorbió sus poderes, incluida la fuerza sobrehumana, la velocidad, el control de la gravedad y más. Los poderes de la piedra lunar derivan de una piedra de gravedad Kree (que se encuentra en la luna de la Tierra). Puede usar la piedra para volar y volverse intangible. Puede proyectar rayos de energía similares a láseres desde sus manos y ha mejorado la curación. Como Piedra Lunar, Sofen era miembro de los Vengadores Oscuros, los Thunderbolts y los Maestros del Mal."
+      }
+    },
+    {
+      "img": "villains/Morbius.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Morbius",
+        "locText": "Morbius"
+      },
+      "realName": {
+        "text": "Dr. Michael Morbius",
+        "locText": "Dr. Michael Morbius"
+      },
+      "bio": {
+        "text": "Nobel Prize-winning biochemist Dr. Michael Morbius found a cure for his rare blood disease that transformed him into Morbius - a pseudo-vampire with superhuman powers. Morbius needs to drink blood to survive, but after his mind returns to normal he becomes fraught with guilt. During Maximum Carnage, Morbius was recruited by Spider-Man and Venom to fight on their side.",
+        "locText": "El Dr. Michael Morbius, bioquímico ganador del Premio Nobel, encontró una cura para su rara enfermedad sanguínea que lo transformó en Morbius, un pseudovampiro con poderes sobrehumanos. Morbius necesita beber sangre para sobrevivir, pero cuando su mente vuelve a la normalidad se siente culpable. Durante Maximum Carnage, Morbius fue reclutado por Spider-Man y Venom para luchar de su lado."
+      }
+    },
+    {
+      "img": "heroes/Morph.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Morph",
+        "locText": "Morfo"
+      },
+      "realName": {
+        "text": "Kevin Sidney",
+        "locText": "Kevin Sidney"
+      },
+      "bio": {
+        "text": "Kevin Sidney (aka Morph) is a member of the X-Men who was born a fully activated mutant. His insane sense of humor often irritates his teammates. He has the ability to shape-shift into anything: most notably shifting into Sabretooth to convince Blink to use her powers and help the X-Men teleport to Apocalypse. His powers seem only limited by his great imagination and sense of humor.",
+        "locText": "Kevin Sidney (también conocido como Morfo) es un miembro de los X-Men que nació como un mutante completamente activado. Su loco sentido del humor a menudo irrita a sus compañeros de equipo. Tiene la capacidad de cambiar de forma a cualquier cosa: en particular, cambiar a Dientes de Sable para convencer a Blink de usar sus poderes y ayudar a los X-Men a teletransportarse a Apocalipsis. Sus poderes sólo parecen limitados por su gran imaginación y sentido del humor."
+      }
+    },
+    {
+      "img": "villains/Nemesis.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Nemesis",
+        "locText": "Némesis"
+      },
+      "bio": {
+        "text": "Nemesis claims to be the son of Apocalypse. He was sent to fight and kill Magneto's students at the X-Men's base in order to prove his worth. He was defeated in battle by the Scarlet Witch, although he was able to kill her. He left before the X-Men returned and was embraced by Apocalypse as his newest Horseman. Magneto eventually destroyed Nemesis' physical body in revenge for what Wanda. Dark Beast fitted him with armor that would not only channel his energy but also contain him and keep him from dissipating.",
+        "locText": "Némesis afirma ser el hijo de Apocalipsis. Fue enviado a luchar y matar a los estudiantes de Magneto en la base de los X-Men para demostrar su valía. Fue derrotado en batalla por la Bruja Escarlata, aunque pudo matarla. Se fue antes de que regresaran los X-Men y Apocalipsis lo abrazó como su nuevo Jinete. Magneto finalmente destruyó el cuerpo físico de Némesis en venganza por lo que hizo a Wanda. Bestia Oscura le puso una armadura que no sólo canalizaría su energía sino que también lo contendría y evitaría que se disipara."
+      }
+    },
+    {
+      "img": "heroes/Nick-Fury-Sr.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Nick Fury, Sr.",
+        "locText": "Nick Furia, Sr."
+      },
+      "realName": {
+        "text": "Nicholas Joseph Fury, Sr.",
+        "locText": "Nicholas Joseph Fury, Sr."
+      },
+      "bio": {
+        "text": "After Latveria's counter-attack, S.H.I.E.L.D. director Nick Fury was forced to step down. While in hiding he discovers a Skrull invasion that has infiltrated even the ranks of Earth's heroes. Needing people he could trust. Fury recruits Quake and various other young superhumans into his Secret Warriors.",
+        "locText": "Después del contraataque de Latveria, el director de S.H.I.E.L.D. Nick Furia se vio obligado a dimitir. Mientras se esconde, descubre una invasión Skrull que se ha infiltrado incluso en las filas de los héroes de la Tierra. Necesitaba gente en quien pudiera confiar. Furia recluta a Temblor y a varios otros jóvenes superhumanos para sus Guerreros Secretos."
+      }
+    },
+    {
+      "img": "villains/Nova-Frankie.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Nova (Frankie Raye)",
+        "locText": "Nova (Frankie Raye)"
+      },
+      "realName": {
+        "text": "Frankie Raye",
+        "locText": "Frankie Raye"
+      },
+      "bio": {
+        "text": "Raye worked for the United Nations as an interpreter. She originally gained her superpowers - flame generation, projection and flight - as the result of a mutagenic reaction to exposure to unknown chemicals. But her powers were enhanced by Galactus, resulting in metahuman strength, stamina, durability, agility and reflexes, the ability to manipulate cosmic energy, project streams of fire while mentally controlling them and she possesses near-total physical invulnerability. She aided the Fantastic Four until she volunteered to become Galactus new herald, taking the name \"Nova.\"",
+        "locText": "Raye trabajó para las Naciones Unidas como intérprete. Originalmente obtuvo sus superpoderes (generación de llamas, proyección y vuelo) como resultado de una reacción mutagénica a la exposición a sustancias químicas desconocidas. Pero Galactus mejoró sus poderes, lo que resultó en fuerza, resistencia, durabilidad, agilidad y reflejos metahumanos, la capacidad de manipular la energía cósmica, proyectar corrientes de fuego mientras las controla mentalmente y posee una invulnerabilidad física casi total. Ella ayudó a los Cuatro Fantásticos hasta que se ofreció como voluntaria para convertirse en el nuevo heraldo de Galactus, tomando el nombre de \"Nova\"."
+      }
+    },
+    {
+      "img": "heroes/Nova-Prime.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Nova Prime",
+        "locText": "Nova Prime"
+      },
+      "realName": {
+        "text": "Richard Rider",
+        "locText": "Richard Rider"
+      },
+      "bio": {
+        "text": "Chosen at random to receive Nova Corps powers, Richard Rider found himself thrust into the role of Super Hero. After fighting many battles on earth, he was recalled to Xandar to deal with the Annihilation Wave. He was the only StarCorps member to survive the attack and became the bearer of the entire Nova-Force, as well as the Xandarian Worldmind. Nova then came into contact with Drax who taught him how to better control the Nova Force and how to kill. Realizing his new leadership abilities, Nova created the United Front, an army opposed to Annihilus.",
+        "locText": "Elegido al azar para recibir los poderes del Cuerpo Nova, Richard Rider se vio obligado a asumir el papel de superhéroe. Después de librar muchas batallas en la tierra, fue llamado a Xandar para lidiar con la Ola de Aniquilación. Fue el único miembro de StarCorps que sobrevivió al ataque y se convirtió en el portador de la Fuerza-Nova, así como de la MundoMente Xandariana. Luego, Nova entró en contacto con Drax, quien le enseñó cómo controlar mejor la Fuerza Nova y cómo matar. Al darse cuenta de sus nuevas habilidades de liderazgo, Nova creó el Frente Unido, un ejército opuesto a Annihilus."
+      }
+    },
+    {
+      "img": "heroes/Patriot.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Patriot",
+        "locText": "Patriota"
+      },
+      "realName": {
+        "text": "Elijah Bradley",
+        "locText": "Elijah Bradley"
+      },
+      "bio": {
+        "text": "Eli Bradley is a young man with a family legacy spanning three generations of heroes. He is the grandson of the black Captain America, Isaiah Bradley, and the nephew of Josiah X, but unlike his grandfather and his uncle, he was not a part of a sinister government plot to replicate Captain America's Super-Soldier Serum. Eli was born with no superhuman abilities and was never administered any type of Super-Soldier Serum. When Iron Lad came to earth, Eli lied to him about being a super-soldier and used illegal Mutant Growth Hormone pills to gain superhuman abilities.",
+        "locText": "Eli Bradley es un joven con un legado familiar que abarca tres generaciones de héroes. Es nieto del Capitán América negro, Isaiah Bradley, y sobrino de Josiah X, pero a diferencia de su abuelo y su tío, no formó parte de un siniestro complot gubernamental para replicar el suero del súper soldado del Capitán América. Eli nació sin habilidades sobrehumanas y nunca se le administró ningún tipo de suero de supersoldado. Cuando Iron Lad vino a la tierra, Eli le mintió acerca de ser un súper soldado y usó píldoras ilegales de hormona de crecimiento mutante para obtener habilidades sobrehumanas."
+      }
+    },
+    {
+      "img": "heroes/Phyla-Vell.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Phyla-Vell",
+        "locText": "Phyla-Vell"
+      },
+      "realName": {
+        "text": "Phyla-Vell",
+        "locText": "Phyla-Vell"
+      },
+      "bio": {
+        "text": "Phyla is the daughter of Elysius, born in the altered reality that Elysius's other child, Genis, created. She assumed the moniker of Captain Marvel (who was her father). During Annihilation, Phyla had been visiting her father's grave with Moondragon when Thanos attacked them, forcing her into battle with Annihilus. In the battle, Phyla managed to steal away the Quantum Bands that Annihilus took from Quasar, weakening him and allowing for his eventual demise.",
+        "locText": "Phyla es la hija de Elysius, nacida en la realidad alterada que creó el otro hijo de Elysius, Genis. Ella asumió el apodo de Capitán Marvel (que era su padre). Durante Annihilation, Phyla había estado visitando la tumba de su padre con Dargón Lunar cuando Thanos los atacó, obligándola a luchar con Annihilus. En la batalla, Phyla logró robarle las Bandas Cuánticas que Annihilus le quitó a Cuásar, debilitándolo y permitiendo su eventual desaparición."
+      }
+    },
+    {
+      "img": "villains/Piledriver.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Piledriver",
+        "locText": "Martinete"
+      },
+      "realName": {
+        "text": "Brian Philip Calusky",
+        "locText": "Brian Philip Calusky"
+      },
+      "bio": {
+        "text": "Brian was a farmhand. Bored, he began committing crimes for excitement, eventually landing in prison. There he meets and becomes cellmates with Dirk Garthwaite, the Wrecker, and together with 2 other prisoners, they escape. Garthwaite finds his crowbar and when lightning strikes it, he magically distributes the enhanced strength of the Wrecker amongst his cohorts. The four superhuman criminals would become the Wrecking Crew, with Calusky adopting the persona of Piledriver. While he's fought against many superheroes over the years, victory mostly eludes him.",
+        "locText": "Brian era un granjero. Aburrido, comenzó a cometer delitos por excitación y finalmente acabó en prisión. Allí conoce y se convierte en compañero de celda de Dirk Garthwaite, el Demoledor, y junto con otros dos prisioneros escapan. Garthwaite encuentra su palanca y cuando un rayo la golpea, distribuye mágicamente la fuerza mejorada del Demoledor entre sus compañeros. Los cuatro criminales sobrehumanos se convertirían en la Brigada de Demolición, con Calusky adoptando la personalidad de Martinete. Si bien ha luchado contra muchos superhéroes a lo largo de los años, la victoria se le escapa en su mayor parte."
+      }
+    },
+    {
+      "img": "villains/Purple-Man.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Purple Man",
+        "locText": "Hombre Púrpura"
+      },
+      "realName": {
+        "text": "Zebediah Killgrave",
+        "locText": "Zebediah Killgrave"
+      },
+      "bio": {
+        "text": "Killgrave was a spy who got exposed to various mysterious chemicals, which not only gave his skin its purple hue, leading him to call himself Purple Man, but also gave him the ability to control people's minds using his pheromones. He quickly began using his powers for evil, manipulating others for personal gain. While he was able to imprison Jessica Jones under his control, other Heroes like Daredevil proved to have a willpower too strong for him to overcome.",
+        "locText": "Killgrave era un espía que estuvo expuesto a varios químicos misteriosos, que no solo le dieron a su piel su tono púrpura, lo que lo llevó a llamarse a sí mismo Hombre Púrpura, sino que también le dieron la capacidad de controlar las mentes de las personas usando sus feromonas. Rápidamente comenzó a usar sus poderes para el mal, manipulando a otros para beneficio personal. Si bien pudo mantener a Jessica Jones bajo su control, otros héroes como Dan Defensor demostraron tener una fuerza de voluntad demasiado fuerte para que él la superara."
+      }
+    },
+    {
+      "img": "heroes/Quake.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Quake",
+        "locText": "Temblor"
+      },
+      "realName": {
+        "text": "Daisy Louise Johnson",
+        "locText": "Daisy Louise Johnson"
+      },
+      "bio": {
+        "text": "Daisy Johnson is a S.H.I.E.L.D agent capable of creating earthquake-like vibrations. She can target her vibrations with pinpoint accuracy, causing targeted objects to vibrate themselves apart, from the inside out. When Nick Fury returns, he drafts Johnson into his \"Secret Warriors,\" his team of operatives to fight against the Skrull invasion of Earth.",
+        "locText": "Daisy Johnson es una agente de S.H.I.E.L.D capaz de crear vibraciones similares a las de un terremoto. Puede apuntar sus vibraciones con precisión milimétrica, haciendo que los objetos seleccionados vibren, de adentro hacia afuera. Cuando Nick Furia regresa, recluta a Johnson para sus \"Guerreros Secretos\", su equipo de agentes para luchar contra la invasión Skrull de la Tierra."
+      }
+    },
+    {
+      "img": "heroes/Quasar.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Quasar",
+        "locText": "Cuásar"
+      },
+      "realName": {
+        "text": "Wendell Vaughn",
+        "locText": "Wendell Vaughn"
+      },
+      "bio": {
+        "text": "The first wielder of the Quantum Bands (the extraterrestrial energy weapon usually worn as bracelets), Vaughn adopted the name Quasar as a super-agent of S.H.I.E.L.D. Quasar fought against the Annihilation Wave alongside Nova. The two confronted him directly. During the battle, Annihilus confiscated the Quantum Bands and managed to kill Wendell's body. Seconds before his death. Wendell attempted to Quantum jump from Annihilus clutches but only his mind managed to escape, ending up in the Negative Zone.",
+        "locText": "Vaughn, el primer portador de las Bandas Cuánticas (el arma de energía extraterrestre que generalmente se usa como pulseras), adoptó el nombre de Cuásar como superagente de S.H.I.E.L.D. Cuásar luchó contra la Ola de Aniquilación junto a Nova. Los dos lo confrontaron directamente. Durante la batalla, Annihilus confiscó las Bandas Cuánticas y logró matar el cuerpo de Wendell. Segundos antes de su muerte. Wendell intentó realizar un salto cuántico desde las garras de Annihilus, pero sólo su mente logró escapar y terminó en la Zona Negativa."
+      }
+    },
+    {
+      "img": "villains/Queen-Veranke.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Queen Veranke",
+        "locText": "Reina Veranke"
+      },
+      "bio": {
+        "text": "Skrull Queen Veranke is the leader of the Secret Invasion. As part of the invasion, she impersonates Spider-Woman, performing a ritual that is a mixture of science and magic that imbued her with Jessica Drew's powers and memories, making her completely undetectable. She infiltrates S.H.I.E.L.D., Hydra, and the Avengers. As a triple agent, she is able to cause chaos on Earth. helped by the Super-Skrulls.",
+        "locText": "La Reina Skrull Veranke es la líder de la Invasión Secreta. Como parte de la invasión, ella se hace pasar por Spider-Woman, realizando un ritual que es una mezcla de ciencia y magia que la imbuyó de los poderes y recuerdos de Jessica Drew, haciéndola completamente indetectable. Ella se infiltra en S.H.I.E.L.D., Hidra y los Vengadores. Como agente triple, puede provocar el caos en la Tierra, ayudada por los Super-Skrulls."
+      }
+    },
+    {
+      "img": "heroes/Raza.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Raza",
+        "locText": "Raza"
+      },
+      "realName": {
+        "text": "Raza Longknife",
+        "locText": "Raza Longknife"
+      },
+      "bio": {
+        "text": "Raza is the last known surviving member of his unnamed alien race, and a member of the Starjammers, a quartet of former slaves of the Shi'ar Empire. The four swore vengeance on the tyrannical government that had enslaved them. Soon, other superheroes, like the X-Men, joined the Starjammers to fight for freedom. During Vulcan's reign as Majestor of the Shi'ar, Raza was captured and made to host the symbiote Zzzxx, which forced him to commit horrific war crimes at Vulcan's command. Eventually he was captured by Nova Prime, who used Nova Corps' resources to safely separate Raza from the symbiote Raza eventually rejoined the Starjammers.",
+        "locText": "Raza es el último miembro superviviente conocido de su raza alienígena anónima y miembro de los Saqueadores Estelares, un cuarteto de antiguos esclavos del Imperio Shi'ar. Los cuatro juraron venganza contra el gobierno tiránico que los había esclavizado. Pronto, otros superhéroes, como los X-Men, se unieron a los Saqueadores Estelares para luchar por la libertad. Durante el reinado de Vulcano como Majestuoso de los Shi'ar, Raza fue capturado y obligado a albergar al simbionte Zzzxx, lo que lo obligó a cometer horribles crímenes de guerra por orden de Vulcano. Finalmente fue capturado por Nova Prime, quien utilizó los recursos del Cuerpo Nova para separar de forma segura a Raza del simbionte. Raza finalmente se reunió con los Saqueadores Estelares."
+      }
+    },
+    {
+      "img": "villains/Red-Guardian.jpg",
+      "loyalty": "anti-hero-bio",
+      "name": {
+        "text": "Red Guardian",
+        "locText": "Guardián Rojo"
+      },
+      "realName": {
+        "text": "Alexei Andreovitch Shostakov",
+        "locText": "Alexei Andreovitch Shostakov"
+      },
+      "bio": {
+        "text": "Alexei Shostakov was one of the Soviet Union's most acclaimed test pilots whose heroism caught the attention of the KGB. After joining the KGB as an intelligence agent, he becomes the Red Guardian, Russia's take on the United States' Captain America.",
+        "locText": "Alexei Shostakov fue uno de los pilotos de pruebas más aclamados de la Unión Soviética cuyo heroísmo llamó la atención de la KGB. Después de unirse al KGB como agente de inteligencia, se convierte en el Guardián Rojo, la versión rusa del Capitán América de los Estados Unidos."
+      }
+    },
+    {
+      "img": "villains/Red-Hulk.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Red Hulk",
+        "locText": "Hulk Rojo"
+      },
+      "realName": {
+        "text": "Thaddeus E. Ross",
+        "locText": "Thaddeus E. Ross"
+      },
+      "bio": {
+        "text": "General \"Thunderbolt\" Ross is the Air Force general in charge of Bruce Banner's gamma bomb project. Ross' daughter, Betty, takes a shine to Banner, deepening Ross dislike for the \"weakling\". After Banner's transformation into the Hulk, Ross spends years pursuing him. He's recruited by S.H.I.E.L.D. to merge with the electric creature Zzzax. The process gives Ross - as the Red Hulk - superpowers, but also makes him mentally unstable. When he becomes angry, his skin and eyes generate heat so intense they can melt Spider-Man's webbing or turn sand to glass. Red Hulk can also absorb gamma radiation and even Silver Surfer's Power Cosmic.",
+        "locText": "El General \"Thunderbolt\" Ross es el general de la Fuerza Aérea a cargo del proyecto de bomba gamma de Bruce Banner. La hija de Ross, Betty, se enamora de Banner, lo que profundiza la aversión de Ross por los \"débiles\". Después de la transformación de Banner en Hulk, Ross pasa años persiguiéndolo. Es reclutado por S.H.I.E.L.D. para fusionarse con la criatura eléctrica Zzzax. El proceso le da a Ross, como Red Hulk, superpoderes, pero también lo vuelve mentalmente inestable. Cuando se enoja, su piel y sus ojos generan un calor tan intenso que pueden derretir las telarañas de Spider-Man o convertir la arena en vidrio. Red Hulk también puede absorber la radiación gamma e incluso el poder cósmico de Silver Surfer."
+      }
+    },
+    {
+      "img": "pets/Redwing.jpg",
+      "loyalty": "pet",
+      "name": {
+        "text": "Redwing",
+        "locText": "Ala Roja"
+      },
+      "bio": {
+        "text": "Redwing is a falcon that was bought by Sam Wilson while in Rio. The two snare a telepathic link, a result of the Red Skull's manipulation of the Cosmic Cube. When Sam Wilson became the new Captain America, Redwing remained at his side.",
+        "locText": "Ala Roja es un halcón que fue comprado por Sam Wilson mientras estaba en Río. Los dos establecen un vínculo telepático, como resultado de la manipulación del Cubo Cósmico por parte de Cráneo Rojo. Cuando Sam Wilson se convirtió en el nuevo Capitán América, Ala Roja permaneció a su lado."
+      }
+    },
+    {
+      "img": "heroes/Ronin.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Ronin",
+        "locText": "Ronin"
+      },
+      "realName": {
+        "text": "Clinton Francis Barton",
+        "locText": "Clinton Francis Barton"
+      },
+      "bio": {
+        "text": "As part of the Avengers, Clint Barton was known as Hawkeye, the master archer. He later abandons that persona and assumes the title of Ronin, the masterless Samurai, wielding a sword instead. He joins the New Avengers against the Skrulls during the Secret Invasion.",
+        "locText": "Como parte de los Vengadores, Clint Barton era conocido como Ojo de Halcón, el maestro arquero. Más tarde abandona esa personalidad y asume el título de Ronin, el samurái sin amo, empuñando una espada en su lugar. Se une a los Nuevos Vengadores contra los Skrulls durante la Invasión Secreta."
+      }
+    },
+    {
+      "img": "heroes/Sabretooth-Wildchild.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Sabretooth & Wildchild",
+        "locText": "Dientes de Sable & Chico Salvaje"
+      },
+      "realName": {
+        "text": "Victor Creed & Kyle Gibney",
+        "locText": "Victor Creed & Kyle Gibney"
+      },
+      "bio": {
+        "text": "Born Victor Greed. Sabretooth is a Mutant that was one of Apocalypse's first recruits to the Horsemen. He grew to dislike killing innocent people and turned against Nemesis but was badly defeated and landed up in prison. He shared a cell with Wildchild, fighting him until eventually earning his loyalty and escaping prison together. He joined the X-Men where he bonded with Clarice Ferguson (Blink).",
+        "locText": "Nacido como Victor Greed. Dientes de Sable es un mutante que fue uno de los primeros reclutas de Apocalipsis para los Jinetes. Llegó a no gustarle matar gente inocente y se volvió contra Némesis, pero fue derrotado y terminó en prisión. Compartió celda con Chico Salvaje, luchando contra él hasta que finalmente se ganó su lealtad y escaparon juntos de la prisión. Ingresó en los X-Men donde se unió a Clarice Ferguson (Destello)."
+      }
+    },
+    {
+      "img": "villains/Scorpion.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Scorpion",
+        "locText": "Escorpión"
+      },
+      "realName": {
+        "text": "MacDonald Gargan",
+        "locText": "MacDonald Gargan"
+      },
+      "bio": {
+        "text": "Former private investigator MacDonald Gargan was hired by J. Jonah Jameson to find out how Peter Parker was able to get incredible pictures of Spider-Man. Frustrated, Jameson decided to pay Gargan to be the subject of an animal mutation experiment. The experiment endowed the subject with the characteristic of another animal. Unfortunately the process resulted in the loss of Gargan's sanity, and created the super-powered criminal menace known as the Scorpion.",
+        "locText": "El ex investigador privado MacDonald Gargan fue contratado por J. Jonah Jameson para descubrir cómo Peter Parker pudo obtener imágenes increíbles de Spider-Man. Frustrado, Jameson decidió pagarle a Gargan para que fuera objeto de un experimento de mutación animal. El experimento dotó al sujeto de la característica de otro animal. Desafortunadamente, el proceso resultó en la pérdida de la cordura de Gargan y creó la amenaza criminal con superpoderes conocida como Escorpión."
+      }
+    },
+    {
+      "img": "villains/Scream.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Scream",
+        "locText": "Grito de Terror"
+      },
+      "realName": {
+        "text": "Donna Diego",
+        "locText": "Donna Diego"
+      },
+      "bio": {
+        "text": "Donna Diego was a mercenary hired by the Life Foundation. In order to fulfill her role as a superhuman officer for the corporation's future utopia, she was granted one of the 5 symbiotes forcibly spawned from the Venom symbiote. After two attempts at trying to convince Venom to help her and her fellow symbiotes, Donna went mad and killed them. As a result, the other four symbiotes melded together, leaving her the only one left.",
+        "locText": "Donna Diego era una mercenaria contratada por la Fundación Vida. Para cumplir su papel como oficial sobrehumana para la futura utopía de la corporación, se le concedió uno de los 5 simbiontes generados a la fuerza a partir del simbionte Venom. Después de dos intentos de convencer a Venom para que la ayude a ella y a sus compañeros simbiontes, Donna se volvió loca y los mató. Como resultado, los otros cuatro simbiontes se fusionaron, dejándola a ella como la única que quedó."
+      }
+    },
+    {
+      "img": "heroes/Sentry.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "Sentry",
+        "locText": "Vigía"
+      },
+      "realName": {
+        "text": "Robert Reynolds",
+        "locText": "Robert Reynolds"
+      },
+      "bio": {
+        "text": "The Sentry is a human mutated by Golden Sentry Serum which gained him the power of a million exploding suns. From the start, he had a desire to use his powers for everyone's greater good. When the Hulk and the Warbound group attacked Earth, Reed Richards and Tony Stark convinced the Sentry to battle Hulk. The Sentry unleashed his full power against the Hulk, nearly destroying New York City in the process! So much energy was used in the battle that, at the end, they burned each other out, reverting back to their human forms: with the Sentry reverting back to Robert Reynolds and the Hulk into Bruce Banner.",
+        "locText": "Vigía es un humano mutado por el Suero del Centinela Dorado que le otorgó el poder de un millón de soles explosivos. Desde el principio, tuvo el deseo de usar sus poderes para el bien de todos. Cuando Hulk y el grupo Warbound atacaron la Tierra, Reed Richards y Tony Stark convencieron a Vigía para luchar contra Hulk. Vigía desató todo su poder contra Hulk, ¡casi destruyendo la ciudad de Nueva York en el proceso! Se utilizó tanta energía en la batalla que, al final, se quemaron mutuamente, volviendo a sus formas humanas: con Vigía volviendo a ser Robert Reynolds y Hulk a Bruce Banner."
+      }
+    },
+    {
+      "img": "villains/Shocker.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Shocker",
+        "locText": "Conmocionador"
+      },
+      "realName": {
+        "text": "Herman Schultz",
+        "locText": "Herman Schultz"
+      },
+      "bio": {
+        "text": "Growing up in the Bronx, Herman Schultz eventually turned to a life of crime. After one too many robberies, he was sent to the prison workshop where he engineered the first version of his Vibro-Shock Gauntlets and insulated suit with the available materials. The self-proclaimed world's best safecracker often acts in groups or under the orders of another villain, making his allies benefit from the shockwaves and the striking power offered by his equipment. He was a member of the Masters of Evil, Sinister Seven and the Sinister Syndicate, among others, and majorly opposed to Spider-Man.",
+        "locText": "Al crecer en el Bronx, Herman Schultz finalmente se dedicó a una vida delictiva. Después de demasiados robos, lo enviaron al taller de la prisión donde diseñó la primera versión de sus guanteletes Vibro-Shock y su traje aislante con los materiales disponibles. El autoproclamado mejor ladrón de cajas fuertes del mundo suele actuar en grupo o bajo las órdenes de otro villano, haciendo que sus aliados se beneficien de las ondas de choque y el poder de ataque que ofrece su equipo. Era miembro de los Maestros del Mal, los Siete Siniestros y el Sindicato Siniestro entre otros, y se oponía principalmente a Spider-Man."
+      }
+    },
+    {
+      "img": "villains/Shriek.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Shriek",
+        "locText": "Grito"
+      },
+      "realName": {
+        "text": "Frances Louise Barrison",
+        "locText": "Frances Louise Barrison"
+      },
+      "bio": {
+        "text": "Shriek had a miserable childhood, becoming a groupie and a drug dealer on the side until the vigilantes Cloak and Dagger happened by her. Because she was emotionally unstable, a short stay in Cloak's dark dimension pushed her into insanity. After that, she was captured and imprisoned in Ravencroft. When Carnage escaped from Ravencroft, he took Shriek with him. While with Carnage, Shriek's became even more unstable, eventually adopting Carnage as her husband, Carrion and Demogoblin as children, and Doppelganger as a pet. During their attack on New York, she used her powers to make the whole city evil.",
+        "locText": "Grito tuvo una infancia miserable, convirtiéndose en una groupie y traficante de drogas hasta que los vigilantes Capa y Puñal pasaron por ella. Debido a que era emocionalmente inestable, una breve estancia en la dimensión oscura de Capa la llevó a la locura. Después de eso, fue capturada y encarcelada en Ravencroft. Cuando Matanza escapó de Ravencroft, se llevó a Grito con él. Mientras estaba con Matanza, Grito se volvió aún más inestable y finalmente adoptó a Matanza como su esposo, a Carrión y Demogoblin como niños y a Doppelganger como mascota. Durante su ataque a Nueva York, ella usó sus poderes para volver malvada a toda la ciudad."
+      }
+    },
+    {
+      "img": "heroes/Siryn.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Siryn",
+        "locText": "Siryn"
+      },
+      "realName": {
+        "text": "Theresa Rourke Cassidy",
+        "locText": "Theresa Rourke Cassidy"
+      },
+      "bio": {
+        "text": "Theresa Cassidy is the mutant daughter of Sean (aka Banshee) but was raised by her uncle, Black Tom, and grew up believing he was her father. When Theresa's sonic powers emerged, Black Tom began coercing her to aid him in committing crimes. However, Theresa's heart was never in a life of crime and after his capture by the X-Men, united with her real father.",
+        "locText": "Theresa Cassidy es la hija mutante de Sean (también conocido como Banshee), pero fue criada por su tío, Black Tom, y creció creyendo que él era su padre. Cuando surgieron los poderes sónicos de Theresa, Black Tom comenzó a obligarla a ayudarlo a cometer crímenes. Sin embargo, el corazón de Theresa nunca estuvo en una vida de crimen y después de su captura por los X-Men, se unió a su verdadero padre."
+      }
+    },
+    {
+      "img": "villains/Skrulls.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Skrulls",
+        "locText": "Skrulls"
+      },
+      "bio": {
+        "text": "An alien race able to alter their forms into that of anything they can imagine, be it organic or inorganic, Skrulls can shape-shift to impersonate anyone. They have a large empire that spans the universe. They launch a \"Secret Invasion\" of the Earth, replacing many superheroes in order to attack humanity and sow distrust of heroes.",
+        "locText": "Una raza alienígena capaz de alterar sus formas en cualquier cosa que puedan imaginar, ya sea orgánica o inorgánica, los Skrulls pueden cambiar de forma para hacerse pasar por cualquiera. Tienen un gran imperio que se extiende por todo el universo. Lanzan una \"Invasión Secreta\" de la Tierra, reemplazando a muchos superhéroes para atacar a la humanidad y sembrar desconfianza hacia los héroes."
+      }
+    },
+    {
+      "img": "heroes/Songbird.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Songbird",
+        "locText": "Pájaro Cantor"
+      },
+      "realName": {
+        "text": "Melissa Joan Gold",
+        "locText": "Melissa Joan Gold"
+      },
+      "bio": {
+        "text": "Melissa Gold was a former wrestler and a member of the cybernetically enhanced Grapplers known as \"Screaming Mimi\". She left them and joined Helmut Zemo's Masters of Evil. When the Masters disguised themselves as the Thunderbolts, she adopted the identity of Songbird. She and her partner, Abe, eventually left Zemo and reformed. She can generate powerful sonic blasts, sonic force-fields, and can even create solid objects made of sound.",
+        "locText": "Melissa Gold era una ex luchadora y miembro de los Grapplers mejorados cibernéticamente conocidos como \"Mimi Aulladora\". Ella los dejó y se unió a Maestros del Mal de Helmut Zemo. Cuando los Maestros se disfrazaron de Thunderbolts, ella adoptó la identidad de Pájaro Cantor. Ella y su socio, Abe, finalmente abandonaron a Zemo y se reformaron. Puede generar poderosas explosiones sónicas, campos de fuerza sónicos e incluso puede crear objetos sólidos hechos de sonido."
+      }
+    },
+    {
+      "img": "heroes/Spectrum.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Spectrum",
+        "locText": "Spectrum"
+      },
+      "realName": {
+        "text": "Monica Rambeau",
+        "locText": "Monica Rambeau"
+      },
+      "bio": {
+        "text": "Spectrum is a mutated human exposed to an energy-disruptor device that gave her the ability to absorb energy. She can create holograms, become invisible, exceed the speed of light, phase through solid structures, water, and space. She was a member of the Ultimates and Strikeforce, and at one time acted as a vigilante in New York City, giving rise to the Mighty Avengers. She would lead them to rescue Blade, Cage and Blue Marvel from the Deathwalkers, destroying them in the process. Spectrum would join Captain America to battle against the pro-faction of the Superhero Registration Act.",
+        "locText": "Spectrum es una humana mutada expuesta a un dispositivo disruptor de energía que le dio la capacidad de absorber energía. Puede crear hologramas, volverse invisible y superar la velocidad de la luz, pasar a través de estructuras sólidas, agua y espacio. Fue miembro de Ultimates y Strikeforce, y en un momento actuó como vigilante en la ciudad de Nueva York, dando lugar a los Poderosos Vengadores. Ella los llevaría a rescatar a Blade, Cage y Blue Marvel de los Deathwalkers, destruyéndolos en el proceso. Spectrum se uniría al Capitán América para luchar contra la facción a favor de la Ley de Registro de Superhéroes."
+      }
+    },
+    {
+      "img": "heroes/Speed.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Speed",
+        "locText": "Veloz"
+      },
+      "realName": {
+        "text": "Thomas Shepherd",
+        "locText": "Thomas Shepherd"
+      },
+      "bio": {
+        "text": "Tommy Shepherd shares a mysterious connection with his twin brother Billy Kaplan. Raised in separate adoptive households, they reunite through the Young Avengers and realize they may in fact be sons of the Scarlet Witch herself. Speed can move, think, and react at superhuman speeds. His entire body is adapted towards the rigors of high-speed running.",
+        "locText": "Tommy Shepherd comparte una conexión misteriosa con su hermano gemelo Billy Kaplan. Criados en hogares adoptivos separados, se reúnen a través de los Jóvenes Vengadores y se dan cuenta de que, en realidad, pueden ser hijos de la propia Bruja Escarlata. Veloz puede moverse, pensar y reaccionar a velocidades sobrehumanas. Todo su cuerpo está adaptado a los rigores de la carrera a alta velocidad."
+      }
+    },
+    {
+      "img": "heroes/Spider-Man-2099-Original.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Spider-Man 2099 (Original Suit)",
+        "locText": "Spider-Man 2099 (Traje Original)"
+      },
+      "realName": {
+        "text": "Miguel O'Hara",
+        "locText": "Miguel O'Hara"
+      },
+      "bio": {
+        "text": "Miguel O'Hara was born in Nueva York, an alternate future New York City, and worked as the head of the genetics program of Alchemax. After discovering some Alchemax experiments have killed test subjects, he tries to quit, but is poisoned with an addictive drug called Rapture. Attempting to reset his DNA to get rid of the drug, his jealous supervisor sabotages the process, endowing Miguel with fantastic spider-like abilities.",
+        "locText": "Miguel O'Hara nació en Nueva York, una versión alternativa futura de New York City, y trabajó como jefe del programa de genética de Alchemax. Después de descubrir que algunos experimentos de Alchemax han matado a sujetos de prueba, intenta dejar de fumar, pero es envenenado con una droga adictiva llamada Rapture. Al intentar restablecer su ADN para deshacerse de la droga, su celoso supervisor sabotea el proceso, dotando a Miguel de fantásticas habilidades arácnidas."
+      }
+    },
+    {
+      "img": "heroes/Stature.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Stature",
+        "locText": "Estatura"
+      },
+      "realName": {
+        "text": "Cassandra Eleanor Lang",
+        "locText": "Cassandra Eleanor Lang"
+      },
+      "bio": {
+        "text": "Lassie's father, Scott Lang, became Ant-Man to help save her life. After her parent's divorce, her mother and stepfather grew uneasy about Scott's life as an Avenger and took full custody of Cassie. Cassie idolized her father and continued to see him until his death. Afterwards, Cassie shunned her family and was called to the superhero life. Repeated exposure to Pym Particles had given her the ability to dramatically change her size. After seeing a story on TV about the Young Avengers, she sought them out, becoming a full member.",
+        "locText": "El padre de Lassie, Scott Lang, se convirtió en Ant-Man para ayudar a salvar su vida. Después del divorcio de sus padres, su madre y su padrastro se sintieron incómodos con la vida de Scott como Vengador y asumieron la custodia total de Cassie. Cassie idolatraba a su padre y continuó viéndolo hasta su muerte. Posteriormente, Cassie evitó a su familia y fue llamada a la vida de superhéroe. La exposición repetida a las partículas Pym le había dado la capacidad de cambiar drásticamente su tamaño. Después de ver una historia en la televisión sobre los Jóvenes Vengadores, los buscó y se convirtió en miembro de pleno derecho."
+      }
+    },
+    {
+      "img": "villains/Terrax.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Terrax",
+        "locText": "Terrax"
+      },
+      "realName": {
+        "text": "Tyros",
+        "locText": "Tyros"
+      },
+      "bio": {
+        "text": "Tyros was originally the dictator of the small city-state Lanlak. He had limited power over earth and rock, apparently a mutation unique to him. Tyros loved power and conquest and led a life of debauchery and violence. The Fantastic Four brought him to Galactus' attention, freeing the city of Lanlak from Tyros' rule. Galactus exposed Tyros to his cosmic power and transformed him into Terrax the Tamer, giving him enhanced power to now affect all rock and stone. Galactus also gave Terrax a weapon, the Cosmic Axe, capable of generating waves of cosmic force.",
+        "locText": "Tyros fue originalmente el dictador de la pequeña ciudad-estado Lanlak. Tenía un poder limitado sobre la tierra y las rocas, aparentemente una mutación exclusiva de él. Tyros amaba el poder y la conquista y llevaba una vida de libertinaje y violencia. Los Cuatro Fantásticos llamaron la atención de Galactus sobre él, liberando a la ciudad de Lanlak del gobierno de Tyros. Galactus expuso a Tyros a su poder cósmico y lo transformó en Terrax el Temerario, dándole un poder mejorado para afectar ahora a todas las rocas y piedras. Galactus también le dio a Terrax un arma, el Hacha Cósmica, capaz de generar ondas de fuerza cósmica."
+      }
+    },
+    {
+      "img": "pets/Throg.jpg",
+      "loyalty": "pet",
+      "name": {
+        "text": "Throg",
+        "locText": "Throg"
+      },
+      "bio": {
+        "text": "Simon Walterson was a man turned into a frog named Puddlegulp. As Puddlegulp, he aided King Glugwort and the original Throg in the frogs' war with the rats. During the war, he gained a shard of Mjolnir for himself - the mighty Frogjolnir - and transformed into the \"new\" version of Throg, Frog of Thunder, now wielding part of Thor's powers. Throg has been part of teams including the Pet Avengers and Guardians of the Galaxy.",
+        "locText": "Simon Walterson era un hombre convertido en rana llamado Puddlegulp. Como Puddlegulp, ayudó al rey Glugwort y al Throg original en la guerra de las ranas contra las ratas. Durante la guerra, obtuvo un fragmento de Mjolnir para sí mismo, el poderoso Frogjolnir, y se transformó en la \"nueva\" versión de Throg, la Rana del Trueno, que ahora tiene parte de los poderes de Thor. Throg ha formado parte de equipos como Mascotas Vengadoras y Guardianes de la Galaxia."
+      }
+    },
+    {
+      "img": "villains/Thunderball.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Thunderball",
+        "locText": "Bola de Trueno"
+      },
+      "realName": {
+        "text": "Eliot Franklin",
+        "locText": "Eliot Franklin"
+      },
+      "bio": {
+        "text": "Dr. Franklin was a brilliant physicist who committed robberies to fund his research. He'd eventually land in prison where he met and became cellmates with the Wrecker. They broke out of prison and he became part of the Wrecking Crew, known as Thunderball. He'd take an ordinary wrecking ball as an offensive weapon which was energized by the Wrecker's crowbar, making it almost indestructible. As a member of the Wrecking Crew, he's faced numerous superheroes.",
+        "locText": "El Dr. Franklin fue un físico brillante que cometió robos para financiar su investigación. Eventualmente aterrizaría en prisión, donde conoció y se convirtió en compañero de celda del Demoledor. Se escaparon de la prisión y él pasó a formar parte de la Brigada de Demolición, conocido como Bola de Trueno. Tomaría una bola de demolición ordinaria como arma ofensiva que era energizada por la palanca del Demoledor, haciéndola casi indestructible. Como miembro de la Brigada de Demolición, se ha enfrentado a numerosos superhéroes."
+      }
+    },
+    {
+      "img": "heroes/Tigra.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Tigra",
+        "locText": "Tigra"
+      },
+      "realName": {
+        "text": "Greer Grant Nelson",
+        "locText": "Greer Grant Nelson"
+      },
+      "bio": {
+        "text": "Greer is a human mystically transformed into the hero Tigra, a human/tiger hybrid. Powered by a Cat's Head Amulet, she can transform from her human form to Tigra and, with the Cat People, she helped defeat Hydra. During the Civil War, Tigra fought alongside Iron Man, showing her support for the divisive U.S. government-proposed Superhero Registration Act. As a S.H.I.E.L.D. agent, she aided in the enforcement of the act, sometimes by nefarious methods: Tigra infiltrated Captain America's Secret Avengers, who were anti-registration act, passing valuable secret information back to Iron Man.",
+        "locText": "Greer es una humana transformada místicamente en la heroína Tigra, un híbrido humano/tigre. Impulsada por un amuleto de cabeza de gato, puede transformarse de su forma humana a Tigra y, con la Gente Gato, ayudó a derrotar a Hydra. Durante la Guerra Civil, Tigra luchó junto a Iron Man, mostrando su apoyo a la divisiva Ley de Registro de Superhéroes propuesta por el gobierno de Estados Unidos. Como agente de S.H.I.E.L.D., ayudó en la aplicación de la ley, a veces mediante métodos nefastos: Tigra se infiltró en los Vengadores Secretos del Capitán América, que eran el grupo anti-registro, pasando valiosa información secreta a Iron Man."
+      }
+    },
+    {
+      "img": "villains/Titania.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Titania",
+        "locText": "Titania"
+      },
+      "realName": {
+        "text": "Mary MacPherran",
+        "locText": "Mary MacPherran"
+      },
+      "bio": {
+        "text": "She falsely told her coworker and friend, Marsha, that she's Spider-Woman. Marsha spread the rumor, getting them invited to a party. When the real Spider-Woman arrived to save the party guests from a collapsing structure, the guests turn on Mary and Marsha, chasing them into the forests of Battleworld where they're found by Doctor Doom who needed metahuman operatives to further his ambitions. Mary and Marsha both agree to Doom's offer of power in exchange for serving in his army of supervillains. Mary as the villain, Titania.",
+        "locText": "Le contó (mintió) a su compañera de trabajo y amiga, Marsha, que ella es Spider-Woman. Marsha difundió el rumor y los invitó a una fiesta. Cuando la verdadera Spider-Woman llegó para salvar a los invitados a la fiesta de una estructura que se derrumbaba, los invitados se vuelven contra Mary y Marsha y las persiguen hasta los bosques de Mundo Batalla, donde los encuentra el Doctor Muerte, que necesitaba agentes metahumanos para promover sus ambiciones. Mary y Marsha aceptan la oferta de poder de Muerte a cambio de servir en su ejército de supervillanos. María como la villana, Titania."
+      }
+    },
+    {
+      "img": "heroes/Triton.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Triton",
+        "locText": "Tritón"
+      },
+      "realName": {
+        "text": "*Unrevealed*",
+        "locText": "*No revelado*"
+      },
+      "bio": {
+        "text": "Triton is an Inhuman placed in the Terrigen Mists at a year old, giving him aquatic mutations like underwater breathing, aquatic vision, and superhuman agility. When the Kree Empire began ordering all surviving Inhumans to join it or perish, Triton joined the Inhuman Royal Family at a secret meeting place. Triton discovered a bomb was left as a trap. Lockjaw was able to teleport the Royal Family to safety before the bomb detonated, but not Triton, who was believed dead in the blast. But Triton was alive and transported with other Inhumans to an unknown location by the Kree.",
+        "locText": "Tritón es un Inhumano colocado en la Niebla Terrigena cuando tenía un año, lo que le otorga mutaciones acuáticas como respiración bajo el agua, visión acuática y agilidad sobrehumana. Cuando el Imperio Kree comenzó a ordenar a todos los Inhumanos supervivientes que se unieran a él o perecerían, Tritón se reunió con la Familia Real Inhumana en un lugar de secreto. Tritón descubrió que había una bomba dejada como trampa. Lockjaw pudo teletransportar a la Familia Real a un lugar seguro antes de que detonara la bomba, pero no a Tritón, a quien se creía muerto en la explosión. Pero Tritón estaba vivo y los Kree lo transportaron con otros Inhumanos a un lugar desconocido."
+      }
+    },
+    {
+      "img": "villains/Ursa-Major.jpg",
+      "loyalty": "anti-hero-bio",
+      "name": {
+        "text": "Ursa Major",
+        "locText": "Ursa Major"
+      },
+      "realName": {
+        "text": "Mikhail Urinkovich Ursus",
+        "locText": "Mikhail Urinkovich Ursus"
+      },
+      "bio": {
+        "text": "Ursa was one of the first mutants born in the Soviet Union. He escaped mutant genocide by being brought into service for the state by Professor Phobos. There, he met and worked with Vanguard and Darkstar as Soviet Super-Soldiers. Soon after, they turned against the Soviet regime and became agents fighting for the good of the people.",
+        "locText": "Ursa fue uno de los primeros mutantes nacidos en la Unión Soviética. Escapó del genocidio mutante cuando el profesor Phobos lo puso al servicio del estado. Allí conoció y trabajó con Guardian Rojo y Estrella Oscura como supersoldados soviéticos. Poco después, se volvieron contra el régimen soviético y se convirtieron en agentes que luchaban por el bien del pueblo."
+      }
+    },
+    {
+      "img": "villains/US-Agent.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "U.S. Agent",
+        "locText": "U.S. Agent"
+      },
+      "realName": {
+        "text": "Jonathan F. Walker",
+        "locText": "Jonathan F. Walker"
+      },
+      "bio": {
+        "text": "Inspired by his army veteran father and his military pilot older brother, John F. Walker wanted to become a soldier and serve his country. After a time in the army, he and his friends are propositioned by corrupt entrepreneur Power Broker and receive his exotic radiation treatments. It gives them all superhuman strength. Needing money to pay for these services, the foursome joins the Unlimited Class Wrestling Federation. Talent scout Ethan Thurm persuades the group to become costumed patriotic crusaders, with Walker as the Super-Patriot.",
+        "locText": "Inspirado por su padre, veterano del ejército, y su hermano mayor, piloto militar, John F. Walker quería convertirse en soldado y servir a su país. Después de un tiempo en el ejército, él y sus amigos reciben proposiciones del empresario corrupto Mediador de Poder y reciben sus exóticos tratamientos de radiación. Les da a todos una fuerza sobrehumana. Al necesitar dinero para pagar estos servicios, el cuarteto se une a la Federación de Lucha Libre sin límite de Peso. El cazatalentos Ethan Thurm persuade al grupo para que se conviertan en cruzados patrióticos disfrazados, con Walker como el Súper Patriota."
+      }
+    },
+    {
+      "img": "villains/Vulcan.jpg",
+      "loyalty": "villain",
+      "name": {
+        "text": "Vulcan",
+        "locText": "Vulcano"
+      },
+      "realName": {
+        "text": "Gabriel Summers",
+        "locText": "Gabriel Summers"
+      },
+      "bio": {
+        "text": "Gabe is the younger brother of Cyclops and Havok. He chose the name of Volcan from a book on Roman mythology and became part of a team of X-Men. After learning of the devastation of the Skrull fleet and the takeover of Hala by the Inhumans, Vulcan launched a surprise attack on the Kree, now ruled by Black Bolt. In an attempt to usurp Vulcan, Lilandra was assassinated. A civil war ignited between factions loyal to her and Vulcan. Vulcan flew off to engage the Inhumans, believing Black Bolt intended to destroy his empire, they battled, with both apparently dying in the resulting explosion that tore a hole in the fabric of space and time.",
+        "locText": "Gabe es el hermano menor de Cíclope y Kaos. Eligió el nombre de Vulcano de un libro sobre mitología romana y pasó a formar parte de un equipo de X-Men. Después de enterarse de la devastación de la flota Skrull y la toma de Hala por los Inhumanos, Vulcano lanzó un ataque sorpresa contra los Kree, ahora gobernados por Rayo Negro. En un intento de usurpar a Vulcano, Lilandra fue asesinada. Se desató una guerra civil entre facciones leales a ella y Vulcano. Vulcano voló para enfrentarse a los Inhumanos, creyendo que Rayo Negro tenía la intención de destruir su imperio, lucharon y ambos aparentemente murieron en la explosión resultante que abrió un agujero en el tejido del espacio y el tiempo."
+      }
+    },
+    {
+      "img": "heroes/Werewolf-By-Night.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Werewolf By Night",
+        "locText": "Hombre Lobo"
+      },
+      "realName": {
+        "text": "Jack Russel",
+        "locText": "Jack Russel"
+      },
+      "bio": {
+        "text": "Jacob was the child of Gregory Russof, a Transylvanian baron whose ancestor was bitten by a werewolf protecting Dracula. The lycanthropy curse lay dormant in the family until Gregory read from the Darkhold and became a werewolf. His wife fled to America with their children, where she remarried and Jacob became Jack Russel. On his 18h birthday, a full moon, the curse struck him and he became a werewolf. While he would become feral, Jack managed to refrain from taking a human life. Eventually he managed to maintain control of his intellect and change into werewolf form voluntarily at any time.",
+        "locText": "Jacob era hijo de Gregory Russof, un barón de Transilvania cuyo antepasado fue mordido por un hombre lobo que protegía a Drácula. La maldición de la licantropía permaneció latente en la familia hasta que Gregory leyó en Libro de los Pecados y se convirtió en un hombre lobo. Su esposa huyó a Estados Unidos con sus hijos, donde se volvió a casar y Jacob se convirtió en Jack Russel. En su 18º cumpleaños, con luna llena, la maldición lo afectó y se convirtió en un hombre lobo. Si bien se volvería salvaje, Jack logró abstenerse de quitar una vida humana. Finalmente logró mantener el control de su intelecto y cambiar voluntariamente a forma de hombre lobo en cualquier momento."
+      }
+    },
+    {
+      "img": "villains/White-Widow.jpg",
+      "loyalty": "anti-hero",
+      "name": {
+        "text": "White Widow",
+        "locText": "Viuda Blanca"
+      },
+      "realName": {
+        "text": "Yelena Belova",
+        "locText": "Yelena Belova"
+      },
+      "bio": {
+        "text": "At age 15, Yelena was chosen as a candidate to become the new Black Widow. She trained under Vasilievich Pyotr Starkovsky at the espionage academy known as the Red Room, officially becoming the Black Widow after the death of her mentor. Yelena has become an ally to Natasha Romanova and, as the White Widow, has been in charge of training young female spies to help them fend for themselves.",
+        "locText": "A los 15 años, Yelena fue elegida como candidata para convertirse en la nueva Viuda Negra. Se entrenó con Vasilievich Pyotr Starkovsky en la academia de espionaje conocida como la Habitación Roja, convirtiéndose oficialmente en la Viuda Negra después de la muerte de su mentor. Yelena se ha convertido en aliada de Natasha Romanova y, como la Viuda Blanca, se ha encargado de entrenar a jóvenes espías para ayudarlas a valerse por sí mismas."
+      }
+    },
+    {
+      "img": "heroes/Wiccan.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Wiccan",
+        "locText": "Wiccan"
+      },
+      "realName": {
+        "text": "William Kaplan-Altman",
+        "locText": "William Kaplan-Altman"
+      },
+      "bio": {
+        "text": "Billy Kaplan is one of Scarlet Witch and Vision's reincarnated twins. Wiccan has wide-ranging, powerful magical abilities and may be capable of much more than his mother's chaos magic. Growing up, he was drawn to his mother and attempted to find her but was unable to get in touch with her when the Avengers disbanded. Thanks to Vision, a failsafe program was put in place that gathered Billy (originally calling himself the Asgardian) and other recruits in a new team which was dubbed the Young Avengers.",
+        "locText": "Billy Kaplan es uno de los gemelos reencarnados de Bruja Escarlata y Visión. Wiccan tiene habilidades mágicas poderosas y de amplio alcance y puede ser capaz de mucho más que la magia del caos de su madre. Al crecer, se sintió atraído por su madre e intentó encontrarla, pero no pudo ponerse en contacto con ella cuando los Vengadores se disolvieron. Gracias a Visión, se implementó un programa de seguridad que reunió a Billy (originalmente se hacía llamar el Asgardiano) y otros reclutas en un nuevo equipo que fue apodado los Jóvenes Vengadores."
+      }
+    },
+    {
+      "img": "heroes/Wonder-Man.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Wonder Man",
+        "locText": "Hombre Maravilla"
+      },
+      "realName": {
+        "text": "Simon Williams",
+        "locText": "Simon Williams"
+      },
+      "bio": {
+        "text": "Wonder Man is a chemical and ionic radiation-induced human mutate, gifted with superhuman strength and durability. After the passage of the Superhero Registration Act, Wonder Man registered and became a S.H.I.E.L.D. agent, hunting down and capturing unregistered superhumans. In the later Civil War, he would capture criminals and members of the opposition, while acting as the movement's educator to the public about the specifics of the Superhero Registration Act.",
+        "locText": "Hombre Maravilla es un mutante humano inducido por radiación química e iónica, dotado de fuerza y durabilidad sobrehumanas. Después de la aprobación de la Ley de Registro de Superhéroes, Hombre Maravilla se registró y se convirtió en miembro de S.H.I.E.L.D. como agente, cazando y capturando superhumanos no registrados. En la posterior Guerra Civil, capturaría a criminales y miembros de la oposición, mientras actuaba como educador del movimiento para el público sobre los detalles de la Ley de Registro de Superhéroes."
+      }
+    },
+    {
+      "img": "heroes/Wong.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Wong",
+        "locText": "Wong"
+      },
+      "realName": {
+        "text": "Wong",
+        "locText": "Wong"
+      },
+      "bio": {
+        "text": "Wong is the descendant of an ancient Tibetan warrior-monk by the name of Каn, who was drawn into the mystical dimension Kaichek by the sorcerer Vung. Kan's descendants were raised to serve the mystics of the world. They even formed an order in Kamar-Taj in service to the Ancient One. When Wong turned four, he was taken from his mother and presented to the Ancient One, to learn to serve, just like his family before him. When Wong became an adult, the Ancient One sent him to the United States to serve Doctor Strange.",
+        "locText": "Wong es descendiente de un antiguo monje guerrero tibetano llamado Каn, quien fue atraído a la dimensión mística Kaichek por el hechicero Vung. Los descendientes de Kan fueron criados para servir a los místicos del mundo. Incluso formaron una orden en Kamar-Taj al servicio del Anciano. Cuando Wong cumplió cuatro años, lo separaron de su madre y lo presentaron al Anciano, para que aprendiera a servir, tal como lo hizo su familia antes que él. Cuando Wong se convirtió en adulto, el Anciano lo envió a los Estados Unidos para servir al Doctor Extraño."
+      }
+    },
+    {
+      "img": "villains/Wrecker.jpg",
+      "loyalty": "villain-bio",
+      "name": {
+        "text": "Wrecker",
+        "locText": "Demoledor"
+      },
+      "realName": {
+        "text": "Dirk Garthwaite",
+        "locText": "Dirk Garthwaite"
+      },
+      "bio": {
+        "text": "Dirk was a manual laborer fired for his anti-social behavior and fits of violence. He turned to criminal activity, fashioning himself a costume and going under the name of the Wrecker, his trademark being the crowbar he wielded. Seeking another victim, the Wrecker entered a hotel room occupied by Loki while summoning Karnilla the Norn Queen. While trying on Loki's horned helmet, the Wrecker was mistaken for the god when Karnilla materialized and mistakenly endowed him with magical power that gave him superhuman strength he used to embark upon a wrecking spree. He'd go on to lead the criminal group, the Wrecking Crew.",
+        "locText": "Dirk era un trabajador manual despedido por su comportamiento antisocial y ataques de violencia. Se dedicó a la actividad criminal, se disfrazó y se puso el nombre de Demoledor, siendo su marca registrada la palanca que empuñaba. Buscando otra víctima, Demoledor entró en una habitación de hotel ocupada por Loki mientras convocaba a Karnilla, la Reina Norn. Mientras se probaba el casco con cuernos de Loki, Demoledor fue confundido con el dios cuando Karnilla se materializó y por error lo dotó de un poder mágico que le dio una fuerza sobrehumana que utilizó para embarcarse en una ola de demolición. Pasaría a liderar el grupo criminal la Brigada de Demolición."
+      }
+    },
+    {
+      "img": "heroes/X-Man.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "X-Man",
+        "locText": "X-Man"
+      },
+      "realName": {
+        "text": "Nathan Grey",
+        "locText": "Nathan Grey"
+      },
+      "bio": {
+        "text": "X-Man, or Nate Grey, is an alternate universe version of Cable. Created by Apocalypse's Horseman Sinister from genetic material taken from the mutant heroes Cyclops and Jean Grey of his reality, Nate learns that his purpose is to destroy Apocalypse. X-Man is a telepath of vast power: able to read and control minds, project his astral form across the world, and create complex psionic illusions and \"psionic spikes\".",
+        "locText": "X-Man, o Nate Grey, es una versión de un universo alternativo de Cable. Creado por el Míster Siniestro como Jinete de Apocalipsis a partir de material genético tomado de los héroes mutantes Cíclope y Jean Grey de su realidad, Nate descubre que su propósito es destruir a Apocalipsis. X-Man es un telépata de gran poder: capaz de leer y controlar mentes, proyectar su forma astral por todo el mundo y crear complejas ilusiones psiónicas y \"picos psiónicos\"."
+      }
+    },
+    {
+      "img": "heroes/Yellow-Jacket.jpg",
+      "loyalty": "hero",
+      "name": {
+        "text": "Yellow Jacket",
+        "locText": "Chaqueta Amarilla"
+      },
+      "realName": {
+        "text": "Henry Pym",
+        "locText": "Henry Pym"
+      },
+      "bio": {
+        "text": "Hank Pym is an American entomologist, biochemist, roboticist, engineer, physicist and discoverer of Pym Particles, subatomic particles which can increase or decrease the size and mass of objects or living beings. Emboldened with these abilities, Pym would embody a number of identities including the original Ant-Man, Giant-Man and Yellowjacket. As Yellowjacket, this crime fighter would join the Avengers and the Defenders, ultimately siding with the pro-registration forces in the battle over the Superhero Registration Act. He'd join with Tony Stark and Mister Fantastic to design Prison 42 to hold anti-Act superpowered forces.",
+        "locText": "Hank Pym es un entomólogo, bioquímico, robótico, ingeniero, físico y descubridor estadounidense de las partículas Pym, partículas subatómicas que pueden aumentar o disminuir el tamaño y la masa de objetos o seres vivos. Envalentonado con estas habilidades, Pym encarnaría varias identidades, incluido el Ant-Man original, Hombre Gigante y Chaqueta Amarilla. Como Chaqueta Amarilla, este luchador contra el crimen se uniría a los Vengadores y los Defensores, y finalmente se pondría del lado de las fuerzas pro-registro en la batalla por la Ley de Registro de Superhéroes. Se uniría a Tony Stark y Míster Fantástico para diseñar la Prisión 42 para albergar fuerzas superpoderosas anti-registro."
+      }
+    },
+    {
+      "img": "villains/Dark-Avengers.jpg",
+      "loyalty": "hidden",
+      "name": {
+        "text": "Dark Avengers",
+        "locText": "Vengadores Oscuros"
+      }
+    },
+    {
+      "img": "villains/Demogoblin-Doppelganger.jpg",
+      "loyalty": "hidden",
+      "name": {
+        "text": "Demogoblin & Doppelganger",
+        "locText": "Demogoblin & Doppelganger"
+      }
+    },
+    {
+      "img": "villains/Heralds-Galactus.jpg",
+      "loyalty": "hidden",
+      "name": {
+        "text": "Heralds Of Galactus",
+        "locText": "Heraldos De Galactus"
+      }
+    },
+    {
+      "img": "villains/New-Sinister-Six.jpg",
+      "loyalty": "hidden",
+      "name": {
+        "text": "New Sinister Six",
+        "locText": "Nuevos Seis Siniestros"
+      }
+    },
+    {
+      "img": "villains/Winter-Guard.jpg",
+      "loyalty": "hidden",
+      "name": {
+        "text": "Winter Guard",
+        "locText": "Guardia Invernal"
+      }
+    },
+    {
+      "img": "villains/Wrecking-Crew.jpg",
+      "loyalty": "hidden",
+      "name": {
+        "text": "Wrecking Crew",
+        "locText": "Brigada De Demolición"
+      }
+    }    
+  ]
+}
