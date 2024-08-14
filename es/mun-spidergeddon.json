@@ -5,8 +5,121 @@
     "text": "Marvel United Spider-Geddon",
     "locText": "Marvel United Spider-Geddon"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
-  "tokens": [],
+  "locations": [
+    {
+      "img": "locations/great-weaver-temple.jpg",
+      "title": {
+        "text": "Great Weaver Temple",
+        "locText": "Templo Del Great Weaver"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to gain 1 [HEROIC] and 1 [ATTACK] tokens.",
+          "locText": ""
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/horizon-labs.jpg",
+      "title": {
+        "text": "Horizon Labs",
+        "locText": "Laboratorios Horizon"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may turn facedown 1 of your Equipment cards to recharge (turn faceup) any other Equipment in the game.",
+          "locText": ""
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/japan.jpg",
+      "title": {
+        "text": "Japan",
+        "locText": "Japón"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there are at least 2 empty slots in this Location, you may add 2 [THUG] there to gain 1 [MOVE], [HEROIC], or [ATTACK] token.",
+          "locText": ""
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/las-vegas.jpg",
+      "title": {
+        "text": "Las Vegas",
+        "locText": "Las Vegas"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If the top Master Plan card is not revealed, you may guess if it adds more [THUG] or [CIVILIAN], then reveal it. If you guessed right, gain 1 token and leave the card revealed. Otherwise, put it at the bottom of the deck.",
+          "locText": ""
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/loomworld.jpg",
+      "title": {
+        "text": "Loomworld",
+        "locText": "Loomworld"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may move to any other Location.",
+          "locText": "Puedes moverte a cualquier otro Lugar."
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/parker-residence.jpg",
+      "title": {
+        "text": "Parker Residence",
+        "locText": "Residencia De Los Parker"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If you have 1 or 2 cards in hand, you may draw 1 card.",
+          "locText": ""
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/sims-tower.jpg",
+      "title": {
+        "text": "Sims Tower",
+        "locText": "Torre Sims"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "This Location starts with 2 [HEROIC] tokens. Heroes here may discard any number of [HEROIC] tokens from here to ignore the same amount of damage. | You may take 1 [HEROIC] token from this Location OR add 1 [HEROIC] token from the pool to this Location.",
+          "locText": ""
+        }
+      },
+      "slots": []
+    },
+    {
+      "img": "locations/spider-island.jpg",
+      "title": {
+        "text": "Spider-Island",
+        "locText": "Spider-Island"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there are 1 or more [THUG] in this Location, you MUST take 1 damage.",
+          "locText": ""
+        },
+        "mandatory": true
+      },
+      "slots": []
+    }
+  ],
   "characters": [
     {
       "img": "villains/Anti-Venom.jpg",
@@ -167,6 +280,6 @@
         "text": "What if Peter never rejected the symbiote? In this alternate universe, Peter embraced the Symbiote and continued using it knowing that it was an alien lifeform. The Symbiote further enhanced his already superhuman capabilities and its shapeshifting abilities further augmented his crime fighting abilities. However, the more he used the Symbiote, the more tightly it bonded to Peter. He eventually noticed that his movements grew more feral, and the Symbiote would act of its own accord on some occasions. He could feel his control over the Symbiote gradually slipping away... Great power comes at a great cost.",
         "locText": "¿Qué pasaría si Peter nunca rechazara el simbionte? En este universo alternativo, Peter abrazó el Simbionte y continuó usándolo sabiendo que era una forma de vida alienígena. El Simbionte mejoró aún más sus capacidades ya sobrehumanas y sus habilidades de cambio de forma aumentaron aún más sus habilidades para luchar contra el crimen. Sin embargo, cuanto más usaba el Simbionte, más estrechamente se unía a Peter. Finalmente notó que sus movimientos se volvían más salvajes y que el Simbionte actuaba por sí solo en algunas ocasiones. Podía sentir que su control sobre el Simbionte se le escapaba gradualmente... Un gran poder tiene un gran coste."
       }
-    } 
+    }
   ]
 }
