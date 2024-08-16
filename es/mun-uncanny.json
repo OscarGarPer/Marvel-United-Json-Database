@@ -112,7 +112,7 @@
       "endOfTurn": {
         "effect": {
           "text": "You may place 1 [HEROIC] token from the pool in this Location. This token acts as a permanent extra slot for [CIVILIAN] / [THUG].",
-          "locText": "Puedes colocar 1 ficha [ACCIÓN HEROICA] de la reserva en este Lugar. Esta ficha sirve como un espacio extra para [CIVILES] / [MATÓNES]."
+          "locText": "Puedes colocar 1 ficha [ACCIÓN HEROICA] de la reserva en este Lugar. Esta ficha sirve como un espacio extra para [CIVIL] / [MATÓNES]."
         }
       },
       "slots": [
@@ -10857,7 +10857,7 @@
           "specialEffect": {
             "title": {
               "text": "I Really Don't Have The Time To Fill All These Card Effects. This Card Don't Do Anything Else Other Than Placing Stuff. I Also Don't Really Feel Like Moving Right Now, You Know? See All Those [civilian] Tokens? Add 1 In Every Location.",
-              "locText": "Realmente no tengo tiempo para escribir todos estos efectos de cartas. Esta carta no hace nada más que colocar cosas. Tampoco tengo ganas de moverme ahora mismo, ¿sabes? ¿Ves todas esas fichas [CIVILES]? Añade 1 en cada Lugar."
+              "locText": "Realmente no tengo tiempo para escribir todos estos efectos de cartas. Esta carta no hace nada más que colocar cosas. Tampoco tengo ganas de moverme ahora mismo, ¿sabes? ¿Ves todas esas fichas [CIVIL]? Añade 1 en cada Lugar."
             },
             "description": {
               "text": "",

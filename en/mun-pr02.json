@@ -3,7 +3,7 @@
   "img": "mun-pr02.jpg",
   "name": {
     "text": "Marvel United Witching Hour",
-    "locText": ""
+    "locText": "Marvel United Witching Hour"
   },
   "rulebook": "rulebooks/Unificado.pdf",
   "tokens": [],
@@ -13,15 +13,15 @@
       "loyalty": "anti-hero",
       "name": {
         "text": "Agatha Harkness",
-        "locText": ""
+        "locText": "Agatha Harkness"
       },
       "realName": {
         "text": "Agatha Harkness",
-        "locText": ""
+        "locText": "Agatha Harkness"
       },
       "bio": {
         "text": "Agatha Harkness, one of the surviving witches from the Salem Witch trials, is an immensely powerful sorceress who has accumulated centuries of arcane knowledge. Accompanied by her cat, Ebony, she has aided many heroes in their battles against various foes. However, as the decades passed, she began pursuing her own ambition orchestrating conflicts among superheroes in hopes of creating a new Darkhold. Her motives for doing so remain shrouded in mystery.",
-        "locText": ""
+        "locText": "Agatha Harkness, one of the surviving witches from the Salem Witch trials, is an immensely powerful sorceress who has accumulated centuries of arcane knowledge. Accompanied by her cat, Ebony, she has aided many heroes in their battles against various foes. However, as the decades passed, she began pursuing her own ambition orchestrating conflicts among superheroes in hopes of creating a new Darkhold. Her motives for doing so remain shrouded in mystery."
       }
     },
     {
@@ -29,32 +29,32 @@
       "loyalty": "hero",
       "name": {
         "text": "Deadpool (X-Force)",
-        "locText": ""
+        "locText": "Deadpool (X-Force)"
       },
       "realName": {
         "text": "Wade Wilson",
-        "locText": ""
+        "locText": "Wade Wilson"
       },
       "bio": {
         "text": "Deadpool was hired to join Wolverine and Archangel's special task force, the X-Force, a strike team who would employ lethal force to proactively eliminate any potential threats against mutantkind. Due to the clandestine nature of the team's operations, the merc with the mouth needed to set aside his usual persona and act with ruthless efficiency. The stakes were higher, and his unpredictability needed to be channeled into precise, calculated actions to protect the mutants future.",
-        "locText": ""
+        "locText": "Deadpool was hired to join Wolverine and Archangel's special task force, the X-Force, a strike team who would employ lethal force to proactively eliminate any potential threats against mutantkind. Due to the clandestine nature of the team's operations, the merc with the mouth needed to set aside his usual persona and act with ruthless efficiency. The stakes were higher, and his unpredictability needed to be channeled into precise, calculated actions to protect the mutants future."
       },
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force1.jpg",
+          "img": "en/heroes/Deadpool-X-Force1.jpg",
           "title": {
             "text": "Deadpool (X-Force)",
-            "locText": ""
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
               "text": "Regenerative Healing Factor",
-              "locText": ""
+              "locText": "Regenerative Healing Factor"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, if you have less tha 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
-              "locText": ""
+              "locText": "As long as this card is faceup in the Storyline, if you have less tha 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
             }
           },
           "actions": [
@@ -64,19 +64,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force2.jpg",
+          "img": "en/heroes/Deadpool-X-Force2.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Improved Resistance To Everything",
-              "locText": ""
+              "locText": "Improved Resistance To Everything"
             },
             "description": {
               "text": "Until the beginning of your next turn, any special effects on Master Plan cards played have no effect on Deadpool.",
-              "locText": ""
+              "locText": "Until the beginning of your next turn, any special effects on Master Plan cards played have no effect on Deadpool."
             }
           },
           "actions": [
@@ -86,10 +86,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force3.jpg",
+          "img": "en/heroes/Deadpool-X-Force3.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "actions": [
             "W"
@@ -97,10 +97,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force4.jpg",
+          "img": "en/heroes/Deadpool-X-Force4.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "actions": [
             "W",
@@ -109,20 +109,20 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force5.jpg",
+          "img": "en/heroes/Deadpool-X-Force5.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "mandatory": true,
             "title": {
               "text": "Totally Unpredictable",
-              "locText": ""
+              "locText": "Totally Unpredictable"
             },
             "description": {
               "text": "On your next turn, you MUST play your Hero card randomly.",
-              "locText": ""
+              "locText": "On your next turn, you MUST play your Hero card randomly."
             }
           },
           "actions": [
@@ -132,20 +132,20 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force5.jpg",
+          "img": "en/heroes/Deadpool-X-Force5.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "mandatory": true,
             "title": {
               "text": "Totally Unpredictable",
-              "locText": ""
+              "locText": "Totally Unpredictable"
             },
             "description": {
               "text": "On your next turn, you MUST play your Hero card randomly.",
-              "locText": ""
+              "locText": "On your next turn, you MUST play your Hero card randomly."
             }
           },
           "actions": [
@@ -155,19 +155,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force7.jpg",
+          "img": "en/heroes/Deadpool-X-Force7.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Fight Through The Pain",
-              "locText": ""
+              "locText": "Fight Through The Pain"
             },
             "description": {
               "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": ""
+              "locText": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn."
             }
           },
           "actions": [
@@ -176,19 +176,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force7.jpg",
+          "img": "en/heroes/Deadpool-X-Force7.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Fight Through The Pain",
-              "locText": ""
+              "locText": "Fight Through The Pain"
             },
             "description": {
               "text": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn.",
-              "locText": ""
+              "locText": "Gain 1 [ATTACK] token. You may ignore 1 damage until the beginning of your next turn."
             }
           },
           "actions": [
@@ -197,19 +197,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force9.jpg",
+          "img": "en/heroes/Deadpool-X-Force9.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Bea Might Be In Danger",
-              "locText": ""
+              "locText": "Bea Might Be In Danger"
             },
             "description": {
               "text": "Rescue 1 [CIVILIAN] in your Location.",
-              "locText": ""
+              "locText": "Rescue 1 [CIVILIAN] in your Location."
             }
           },
           "actions": [
@@ -219,19 +219,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force9.jpg",
+          "img": "en/heroes/Deadpool-X-Force9.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Bea Might Be In Danger",
-              "locText": ""
+              "locText": "Bea Might Be In Danger"
             },
             "description": {
               "text": "Rescue 1 [CIVILIAN] in your Location.",
-              "locText": ""
+              "locText": "Rescue 1 [CIVILIAN] in your Location."
             }
           },
           "actions": [
@@ -241,19 +241,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force11.jpg",
+          "img": "en/heroes/Deadpool-X-Force11.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Maximum Firepower",
-              "locText": ""
+              "locText": "Maximum Firepower"
             },
             "description": {
               "text": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there.",
-              "locText": ""
+              "locText": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there."
             }
           },
           "actions": [
@@ -262,19 +262,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Deadpool-X-Force11.jpg",
+          "img": "en/heroes/Deadpool-X-Force11.jpg",
           "title": {
             "text": "Deadpool (x-force)",
-            "locText": ""
+            "locText": "Deadpool (x-force)"
           },
           "specialEffect": {
             "title": {
               "text": "Maximum Firepower",
-              "locText": ""
+              "locText": "Maximum Firepower"
             },
             "description": {
               "text": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there.",
-              "locText": ""
+              "locText": "[ATTACK][ATTACK] against a single target in your Location. Then, [ATTACK][ATTACK] against a different target there."
             }
           },
           "actions": [
@@ -288,33 +288,33 @@
       "loyalty": "hero",
       "name": {
         "text": "Grey-Hulk",
-        "locText": ""
+        "locText": "Grey-Hulk"
       },
       "realName": {
         "text": "Robert Bruce Banner",
-        "locText": ""
+        "locText": "Robert Bruce Banner"
       },
       "bio": {
         "text": "Banner suffered from dissociative identity disorder due to the years of abuse he suffered at the hands of his father. This trauma led to the emergence of the persona known as Joe Fixit; a morally ambiguous mob enforcer, born of his obsessions with mobster films. He was manipulative, cunning, and indifferent to others. Yet, to everyone's surprise, he agreed to join the new Fantastic Four after their apparent deaths, taking on a more heroic role.",
-        "locText": ""
+        "locText": "Banner suffered from dissociative identity disorder due to the years of abuse he suffered at the hands of his father. This trauma led to the emergence of the persona known as Joe Fixit; a morally ambiguous mob enforcer, born of his obsessions with mobster films. He was manipulative, cunning, and indifferent to others. Yet, to everyone's surprise, he agreed to join the new Fantastic Four after their apparent deaths, taking on a more heroic role."
       },
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk1.jpg",
+          "img": "en/heroes/Grey-Hulk1.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Growing Rage",
-              "locText": ""
+              "locText": "Growing Rage"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, for each damage you take during Villain turn, you may gain 1 [ATTACK] token.",
-              "locText": ""
+              "locText": "As long as this card is faceup in the Storyline, for each damage you take during Villain turn, you may gain 1 [ATTACK] token."
             }
           },
           "actions": [
@@ -324,10 +324,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk2.jpg",
+          "img": "en/heroes/Grey-Hulk2.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "M"
@@ -335,10 +335,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk3.jpg",
+          "img": "en/heroes/Grey-Hulk3.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "A"
@@ -346,10 +346,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk4.jpg",
+          "img": "en/heroes/Grey-Hulk4.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "H"
@@ -357,10 +357,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk5.jpg",
+          "img": "en/heroes/Grey-Hulk5.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "M",
@@ -369,10 +369,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk6.jpg",
+          "img": "en/heroes/Grey-Hulk6.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "A",
@@ -381,10 +381,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk7.jpg",
+          "img": "en/heroes/Grey-Hulk7.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "M",
@@ -393,10 +393,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk8.jpg",
+          "img": "en/heroes/Grey-Hulk8.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "W"
@@ -404,10 +404,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk9.jpg",
+          "img": "en/heroes/Grey-Hulk9.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "actions": [
             "W",
@@ -416,20 +416,20 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk10.jpg",
+          "img": "en/heroes/Grey-Hulk10.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Superhuman Stamina",
-              "locText": ""
+              "locText": "Superhuman Stamina"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, if you start your turn with only 1 card in hand, you may draw 2 cards during your Draw step.",
-              "locText": ""
+              "locText": "As long as this card is faceup in the Storyline, if you start your turn with only 1 card in hand, you may draw 2 cards during your Draw step."
             }
           },
           "actions": [
@@ -438,20 +438,20 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk11.jpg",
+          "img": "en/heroes/Grey-Hulk11.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Outsmart",
-              "locText": ""
+              "locText": "Outsmart"
             },
             "description": {
               "text": "When the next Master Plan card is revealed, you may put it on the bottom and draw another one instead.",
-              "locText": ""
+              "locText": "When the next Master Plan card is revealed, you may put it on the bottom and draw another one instead."
             }
           },
           "actions": [
@@ -460,20 +460,20 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Grey-Hulk12.jpg",
+          "img": "en/heroes/Grey-Hulk12.jpg",
           "title": {
             "text": "Grey Hulk",
-            "locText": ""
+            "locText": "Grey Hulk"
           },
           "specialEffect": {
             "mandatory": false,
             "title": {
               "text": "Controlled Strength",
-              "locText": ""
+              "locText": "Controlled Strength"
             },
             "description": {
               "text": "[ATTACK] [ATTACK] in your Location.",
-              "locText": ""
+              "locText": "[ATTACK] [ATTACK] in your Location."
             }
           },
           "actions": [
@@ -487,32 +487,32 @@
       "loyalty": "hero",
       "name": {
         "text": "Juggernaut",
-        "locText": ""
+        "locText": "Juggernaut"
       },
       "realName": {
         "text": "Cain Marko",
-        "locText": ""
+        "locText": "Cain Marko"
       },
       "bio": {
         "text": "While fleeing from the battlefield during his deployment in Korea, Cain Marko stumbled upon the Temple of Cyttorak. There, he discovered the Grimson Gem, which granted him a fraction of the immense powers of Cyttorak, a powerful mystical entity. Initially a villain who wrought chaos and destruction wherever he went, Cain eventually began to reform. He reconciled his troubled relationship with his brother, Charles Xavier, and ultimately proved his worth, earning his place among the X-Men.",
-        "locText": ""
+        "locText": "While fleeing from the battlefield during his deployment in Korea, Cain Marko stumbled upon the Temple of Cyttorak. There, he discovered the Grimson Gem, which granted him a fraction of the immense powers of Cyttorak, a powerful mystical entity. Initially a villain who wrought chaos and destruction wherever he went, Cain eventually began to reform. He reconciled his troubled relationship with his brother, Charles Xavier, and ultimately proved his worth, earning his place among the X-Men."
       },
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut1.jpg",
+          "img": "en/heroes/Juggernaut1.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "specialEffect": {
             "title": {
               "text": "Protecting The Weakness",
-              "locText": ""
+              "locText": "Protecting The Weakness"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, each time 1 [CIVILIAN] in your Location is about to be discarded, you may take 1 damage to prevent it.",
-              "locText": ""
+              "locText": "As long as this card is faceup in the Storyline, each time 1 [CIVILIAN] in your Location is about to be discarded, you may take 1 damage to prevent it."
             }
           },
           "actions": [
@@ -522,10 +522,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut2.jpg",
+          "img": "en/heroes/Juggernaut2.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "actions": [
             "H"
@@ -533,10 +533,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut3.jpg",
+          "img": "en/heroes/Juggernaut3.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "actions": [
             "M",
@@ -545,10 +545,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut3.jpg",
+          "img": "en/heroes/Juggernaut3.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "actions": [
             "M",
@@ -557,10 +557,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut5.jpg",
+          "img": "en/heroes/Juggernaut5.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "actions": [
             "M",
@@ -569,10 +569,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut6.jpg",
+          "img": "en/heroes/Juggernaut6.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "actions": [
             "W"
@@ -580,10 +580,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut7.jpg",
+          "img": "en/heroes/Juggernaut7.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "actions": [
             "W",
@@ -592,19 +592,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut8.jpg",
+          "img": "en/heroes/Juggernaut8.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "specialEffect": {
             "title": {
               "text": "Charge",
-              "locText": ""
+              "locText": "Charge"
             },
             "description": {
               "text": "[MOVE], then [ATTACK].",
-              "locText": ""
+              "locText": "[MOVE], then [ATTACK]."
             }
           },
           "actions": [
@@ -613,19 +613,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut8.jpg",
+          "img": "en/heroes/Juggernaut8.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "specialEffect": {
             "title": {
               "text": "Charge",
-              "locText": ""
+              "locText": "Charge"
             },
             "description": {
               "text": "[MOVE], then [ATTACK].",
-              "locText": ""
+              "locText": "[MOVE], then [ATTACK]."
             }
           },
           "actions": [
@@ -634,19 +634,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut10.jpg",
+          "img": "en/heroes/Juggernaut10.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "specialEffect": {
             "title": {
               "text": "Juggernaut Armor",
-              "locText": ""
+              "locText": "Juggernaut Armor"
             },
             "description": {
               "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": ""
+              "locText": "You cannot take any damage until the beginning of your next turn."
             }
           },
           "actions": [
@@ -655,19 +655,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut10.jpg",
+          "img": "en/heroes/Juggernaut10.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "specialEffect": {
             "title": {
               "text": "Juggernaut Armor",
-              "locText": ""
+              "locText": "Juggernaut Armor"
             },
             "description": {
               "text": "You cannot take any damage until the beginning of your next turn.",
-              "locText": ""
+              "locText": "You cannot take any damage until the beginning of your next turn."
             }
           },
           "actions": [
@@ -676,19 +676,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Juggernaut12.jpg",
+          "img": "en/heroes/Juggernaut12.jpg",
           "title": {
             "text": "Juggernaut",
-            "locText": ""
+            "locText": "Juggernaut"
           },
           "specialEffect": {
             "title": {
               "text": "Double Agent Juggernaut",
-              "locText": ""
+              "locText": "Double Agent Juggernaut"
             },
             "description": {
               "text": "As long a this card is faceup in the Storyline, if during your turn you enter a Location with a Henchman you may reveal the top card of the Master Plan deck.",
-              "locText": ""
+              "locText": "As long a this card is faceup in the Storyline, if during your turn you enter a Location with a Henchman you may reveal the top card of the Master Plan deck."
             }
           },
           "actions": [
@@ -702,32 +702,32 @@
       "loyalty": "hero",
       "name": {
         "text": "Mister Sinister",
-        "locText": ""
+        "locText": "Mister Sinister"
       },
       "realName": {
         "text": "Nathaniel Essex",
-        "locText": ""
+        "locText": "Nathaniel Essex"
       },
       "bio": {
         "text": "As one of the three clones of Nathaniel Essex, Mister Sinister was a calculating master manipulator who spent most of his life trying to break free from Apocalypse's grasp. Apocalypse altered Sinister's mind, stripping him of normal human empathy, which he found hindered his pursuit of knowledge. Amoral and self-serving, Mister Sinister cares only about himself and his work. While he might be an ally for now, it is difficult to determine what he seeks to exploit from this temporary alliance.",
-        "locText": ""
+        "locText": "As one of the three clones of Nathaniel Essex, Mister Sinister was a calculating master manipulator who spent most of his life trying to break free from Apocalypse's grasp. Apocalypse altered Sinister's mind, stripping him of normal human empathy, which he found hindered his pursuit of knowledge. Amoral and self-serving, Mister Sinister cares only about himself and his work. While he might be an ally for now, it is difficult to determine what he seeks to exploit from this temporary alliance."
       },
       "cards": [
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister1.jpg",
+          "img": "en/heroes/Mister-Sinister1.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Master Geneticist",
-              "locText": ""
+              "locText": "Master Geneticist"
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, if you end your turn in a Location with any other Heroes, you may place 1 DNA token on one of their faceup cards in the Storyline with not DNA token.",
-              "locText": ""
+              "locText": "As long as this card is faceup in the Storyline, if you end your turn in a Location with any other Heroes, you may place 1 DNA token on one of their faceup cards in the Storyline with not DNA token."
             }
           },
           "actions": [
@@ -737,10 +737,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister2.jpg",
+          "img": "en/heroes/Mister-Sinister2.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "actions": [
             "M",
@@ -749,10 +749,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister3.jpg",
+          "img": "en/heroes/Mister-Sinister3.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "actions": [
             "H",
@@ -761,10 +761,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister4.jpg",
+          "img": "en/heroes/Mister-Sinister4.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "actions": [
             "M",
@@ -773,10 +773,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister5.jpg",
+          "img": "en/heroes/Mister-Sinister5.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "actions": [
             "W"
@@ -784,10 +784,10 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister6.jpg",
+          "img": "en/heroes/Mister-Sinister6.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "actions": [
             "W",
@@ -796,19 +796,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister7.jpg",
+          "img": "en/heroes/Mister-Sinister7.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Secret Agenda",
-              "locText": ""
+              "locText": "Secret Agenda"
             },
             "description": {
               "text": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose.",
-              "locText": ""
+              "locText": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose."
             }
           },
           "actions": [
@@ -817,19 +817,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister7.jpg",
+          "img": "en/heroes/Mister-Sinister7.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Secret Agenda",
-              "locText": ""
+              "locText": "Secret Agenda"
             },
             "description": {
               "text": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose.",
-              "locText": ""
+              "locText": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose."
             }
           },
           "actions": [
@@ -838,19 +838,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister7.jpg",
+          "img": "en/heroes/Mister-Sinister7.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Secret Agenda",
-              "locText": ""
+              "locText": "Secret Agenda"
             },
             "description": {
               "text": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose.",
-              "locText": ""
+              "locText": "Remove 1 DNA token from a faceup Hero card to use its Special Effect. Then, turn it facedown. If the Heroes win this turn, only you win. The other players lose."
             }
           },
           "actions": [
@@ -859,19 +859,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister10.jpg",
+          "img": "en/heroes/Mister-Sinister10.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Master Manipulator",
-              "locText": ""
+              "locText": "Master Manipulator"
             },
             "description": {
               "text": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly).",
-              "locText": ""
+              "locText": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly)."
             }
           },
           "actions": [
@@ -880,19 +880,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister10.jpg",
+          "img": "en/heroes/Mister-Sinister10.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Master Manipulator",
-              "locText": ""
+              "locText": "Master Manipulator"
             },
             "description": {
               "text": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly).",
-              "locText": ""
+              "locText": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly)."
             }
           },
           "actions": [
@@ -901,19 +901,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Mister-Sinister10.jpg",
+          "img": "en/heroes/Mister-Sinister10.jpg",
           "title": {
             "text": "Mister Sinister",
-            "locText": ""
+            "locText": "Mister Sinister"
           },
           "specialEffect": {
             "title": {
               "text": "Master Manipulator",
-              "locText": ""
+              "locText": "Master Manipulator"
             },
             "description": {
               "text": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly).",
-              "locText": ""
+              "locText": "Choos any other Hero. On their next turn, you choose the card they will play in the Storyline (even if they had to play randomly)."
             }
           },
           "actions": [
@@ -927,27 +927,27 @@
       "loyalty": "villain",
       "name": {
         "text": "Scarlet Witch",
-        "locText": ""
+        "locText": "Scarlet Witch"
       },
       "realName": {
         "text": "Wanda Maximoff",
-        "locText": ""
+        "locText": "Wanda Maximoff"
       },
       "bio": {
         "text": "Wanda struggled for a long time to come to terms with the loss of her children, but mysteriously, she had forgotten it all. A passing comment brought the the memories flooding back, forcing her to relive the trauma. In her emotionally vulnerable state, she lashed out at her allies, feeling that they had betrayed her. Merging with a cosmic force for the power to revive her children, she now campaigns against her former teammates, her mind warped by grief and cosmic influence.",
-        "locText": ""
+        "locText": "Wanda struggled for a long time to come to terms with the loss of her children, but mysteriously, she had forgotten it all. A passing comment brought the the memories flooding back, forcing her to relive the trauma. In her emotionally vulnerable state, she lashed out at her allies, feeling that they had betrayed her. Merging with a cosmic force for the power to revive her children, she now campaigns against her former teammates, her mind warped by grief and cosmic influence."
       },
       "cards": [
         {
           "cardType": "threat",
-          "img": "villains/Twins-T2.jpg",
+          "img": "en/villains/Twins-T2.jpg",
           "title": {
             "text": "Sibling Bond",
-            "locText": ""
+            "locText": "Sibling Bond"
           },
           "description": {
             "text": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead.",
-            "locText": ""
+            "locText": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead."
           },
           "actions": [
             "H",
@@ -957,14 +957,14 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Twins-T2.jpg",
+          "img": "en/villains/Twins-T2.jpg",
           "title": {
             "text": "Sibling Bond",
-            "locText": ""
+            "locText": "Sibling Bond"
           },
           "description": {
             "text": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead.",
-            "locText": ""
+            "locText": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead."
           },
           "actions": [
             "H",
@@ -974,14 +974,14 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Twins-T3.jpg",
+          "img": "en/villains/Twins-T3.jpg",
           "title": {
             "text": "Troubled Loyalty",
-            "locText": ""
+            "locText": "Troubled Loyalty"
           },
           "description": {
             "text": "When this Threat is cleared, delay the next Villain turn by 1 card.",
-            "locText": ""
+            "locText": "When this Threat is cleared, delay the next Villain turn by 1 card."
           },
           "actions": [
             "H",
@@ -992,14 +992,14 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Twins-T3.jpg",
+          "img": "en/villains/Twins-T3.jpg",
           "title": {
             "text": "Troubled Loyalty",
-            "locText": ""
+            "locText": "Troubled Loyalty"
           },
           "description": {
             "text": "When this Threat is cleared, delay the next Villain turn by 1 card.",
-            "locText": ""
+            "locText": "When this Threat is cleared, delay the next Villain turn by 1 card."
           },
           "actions": [
             "H",
@@ -1010,14 +1010,14 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Twins-T4.jpg",
+          "img": "en/villains/Twins-T4.jpg",
           "title": {
             "text": "Chaos Magic",
-            "locText": ""
+            "locText": "Chaos Magic"
           },
           "description": {
             "text": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card.",
-            "locText": ""
+            "locText": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card."
           },
           "actions": [
             "H",
@@ -1028,14 +1028,14 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Twins-T4.jpg",
+          "img": "en/villains/Twins-T4.jpg",
           "title": {
             "text": "Chaos Magic",
-            "locText": ""
+            "locText": "Chaos Magic"
           },
           "description": {
             "text": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card.",
-            "locText": ""
+            "locText": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card."
           },
           "actions": [
             "H",
@@ -1046,10 +1046,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP1.jpg",
+          "img": "en/villains/Twins-MP1.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 0,
           "bam": true,
@@ -1067,10 +1067,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP2.jpg",
+          "img": "en/villains/Twins-MP2.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 1,
           "bam": true,
@@ -1089,10 +1089,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP3.jpg",
+          "img": "en/villains/Twins-MP3.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 1,
           "bam": true,
@@ -1111,10 +1111,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP4.jpg",
+          "img": "en/villains/Twins-MP4.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 2,
           "bam": true,
@@ -1133,10 +1133,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP5.jpg",
+          "img": "en/villains/Twins-MP5.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 2,
           "bam": true,
@@ -1155,10 +1155,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP6.jpg",
+          "img": "en/villains/Twins-MP6.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 3,
           "bam": true,
@@ -1176,10 +1176,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP7.jpg",
+          "img": "en/villains/Twins-MP7.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 3,
           "bam": true,
@@ -1197,10 +1197,10 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP8.jpg",
+          "img": "en/villains/Twins-MP8.jpg",
           "title": {
             "text": "Scarlet Witch & Quicksilver",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver"
           },
           "M": 1,
           "bam": true,
@@ -1218,85 +1218,85 @@
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP9.jpg",
+          "img": "en/villains/Twins-MP9.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": ""
+            "locText": "Scarlet Witch"
           },
           "specialEffect": {
             "title": {
               "text": "Reality Warping",
-              "locText": ""
+              "locText": "Reality Warping"
             },
             "description": {
               "text": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand.",
-              "locText": ""
+              "locText": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand."
             }
           },
           "M": 0,
           "movementText": {
             "text": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health.",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health."
           }
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP9.jpg",
+          "img": "en/villains/Twins-MP9.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": ""
+            "locText": "Scarlet Witch"
           },
           "specialEffect": {
             "title": {
               "text": "Reality Warping",
-              "locText": ""
+              "locText": "Reality Warping"
             },
             "description": {
               "text": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand.",
-              "locText": ""
+              "locText": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand."
             }
           },
           "M": 0,
           "movementText": {
             "text": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health.",
-            "locText": ""
+            "locText": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health."
           }
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP11.jpg",
+          "img": "en/villains/Twins-MP11.jpg",
           "title": {
             "text": "Quicksilver",
-            "locText": ""
+            "locText": "Quicksilver"
           },
           "M": 6,
           "specialEffect": {
             "title": {
               "text": "Superhuman Speed",
-              "locText": ""
+              "locText": "Superhuman Speed"
             },
             "description": {
               "text": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn.",
-              "locText": ""
+              "locText": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn."
             }
           }
         },
         {
           "cardType": "plan",
-          "img": "villains/Twins-MP11.jpg",
+          "img": "en/villains/Twins-MP11.jpg",
           "title": {
             "text": "Quicksilver",
-            "locText": ""
+            "locText": "Quicksilver"
           },
           "M": 6,
           "specialEffect": {
             "title": {
               "text": "Superhuman Speed",
-              "locText": ""
+              "locText": "Superhuman Speed"
             },
             "description": {
               "text": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn.",
-              "locText": ""
+              "locText": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn."
             }
           }
         }
@@ -1306,15 +1306,15 @@
           "img": "villains/Twins-A.jpg",
           "specialRules": {
             "text": "[THUG] and [CIVILIAN] are added based on Quicksilver's Location. When Scarlet Witch or Quicksilver are defeated, they remain in play and act normally. The Heroes only win if both of them are defeated. When a Hero is KO'd Scarlet Witch and Quicksilver don't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
-            "locText": ""
+            "locText": "[THUG] and [CIVILIAN] are added based on Quicksilver's Location. When Scarlet Witch or Quicksilver are defeated, they remain in play and act normally. The Heroes only win if both of them are defeated. When a Hero is KO'd Scarlet Witch and Quicksilver don't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline."
           },
           "overflow": {
             "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline.",
-            "locText": ""
+            "locText": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline."
           },
           "bam": {
             "text": "Deal 1 damage to each Hero in Locations Quicksilver left, entered, or moved through this turn.",
-            "locText": ""
+            "locText": "Deal 1 damage to each Hero in Locations Quicksilver left, entered, or moved through this turn."
           },
           "lifePoints": {
             "twoHeroes": 3,
@@ -1326,7 +1326,7 @@
           "img": "villains/Twins-B.jpg",
           "specialSetup": {
             "text": "Scarlet Witch and Quicksilver start the game in the same Location.",
-            "locText": ""
+            "locText": "Scarlet Witch and Quicksilver start the game in the same Location."
           },
           "superVillain": [
             "W",
