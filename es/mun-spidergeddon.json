@@ -15,10 +15,10 @@
       "endOfTurn": {
         "effect": {
           "text": "You may discard 1 card from your hand to the bottom of your deck to gain 1 [HEROIC] and 1 [ATTACK] tokens.",
-          "locText": ""
+          "locText": "Puedes descartar 1 carta de tu mano y colocarla en la parte inferior de tu mazo para recibir 1 ficha [HEROICA] y 1 ficha [ATAQUE]."
         }
       },
-      "slots": []
+      "slots": ["C", "T", "empty"]
     },
     {
       "img": "locations/horizon-labs.jpg",
@@ -29,10 +29,10 @@
       "endOfTurn": {
         "effect": {
           "text": "You may turn facedown 1 of your Equipment cards to recharge (turn faceup) any other Equipment in the game.",
-          "locText": ""
+          "locText": "Puedes poner bocabajo 1 de tus cartas de Pertrechos para Recargar (poner bocarriba) cualquier otra carta de Pertrechos de la partida."
         }
       },
-      "slots": []
+      "slots": ["C", "T", "empty", "empty"]
     },
     {
       "img": "locations/japan.jpg",
@@ -43,10 +43,10 @@
       "endOfTurn": {
         "effect": {
           "text": "If there are at least 2 empty slots in this Location, you may add 2 [THUG] there to gain 1 [MOVE], [HEROIC], or [ATTACK] token.",
-          "locText": ""
+          "locText": "Si hay al menos dos casillas vacías en este Lugar, puedes añadirle 2 [MATÓN] para recibir 1 ficha [MOVER], [HEROICA] o [ATAQUE]."
         }
       },
-      "slots": []
+      "slots": ["C", "C", "empty", "empty"]
     },
     {
       "img": "locations/las-vegas.jpg",
@@ -56,11 +56,11 @@
       },
       "endOfTurn": {
         "effect": {
-          "text": "If the top Master Plan card is not revealed, you may guess if it adds more [THUG] or [CIVILIAN], then reveal it. If you guessed right, gain 1 token and leave the card revealed. Otherwise, put it at the bottom of the deck.",
-          "locText": ""
+          "text": "If the top Master Plan card is not revealed, you may guess if it adds more [THUG] or [CIVILIAN], then reveal it. If you guessed right, gain 1 [WILD] token and leave the card revealed. Otherwise, put it at the bottom of the deck.",
+          "locText": "Si la primera carta del mazo de Plan maestro no está revelada, puedes adivinar si añade más [MATÓN] o [CIVIL] y, a continuación, revelarla; si has acertado, recibe 1 ficha [COMODÍN] y deja la carta revelada. Si no has acertado, coloca la carta en la parte inferior del mazo."
         }
       },
-      "slots": []
+      "slots": ["C", "T", "T", "empty"]
     },
     {
       "img": "locations/loomworld.jpg",
@@ -74,7 +74,7 @@
           "locText": "Puedes moverte a cualquier otro Lugar."
         }
       },
-      "slots": []
+      "slots": ["T", "T", "empty", "empty"]
     },
     {
       "img": "locations/parker-residence.jpg",
@@ -85,10 +85,10 @@
       "endOfTurn": {
         "effect": {
           "text": "If you have 1 or 2 cards in hand, you may draw 1 card.",
-          "locText": ""
+          "locText": "Si tienes 1 o 2 cartas en la mano, puedes robar 1 carta."
         }
       },
-      "slots": []
+      "slots": ["C", "empty", "empty"]
     },
     {
       "img": "locations/sims-tower.jpg",
@@ -99,10 +99,10 @@
       "endOfTurn": {
         "effect": {
           "text": "This Location starts with 2 [HEROIC] tokens. Heroes here may discard any number of [HEROIC] tokens from here to ignore the same amount of damage. | You may take 1 [HEROIC] token from this Location OR add 1 [HEROIC] token from the pool to this Location.",
-          "locText": ""
+          "locText": "Este Lugar empieza con 2 fichas [HEROICA]. Los Héroes que estén en este Lugar pueden descartar de él tantas fichas [HEROICA] como quieran para ignorar esa misma cantidad de puntos de Daño. | Coge 1 ficha [HEROICA] de este Lugar O BIEN coloca 1 ficha [HEROICA] de la reserva en este Lugar."
         }
       },
-      "slots": []
+      "slots": ["C", "empty", "empty"]
     },
     {
       "img": "locations/spider-island.jpg",
@@ -113,11 +113,46 @@
       "endOfTurn": {
         "effect": {
           "text": "If there are 1 or more [THUG] in this Location, you MUST take 1 damage.",
-          "locText": ""
+          "locText": "Si hay 1 o más [MATÓN] en este Lugar, DEBES sufrir 1 punto de Daño."
         },
         "mandatory": true
       },
-      "slots": []
+      "slots": ["C", "T", "T", "empty", "empty"]
+    }
+  ],
+  "challenges": [
+    {
+      "img": "en/challenges/moderate-challenge.jpg",
+      "title": {
+        "text": "Moderate Challenge",
+        "locText": "Desafío Moderado"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD] card from their Hero deck.",
+        "locText": "PREPARACIÓN: Cada jugador quita la carta [COMODÍN] de su mazo de Héroe."
+      }
+    },
+    {
+      "img": "en/challenges/hard-challenge.jpg",
+      "title": {
+        "text": "Hard Challenge",
+        "locText": "Desafío Difícil"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD][WILD] card from their Hero deck.",
+        "locText": "PREPARACIÓN: Cada jugador quita la carta [COMODÍN][COMODÍN] de su mazo de Héroe."
+      }
+    },
+    {
+      "img": "en/challenges/heroic-challenge.jpg",
+      "title": {
+        "text": "Heroic Challenge",
+        "locText": "Desafío Heroico"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD] and [WILD][WILD] cards from their Hero deck.",
+        "locText": "PREPARACIÓN: Cada jugador quita las cartas [COMODÍN] y [COMODÍN][COMODÍN] de su mazo de Héroe."
+      }
     }
   ],
   "characters": [
@@ -135,6 +170,650 @@
       "bio": {
         "text": "Having separated from the Venom symbiote, Eddie tried to lead a normal life. However, he could not get a break as he soon developed cancer and intended to spend his remaining days as a volunteer at F.E.A.S.T. His kindness would ultimately pay off. as F.E.A.S.T's founder would use his powers to cure Eddie of his cancer. This unintentionally caused the traces of the symbiote that was still within him to fuse with his white blood cell and create a new symbiote, Anti-Venom. This new symbiote allows him to produce powerful antibodies that can cure any type of diseases and even eradicate other symbiotes with ease.",
         "locText": "Habiéndose separado del simbionte Venom, Eddie intentó llevar una vida normal. Sin embargo, no pudo tomar un descanso ya que pronto desarrolló cáncer y tenía la intención de pasar los días que le quedaban como voluntario en F.E.A.S.T. Su amabilidad finalmente daría sus frutos, ya que el fundador de F.E.A.S.T usaría sus poderes para curar a Eddie de su cáncer. Esto, sin querer, provocó que los rastros del simbionte que todavía estaba dentro de él se fusionaran con sus glóbulos blancos y crearan un nuevo simbionte, Anti-Venom. Este nuevo simbionte le permite producir poderosos anticuerpos que pueden curar cualquier tipo de enfermedades e incluso erradicar otros simbiontes con facilidad."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom01.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Webbing Generation",
+              "locText": ""
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if there are no [MOVE] at the bottom of the 2 latest Hero cards in the Storyline, you may perform 1 [MOVE] free on your turn.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom02.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Body Cleansing",
+              "locText": ""
+            },
+            "description": {
+              "text": "Draw 1 card. Then, 1 Hero in your Location may discard all their Crisis tokens.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom02.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Body Cleansing",
+              "locText": ""
+            },
+            "description": {
+              "text": "Draw 1 card. Then, 1 Hero in your Location may discard all their Crisis tokens.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom04.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Anti-Venom Serum",
+              "locText": ""
+            },
+            "description": {
+              "text": "Rescue uo to 2 [CIVILIAN] or defeat up to 2 [THUG] in your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom04.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Anti-Venom Serum",
+              "locText": ""
+            },
+            "description": {
+              "text": "Rescue uo to 2 [CIVILIAN] or defeat up to 2 [THUG] in your Location.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom06.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom06.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom08.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom09.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom10.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom11.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Anti-Venom12.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T2.jpg",
+          "title": {
+            "text": "Power Negation",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Heroes can't move during Villain turns.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T2.jpg",
+          "title": {
+            "text": "Power Negation",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Heroes can't move during Villain turns.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T4.jpg",
+          "title": {
+            "text": "Body Cleansing",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T4.jpg",
+          "title": {
+            "text": "Body Cleansing",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T6.jpg",
+          "title": {
+            "text": "Camouflage",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as 1 or more Camouflage Threats are in play, Anti-Venom ignores 1 damage each Hero turn.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T6.jpg",
+          "title": {
+            "text": "Camouflage",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as 1 or more Camouflage Threats are in play, Anti-Venom ignores 1 damage each Hero turn.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP1.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP2.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP3.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP4.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP5.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP6.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Symbiote Mutation",
+              "locText": ""
+            },
+            "description": {
+              "text": "Bring back in play a random already-cleared Threat in Anti-Venom's Location, if possible, or in the next clockwise Location without a Threat.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP7.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Symbiote Mutation",
+              "locText": ""
+            },
+            "description": {
+              "text": "Bring back in play a random already-cleared Threat in Anti-Venom's Location, if possible, or in the next clockwise Location without a Threat.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP8.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Cleansing",
+              "locText": ""
+            },
+            "description": {
+              "text": "1 Hero in Anti-Venom's Location must discard 1 card with a Special Effect from their hand, if possible.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          },
+          "startingHand": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP9.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido contrario a las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP10.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido contrario a las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP11.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido de las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Anti-Venom-MP12.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Mueve en el sentido de las agujas del reloj hasta el siguiente Lugar con algún Héroe."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Anti-Venom-A.jpg",
+          "specialRules": {
+            "text": "Whenever a Hero card with a Special Effect is discarded or turned facedown, increase the Anti-Venom Track by 1.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, each Hero there must discard 1 card with a Special Effect from their hand. If they have none, they take 1 damage and must turn facedown 1 of their cards with a Special Effect in the Storyline, if possible.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Each Hero in Anti-Venom's Location must discard 1 card with a Special Effect from their hand. If they have none, they take 1 damage and must turn facedown 1 of their cards with a Special Effect in the Storyline, if possible.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "Anti-Venom Track - Heroes lose when this track reaches 6 (2 Players), 7 (3 Players), or 8 (4 Players).",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 6,
+            "fourHeroes": 8
+          }
+        },
+        "back": {
+          "img": "villains/Anti-Venom-B.jpg",
+          "specialSetup": {
+            "text": "Set aside the Cleansing Master Plan card and place it on top of the deck after shuffling it. Team vs Team Mode: The Villain Tracker starts on 2",
+            "locText": ""
+          },
+          "superVillain": [
+            "M", "H", "A"
+          ]
+        }
       }
     },
     {
@@ -151,6 +830,454 @@
       "bio": {
         "text": "Morlun belongs to a clan known as the Inheritors beings that consume the life force of other creatures. They are essentially vampires that scour the multiverse for the purest life forces and have taken a liking to hunting down Totems, beings that connect the animal and human kingdoms. Morlun possesses superhuman capabilities, a result of the countless Totems that he had fed upon, allowing him to easily overpower his prey. He can not only drain one's life force with a mere physical touch, but it also allows him to sense where they are at any time.",
         "locText": "Morlun pertenece a un clan conocido como los seres Herederos que consumen la fuerza vital de otras criaturas. Son esencialmente vampiros que recorren el multiverso en busca de las fuerzas vitales más puras y les ha gustado cazar Tótems, seres que conectan los reinos animal y humano. Morlun posee capacidades sobrehumanas, resultado de los innumerables tótems de los que se había alimentado, lo que le permitía dominar fácilmente a su presa. No sólo puede drenar la fuerza vital de uno con un simple toque físico, sino que también le permite sentir dónde están en cualquier momento."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Morlun-T2.jpg",
+          "title": {
+            "text": "Karn",
+            "locText": "Karn"
+          },
+          "description": {
+            "text": "Move this Threat clockwise to the next Location with any Heroes and no Threat, if possible. Then, deal 2 damage to 1 Hero in this Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Morlun-T3.jpg",
+          "title": {
+            "text": "Brix",
+            "locText": "Brix"
+          },
+          "description": {
+            "text": "Deal 1 damage to each Hero in this Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Morlun-T4.jpg",
+          "title": {
+            "text": "Bora",
+            "locText": "Bora"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in each adjacent Location. Bora ignores 1 damage in each Hero turn.",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Morlun-T5.jpg",
+          "title": {
+            "text": "Jennix",
+            "locText": "Jennix"
+          },
+          "description": {
+            "text": "Give 1 Crisis token to 1 Hero in this and each adjacent Location. Then, each Hero with 1 or more Crisis tokens takes 1 damage.",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Morlun-T6.jpg",
+          "title": {
+            "text": "Verna",
+            "locText": "Verna"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in any Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Morlun-T7.jpg",
+          "title": {
+            "text": "Daemos",
+            "locText": "Daemos"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location. If there are no Heroes here, discard all [CIVILIAN] in this Location instead.",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 4,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP1.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP2.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP3.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP4.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP5.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP6.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP7.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP8.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 0,
+          "specialEffect": {
+            "title": {
+              "text": "Life Force Absorption",
+              "locText": ""
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, when a Hero is KO'd, Morlun doesn't activate his BAM! Instead, he gains 2 Health (may go above starting value).",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
+          },
+          "startingHand": true
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP9.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Sensing Life Force",
+              "locText": ""
+            },
+            "description": {
+              "text": "Give 1 Crisis token to 1 Hero in Morlun's and both adjacent Locations.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP10.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Sensing Life Force",
+              "locText": ""
+            },
+            "description": {
+              "text": "Give 1 Crisis token to 1 Hero in Morlun's and both adjacent Locations.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP11.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 1,
+          "specialEffect": {
+            "title": {
+              "text": "Fierce Hunting",
+              "locText": ""
+            },
+            "description": {
+              "text": "Damage dealt to Heroes with Crisis tokens this turn is unpreventable. [BAM!], then all Heroes with Crisis tokens discard them.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Morlun-MP12.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 5,
+          "specialEffect": {
+            "title": {
+              "text": "Fierce Hunting",
+              "locText": ""
+            },
+            "description": {
+              "text": "Damage dealt to Heroes with Crisis tokens this turn is unpreventable. [BAM!], then all Heroes with Crisis tokens discard them.",
+              "locText": ""
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        }
+      ],
+"dashboard": {
+        "front": {
+          "img": "villains/Morlun-A.jpg",
+          "specialRules": {
+            "text": "When a Hero is KO'd, any Henchman in their Location gains 1 Health (may go above starting value). Then, that Hero is removed from the game (discarding any of their Crisis tokens) and replaced with a new Hero in the Heroes' starting Location on that player's next turn.",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "IF 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to 1 Hero in that Location. If there are no Heroes there, add the [CIVILIAN]/[THUG] to the next clockwise Location with empty slots instead.",
+            "locText": ""
+          },
+          "bam": {
+            "text": "Deal 2 damage to 1 Hero in Morlun's Location.",
+            "locText": ""
+          },
+          "plot": {
+            "text": "The Heroes lose if 4 Heroes are removed from the game.",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 6,
+            "fourHeroes": 7
+          }
+        },
+        "back": {
+          "img": "villains/Morlun-B.jpg",
+          "superVillain": [
+            "W", "M", "A"
+          ],
+          "specialSetup": {
+            "text": "Set aside the Life Force Absorption Master Plan card and place it on top of the deck after shuffling it. Loomworld must be the Villain's starting Location. Sims Tower must be the Location opposite to the Villain's starting one.",
+            "locText": ""
+          }
+        }
       }
     },
     {
@@ -167,7 +1294,201 @@
       "bio": {
         "text": "Regular 14-year-old schoolgirl by day, crimefighter by night. Peni protects the people of New York city as the pilot of the highly advanced SP//dr suit. She was only 9 when she lost her father to an unfortunate accident when he was piloting the SP//dr suit. With no other suitable candidate to take over but her, due to her genetic makeup, she agreed to carry on her father's legacy and enlisted into the SP//dr program. This was where she formed a psychic link with the radioactive spider that bit her, allowing her to pilot the SP//dr suit.",
         "locText": "Colegiala normal de 14 años de día, luchadora contra el crimen de noche. Peni protege a la gente de la ciudad de Nueva York como piloto del muy avanzado traje SP//dr. Tenía sólo nueve años cuando perdió a su padre en un desafortunado accidente cuando él piloteaba el traje SP//dr. Sin ningún otro candidato adecuado para asumir el cargo excepto ella, debido a su composición genética, aceptó continuar con el legado de su padre y se alistó en el programa SP//dr. Aquí fue donde formó un vínculo psíquico con la araña radiactiva que la mordió, permitiéndole pilotar el traje SP//dr."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker01.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "METAL ARMOR",
+              "locText": ""
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, you may ignore 1 damage during each Villain turn.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker02.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker02.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker04.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker04.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker06.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker06.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker08.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker09.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker10.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker11.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker12.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Scarlet-Spider.jpg",
@@ -183,7 +1504,201 @@
       "bio": {
         "text": "Benjamin Reilly was a perfect genetic clone of Peter Parker, made to torment Peter. It was presumed that he died in his fight with Peter, but he survived with the help of his creator. He spent several years roaming the country trying to carve out an identity for himself. Being the perfect clone of Peter, he possessed the same powers as Spider-Man and used them to help people he encountered along his journey. But after learning of Aunt May' declining health, Benjamin would return to New York, and he would cross paths with Peter once again. However, they now fight alongside one another with the common goal of protecting the ones that they hold dear.",
         "locText": "Benjamin Reilly era un clon genético perfecto de Peter Parker, creado para atormentar a Peter. Se presumió que murió en su pelea con Peter, pero sobrevivió con la ayuda de su creador. Pasó varios años vagando por el país tratando de forjarse una identidad. Al ser el clon perfecto de Peter, poseía los mismos poderes que Spider-Man y los usaba para ayudar a las personas que encontraba a lo largo de su viaje. Pero después de enterarse del deterioro de la salud de la tía May, Benjamin regresaría a Nueva York y se cruzaría con Peter una vez más. Sin embargo, ahora luchan uno junto al otro con el objetivo común de proteger a sus seres queridos."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider01.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider02.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider03.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider04.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider05.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider06.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider07.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider08.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider09.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider10.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider11.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider12.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Silk.jpg",
@@ -199,7 +1714,201 @@
       "bio": {
         "text": "Mere moments after Peter Parker was bitten by the radioactive spider, Cindy Moon was bitten by the very same spider. This gifted her the same powers that Peter had. However, unlike Peter, she struggled to control her power and was eventually taken in by Ezekiel Sims. Under his tutelage, Cindy mastered the use of her powers, but she was eventually locked up by Ezekiel to keep her safe from Morlun. She would eventually be freed by Peter after Morlun's defeat. Now she swings across the skylines of New York as Silk. hoping to make up for the years she lost during her isolation.",
         "locText": "Momentos después de que Peter Parker fuera mordido por la araña radiactiva, Cindy Moon fue mordida por la misma araña. Esto le otorgó los mismos poderes que tenía Peter. Sin embargo, a diferencia de Peter, ella luchó por controlar su poder y finalmente fue acogida por Ezekiel Sims. Bajo su tutela, Cindy dominó el uso de sus poderes, pero finalmente Ezekiel la encerró para mantenerla a salvo de Morlun. Peter la liberaría después de la derrota de Morlun. Ahora recorre los horizontes de Nueva York como Seda. con la esperanza de recuperar los años que perdió durante su aislamiento."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk01.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk02.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk03.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk04.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk05.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk06.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk07.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk08.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk09.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk10.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk11.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Silk12.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Spider-Man-Noir.jpg",
@@ -215,7 +1924,201 @@
       "bio": {
         "text": "This universe's Peter Parker was from 1930s New York, during the Great Depression. He was an investigative journalist who resolved to become a seeker of justice after his uncle was murdered for rallying supporters to strike against sweatshops. While investigating a smuggling ring, he was bitten by a venomous spider that emerged from a mysterious spider idol. In his fevered state, he saw visions of a Spider-god and was promised incredible powers. He emerges from his dream with his newfound spider powers and metes out justice in brutal fashion to the criminal underworld of New York.",
         "locText": "El Peter Parker de este universo era del Nueva York de los años 30, durante la Gran Depresión. Era un periodista de investigación que decidió convertirse en un buscador de justicia después de que su tío fuera asesinado por reunir a sus partidarios para hacer huelga contra las fábricas clandestinas. Mientras investigaba una red de contrabando, fue mordido por una araña venenosa que emergió de un misterioso ídolo araña. En su estado febril, tuvo visiones de un dios araña y le prometieron poderes increíbles. Emerge de su sueño con sus nuevos poderes de araña e imparte justicia de manera brutal en el inframundo criminal de Nueva York."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir01.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir02.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir03.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir04.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir05.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir06.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir07.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir08.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir09.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir10.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir11.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir12.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Spider-Punk.jpg",
@@ -231,7 +2134,201 @@
       "bio": {
         "text": "In an alternate universe, many suffered under the ruthless dictatorship of Norman Osborn, president of the United States. With Osborn's great power, there was no future for its citizens. Hobart 'Hobie Brown, a foul-mouthed and rebellious teenager, took to punk rock to strike out at the injustice brought upon by Oscorp. However, in an ironic twist of fate, Hobie was given the chance to topple this regime when he was bitten by a spider which was irradiated by illegal wastes dumped by Oscorp itself. With his newfound powers, Spider-Punk actively fights against those that dare to abuse their power.",
         "locText": "En un universo alternativo, muchos sufrieron bajo la despiadada dictadura de Norman Osborn, presidente de los Estados Unidos. Con el gran poder de Osborn, no había futuro para sus ciudadanos. Hobart 'Hobie Brown, un adolescente malhablado y rebelde, recurrió al punk rock para atacar la injusticia provocada por Oscorp. Sin embargo, en un irónico giro del destino, Hobie tuvo la oportunidad de derrocar este régimen cuando fue mordido por una araña que fue irradiada por desechos ilegales vertidos por la propia Oscorp. Con sus nuevos poderes, Spider-Punk lucha activamente contra aquellos que se atreven a abusar de su poder."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk01.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk02.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk03.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk04.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk05.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk06.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk07.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk08.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk09.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk10.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk11.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Punk12.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "villains/Spot.jpg",
@@ -247,6 +2344,387 @@
       "bio": {
         "text": "Former MIT scientist working for the Kingpin, Dr. Jonathan Ohnn was tasked with finding a way to mimic the powers of the super hero, Cloak. Working late one night, the doctor created a solid black portal, which he then stepped into. When he emerged back into his lab, he realized the portals from the other dimension had adhered to his skin, covering him with black spots and bleaching his skin white. And thus, the Spot was born! It changed his physical appearance and gave him the ability to open various portals into other dimensions, allowing him to traverse or transport various objects through them.",
         "locText": "El Dr. Jonathan Ohnn, ex científico del MIT que trabajaba para Kingpin, recibió la tarea de encontrar una manera de imitar los poderes del superhéroe Capa. Una noche, trabajando hasta tarde, el doctor creó un portal negro sólido, por el que luego entró. Cuando regresó a su laboratorio, se dio cuenta de que los portales de la otra dimensión se habían adherido a su piel, cubriéndolo con manchas negras y blanqueando su piel. ¡Y así nació La Mancha! Cambió su apariencia física y le dio la capacidad de abrir varios portales a otras dimensiones, permitiéndole atravesar o transportar varios objetos a través de ellos."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T2.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T3.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T4.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T5.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T6.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T7.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP1.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP2.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP3.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP4.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP5.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP6.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP7.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP8.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP9.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP10.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP11.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Spot-MP12.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        }],
+      "dashboard": {
+        "front": {
+          "img": "villains/Spot-A.jpg",
+          "specialRules": {
+            "text": "",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": {
+            "text": "",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 1,
+            "threeHeroes": 1,
+            "fourHeroes": 1
+          }
+        },
+        "back": {
+          "img": "villains/Spot-B.jpg",
+          "superVillain": [
+            "M", "M", "A"
+          ]
+        }
       }
     },
     {
@@ -263,6 +2741,580 @@
       "bio": {
         "text": "This version of Spider-Man may appear to be Peter Parker, but he is really Otto Octavius. On his deathbed, Otto switched his mind with Peter's, leaving him in his dying body. Otto was overwhelmed by Peter's memories and was inspired by his selflessness and heroism. He vowed to honor Peter's dying wish and used his newfound powers to protect the people of New York. He took on the mantle of Superior Spider-Man, believing he would be even better than the original super hero due to his intellect and experience. Octavius eventually sacrificed himself to save the city, allowing Peter Parker's return as Superior Spider-Man.",
         "locText": "Esta versión de Spider-Man puede parecer Peter Parker, pero en realidad es Otto Octavius. En su lecho de muerte, Otto cambió su mente con la de Peter, dejándolo en su cuerpo moribundo. Otto quedó abrumado por los recuerdos de Peter y se sintió inspirado por su altruismo y heroísmo. Prometió honrar el último deseo de Peter y utilizó sus nuevos poderes para proteger a la gente de Nueva York. Asumió el papel de Spider-Man Superior, creyendo que sería incluso mejor que el superhéroe original debido a su intelecto y experiencia. Octavius finalmente se sacrificó para salvar la ciudad, permitiendo el regreso de Peter Parker como Spider-Man Superior."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man01.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man02.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man03.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man04.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man05.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man06.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man07.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man08.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man09.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man10.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man11.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Superior-Spider-Man12.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T2.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T3.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T4.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T5.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T6.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T7.jpg",
+          "title": {
+            "text": "",
+            "locText": ""
+          },
+          "description": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 5,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP1.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP2.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP3.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP4.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP5.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP6.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP7.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP8.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP9.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP10.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP11.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP12.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "villains/Superior-Spider-Man-A.jpg",
+          "specialRules": {
+            "text": "",
+            "locText": ""
+          },
+          "overflow": {
+            "text": "",
+            "locText": ""
+          },
+          "bam": {
+            "text": "",
+            "locText": ""
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 1,
+            "threeHeroes": 1,
+            "fourHeroes": 1
+          }
+        },
+        "back": {
+          "img": "villains/Superior-Spider-Man-B.jpg",
+          "superVillain": [
+            "W", "M", "H", "A"
+          ]
+        }
       }
     },
     {
@@ -279,7 +3331,201 @@
       "bio": {
         "text": "What if Peter never rejected the symbiote? In this alternate universe, Peter embraced the Symbiote and continued using it knowing that it was an alien lifeform. The Symbiote further enhanced his already superhuman capabilities and its shapeshifting abilities further augmented his crime fighting abilities. However, the more he used the Symbiote, the more tightly it bonded to Peter. He eventually noticed that his movements grew more feral, and the Symbiote would act of its own accord on some occasions. He could feel his control over the Symbiote gradually slipping away... Great power comes at a great cost.",
         "locText": "¿Qué pasaría si Peter nunca rechazara el simbionte? En este universo alternativo, Peter abrazó el Simbionte y continuó usándolo sabiendo que era una forma de vida alienígena. El Simbionte mejoró aún más sus capacidades ya sobrehumanas y sus habilidades de cambio de forma aumentaron aún más sus habilidades para luchar contra el crimen. Sin embargo, cuanto más usaba el Simbionte, más estrechamente se unía a Peter. Finalmente notó que sus movimientos se volvían más salvajes y que el Simbionte actuaba por sí solo en algunas ocasiones. Podía sentir que su control sobre el Simbionte se le escapaba gradualmente... Un gran poder tiene un gran coste."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man01.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man02.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man03.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man04.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man05.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "",
+              "locText": ""
+            },
+            "description": {
+              "text": "",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man06.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man07.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man08.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man09.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man10.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man11.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Symbiote-Spider-Man12.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     }
   ]
 }
