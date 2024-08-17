@@ -1329,16 +1329,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "WEBS",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[MOVE]. You may use 1 Battery to [WILD]",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -1351,11 +1351,77 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "WEBS",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[MOVE]. You may use 1 Battery to [WILD]",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker04.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ROBOT STRENGTH",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK]. You may use 1 Battery to deal 1 extra damage to an enemy you are dealing damage to this turn.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker04.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ROBOT STRENGTH",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK]. You may use 1 Battery to deal 1 extra damage to an enemy you are dealing damage to this turn.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Peni-Parker06.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SAFETY NET",
+              "locText": ""
+            },
+            "description": {
+              "text": "Rescue 1 [CIVILIAN] in your Location. You may use 1 Battery to rescue 1 additional [CIVILIAN] in your or an adjacent Location.",
               "locText": ""
             }
           },
@@ -1365,7 +1431,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Peni-Parker04.jpg",
+          "img": "heroes/Peni-Parker06.jpg",
           "title": {
             "text": "Peni Parker",
             "locText": "Peni Parker"
@@ -1373,60 +1439,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SAFETY NET",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Rescue 1 [CIVILIAN] in your Location. You may use 1 Battery to rescue 1 additional [CIVILIAN] in your or an adjacent Location.",
               "locText": ""
             }
           },
           "actions": [
-            "M"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Peni-Parker04.jpg",
-          "title": {
-            "text": "Peni Parker",
-            "locText": "Peni Parker"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
-          },
-          "actions": [
-            "M"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Peni-Parker06.jpg",
-          "title": {
-            "text": "Peni Parker",
-            "locText": "Peni Parker"
-          },
-          "actions": [
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Peni-Parker06.jpg",
-          "title": {
-            "text": "Peni Parker",
-            "locText": "Peni Parker"
-          },
-          "actions": [
-            "A"
+            "H"
           ]
         },
         {
@@ -1443,14 +1465,14 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Peni-Parker09.jpg",
+          "img": "heroes/Peni-Parker08.jpg",
           "title": {
             "text": "Peni Parker",
             "locText": "Peni Parker"
           },
           "actions": [
             "M",
-            "A"
+            "H"
           ]
         },
         {
@@ -1461,7 +1483,7 @@
             "locText": "Peni Parker"
           },
           "actions": [
-            "H",
+            "M",
             "A"
           ]
         },
@@ -1487,6 +1509,72 @@
             "W",
             "W"
           ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Battery",
+            "locText": "Batería"
+          },
+          "front": {
+            "img": "heroes/Peni-Parker-E1A.jpg",
+            "effectText": {
+              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Peni-Parker-E1B.jpg",
+            "effectText": {
+              "text": "EXHAUSTED: Remove this card from the game.",
+              "locText": ""
+            }
+          },
+          "reusable": false
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Battery",
+            "locText": "Batería"
+          },
+          "front": {
+            "img": "heroes/Peni-Parker-E1A.jpg",
+            "effectText": {
+              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Peni-Parker-E1B.jpg",
+            "effectText": {
+              "text": "EXHAUSTED: Remove this card from the game.",
+              "locText": ""
+            }
+          },
+          "reusable": false
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Battery",
+            "locText": "Batería"
+          },
+          "front": {
+            "img": "heroes/Peni-Parker-E1A.jpg",
+            "effectText": {
+              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Peni-Parker-E1B.jpg",
+            "effectText": {
+              "text": "EXHAUSTED: Remove this card from the game.",
+              "locText": ""
+            }
+          },
+          "reusable": false
         }
       ]
     },
@@ -1516,16 +1604,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SPIDER-SENSE",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Gain 1 [WILD] token. As long as this card is in faceup in the Storyline, you may discard any number of [WILD] tokens to ignore the same amount of damage.",
               "locText": ""
             }
           },
           "actions": [
-            "W"
+            "M"
           ],
           "startingHand": true
         },
@@ -1539,16 +1627,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "GREAT POWER",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[ATTACK] [ATTACK]. For each [THUG] defeated with this Special Effect, at the end of your turn gain 1 [ATTACK] token.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -1561,16 +1649,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "GREAT RESPONSIBILITY",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[HEROIC] [HEROIC]. For each [CIVILIAN] rescued with this Special Effect, at the end of your turn gain 1 [WILD] token.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -1579,17 +1667,6 @@
           "title": {
             "text": "Scarlet Spider",
             "locText": "Scarlet Spider"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
           },
           "actions": [
             "M"
@@ -1602,46 +1679,13 @@
             "text": "Scarlet Spider",
             "locText": "Scarlet Spider"
           },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
-          },
           "actions": [
-            "M"
+            "A"
           ]
         },
         {
           "cardType": "hero",
           "img": "heroes/Scarlet-Spider06.jpg",
-          "title": {
-            "text": "Scarlet Spider",
-            "locText": "Scarlet Spider"
-          },
-          "actions": [
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Scarlet-Spider07.jpg",
-          "title": {
-            "text": "Scarlet Spider",
-            "locText": "Scarlet Spider"
-          },
-          "actions": [
-            "A"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Scarlet-Spider08.jpg",
           "title": {
             "text": "Scarlet Spider",
             "locText": "Scarlet Spider"
@@ -1653,7 +1697,19 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Scarlet-Spider09.jpg",
+          "img": "heroes/Scarlet-Spider06.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider08.jpg",
           "title": {
             "text": "Scarlet Spider",
             "locText": "Scarlet Spider"
@@ -1665,13 +1721,25 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Scarlet-Spider10.jpg",
+          "img": "heroes/Scarlet-Spider09.jpg",
           "title": {
             "text": "Scarlet Spider",
             "locText": "Scarlet Spider"
           },
           "actions": [
             "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Scarlet-Spider10.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "A",
             "A"
           ]
         },
@@ -1697,6 +1765,28 @@
             "W",
             "W"
           ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Web-Shooters",
+            "locText": "Lanza-Redes"
+          },
+          "front": {
+            "img": "heroes/Scarlet-Spider-E1A.jpg",
+            "effectText": {
+              "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Scarlet-Spider-E1B.jpg",
+            "effectText": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": ""
+            }
+          },
+          "reusable": true
         }
       ]
     },
@@ -1726,17 +1816,15 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SILK-SENSE",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "As long as this card is faceup in the Storyline, once per Villain turn, if a Villain ends their movement in your Location, you may immediately move to an adjacent one. If you do, ignore the first damage you would take that turn.",
               "locText": ""
             }
           },
-          "actions": [
-            "W"
-          ],
+          "actions": [],
           "startingHand": true
         },
         {
@@ -1749,17 +1837,18 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "ORGANIC WEBBING",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "As long as this card is faceup in the Storyline, if there are no [MOVE] at the bottom of the 2 latest Hero cards in the Storyline, you may perform 1 free [MOVE] on your turn.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
-          ]
+            "W"
+          ],
+          "startingHand": true
         },
         {
           "cardType": "hero",
@@ -1771,16 +1860,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SPIDER AGILITY",
               "locText": ""
             },
             "description": {
-              "text": "",
-              "locText": ""
+              "text": "[MOVE] [HEROIC]",
+              "locText": "[MOVER] [HEROICA]"
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -1793,16 +1882,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "Claws",
               "locText": ""
             },
             "description": {
-              "text": "",
-              "locText": ""
+              "text": "[MOVE] [ATTACK]",
+              "locText": "[MOVER] [ATAQUE]"
             }
           },
           "actions": [
-            "M"
+            "A"
           ]
         },
         {
@@ -1811,17 +1900,6 @@
           "title": {
             "text": "Silk",
             "locText": "Silk"
-          },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
           },
           "actions": [
             "M"
@@ -1835,7 +1913,7 @@
             "locText": "Silk"
           },
           "actions": [
-            "A"
+            "H"
           ]
         },
         {
@@ -1936,16 +2014,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "Black Suit",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "As long as this card is faceup in the Storyline, if you are alone in your Location, you may ignore 1 damage dealt by a Threat in each Villain turn.",
               "locText": ""
             }
           },
           "actions": [
-            "W"
+            "M"
           ],
           "startingHand": true
         },
@@ -1957,18 +2035,17 @@
             "locText": "Spider-Man Noir"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "",
+              "text": "IF THERE IS TOO MUCH POWER...",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Attach 1 Target token to a Villain in your or an adjacent Location.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -1979,13 +2056,12 @@
             "locText": "Spider-Man Noir"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "",
+              "text": "IF THERE IS TOO MUCH POWER...",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Attach 1 Target token to a Villain in your or an adjacent Location.",
               "locText": ""
             }
           },
@@ -2001,18 +2077,17 @@
             "locText": "Spider-Man Noir"
           },
           "specialEffect": {
-            "mandatory": false,
             "title": {
-              "text": "",
+              "text": "IF THERE IS TOO MUCH POWER...",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Attach 1 Target token to a Villain in your or an adjacent Location.",
               "locText": ""
             }
           },
           "actions": [
-            "M"
+            "A"
           ]
         },
         {
@@ -2025,24 +2100,13 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain.",
               "locText": ""
             }
-          },
-          "actions": [
-            "M"
-          ]
-        },
-        {
-          "cardType": "hero",
-          "img": "heroes/Spider-Man-Noir06.jpg",
-          "title": {
-            "text": "Spider-Man Noir",
-            "locText": "Spider-Man Noir"
           },
           "actions": [
             "A"
@@ -2050,10 +2114,43 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Spider-Man-Noir07.jpg",
+          "img": "heroes/Spider-Man-Noir05.jpg",
           "title": {
             "text": "Spider-Man Noir",
             "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain.",
+              "locText": ""
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "heroes/Spider-Man-Noir05.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY",
+              "locText": ""
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain.",
+              "locText": ""
+            }
           },
           "actions": [
             "A"
@@ -2146,18 +2243,17 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "15,000 WATTS OF PUNK ROCK",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
               "locText": ""
             }
           },
           "actions": [
-            "W"
-          ],
-          "startingHand": true
+            "M"
+          ]
         },
         {
           "cardType": "hero",
@@ -2169,16 +2265,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "ANGRY HEART",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Perform as many [ATTACK] as the number of [CIVILIAN] in your current Location.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -2191,11 +2287,11 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "ANARCHY IN EARTH-138",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[ATTACK] in up to 3 Locations with any [CIVILIAN]. Then, discard 1 [CIVILIAN] from each of those Locations.",
               "locText": ""
             }
           },
@@ -2213,16 +2309,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SEARCH & DESTROY",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Move to any Location with a Henchman or Villain. Then, [ATTACK] there.",
               "locText": ""
             }
           },
           "actions": [
-            "M"
+            "A"
           ]
         },
         {
@@ -2232,19 +2328,8 @@
             "text": "Spider-Punk",
             "locText": "Spider-Punk"
           },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
-          },
           "actions": [
-            "M"
+            "H"
           ]
         },
         {
@@ -2260,7 +2345,7 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Spider-Punk07.jpg",
+          "img": "heroes/Spider-Punk06.jpg",
           "title": {
             "text": "Spider-Punk",
             "locText": "Spider-Punk"
@@ -2295,13 +2380,13 @@
         },
         {
           "cardType": "hero",
-          "img": "heroes/Spider-Punk10.jpg",
+          "img": "heroes/Spider-Punk09.jpg",
           "title": {
             "text": "Spider-Punk",
             "locText": "Spider-Punk"
           },
           "actions": [
-            "H",
+            "M",
             "A"
           ]
         },
@@ -2327,6 +2412,28 @@
             "W",
             "W"
           ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Web-Shooters",
+            "locText": "Lanza-Redes"
+          },
+          "front": {
+            "img": "heroes/Spider-Punk-E1A.jpg",
+            "effectText": {
+              "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Spider-Punk-E1B.jpg",
+            "effectText": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": ""
+            }
+          },
+          "reusable": true
         }
       ]
     },
@@ -2350,109 +2457,103 @@
           "cardType": "threat",
           "img": "villains/Spot-T2.jpg",
           "title": {
-            "text": "",
+            "text": "ATTACK FROM THE SPOTTED DIMENSION",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T2.jpg",
+          "title": {
+            "text": "ATTACK FROM THE SPOTTED DIMENSION",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Spot-T2.jpg",
+          "title": {
+            "text": "ATTACK FROM THE SPOTTED DIMENSION",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "threat",
           "img": "villains/Spot-T3.jpg",
           "title": {
-            "text": "",
+            "text": "YOU CAN'T ESCAPE",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "threat",
-          "img": "villains/Spot-T4.jpg",
+          "img": "villains/Spot-T3.jpg",
           "title": {
-            "text": "",
+            "text": "YOU CAN'T ESCAPE",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "threat",
-          "img": "villains/Spot-T5.jpg",
+          "img": "villains/Spot-T3.jpg",
           "title": {
-            "text": "",
+            "text": "YOU CAN'T ESCAPE",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Spot-T6.jpg",
-          "title": {
-            "text": "",
-            "locText": ""
-          },
-          "description": {
-            "text": "",
-            "locText": ""
-          },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 5,
-            "threeHeroes": 5,
-            "fourHeroes": 5
-          }
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Spot-T7.jpg",
-          "title": {
-            "text": "",
-            "locText": ""
-          },
-          "description": {
-            "text": "",
-            "locText": ""
-          },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 5,
-            "threeHeroes": 5,
-            "fourHeroes": 5
-          }
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "plan",
@@ -2461,17 +2562,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 1,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the A Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -2481,17 +2588,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 2,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the A Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -2501,17 +2614,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 3,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the B Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -2521,17 +2640,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 4,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the B Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -2541,17 +2666,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 5,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the C Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -2561,17 +2692,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 1,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the C Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -2581,17 +2718,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 2,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the D Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -2601,17 +2744,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 3,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the D Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -2621,17 +2770,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 4,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the E Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -2641,17 +2796,23 @@
             "text": "Spot",
             "locText": "Spot"
           },
-          "M": 5,
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the E Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -2662,16 +2823,22 @@
             "locText": "Spot"
           },
           "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the F Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -2682,31 +2849,37 @@
             "locText": "Spot"
           },
           "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the F Spot token.",
+            "locText": ""
+          },
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         }],
       "dashboard": {
         "front": {
           "img": "villains/Spot-A.jpg",
           "specialRules": {
-            "text": "",
+            "text": "If there are any Crisis tokens here, when Spot would take 1 damage, remove 1 Crisis token instead and move Spot to the Location with the next Spot token in alphabetical order and with no Heroes. Each damage is resolved separately. When a Hero is KO'd, before activating Spot's BAM!, additionally draw a Master Plan card and add it facedown in the Storyline. A is the next Spot token after F.",
             "locText": ""
           },
           "overflow": {
-            "text": "",
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to each Hero in that Location.",
             "locText": ""
           },
           "bam": {
-            "text": "",
+            "text": "Deal 1 damage to 1 Hero in Spot's Location. If there are no Heroes there, deal 1 damage to 1 Hero in the Location with the next Spot token in alphabetical order and with any Heroes.",
             "locText": ""
           },
           "plot": {
@@ -2714,13 +2887,17 @@
             "locText": ""
           },
           "lifePoints": {
-            "twoHeroes": 1,
-            "threeHeroes": 1,
-            "fourHeroes": 1
+            "twoHeroes": 2,
+            "threeHeroes": 3,
+            "fourHeroes": 4
           }
         },
         "back": {
           "img": "villains/Spot-B.jpg",
+          "specialSetup": {
+            "text": "Place 1 random Spot token faceup in each Location. Place a number of Crisis tokens on Spot's Villain dashboard based on the number of Heroes: 2 Players: 3 Crisis tokens. 3 Players: 4 Crisis tokens. 4 Players: 5 Crisis tokens.",
+            "locText": ""
+          },
           "superVillain": [
             "M", "M", "A"
           ]
@@ -2753,16 +2930,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SPIDER-BOTS",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "As long as this card is faceup in the Storyline, on your turn you may add 1 Spider-Bot token in your Location (if there are none). Once on each of your turns, you may use 1 of your [HEROIC] or [ATTACK] as if you were on a Spider-Bot's Location.",
               "locText": ""
             }
           },
           "actions": [
-            "W"
+            "H"
           ],
           "startingHand": true
         },
@@ -2776,17 +2953,18 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SPIDER-BOT DECOYS",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "As long as this card is faceup in the Storyline, on your turn you may add 1 Spider-Bot token in your Location (if there are none). Once per Villain turn, you may discard 1 Spider-Bot in your Location to ignore 1 damage.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
-          ]
+            "A"
+          ],
+          "startingHand": true
         },
         {
           "cardType": "hero",
@@ -2798,16 +2976,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "Parker Industries",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Gain any combination of 2 [MOVE], [HEROIC], or [ATTACK] tokens.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -2820,16 +2998,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "GENIUS INTELLECT",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "This turn, you can treat all your Action tokens as [WILD] tokens.",
               "locText": ""
             }
           },
           "actions": [
-            "M"
+            "W"
           ]
         },
         {
@@ -2840,19 +3018,21 @@
             "locText": "Superior Spider-Man"
           },
           "specialEffect": {
-            "mandatory": false,
+            "mandatory": true,
             "title": {
-              "text": "",
+              "text": "FINAL UNDERSTANDING",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "If this card is in your hand you MUST play it. At the end of this turn, you're KO'd. You may remove Superior Spider-Man from the game. If you do, on your next Hero turn, chouse another Spider-Man Hero and enter play in any Location.",
               "locText": ""
             }
           },
           "actions": [
-            "M"
-          ]
+            "H",
+            "W"
+          ],
+          "bottomDeck": true
         },
         {
           "cardType": "hero",
@@ -2862,7 +3042,7 @@
             "locText": "Superior Spider-Man"
           },
           "actions": [
-            "A"
+            "M"
           ]
         },
         {
@@ -2936,111 +3116,187 @@
           ]
         },
         {
+          "cardType": "equipment",
+          "title": {
+            "text": "Web-Shooters",
+            "locText": "Lanza-Redes"
+          },
+          "front": {
+            "img": "heroes/Superior-Spider-Man-E1A.jpg",
+            "effectText": {
+              "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Superior-Spider-Man-E1B.jpg",
+            "effectText": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": ""
+            }
+          },
+          "reusable": true
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Mechanical Spider Arms",
+            "locText": ""
+          },
+          "front": {
+            "img": "heroes/Superior-Spider-Man-E2A.jpg",
+            "effectText": {
+              "text": "USE on your turn: USE on your turn: [HEROIC] or [ATTACK]. Then, turn this facedown.",
+              "locText": ""
+            }
+          },
+          "back": {
+            "img": "heroes/Superior-Spider-Man-E2B.jpg",
+            "effectText": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": ""
+            }
+          },
+          "reusable": true
+        },
+        {
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T2.jpg",
           "title": {
-            "text": "",
+            "text": "SPIDER-BOT ARMY",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "If there is no Spider-Bot token in this Location, add 1 here. Otherwise, add it to the next clockwise Location with no Spider-Bots, if possible. If not possible, deal 1 damage to I Hero in this Location.",
             "locText": ""
           },
           "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T2.jpg",
+          "title": {
+            "text": "SPIDER-BOT ARMY",
+            "locText": ""
+          },
+          "description": {
+            "text": "If there is no Spider-Bot token in this Location, add 1 here. Otherwise, add it to the next clockwise Location with no Spider-Bots, if possible. If not possible, deal 1 damage to I Hero in this Location.",
+            "locText": ""
+          },
+          "bam": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T3.jpg",
           "title": {
-            "text": "",
+            "text": "UNSTABLE BEHAVIOR",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "As long as this Threat is in play, Superior Spider-Man can't be damaged and Heroes can't win the game.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Superior-Spider-Man-T3.jpg",
+          "title": {
+            "text": "UNSTABLE BEHAVIOR",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Superior Spider-Man can't be damaged and Heroes can't win the game.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T4.jpg",
           "title": {
-            "text": "",
+            "text": "UNPARALLELED GENIUS",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "Each Hero in this and adjacent Locations must turn facedown one of their faceup cards with Special Effects in the Storyline. When this is cleared, each Hero can turn faceup one of their facedown cards in the Storyline.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
           "cardType": "threat",
-          "img": "villains/Superior-Spider-Man-T5.jpg",
+          "img": "villains/Superior-Spider-Man-T4.jpg",
           "title": {
-            "text": "",
+            "text": "UNPARALLELED GENIUS",
             "locText": ""
           },
           "description": {
-            "text": "",
+            "text": "Each Hero in this and adjacent Locations must turn facedown one of their faceup cards with Special Effects in the Storyline. When this is cleared, each Hero can turn faceup one of their facedown cards in the Storyline.",
             "locText": ""
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 4,
-            "threeHeroes": 4,
-            "fourHeroes": 4
-          }
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
         },
         {
-          "cardType": "threat",
-          "img": "villains/Superior-Spider-Man-T6.jpg",
+          "cardType": "plan",
+          "img": "villains/Superior-Spider-Man-MP1.jpg",
           "title": {
-            "text": "",
-            "locText": ""
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
           },
-          "description": {
-            "text": "",
-            "locText": ""
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "I AM SUPERIOR",
+              "locText": ""
+            },
+            "description": {
+              "text": "Add 1 Spider-Bot token to Superior Spider-Man's Location and to the opposite one (if there are no Spider-Bots in those Locations). Then, deal 1 damage to each Hero in Locations with a Spider-Bot.",
+              "locText": ""
+            }
           },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 5,
-            "threeHeroes": 5,
-            "fourHeroes": 5
-          }
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Superior-Spider-Man-T7.jpg",
-          "title": {
-            "text": "",
-            "locText": ""
-          },
-          "description": {
-            "text": "",
-            "locText": ""
-          },
-          "bam": true,
-          "lifePoints": {
-            "twoHeroes": 5,
-            "threeHeroes": 5,
-            "fourHeroes": 5
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T",
+              "C"
+            ]
           }
         },
         {
@@ -3050,37 +3306,31 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 1,
-          "bam": true,
+          "M": 0,
+          "bam": false,
           "specialEffect": {
             "title": {
-              "text": "",
+              "text": "I AM SUPERIOR",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "Add 1 Spider-Bot token to Superior Spider-Man's Location and to the opposite one (if there are no Spider-Bots in those Locations). Then, deal 1 damage to each Hero in Locations with a Spider-Bot.",
               "locText": ""
             }
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "villains/Superior-Spider-Man-MP2.jpg",
-          "title": {
-            "text": "Superior Spider-Man",
-            "locText": "Superior Spider-Man"
           },
-          "M": 2,
-          "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T",
+              "C"
+            ]
           }
         },
         {
@@ -3090,17 +3340,18 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 3,
+          "M": 1,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
           }
         },
         {
@@ -3110,17 +3361,18 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 4,
+          "M": 1,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
           }
         },
         {
@@ -3130,17 +3382,19 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 5,
+          "M": 2,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -3150,17 +3404,19 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 1,
+          "M": 2,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
@@ -3170,17 +3426,18 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 2,
+          "M": 3,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
           }
         },
         {
@@ -3192,15 +3449,16 @@
           },
           "M": 3,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
           }
         },
         {
@@ -3212,15 +3470,16 @@
           },
           "M": 4,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
           }
         },
         {
@@ -3230,17 +3489,18 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 5,
+          "M": 4,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
           }
         },
         {
@@ -3250,17 +3510,19 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 0,
+          "M": 5,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
@@ -3270,17 +3532,19 @@
             "text": "Superior Spider-Man",
             "locText": "Superior Spider-Man"
           },
-          "M": 0,
+          "M": 5,
           "bam": true,
-          "specialEffect": {
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
           }
         }
       ],
@@ -3288,29 +3552,33 @@
         "front": {
           "img": "villains/Superior-Spider-Man-A.jpg",
           "specialRules": {
-            "text": "",
+            "text": "When a Hero is KO'd, Superior Spider-Man doesn't activate his BAM! Instead, place 1 Threat token on his Clear Threats Mission card. When Superior Spider-Man rescues [CIVILIAN] or defeats [THUG] place the token on his corresponding Mission card. Heroes can remove a Spider-Bot token from their Location by spending a [HEROIC] or [ATTACK].",
             "locText": ""
           },
           "overflow": {
-            "text": "",
+            "text": "IF a [CIVILIAN]/[THUG] token can't be added to a Location, add it to the corresponding Superior Spider-Men Mission card instead.",
             "locText": ""
           },
           "bam": {
-            "text": "",
+            "text": "Deal 2 damage to 1 Hero in Superior Spider-Man's Location and 1 damage to 1 Hero in each adjacent one. Rescue 1 [CIVILIAN] and defeat 1 [THUG], in each Location with a Spider-Bot. Then, if there is no Spider-Bot in Superior Spider-Man's Location, add 1 there. Otherwise, add it in the next clockwise Location with no Spider-Bot.",
             "locText": ""
           },
           "plot": {
-            "text": "",
+            "text": "The Heroes lose if Superior Spider-Man completes 2 of his Missions.",
             "locText": ""
           },
           "lifePoints": {
-            "twoHeroes": 1,
-            "threeHeroes": 1,
-            "fourHeroes": 1
+            "twoHeroes": 4,
+            "threeHeroes": 5,
+            "fourHeroes": 6
           }
         },
         "back": {
           "img": "villains/Superior-Spider-Man-B.jpg",
+          "specialSetup": {
+            "text": "Place the set of 3 Superior Spider-Man Mission cards next to the playing area for him to add tokens to. Place I Spider-Bot token in both Locations 2 Locations away from the Villain's starting one. Keep the Threat tokens in a side pool.",
+            "locText": ""
+          },
           "superVillain": [
             "W", "M", "H", "A"
           ]
@@ -3343,17 +3611,15 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SPIDER-SENSE",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "As long as this card is faceup in the Storyline, once per Villain turn, if a Villain ends their movement in your Location, you may immediately move to an adjacent one.",
               "locText": ""
             }
           },
-          "actions": [
-            "W"
-          ],
+          "actions": [],
           "startingHand": true
         },
         {
@@ -3366,16 +3632,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "GREAT POWER",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[ATTACK] [ATTACK]. For each [THUG] defeated with this Special Effect, at the end of your turn gain 1 [ATTACK] token.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -3388,16 +3654,16 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "GREAT RESPONSIBILITY",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "[HEROIC] [HEROIC]. For each [CIVILIAN] rescued with this Special Effect, at the end of your turn gain 1 [WILD] token.",
               "locText": ""
             }
           },
           "actions": [
-            "H"
+            "M"
           ]
         },
         {
@@ -3410,11 +3676,11 @@
           "specialEffect": {
             "mandatory": false,
             "title": {
-              "text": "",
+              "text": "SYMBIOTE ENHANCEMENT",
               "locText": ""
             },
             "description": {
-              "text": "",
+              "text": "You may [ATTACK] [ATTACK]. If you do, on your next turn you must play your card randomly.",
               "locText": ""
             }
           },
@@ -3429,17 +3695,6 @@
             "text": "Symbiote Spider-Man",
             "locText": "Symbiote Spider-Man"
           },
-          "specialEffect": {
-            "mandatory": false,
-            "title": {
-              "text": "",
-              "locText": ""
-            },
-            "description": {
-              "text": "",
-              "locText": ""
-            }
-          },
           "actions": [
             "M"
           ]
@@ -3452,7 +3707,7 @@
             "locText": "Symbiote Spider-Man"
           },
           "actions": [
-            "A"
+            "H"
           ]
         },
         {
@@ -3498,7 +3753,7 @@
             "locText": "Symbiote Spider-Man"
           },
           "actions": [
-            "H",
+            "A",
             "A"
           ]
         },
