@@ -1516,16 +1516,14 @@
             "text": "Battery",
             "locText": "Batería"
           },
-          "front": {
-            "img": "heroes/Peni-Parker-E1A.jpg",
-            "effectText": {
-              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Peni-Parker-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Peni-Parker-E1B.jpg",
-            "effectText": {
+            "description": {
               "text": "EXHAUSTED: Remove this card from the game.",
               "locText": ""
             }
@@ -1538,16 +1536,14 @@
             "text": "Battery",
             "locText": "Batería"
           },
-          "front": {
-            "img": "heroes/Peni-Parker-E1A.jpg",
-            "effectText": {
-              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Peni-Parker-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Peni-Parker-E1B.jpg",
-            "effectText": {
+            "description": {
               "text": "EXHAUSTED: Remove this card from the game.",
               "locText": ""
             }
@@ -1560,16 +1556,14 @@
             "text": "Battery",
             "locText": "Batería"
           },
-          "front": {
-            "img": "heroes/Peni-Parker-E1A.jpg",
-            "effectText": {
-              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Peni-Parker-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Peni-Parker-E1B.jpg",
-            "effectText": {
+            "description": {
               "text": "EXHAUSTED: Remove this card from the game.",
               "locText": ""
             }
@@ -1772,16 +1766,14 @@
             "text": "Web-Shooters",
             "locText": "Lanza-Redes"
           },
-          "front": {
-            "img": "heroes/Scarlet-Spider-E1A.jpg",
-            "effectText": {
-              "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Scarlet-Spider-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Scarlet-Spider-E1B.jpg",
-            "effectText": {
+            "description": {
               "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
               "locText": ""
             }
@@ -2419,16 +2411,14 @@
             "text": "Web-Shooters",
             "locText": "Lanza-Redes"
           },
-          "front": {
-            "img": "heroes/Spider-Punk-E1A.jpg",
-            "effectText": {
-              "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Spider-Punk-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Spider-Punk-E1B.jpg",
-            "effectText": {
+            "description": {
               "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
               "locText": ""
             }
@@ -3121,16 +3111,14 @@
             "text": "Web-Shooters",
             "locText": "Lanza-Redes"
           },
-          "front": {
-            "img": "heroes/Superior-Spider-Man-E1A.jpg",
-            "effectText": {
-              "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Superior-Spider-Man-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Superior-Spider-Man-E1B.jpg",
-            "effectText": {
+            "description": {
               "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
               "locText": ""
             }
@@ -3143,16 +3131,14 @@
             "text": "Mechanical Spider Arms",
             "locText": ""
           },
-          "front": {
-            "img": "heroes/Superior-Spider-Man-E2A.jpg",
-            "effectText": {
-              "text": "USE on your turn: USE on your turn: [HEROIC] or [ATTACK]. Then, turn this facedown.",
-              "locText": ""
-            }
+          "img": "heroes/Superior-Spider-Man-E2A.jpg",
+          "description": {
+            "text": "USE on your turn: USE on your turn: [HEROIC] or [ATTACK]. Then, turn this facedown.",
+            "locText": ""
           },
           "back": {
             "img": "heroes/Superior-Spider-Man-E2B.jpg",
-            "effectText": {
+            "description": {
               "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
               "locText": ""
             }
