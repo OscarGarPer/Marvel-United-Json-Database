@@ -122,7 +122,7 @@
   ],
   "challenges": [
     {
-      "img": "en/challenges/moderate-challenge.jpg",
+      "img": "challenges/moderate-challenge.jpg",
       "title": {
         "text": "Moderate Challenge",
         "locText": "Desafío Moderado"
@@ -133,7 +133,7 @@
       }
     },
     {
-      "img": "en/challenges/hard-challenge.jpg",
+      "img": "challenges/hard-challenge.jpg",
       "title": {
         "text": "Hard Challenge",
         "locText": "Desafío Difícil"
@@ -144,7 +144,7 @@
       }
     },
     {
-      "img": "en/challenges/heroic-challenge.jpg",
+      "img": "challenges/heroic-challenge.jpg",
       "title": {
         "text": "Heroic Challenge",
         "locText": "Desafío Heroico"
@@ -400,7 +400,24 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Anti-Venom-T4.jpg",
+          "img": "villains/Anti-Venom-T3.jpg",
+          "title": {
+            "text": "Body Cleansing",
+            "locText": ""
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind.",
+            "locText": ""
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "villains/Anti-Venom-T3.jpg",
           "title": {
             "text": "Body Cleansing",
             "locText": ""
@@ -418,23 +435,6 @@
         {
           "cardType": "threat",
           "img": "villains/Anti-Venom-T4.jpg",
-          "title": {
-            "text": "Body Cleansing",
-            "locText": ""
-          },
-          "description": {
-            "text": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind.",
-            "locText": ""
-          },
-          "actions": [
-            "H",
-            "H",
-            "H"
-          ]
-        },
-        {
-          "cardType": "threat",
-          "img": "villains/Anti-Venom-T6.jpg",
           "title": {
             "text": "Camouflage",
             "locText": ""
@@ -451,7 +451,7 @@
         },
         {
           "cardType": "threat",
-          "img": "villains/Anti-Venom-T6.jpg",
+          "img": "villains/Anti-Venom-T4.jpg",
           "title": {
             "text": "Camouflage",
             "locText": ""
@@ -2457,7 +2457,7 @@
           "cardType": "threat",
           "img": "villains/Spot-T2.jpg",
           "title": {
-            "text": "ATTACK FROM THE SPOTTED DIMENSION",
+            "text": "Attack From The Spotted Dimension",
             "locText": ""
           },
           "description": {
@@ -2474,7 +2474,7 @@
           "cardType": "threat",
           "img": "villains/Spot-T2.jpg",
           "title": {
-            "text": "ATTACK FROM THE SPOTTED DIMENSION",
+            "text": "Attack From The Spotted Dimension",
             "locText": ""
           },
           "description": {
@@ -2491,7 +2491,7 @@
           "cardType": "threat",
           "img": "villains/Spot-T2.jpg",
           "title": {
-            "text": "ATTACK FROM THE SPOTTED DIMENSION",
+            "text": "Attack From The Spotted Dimension",
             "locText": ""
           },
           "description": {
@@ -2508,7 +2508,7 @@
           "cardType": "threat",
           "img": "villains/Spot-T3.jpg",
           "title": {
-            "text": "YOU CAN'T ESCAPE",
+            "text": "You Can't Escape",
             "locText": ""
           },
           "description": {
@@ -2525,7 +2525,7 @@
           "cardType": "threat",
           "img": "villains/Spot-T3.jpg",
           "title": {
-            "text": "YOU CAN'T ESCAPE",
+            "text": "You Can't Escape",
             "locText": ""
           },
           "description": {
@@ -2542,7 +2542,7 @@
           "cardType": "threat",
           "img": "villains/Spot-T3.jpg",
           "title": {
-            "text": "YOU CAN'T ESCAPE",
+            "text": "You Can't Escape",
             "locText": ""
           },
           "description": {
@@ -3163,7 +3163,7 @@
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T2.jpg",
           "title": {
-            "text": "SPIDER-BOT ARMY",
+            "text": "Spider-Bot Army",
             "locText": ""
           },
           "description": {
@@ -3181,7 +3181,7 @@
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T2.jpg",
           "title": {
-            "text": "SPIDER-BOT ARMY",
+            "text": "Spider-Bot Army",
             "locText": ""
           },
           "description": {
@@ -3199,7 +3199,7 @@
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T3.jpg",
           "title": {
-            "text": "UNSTABLE BEHAVIOR",
+            "text": "Unstable Behavior",
             "locText": ""
           },
           "description": {
@@ -3216,7 +3216,7 @@
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T3.jpg",
           "title": {
-            "text": "UNSTABLE BEHAVIOR",
+            "text": "Unstable Behavior",
             "locText": ""
           },
           "description": {
@@ -3233,11 +3233,11 @@
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T4.jpg",
           "title": {
-            "text": "UNPARALLELED GENIUS",
+            "text": "Boundless Ambition",
             "locText": ""
           },
           "description": {
-            "text": "Each Hero in this and adjacent Locations must turn facedown one of their faceup cards with Special Effects in the Storyline. When this is cleared, each Hero can turn faceup one of their facedown cards in the Storyline.",
+            "text": "Accelerate the next Villain turn by 1 card. When this Threat is cleared, delay the next Villain turn by 1 card.",
             "locText": ""
           },
           "locationEffect": true,
@@ -3251,11 +3251,11 @@
           "cardType": "threat",
           "img": "villains/Superior-Spider-Man-T4.jpg",
           "title": {
-            "text": "UNPARALLELED GENIUS",
+            "text": "Boundless Ambition",
             "locText": ""
           },
           "description": {
-            "text": "Each Hero in this and adjacent Locations must turn facedown one of their faceup cards with Special Effects in the Storyline. When this is cleared, each Hero can turn faceup one of their facedown cards in the Storyline.",
+            "text": "Accelerate the next Villain turn by 1 card. When this Threat is cleared, delay the next Villain turn by 1 card.",
             "locText": ""
           },
           "locationEffect": true,
