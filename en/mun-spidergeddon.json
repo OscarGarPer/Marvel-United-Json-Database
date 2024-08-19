@@ -2,11 +2,159 @@
   "boxId": "MUN-Spidergeddon",
   "img": "mun-ks25.jpg",
   "name": {
-    "text": "Marvel United Spider-geddon",
-    "locText": "Marvel United Spider-geddon"
+    "text": "Marvel United Spider-Geddon",
+    "locText": "Marvel United Spider-Geddon"
   },
-  "rulebook": "rulebooks/Unificado.pdf",
-  "tokens": [],
+  "locations": [
+    {
+      "img": "en/locations/great-weaver-temple.jpg",
+      "title": {
+        "text": "Great Weaver Temple",
+        "locText": "Great Weaver Temple"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may discard 1 card from your hand to the bottom of your deck to gain 1 [HEROIC] and 1 [ATTACK] tokens.",
+          "locText": "You may discard 1 card from your hand to the bottom of your deck to gain 1 [HEROIC] and 1 [ATTACK] tokens."
+        }
+      },
+      "slots": ["C", "T", "empty"]
+    },
+    {
+      "img": "en/locations/horizon-labs.jpg",
+      "title": {
+        "text": "Horizon Labs",
+        "locText": "Horizon Labs"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may turn facedown 1 of your Equipment cards to recharge (turn faceup) any other Equipment in the game.",
+          "locText": "You may turn facedown 1 of your Equipment cards to recharge (turn faceup) any other Equipment in the game."
+        }
+      },
+      "slots": ["C", "T", "empty", "empty"]
+    },
+    {
+      "img": "en/locations/japan.jpg",
+      "title": {
+        "text": "Japan",
+        "locText": "Japan"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there are at least 2 empty slots in this Location, you may add 2 [THUG] there to gain 1 [MOVE], [HEROIC], or [ATTACK] token.",
+          "locText": "If there are at least 2 empty slots in this Location, you may add 2 [THUG] there to gain 1 [MOVE], [HEROIC], or [ATTACK] token."
+        }
+      },
+      "slots": ["C", "C", "empty", "empty"]
+    },
+    {
+      "img": "en/locations/las-vegas.jpg",
+      "title": {
+        "text": "Las Vegas",
+        "locText": "Las Vegas"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If the top Master Plan card is not revealed, you may guess if it adds more [THUG] or [CIVILIAN], then reveal it. If you guessed right, gain 1 [WILD] token and leave the card revealed. Otherwise, put it at the bottom of the deck.",
+          "locText": "If the top Master Plan card is not revealed, you may guess if it adds more [THUG] or [CIVILIAN], then reveal it. If you guessed right, gain 1 [WILD] token and leave the card revealed. Otherwise, put it at the bottom of the deck."
+        }
+      },
+      "slots": ["C", "T", "T", "empty"]
+    },
+    {
+      "img": "en/locations/loomworld.jpg",
+      "title": {
+        "text": "Loomworld",
+        "locText": "Loomworld"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "You may move to any other Location.",
+          "locText": "You may move to any other Location."
+        }
+      },
+      "slots": ["T", "T", "empty", "empty"]
+    },
+    {
+      "img": "en/locations/parker-residence.jpg",
+      "title": {
+        "text": "Parker Residence",
+        "locText": "Parker Residence"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If you have 1 or 2 cards in hand, you may draw 1 card.",
+          "locText": "If you have 1 or 2 cards in hand, you may draw 1 card."
+        }
+      },
+      "slots": ["C", "empty", "empty"]
+    },
+    {
+      "img": "en/locations/sims-tower.jpg",
+      "title": {
+        "text": "Sims Tower",
+        "locText": "Sims Tower"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "This Location starts with 2 [HEROIC] tokens. Heroes here may discard any number of [HEROIC] tokens from here to ignore the same amount of damage. | You may take 1 [HEROIC] token from this Location OR add 1 [HEROIC] token from the pool to this Location.",
+          "locText": "This Location starts with 2 [HEROIC] tokens. Heroes here may discard any number of [HEROIC] tokens from here to ignore the same amount of damage. | You may take 1 [HEROIC] token from this Location OR add 1 [HEROIC] token from the pool to this Location."
+        }
+      },
+      "slots": ["C", "empty", "empty"]
+    },
+    {
+      "img": "en/locations/spider-island.jpg",
+      "title": {
+        "text": "Spider-Island",
+        "locText": "Spider-Island"
+      },
+      "endOfTurn": {
+        "effect": {
+          "text": "If there are 1 or more [THUG] in this Location, you MUST take 1 damage.",
+          "locText": "If there are 1 or more [THUG] in this Location, you MUST take 1 damage."
+        },
+        "mandatory": true
+      },
+      "slots": ["C", "T", "T", "empty", "empty"]
+    }
+  ],
+  "challenges": [
+    {
+      "img": "en/challenges/moderate-challenge.jpg",
+      "title": {
+        "text": "Moderate Challenge",
+        "locText": "Moderate Challenge"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD] card from their Hero deck.",
+        "locText": "SETUP: Each player removes the [WILD] card from their Hero deck."
+      }
+    },
+    {
+      "img": "en/challenges/hard-challenge.jpg",
+      "title": {
+        "text": "Hard Challenge",
+        "locText": "Hard Challenge"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD][WILD] card from their Hero deck.",
+        "locText": "SETUP: Each player removes the [WILD][WILD] card from their Hero deck."
+      }
+    },
+    {
+      "img": "en/challenges/heroic-challenge.jpg",
+      "title": {
+        "text": "Heroic Challenge",
+        "locText": "Heroic Challenge"
+      },
+      "description": {
+        "text": "SETUP: Each player removes the [WILD] and [WILD][WILD] cards from their Hero deck.",
+        "locText": "SETUP: Each player removes the [WILD] and [WILD][WILD] cards from their Hero deck."
+      }
+    }
+  ],
   "characters": [
     {
       "img": "villains/Anti-Venom.jpg",
@@ -22,6 +170,650 @@
       "bio": {
         "text": "Having separated from the Venom symbiote, Eddie tried to lead a normal life. However, he could not get a break as he soon developed cancer and intended to spend his remaining days as a volunteer at F.E.A.S.T. His kindness would ultimately pay off. as F.E.A.S.T's founder would use his powers to cure Eddie of his cancer. This unintentionally caused the traces of the symbiote that was still within him to fuse with his white blood cell and create a new symbiote, Anti-Venom. This new symbiote allows him to produce powerful antibodies that can cure any type of diseases and even eradicate other symbiotes with ease.",
         "locText": "Having separated from the Venom symbiote, Eddie tried to lead a normal life. However, he could not get a break as he soon developed cancer and intended to spend his remaining days as a volunteer at F.E.A.S.T. His kindness would ultimately pay off. as F.E.A.S.T's founder would use his powers to cure Eddie of his cancer. This unintentionally caused the traces of the symbiote that was still within him to fuse with his white blood cell and create a new symbiote, Anti-Venom. This new symbiote allows him to produce powerful antibodies that can cure any type of diseases and even eradicate other symbiotes with ease."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom01.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Webbing Generation",
+              "locText": "Webbing Generation"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if there are no [MOVE] at the bottom of the 2 latest Hero cards in the Storyline, you may perform 1 [MOVE] free on your turn.",
+              "locText": "As long as this card is faceup in the Storyline, if there are no [MOVE] at the bottom of the 2 latest Hero cards in the Storyline, you may perform 1 [MOVE] free on your turn."
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom02.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Body Cleansing",
+              "locText": "Body Cleansing"
+            },
+            "description": {
+              "text": "Draw 1 card. Then, 1 Hero in your Location may discard all their Crisis tokens.",
+              "locText": "Draw 1 card. Then, 1 Hero in your Location may discard all their Crisis tokens."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom02.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Body Cleansing",
+              "locText": "Body Cleansing"
+            },
+            "description": {
+              "text": "Draw 1 card. Then, 1 Hero in your Location may discard all their Crisis tokens.",
+              "locText": "Draw 1 card. Then, 1 Hero in your Location may discard all their Crisis tokens."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom04.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Anti-Venom Serum",
+              "locText": "Anti-Venom Serum"
+            },
+            "description": {
+              "text": "Rescue uo to 2 [CIVILIAN] or defeat up to 2 [THUG] in your Location.",
+              "locText": "Rescue uo to 2 [CIVILIAN] or defeat up to 2 [THUG] in your Location."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom04.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Anti-Venom Serum",
+              "locText": "Anti-Venom Serum"
+            },
+            "description": {
+              "text": "Rescue uo to 2 [CIVILIAN] or defeat up to 2 [THUG] in your Location.",
+              "locText": "Rescue uo to 2 [CIVILIAN] or defeat up to 2 [THUG] in your Location."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom06.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom06.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom08.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom09.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom10.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom11.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Anti-Venom12.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Anti-Venom-T2.jpg",
+          "title": {
+            "text": "Power Negation",
+            "locText": "Power Negation"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Heroes can't move during Villain turns.",
+            "locText": "As long as this Threat is in play, Heroes can't move during Villain turns."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Anti-Venom-T2.jpg",
+          "title": {
+            "text": "Power Negation",
+            "locText": "Power Negation"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Heroes can't move during Villain turns.",
+            "locText": "As long as this Threat is in play, Heroes can't move during Villain turns."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Anti-Venom-T3.jpg",
+          "title": {
+            "text": "Body Cleansing",
+            "locText": "Body Cleansing"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind.",
+            "locText": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Anti-Venom-T3.jpg",
+          "title": {
+            "text": "Body Cleansing",
+            "locText": "Body Cleansing"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind.",
+            "locText": "As long as this Threat is in play, Anti-Venom can't be given tokens of any kind."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Anti-Venom-T4.jpg",
+          "title": {
+            "text": "Camouflage",
+            "locText": "Camouflage"
+          },
+          "description": {
+            "text": "As long as 1 or more Camouflage Threats are in play, Anti-Venom ignores 1 damage each Hero turn.",
+            "locText": "As long as 1 or more Camouflage Threats are in play, Anti-Venom ignores 1 damage each Hero turn."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Anti-Venom-T4.jpg",
+          "title": {
+            "text": "Camouflage",
+            "locText": "Camouflage"
+          },
+          "description": {
+            "text": "As long as 1 or more Camouflage Threats are in play, Anti-Venom ignores 1 damage each Hero turn.",
+            "locText": "As long as 1 or more Camouflage Threats are in play, Anti-Venom ignores 1 damage each Hero turn."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP1.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP2.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP3.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP4.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP5.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP6.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Symbiote Mutation",
+              "locText": "Symbiote Mutation"
+            },
+            "description": {
+              "text": "Bring back in play a random already-cleared Threat in Anti-Venom's Location, if possible, or in the next clockwise Location without a Threat.",
+              "locText": "Bring back in play a random already-cleared Threat in Anti-Venom's Location, if possible, or in the next clockwise Location without a Threat."
+            }
+          },
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP7.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Symbiote Mutation",
+              "locText": "Symbiote Mutation"
+            },
+            "description": {
+              "text": "Bring back in play a random already-cleared Threat in Anti-Venom's Location, if possible, or in the next clockwise Location without a Threat.",
+              "locText": "Bring back in play a random already-cleared Threat in Anti-Venom's Location, if possible, or in the next clockwise Location without a Threat."
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP8.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 3,
+          "specialEffect": {
+            "title": {
+              "text": "Cleansing",
+              "locText": "Cleansing"
+            },
+            "description": {
+              "text": "1 Hero in Anti-Venom's Location must discard 1 card with a Special Effect from their hand, if possible.",
+              "locText": "1 Hero in Anti-Venom's Location must discard 1 card with a Special Effect from their hand, if possible."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          },
+          "startingHand": true
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP9.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Heroes.",
+            "locText": "Move counter-clockwise to the next Location with any Heroes."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP10.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move counter-clockwise to the next Location with any Heroes.",
+            "locText": "Move counter-clockwise to the next Location with any Heroes."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP11.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Move clockwise to the next Location with any Heroes."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Anti-Venom-MP12.jpg",
+          "title": {
+            "text": "Anti-Venom",
+            "locText": "Anti-Venom"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move clockwise to the next Location with any Heroes.",
+            "locText": "Move clockwise to the next Location with any Heroes."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "en/villains/Anti-Venom-A.jpg",
+          "specialRules": {
+            "text": "Whenever a Hero card with a Special Effect is discarded or turned facedown, increase the Anti-Venom Track by 1.",
+            "locText": "Whenever a Hero card with a Special Effect is discarded or turned facedown, increase the Anti-Venom Track by 1."
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, each Hero there must discard 1 card with a Special Effect from their hand. If they have none, they take 1 damage and must turn facedown 1 of their cards with a Special Effect in the Storyline, if possible.",
+            "locText": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, each Hero there must discard 1 card with a Special Effect from their hand. If they have none, they take 1 damage and must turn facedown 1 of their cards with a Special Effect in the Storyline, if possible."
+          },
+          "bam": {
+            "text": "Each Hero in Anti-Venom's Location must discard 1 card with a Special Effect from their hand. If they have none, they take 1 damage and must turn facedown 1 of their cards with a Special Effect in the Storyline, if possible.",
+            "locText": "Each Hero in Anti-Venom's Location must discard 1 card with a Special Effect from their hand. If they have none, they take 1 damage and must turn facedown 1 of their cards with a Special Effect in the Storyline, if possible."
+          },
+          "plot": {
+            "text": "Anti-Venom Track - Heroes lose when this track reaches 6 (2 Players), 7 (3 Players), or 8 (4 Players).",
+            "locText": "Anti-Venom Track - Heroes lose when this track reaches 6 (2 Players), 7 (3 Players), or 8 (4 Players)."
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 6,
+            "fourHeroes": 8
+          }
+        },
+        "back": {
+          "img": "en/villains/Anti-Venom-B.jpg",
+          "specialSetup": {
+            "text": "Set aside the Cleansing Master Plan card and place it on top of the deck after shuffling it. Team vs Team Mode: The Villain Tracker starts on 2",
+            "locText": "Set aside the Cleansing Master Plan card and place it on top of the deck after shuffling it. Team vs Team Mode: The Villain Tracker starts on 2"
+          },
+          "superVillain": [
+            "M", "H", "A"
+          ]
+        }
       }
     },
     {
@@ -38,6 +830,454 @@
       "bio": {
         "text": "Morlun belongs to a clan known as the Inheritors beings that consume the life force of other creatures. They are essentially vampires that scour the multiverse for the purest life forces and have taken a liking to hunting down Totems, beings that connect the animal and human kingdoms. Morlun possesses superhuman capabilities, a result of the countless Totems that he had fed upon, allowing him to easily overpower his prey. He can not only drain one's life force with a mere physical touch, but it also allows him to sense where they are at any time.",
         "locText": "Morlun belongs to a clan known as the Inheritors beings that consume the life force of other creatures. They are essentially vampires that scour the multiverse for the purest life forces and have taken a liking to hunting down Totems, beings that connect the animal and human kingdoms. Morlun possesses superhuman capabilities, a result of the countless Totems that he had fed upon, allowing him to easily overpower his prey. He can not only drain one's life force with a mere physical touch, but it also allows him to sense where they are at any time."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "en/villains/Morlun-T2.jpg",
+          "title": {
+            "text": "Karn",
+            "locText": "Karn"
+          },
+          "description": {
+            "text": "Move this Threat clockwise to the next Location with any Heroes and no Threat, if possible. Then, deal 2 damage to 1 Hero in this Location.",
+            "locText": "Move this Threat clockwise to the next Location with any Heroes and no Threat, if possible. Then, deal 2 damage to 1 Hero in this Location."
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Morlun-T3.jpg",
+          "title": {
+            "text": "Brix",
+            "locText": "Brix"
+          },
+          "description": {
+            "text": "Deal 1 damage to each Hero in this Location.",
+            "locText": "Deal 1 damage to each Hero in this Location."
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Morlun-T4.jpg",
+          "title": {
+            "text": "Bora",
+            "locText": "Bora"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in each adjacent Location. Bora ignores 1 damage in each Hero turn.",
+            "locText": "Deal 1 damage to 1 Hero in each adjacent Location. Bora ignores 1 damage in each Hero turn."
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Morlun-T5.jpg",
+          "title": {
+            "text": "Jennix",
+            "locText": "Jennix"
+          },
+          "description": {
+            "text": "Give 1 Crisis token to 1 Hero in this and each adjacent Location. Then, each Hero with 1 or more Crisis tokens takes 1 damage.",
+            "locText": "Give 1 Crisis token to 1 Hero in this and each adjacent Location. Then, each Hero with 1 or more Crisis tokens takes 1 damage."
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 4,
+            "fourHeroes": 4
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Morlun-T6.jpg",
+          "title": {
+            "text": "Verna",
+            "locText": "Verna"
+          },
+          "description": {
+            "text": "Deal 1 damage to 1 Hero in any Location.",
+            "locText": "Deal 1 damage to 1 Hero in any Location."
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 3,
+            "fourHeroes": 3
+          }
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Morlun-T7.jpg",
+          "title": {
+            "text": "Daemos",
+            "locText": "Daemos"
+          },
+          "description": {
+            "text": "Deal 2 damage to 1 Hero in this Location. If there are no Heroes here, discard all [CIVILIAN] in this Location instead.",
+            "locText": "Deal 2 damage to 1 Hero in this Location. If there are no Heroes here, discard all [CIVILIAN] in this Location instead."
+          },
+          "bam": true,
+          "lifePoints": {
+            "twoHeroes": 3,
+            "threeHeroes": 4,
+            "fourHeroes": 5
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP1.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 0,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [
+              
+            ],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP2.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP3.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP4.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP5.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP6.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP7.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP8.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 0,
+          "specialEffect": {
+            "title": {
+              "text": "Life Force Absorption",
+              "locText": "Life Force Absorption"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, when a Hero is KO'd, Morlun doesn't activate his BAM! Instead, he gains 2 Health (may go above starting value).",
+              "locText": "As long as this card is faceup in the Storyline, when a Hero is KO'd, Morlun doesn't activate his BAM! Instead, he gains 2 Health (may go above starting value)."
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
+          },
+          "startingHand": true
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP9.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Sensing Life Force",
+              "locText": "Sensing Life Force"
+            },
+            "description": {
+              "text": "Give 1 Crisis token to 1 Hero in Morlun's and both adjacent Locations.",
+              "locText": "Give 1 Crisis token to 1 Hero in Morlun's and both adjacent Locations."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP10.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Sensing Life Force",
+              "locText": "Sensing Life Force"
+            },
+            "description": {
+              "text": "Give 1 Crisis token to 1 Hero in Morlun's and both adjacent Locations.",
+              "locText": "Give 1 Crisis token to 1 Hero in Morlun's and both adjacent Locations."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP11.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 1,
+          "specialEffect": {
+            "title": {
+              "text": "Fierce Hunting",
+              "locText": "Fierce Hunting"
+            },
+            "description": {
+              "text": "Damage dealt to Heroes with Crisis tokens this turn is unpreventable. [BAM!], then all Heroes with Crisis tokens discard them.",
+              "locText": "Damage dealt to Heroes with Crisis tokens this turn is unpreventable. [BAM!], then all Heroes with Crisis tokens discard them."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Morlun-MP12.jpg",
+          "title": {
+            "text": "Morlun",
+            "locText": "Morlun"
+          },
+          "M": 5,
+          "specialEffect": {
+            "title": {
+              "text": "Fierce Hunting",
+              "locText": "Fierce Hunting"
+            },
+            "description": {
+              "text": "Damage dealt to Heroes with Crisis tokens this turn is unpreventable. [BAM!], then all Heroes with Crisis tokens discard them.",
+              "locText": "Damage dealt to Heroes with Crisis tokens this turn is unpreventable. [BAM!], then all Heroes with Crisis tokens discard them."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        }
+      ],
+"dashboard": {
+        "front": {
+          "img": "en/villains/Morlun-A.jpg",
+          "specialRules": {
+            "text": "When a Hero is KO'd, any Henchman in their Location gains 1 Health (may go above starting value). Then, that Hero is removed from the game (discarding any of their Crisis tokens) and replaced with a new Hero in the Heroes' starting Location on that player's next turn.",
+            "locText": "When a Hero is KO'd, any Henchman in their Location gains 1 Health (may go above starting value). Then, that Hero is removed from the game (discarding any of their Crisis tokens) and replaced with a new Hero in the Heroes' starting Location on that player's next turn."
+          },
+          "overflow": {
+            "text": "IF 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to 1 Hero in that Location. If there are no Heroes there, add the [CIVILIAN]/[THUG] to the next clockwise Location with empty slots instead.",
+            "locText": "IF 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to 1 Hero in that Location. If there are no Heroes there, add the [CIVILIAN]/[THUG] to the next clockwise Location with empty slots instead."
+          },
+          "bam": {
+            "text": "Deal 2 damage to 1 Hero in Morlun's Location.",
+            "locText": "Deal 2 damage to 1 Hero in Morlun's Location."
+          },
+          "plot": {
+            "text": "The Heroes lose if 4 Heroes are removed from the game.",
+            "locText": "The Heroes lose if 4 Heroes are removed from the game."
+          },
+          "lifePoints": {
+            "twoHeroes": 5,
+            "threeHeroes": 6,
+            "fourHeroes": 7
+          }
+        },
+        "back": {
+          "img": "en/villains/Morlun-B.jpg",
+          "superVillain": [
+            "W", "M", "A"
+          ],
+          "specialSetup": {
+            "text": "Set aside the Life Force Absorption Master Plan card and place it on top of the deck after shuffling it. Loomworld must be the Villain's starting Location. Sims Tower must be the Location opposite to the Villain's starting one.",
+            "locText": "Set aside the Life Force Absorption Master Plan card and place it on top of the deck after shuffling it. Loomworld must be the Villain's starting Location. Sims Tower must be the Location opposite to the Villain's starting one."
+          }
+        }
       }
     },
     {
@@ -54,7 +1294,283 @@
       "bio": {
         "text": "Regular 14-year-old schoolgirl by day, crimefighter by night. Peni protects the people of New York city as the pilot of the highly advanced SP//dr suit. She was only 9 when she lost her father to an unfortunate accident when he was piloting the SP//dr suit. With no other suitable candidate to take over but her, due to her genetic makeup, she agreed to carry on her father's legacy and enlisted into the SP//dr program. This was where she formed a psychic link with the radioactive spider that bit her, allowing her to pilot the SP//dr suit.",
         "locText": "Regular 14-year-old schoolgirl by day, crimefighter by night. Peni protects the people of New York city as the pilot of the highly advanced SP//dr suit. She was only 9 when she lost her father to an unfortunate accident when he was piloting the SP//dr suit. With no other suitable candidate to take over but her, due to her genetic makeup, she agreed to carry on her father's legacy and enlisted into the SP//dr program. This was where she formed a psychic link with the radioactive spider that bit her, allowing her to pilot the SP//dr suit."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker01.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "METAL ARMOR",
+              "locText": "METAL ARMOR"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, you may ignore 1 damage during each Villain turn.",
+              "locText": "As long as this card is faceup in the Storyline, you may ignore 1 damage during each Villain turn."
+            }
+          },
+          "actions": [
+            "H"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker02.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "WEBS",
+              "locText": "WEBS"
+            },
+            "description": {
+              "text": "[MOVE]. You may use 1 Battery to [WILD]",
+              "locText": "[MOVE]. You may use 1 Battery to [WILD]"
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker02.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "WEBS",
+              "locText": "WEBS"
+            },
+            "description": {
+              "text": "[MOVE]. You may use 1 Battery to [WILD]",
+              "locText": "[MOVE]. You may use 1 Battery to [WILD]"
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker04.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ROBOT STRENGTH",
+              "locText": "ROBOT STRENGTH"
+            },
+            "description": {
+              "text": "[ATTACK]. You may use 1 Battery to deal 1 extra damage to an enemy you are dealing damage to this turn.",
+              "locText": "[ATTACK]. You may use 1 Battery to deal 1 extra damage to an enemy you are dealing damage to this turn."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker04.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ROBOT STRENGTH",
+              "locText": "ROBOT STRENGTH"
+            },
+            "description": {
+              "text": "[ATTACK]. You may use 1 Battery to deal 1 extra damage to an enemy you are dealing damage to this turn.",
+              "locText": "[ATTACK]. You may use 1 Battery to deal 1 extra damage to an enemy you are dealing damage to this turn."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker06.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SAFETY NET",
+              "locText": "SAFETY NET"
+            },
+            "description": {
+              "text": "Rescue 1 [CIVILIAN] in your Location. You may use 1 Battery to rescue 1 additional [CIVILIAN] in your or an adjacent Location.",
+              "locText": "Rescue 1 [CIVILIAN] in your Location. You may use 1 Battery to rescue 1 additional [CIVILIAN] in your or an adjacent Location."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker06.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SAFETY NET",
+              "locText": "SAFETY NET"
+            },
+            "description": {
+              "text": "Rescue 1 [CIVILIAN] in your Location. You may use 1 Battery to rescue 1 additional [CIVILIAN] in your or an adjacent Location.",
+              "locText": "Rescue 1 [CIVILIAN] in your Location. You may use 1 Battery to rescue 1 additional [CIVILIAN] in your or an adjacent Location."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker08.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker08.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker10.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker11.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Peni-Parker12.jpg",
+          "title": {
+            "text": "Peni Parker",
+            "locText": "Peni Parker"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "equipment",
+          "img": "en/heroes/Peni-Parker-E1A.jpg",
+          "title": {
+            "text": "Battery",
+            "locText": "Battery"
+          },
+          "description": {
+              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+              "locText": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Peni-Parker-E1B.jpg",
+            "description": {
+              "text": "EXHAUSTED: Remove this card from the game.",
+              "locText": "EXHAUSTED: Remove this card from the game."
+            }
+          },
+          "reusable": false
+        },
+        {
+          "cardType": "equipment",
+          "img": "en/heroes/Peni-Parker-E1A.jpg",
+          "title": {
+            "text": "Battery",
+            "locText": "Battery"
+          },
+          "description": {
+              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+              "locText": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Peni-Parker-E1B.jpg",
+            "description": {
+              "text": "EXHAUSTED: Remove this card from the game.",
+              "locText": "EXHAUSTED: Remove this card from the game."
+            }
+          },
+          "reusable": false
+        },
+        {
+          "cardType": "equipment",
+          "img": "en/heroes/Peni-Parker-E1A.jpg",
+          "title": {
+            "text": "Battery",
+            "locText": "Battery"
+          },
+          "description": {
+              "text": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown.",
+              "locText": "USE on your turn: Activate the additional Special Effect on a Webs, Safety Net, or Robot Strength card you played this turn. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Peni-Parker-E1B.jpg",
+            "description": {
+              "text": "EXHAUSTED: Remove this card from the game.",
+              "locText": "EXHAUSTED: Remove this card from the game."
+            }
+          },
+          "reusable": false
+        }
+      ]
     },
     {
       "img": "heroes/Scarlet-Spider.jpg",
@@ -70,7 +1586,201 @@
       "bio": {
         "text": "Benjamin Reilly was a perfect genetic clone of Peter Parker, made to torment Peter. It was presumed that he died in his fight with Peter, but he survived with the help of his creator. He spent several years roaming the country trying to carve out an identity for himself. Being the perfect clone of Peter, he possessed the same powers as Spider-Man and used them to help people he encountered along his journey. But after learning of Aunt May' declining health, Benjamin would return to New York, and he would cross paths with Peter once again. However, they now fight alongside one another with the common goal of protecting the ones that they hold dear.",
         "locText": "Benjamin Reilly was a perfect genetic clone of Peter Parker, made to torment Peter. It was presumed that he died in his fight with Peter, but he survived with the help of his creator. He spent several years roaming the country trying to carve out an identity for himself. Being the perfect clone of Peter, he possessed the same powers as Spider-Man and used them to help people he encountered along his journey. But after learning of Aunt May' declining health, Benjamin would return to New York, and he would cross paths with Peter once again. However, they now fight alongside one another with the common goal of protecting the ones that they hold dear."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider01.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SPIDER-SENSE",
+              "locText": "SPIDER-SENSE"
+            },
+            "description": {
+              "text": "Gain 1 [WILD] token. As long as this card is in faceup in the Storyline, you may discard any number of [WILD] tokens to ignore the same amount of damage.",
+              "locText": "Gain 1 [WILD] token. As long as this card is in faceup in the Storyline, you may discard any number of [WILD] tokens to ignore the same amount of damage."
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider02.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "GREAT POWER",
+              "locText": "GREAT POWER"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK]. For each [THUG] defeated with this Special Effect, at the end of your turn gain 1 [ATTACK] token.",
+              "locText": "[ATTACK] [ATTACK]. For each [THUG] defeated with this Special Effect, at the end of your turn gain 1 [ATTACK] token."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider03.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "GREAT RESPONSIBILITY",
+              "locText": "GREAT RESPONSIBILITY"
+            },
+            "description": {
+              "text": "[HEROIC] [HEROIC]. For each [CIVILIAN] rescued with this Special Effect, at the end of your turn gain 1 [WILD] token.",
+              "locText": "[HEROIC] [HEROIC]. For each [CIVILIAN] rescued with this Special Effect, at the end of your turn gain 1 [WILD] token."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider04.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider05.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider06.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider06.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider08.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider09.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider10.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider11.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Scarlet-Spider12.jpg",
+          "title": {
+            "text": "Scarlet Spider",
+            "locText": "Scarlet Spider"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Web-Shooters",
+            "locText": "Web-Shooters"
+          },
+          "img": "en/heroes/Scarlet-Spider-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+            "locText": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Scarlet-Spider-E1B.jpg",
+            "description": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup."
+            }
+          },
+          "reusable": true
+        }
+      ]
     },
     {
       "img": "heroes/Silk.jpg",
@@ -86,7 +1796,189 @@
       "bio": {
         "text": "Mere moments after Peter Parker was bitten by the radioactive spider, Cindy Moon was bitten by the very same spider. This gifted her the same powers that Peter had. However, unlike Peter, she struggled to control her power and was eventually taken in by Ezekiel Sims. Under his tutelage, Cindy mastered the use of her powers, but she was eventually locked up by Ezekiel to keep her safe from Morlun. She would eventually be freed by Peter after Morlun's defeat. Now she swings across the skylines of New York as Silk. hoping to make up for the years she lost during her isolation.",
         "locText": "Mere moments after Peter Parker was bitten by the radioactive spider, Cindy Moon was bitten by the very same spider. This gifted her the same powers that Peter had. However, unlike Peter, she struggled to control her power and was eventually taken in by Ezekiel Sims. Under his tutelage, Cindy mastered the use of her powers, but she was eventually locked up by Ezekiel to keep her safe from Morlun. She would eventually be freed by Peter after Morlun's defeat. Now she swings across the skylines of New York as Silk. hoping to make up for the years she lost during her isolation."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk01.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SILK-SENSE",
+              "locText": "SILK-SENSE"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, once per Villain turn, if a Villain ends their movement in your Location, you may immediately move to an adjacent one. If you do, ignore the first damage you would take that turn.",
+              "locText": "As long as this card is faceup in the Storyline, once per Villain turn, if a Villain ends their movement in your Location, you may immediately move to an adjacent one. If you do, ignore the first damage you would take that turn."
+            }
+          },
+          "actions": [],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk02.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ORGANIC WEBBING",
+              "locText": "ORGANIC WEBBING"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if there are no [MOVE] at the bottom of the 2 latest Hero cards in the Storyline, you may perform 1 free [MOVE] on your turn.",
+              "locText": "As long as this card is faceup in the Storyline, if there are no [MOVE] at the bottom of the 2 latest Hero cards in the Storyline, you may perform 1 free [MOVE] on your turn."
+            }
+          },
+          "actions": [
+            "W"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk03.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SPIDER AGILITY",
+              "locText": "SPIDER AGILITY"
+            },
+            "description": {
+              "text": "[MOVE] [HEROIC]",
+              "locText": "[MOVE] [HEROIC]"
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk04.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Claws",
+              "locText": "Claws"
+            },
+            "description": {
+              "text": "[MOVE] [ATTACK]",
+              "locText": "[MOVE] [ATTACK]"
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk05.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk06.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk07.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk08.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk09.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk10.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk11.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Silk12.jpg",
+          "title": {
+            "text": "Silk",
+            "locText": "Silk"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Spider-Man-Noir.jpg",
@@ -102,7 +1994,220 @@
       "bio": {
         "text": "This universe's Peter Parker was from 1930s New York, during the Great Depression. He was an investigative journalist who resolved to become a seeker of justice after his uncle was murdered for rallying supporters to strike against sweatshops. While investigating a smuggling ring, he was bitten by a venomous spider that emerged from a mysterious spider idol. In his fevered state, he saw visions of a Spider-god and was promised incredible powers. He emerges from his dream with his newfound spider powers and metes out justice in brutal fashion to the criminal underworld of New York.",
         "locText": "This universe's Peter Parker was from 1930s New York, during the Great Depression. He was an investigative journalist who resolved to become a seeker of justice after his uncle was murdered for rallying supporters to strike against sweatshops. While investigating a smuggling ring, he was bitten by a venomous spider that emerged from a mysterious spider idol. In his fevered state, he saw visions of a Spider-god and was promised incredible powers. He emerges from his dream with his newfound spider powers and metes out justice in brutal fashion to the criminal underworld of New York."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir01.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Black Suit",
+              "locText": "Black Suit"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, if you are alone in your Location, you may ignore 1 damage dealt by a Threat in each Villain turn.",
+              "locText": "As long as this card is faceup in the Storyline, if you are alone in your Location, you may ignore 1 damage dealt by a Threat in each Villain turn."
+            }
+          },
+          "actions": [
+            "M"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir02.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "IF THERE IS TOO MUCH POWER...",
+              "locText": "IF THERE IS TOO MUCH POWER..."
+            },
+            "description": {
+              "text": "Attach 1 Target token to a Villain in your or an adjacent Location.",
+              "locText": "Attach 1 Target token to a Villain in your or an adjacent Location."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir03.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "IF THERE IS TOO MUCH POWER...",
+              "locText": "IF THERE IS TOO MUCH POWER..."
+            },
+            "description": {
+              "text": "Attach 1 Target token to a Villain in your or an adjacent Location.",
+              "locText": "Attach 1 Target token to a Villain in your or an adjacent Location."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir04.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "IF THERE IS TOO MUCH POWER...",
+              "locText": "IF THERE IS TOO MUCH POWER..."
+            },
+            "description": {
+              "text": "Attach 1 Target token to a Villain in your or an adjacent Location.",
+              "locText": "Attach 1 Target token to a Villain in your or an adjacent Location."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir05.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY",
+              "locText": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain.",
+              "locText": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir05.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY",
+              "locText": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain.",
+              "locText": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir05.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY",
+              "locText": "...IT'S THE RESPONSIBILITY OF THE PEOPLE TO TAKE IT AWAY"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain.",
+              "locText": "[ATTACK] [ATTACK] against a Villain with a Target token in your or an adjacent Location. Then, discard 1 Target token from that Villain."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir08.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir09.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir10.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir11.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Man-Noir12.jpg",
+          "title": {
+            "text": "Spider-Man Noir",
+            "locText": "Spider-Man Noir"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
     },
     {
       "img": "heroes/Spider-Punk.jpg",
@@ -118,7 +2223,209 @@
       "bio": {
         "text": "In an alternate universe, many suffered under the ruthless dictatorship of Norman Osborn, president of the United States. With Osborn's great power, there was no future for its citizens. Hobart 'Hobie Brown, a foul-mouthed and rebellious teenager, took to punk rock to strike out at the injustice brought upon by Oscorp. However, in an ironic twist of fate, Hobie was given the chance to topple this regime when he was bitten by a spider which was irradiated by illegal wastes dumped by Oscorp itself. With his newfound powers, Spider-Punk actively fights against those that dare to abuse their power.",
         "locText": "In an alternate universe, many suffered under the ruthless dictatorship of Norman Osborn, president of the United States. With Osborn's great power, there was no future for its citizens. Hobart 'Hobie Brown, a foul-mouthed and rebellious teenager, took to punk rock to strike out at the injustice brought upon by Oscorp. However, in an ironic twist of fate, Hobie was given the chance to topple this regime when he was bitten by a spider which was irradiated by illegal wastes dumped by Oscorp itself. With his newfound powers, Spider-Punk actively fights against those that dare to abuse their power."
-      }
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk01.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "15,000 WATTS OF PUNK ROCK",
+              "locText": "15,000 WATTS OF PUNK ROCK"
+            },
+            "description": {
+              "text": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded.",
+              "locText": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM! is canceled and the token is discarded."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk02.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ANGRY HEART",
+              "locText": "ANGRY HEART"
+            },
+            "description": {
+              "text": "Perform as many [ATTACK] as the number of [CIVILIAN] in your current Location.",
+              "locText": "Perform as many [ATTACK] as the number of [CIVILIAN] in your current Location."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk03.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "ANARCHY IN EARTH-138",
+              "locText": "ANARCHY IN EARTH-138"
+            },
+            "description": {
+              "text": "[ATTACK] in up to 3 Locations with any [CIVILIAN]. Then, discard 1 [CIVILIAN] from each of those Locations.",
+              "locText": "[ATTACK] in up to 3 Locations with any [CIVILIAN]. Then, discard 1 [CIVILIAN] from each of those Locations."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk04.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SEARCH & DESTROY",
+              "locText": "SEARCH & DESTROY"
+            },
+            "description": {
+              "text": "Move to any Location with a Henchman or Villain. Then, [ATTACK] there.",
+              "locText": "Move to any Location with a Henchman or Villain. Then, [ATTACK] there."
+            }
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk05.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk06.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk06.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk08.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk09.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk09.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk11.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Spider-Punk12.jpg",
+          "title": {
+            "text": "Spider-Punk",
+            "locText": "Spider-Punk"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Web-Shooters",
+            "locText": "Web-Shooters"
+          },
+          "img": "en/heroes/Spider-Punk-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+            "locText": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Spider-Punk-E1B.jpg",
+            "description": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup."
+            }
+          },
+          "reusable": true
+        }
+      ]
     },
     {
       "img": "villains/Spot.jpg",
@@ -134,6 +2441,457 @@
       "bio": {
         "text": "Former MIT scientist working for the Kingpin, Dr. Jonathan Ohnn was tasked with finding a way to mimic the powers of the super hero, Cloak. Working late one night, the doctor created a solid black portal, which he then stepped into. When he emerged back into his lab, he realized the portals from the other dimension had adhered to his skin, covering him with black spots and bleaching his skin white. And thus, the Spot was born! It changed his physical appearance and gave him the ability to open various portals into other dimensions, allowing him to traverse or transport various objects through them.",
         "locText": "Former MIT scientist working for the Kingpin, Dr. Jonathan Ohnn was tasked with finding a way to mimic the powers of the super hero, Cloak. Working late one night, the doctor created a solid black portal, which he then stepped into. When he emerged back into his lab, he realized the portals from the other dimension had adhered to his skin, covering him with black spots and bleaching his skin white. And thus, the Spot was born! It changed his physical appearance and gave him the ability to open various portals into other dimensions, allowing him to traverse or transport various objects through them."
+      },
+      "cards": [
+        {
+          "cardType": "threat",
+          "img": "en/villains/Spot-T2.jpg",
+          "title": {
+            "text": "Attack From The Spotted Dimension",
+            "locText": "Attack From The Spotted Dimension"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable.",
+            "locText": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Spot-T2.jpg",
+          "title": {
+            "text": "Attack From The Spotted Dimension",
+            "locText": "Attack From The Spotted Dimension"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable.",
+            "locText": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Spot-T2.jpg",
+          "title": {
+            "text": "Attack From The Spotted Dimension",
+            "locText": "Attack From The Spotted Dimension"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable.",
+            "locText": "As long as this Threat is in play, damage dealt to Heroes during the Villain turn is unpreventable."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Spot-T3.jpg",
+          "title": {
+            "text": "You Can't Escape",
+            "locText": "You Can't Escape"
+          },
+          "description": {
+            "text": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location.",
+            "locText": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Spot-T3.jpg",
+          "title": {
+            "text": "You Can't Escape",
+            "locText": "You Can't Escape"
+          },
+          "description": {
+            "text": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location.",
+            "locText": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Spot-T3.jpg",
+          "title": {
+            "text": "You Can't Escape",
+            "locText": "You Can't Escape"
+          },
+          "description": {
+            "text": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location.",
+            "locText": "If Overflow is triggered in this Location and there are no Heroes here, deal 1 damage to 1 Hero in any Location."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP1.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the A Spot token.",
+            "locText": "Move to the Location with the A Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP2.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the A Spot token.",
+            "locText": "Move to the Location with the A Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP3.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the B Spot token.",
+            "locText": "Move to the Location with the B Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP4.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the B Spot token.",
+            "locText": "Move to the Location with the B Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP5.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the C Spot token.",
+            "locText": "Move to the Location with the C Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP6.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the C Spot token.",
+            "locText": "Move to the Location with the C Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP7.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the D Spot token.",
+            "locText": "Move to the Location with the D Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP8.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the D Spot token.",
+            "locText": "Move to the Location with the D Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP9.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the E Spot token.",
+            "locText": "Move to the Location with the E Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP10.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the E Spot token.",
+            "locText": "Move to the Location with the E Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP11.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the F Spot token.",
+            "locText": "Move to the Location with the F Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Spot-MP12.jpg",
+          "title": {
+            "text": "Spot",
+            "locText": "Spot"
+          },
+          "M": 0,
+          "movementText": {
+            "text": "Move to the Location with the F Spot token.",
+            "locText": "Move to the Location with the F Spot token."
+          },
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        }],
+      "dashboard": {
+        "front": {
+          "img": "en/villains/Spot-A.jpg",
+          "specialRules": {
+            "text": "If there are any Crisis tokens here, when Spot would take 1 damage, remove 1 Crisis token instead and move Spot to the Location with the next Spot token in alphabetical order and with no Heroes. Each damage is resolved separately. When a Hero is KO'd, before activating Spot's BAM!, additionally draw a Master Plan card and add it facedown in the Storyline. A is the next Spot token after F.",
+            "locText": "If there are any Crisis tokens here, when Spot would take 1 damage, remove 1 Crisis token instead and move Spot to the Location with the next Spot token in alphabetical order and with no Heroes. Each damage is resolved separately. When a Hero is KO'd, before activating Spot's BAM!, additionally draw a Master Plan card and add it facedown in the Storyline. A is the next Spot token after F."
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to each Hero in that Location.",
+            "locText": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, deal 1 damage to each Hero in that Location."
+          },
+          "bam": {
+            "text": "Deal 1 damage to 1 Hero in Spot's Location. If there are no Heroes there, deal 1 damage to 1 Hero in the Location with the next Spot token in alphabetical order and with any Heroes.",
+            "locText": "Deal 1 damage to 1 Hero in Spot's Location. If there are no Heroes there, deal 1 damage to 1 Hero in the Location with the next Spot token in alphabetical order and with any Heroes."
+          },
+          "plot": {
+            "text": "",
+            "locText": ""
+          },
+          "lifePoints": {
+            "twoHeroes": 2,
+            "threeHeroes": 3,
+            "fourHeroes": 4
+          }
+        },
+        "back": {
+          "img": "en/villains/Spot-B.jpg",
+          "specialSetup": {
+            "text": "Place 1 random Spot token faceup in each Location. Place a number of Crisis tokens on Spot's Villain dashboard based on the number of Heroes: 2 Players: 3 Crisis tokens. 3 Players: 4 Crisis tokens. 4 Players: 5 Crisis tokens.",
+            "locText": "Place 1 random Spot token faceup in each Location. Place a number of Crisis tokens on Spot's Villain dashboard based on the number of Heroes: 2 Players: 3 Crisis tokens. 3 Players: 4 Crisis tokens. 4 Players: 5 Crisis tokens."
+          },
+          "superVillain": [
+            "M", "M", "A"
+          ]
+        }
       }
     },
     {
@@ -150,6 +2908,667 @@
       "bio": {
         "text": "This version of Spider-Man may appear to be Peter Parker, but he is really Otto Octavius. On his deathbed, Otto switched his mind with Peter's, leaving him in his dying body. Otto was overwhelmed by Peter's memories and was inspired by his selflessness and heroism. He vowed to honor Peter's dying wish and used his newfound powers to protect the people of New York. He took on the mantle of Superior Spider-Man, believing he would be even better than the original super hero due to his intellect and experience. Octavius eventually sacrificed himself to save the city, allowing Peter Parker's return as Superior Spider-Man.",
         "locText": "This version of Spider-Man may appear to be Peter Parker, but he is really Otto Octavius. On his deathbed, Otto switched his mind with Peter's, leaving him in his dying body. Otto was overwhelmed by Peter's memories and was inspired by his selflessness and heroism. He vowed to honor Peter's dying wish and used his newfound powers to protect the people of New York. He took on the mantle of Superior Spider-Man, believing he would be even better than the original super hero due to his intellect and experience. Octavius eventually sacrificed himself to save the city, allowing Peter Parker's return as Superior Spider-Man."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man01.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SPIDER-BOTS",
+              "locText": "SPIDER-BOTS"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, on your turn you may add 1 Spider-Bot token in your Location (if there are none). Once on each of your turns, you may use 1 of your [HEROIC] or [ATTACK] as if you were on a Spider-Bot's Location.",
+              "locText": "As long as this card is faceup in the Storyline, on your turn you may add 1 Spider-Bot token in your Location (if there are none). Once on each of your turns, you may use 1 of your [HEROIC] or [ATTACK] as if you were on a Spider-Bot's Location."
+            }
+          },
+          "actions": [
+            "H"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man02.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SPIDER-BOT DECOYS",
+              "locText": "SPIDER-BOT DECOYS"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, on your turn you may add 1 Spider-Bot token in your Location (if there are none). Once per Villain turn, you may discard 1 Spider-Bot in your Location to ignore 1 damage.",
+              "locText": "As long as this card is faceup in the Storyline, on your turn you may add 1 Spider-Bot token in your Location (if there are none). Once per Villain turn, you may discard 1 Spider-Bot in your Location to ignore 1 damage."
+            }
+          },
+          "actions": [
+            "A"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man03.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "Parker Industries",
+              "locText": "Parker Industries"
+            },
+            "description": {
+              "text": "Gain any combination of 2 [MOVE], [HEROIC], or [ATTACK] tokens.",
+              "locText": "Gain any combination of 2 [MOVE], [HEROIC], or [ATTACK] tokens."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man04.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "GENIUS INTELLECT",
+              "locText": "GENIUS INTELLECT"
+            },
+            "description": {
+              "text": "This turn, you can treat all your Action tokens as [WILD] tokens.",
+              "locText": "This turn, you can treat all your Action tokens as [WILD] tokens."
+            }
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man05.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": true,
+            "title": {
+              "text": "FINAL UNDERSTANDING",
+              "locText": "FINAL UNDERSTANDING"
+            },
+            "description": {
+              "text": "If this card is in your hand you MUST play it. At the end of this turn, you're KO'd. You may remove Superior Spider-Man from the game. If you do, on your next Hero turn, chouse another Spider-Man Hero and enter play in any Location.",
+              "locText": "If this card is in your hand you MUST play it. At the end of this turn, you're KO'd. You may remove Superior Spider-Man from the game. If you do, on your next Hero turn, chouse another Spider-Man Hero and enter play in any Location."
+            }
+          },
+          "actions": [
+            "H",
+            "W"
+          ],
+          "bottomDeck": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man06.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man07.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man08.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man09.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man10.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "H",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man11.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Superior-Spider-Man12.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Web-Shooters",
+            "locText": "Web-Shooters"
+          },
+          "img": "en/heroes/Superior-Spider-Man-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown.",
+            "locText": "USE on your turn: [MOVE] OR move 1 [CIVILIAN]/[THUG] from an adjacent Location to your Location. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Superior-Spider-Man-E1B.jpg",
+            "description": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup."
+            }
+          },
+          "reusable": true
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "Mechanical Spider Arms",
+            "locText": "Mechanical Spider Arms"
+          },
+          "img": "en/heroes/Superior-Spider-Man-E2A.jpg",
+          "description": {
+            "text": "USE on your turn: USE on your turn: [HEROIC] or [ATTACK]. Then, turn this facedown.",
+            "locText": "USE on your turn: USE on your turn: [HEROIC] or [ATTACK]. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Superior-Spider-Man-E2B.jpg",
+            "description": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup.",
+              "locText": "RECHARGE: At the beginning of your turn, discard 1 Action token to turn this faceup."
+            }
+          },
+          "reusable": true
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Superior-Spider-Man-T2.jpg",
+          "title": {
+            "text": "Spider-Bot Army",
+            "locText": "Spider-Bot Army"
+          },
+          "description": {
+            "text": "If there is no Spider-Bot token in this Location, add 1 here. Otherwise, add it to the next clockwise Location with no Spider-Bots, if possible. If not possible, deal 1 damage to I Hero in this Location.",
+            "locText": "If there is no Spider-Bot token in this Location, add 1 here. Otherwise, add it to the next clockwise Location with no Spider-Bots, if possible. If not possible, deal 1 damage to I Hero in this Location."
+          },
+          "bam": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Superior-Spider-Man-T2.jpg",
+          "title": {
+            "text": "Spider-Bot Army",
+            "locText": "Spider-Bot Army"
+          },
+          "description": {
+            "text": "If there is no Spider-Bot token in this Location, add 1 here. Otherwise, add it to the next clockwise Location with no Spider-Bots, if possible. If not possible, deal 1 damage to I Hero in this Location.",
+            "locText": "If there is no Spider-Bot token in this Location, add 1 here. Otherwise, add it to the next clockwise Location with no Spider-Bots, if possible. If not possible, deal 1 damage to I Hero in this Location."
+          },
+          "bam": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Superior-Spider-Man-T3.jpg",
+          "title": {
+            "text": "Unstable Behavior",
+            "locText": "Unstable Behavior"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Superior Spider-Man can't be damaged and Heroes can't win the game.",
+            "locText": "As long as this Threat is in play, Superior Spider-Man can't be damaged and Heroes can't win the game."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Superior-Spider-Man-T3.jpg",
+          "title": {
+            "text": "Unstable Behavior",
+            "locText": "Unstable Behavior"
+          },
+          "description": {
+            "text": "As long as this Threat is in play, Superior Spider-Man can't be damaged and Heroes can't win the game.",
+            "locText": "As long as this Threat is in play, Superior Spider-Man can't be damaged and Heroes can't win the game."
+          },
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Superior-Spider-Man-T4.jpg",
+          "title": {
+            "text": "Boundless Ambition",
+            "locText": "Boundless Ambition"
+          },
+          "description": {
+            "text": "Accelerate the next Villain turn by 1 card. When this Threat is cleared, delay the next Villain turn by 1 card.",
+            "locText": "Accelerate the next Villain turn by 1 card. When this Threat is cleared, delay the next Villain turn by 1 card."
+          },
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "threat",
+          "img": "en/villains/Superior-Spider-Man-T4.jpg",
+          "title": {
+            "text": "Boundless Ambition",
+            "locText": "Boundless Ambition"
+          },
+          "description": {
+            "text": "Accelerate the next Villain turn by 1 card. When this Threat is cleared, delay the next Villain turn by 1 card.",
+            "locText": "Accelerate the next Villain turn by 1 card. When this Threat is cleared, delay the next Villain turn by 1 card."
+          },
+          "locationEffect": true,
+          "actions": [
+            "H",
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP1.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "I AM SUPERIOR",
+              "locText": "I AM SUPERIOR"
+            },
+            "description": {
+              "text": "Add 1 Spider-Bot token to Superior Spider-Man's Location and to the opposite one (if there are no Spider-Bots in those Locations). Then, deal 1 damage to each Hero in Locations with a Spider-Bot.",
+              "locText": "Add 1 Spider-Bot token to Superior Spider-Man's Location and to the opposite one (if there are no Spider-Bots in those Locations). Then, deal 1 damage to each Hero in Locations with a Spider-Bot."
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP1.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "I AM SUPERIOR",
+              "locText": "I AM SUPERIOR"
+            },
+            "description": {
+              "text": "Add 1 Spider-Bot token to Superior Spider-Man's Location and to the opposite one (if there are no Spider-Bots in those Locations). Then, deal 1 damage to each Hero in Locations with a Spider-Bot.",
+              "locText": "Add 1 Spider-Bot token to Superior Spider-Man's Location and to the opposite one (if there are no Spider-Bots in those Locations). Then, deal 1 damage to each Hero in Locations with a Spider-Bot."
+            }
+          },
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP3.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP4.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP5.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP6.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP7.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 3,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP8.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 3,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP9.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "T"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP10.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 4,
+          "bam": true,
+          "add": {
+            "left": [
+              "C",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "C",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP11.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T",
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Superior-Spider-Man-MP12.jpg",
+          "title": {
+            "text": "Superior Spider-Man",
+            "locText": "Superior Spider-Man"
+          },
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "en/villains/Superior-Spider-Man-A.jpg",
+          "specialRules": {
+            "text": "When a Hero is KO'd, Superior Spider-Man doesn't activate his BAM! Instead, place 1 Threat token on his Clear Threats Mission card. When Superior Spider-Man rescues [CIVILIAN] or defeats [THUG] place the token on his corresponding Mission card. Heroes can remove a Spider-Bot token from their Location by spending a [HEROIC] or [ATTACK].",
+            "locText": "When a Hero is KO'd, Superior Spider-Man doesn't activate his BAM! Instead, place 1 Threat token on his Clear Threats Mission card. When Superior Spider-Man rescues [CIVILIAN] or defeats [THUG] place the token on his corresponding Mission card. Heroes can remove a Spider-Bot token from their Location by spending a [HEROIC] or [ATTACK]."
+          },
+          "overflow": {
+            "text": "IF a [CIVILIAN]/[THUG] token can't be added to a Location, add it to the corresponding Superior Spider-Men Mission card instead.",
+            "locText": "IF a [CIVILIAN]/[THUG] token can't be added to a Location, add it to the corresponding Superior Spider-Men Mission card instead."
+          },
+          "bam": {
+            "text": "Deal 2 damage to 1 Hero in Superior Spider-Man's Location and 1 damage to 1 Hero in each adjacent one. Rescue 1 [CIVILIAN] and defeat 1 [THUG], in each Location with a Spider-Bot. Then, if there is no Spider-Bot in Superior Spider-Man's Location, add 1 there. Otherwise, add it in the next clockwise Location with no Spider-Bot.",
+            "locText": "Deal 2 damage to 1 Hero in Superior Spider-Man's Location and 1 damage to 1 Hero in each adjacent one. Rescue 1 [CIVILIAN] and defeat 1 [THUG], in each Location with a Spider-Bot. Then, if there is no Spider-Bot in Superior Spider-Man's Location, add 1 there. Otherwise, add it in the next clockwise Location with no Spider-Bot."
+          },
+          "plot": {
+            "text": "The Heroes lose if Superior Spider-Man completes 2 of his Missions.",
+            "locText": "The Heroes lose if Superior Spider-Man completes 2 of his Missions."
+          },
+          "lifePoints": {
+            "twoHeroes": 4,
+            "threeHeroes": 5,
+            "fourHeroes": 6
+          }
+        },
+        "back": {
+          "img": "en/villains/Superior-Spider-Man-B.jpg",
+          "specialSetup": {
+            "text": "Place the set of 3 Superior Spider-Man Mission cards next to the playing area for him to add tokens to. Place I Spider-Bot token in both Locations 2 Locations away from the Villain's starting one. Keep the Threat tokens in a side pool.",
+            "locText": "Place the set of 3 Superior Spider-Man Mission cards next to the playing area for him to add tokens to. Place I Spider-Bot token in both Locations 2 Locations away from the Villain's starting one. Keep the Threat tokens in a side pool."
+          },
+          "superVillain": [
+            "W", "M", "H", "A"
+          ]
+        }
       }
     },
     {
@@ -166,7 +3585,188 @@
       "bio": {
         "text": "What if Peter never rejected the symbiote? In this alternate universe, Peter embraced the Symbiote and continued using it knowing that it was an alien lifeform. The Symbiote further enhanced his already superhuman capabilities and its shapeshifting abilities further augmented his crime fighting abilities. However, the more he used the Symbiote, the more tightly it bonded to Peter. He eventually noticed that his movements grew more feral, and the Symbiote would act of its own accord on some occasions. He could feel his control over the Symbiote gradually slipping away... Great power comes at a great cost.",
         "locText": "What if Peter never rejected the symbiote? In this alternate universe, Peter embraced the Symbiote and continued using it knowing that it was an alien lifeform. The Symbiote further enhanced his already superhuman capabilities and its shapeshifting abilities further augmented his crime fighting abilities. However, the more he used the Symbiote, the more tightly it bonded to Peter. He eventually noticed that his movements grew more feral, and the Symbiote would act of its own accord on some occasions. He could feel his control over the Symbiote gradually slipping away... Great power comes at a great cost."
-      }
-    } 
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man01.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SPIDER-SENSE",
+              "locText": "SPIDER-SENSE"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, once per Villain turn, if a Villain ends their movement in your Location, you may immediately move to an adjacent one.",
+              "locText": "As long as this card is faceup in the Storyline, once per Villain turn, if a Villain ends their movement in your Location, you may immediately move to an adjacent one."
+            }
+          },
+          "actions": [],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man02.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "GREAT POWER",
+              "locText": "GREAT POWER"
+            },
+            "description": {
+              "text": "[ATTACK] [ATTACK]. For each [THUG] defeated with this Special Effect, at the end of your turn gain 1 [ATTACK] token.",
+              "locText": "[ATTACK] [ATTACK]. For each [THUG] defeated with this Special Effect, at the end of your turn gain 1 [ATTACK] token."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man03.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "GREAT RESPONSIBILITY",
+              "locText": "GREAT RESPONSIBILITY"
+            },
+            "description": {
+              "text": "[HEROIC] [HEROIC]. For each [CIVILIAN] rescued with this Special Effect, at the end of your turn gain 1 [WILD] token.",
+              "locText": "[HEROIC] [HEROIC]. For each [CIVILIAN] rescued with this Special Effect, at the end of your turn gain 1 [WILD] token."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man04.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "specialEffect": {
+            "mandatory": false,
+            "title": {
+              "text": "SYMBIOTE ENHANCEMENT",
+              "locText": "SYMBIOTE ENHANCEMENT"
+            },
+            "description": {
+              "text": "You may [ATTACK] [ATTACK]. If you do, on your next turn you must play your card randomly.",
+              "locText": "You may [ATTACK] [ATTACK]. If you do, on your next turn you must play your card randomly."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man05.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man06.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man07.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man08.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man09.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "M",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man10.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "A",
+            "A"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man11.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Symbiote-Spider-Man12.jpg",
+          "title": {
+            "text": "Symbiote Spider-Man",
+            "locText": "Symbiote Spider-Man"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        }
+      ]
+    }
   ]
 }
