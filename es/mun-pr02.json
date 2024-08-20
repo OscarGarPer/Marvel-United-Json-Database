@@ -2003,7 +2003,7 @@
             "text": "Scarlet Witch",
             "locText": "Bruja Escarlata"
           },
-          "M": 1,
+          "M": 4,
           "bam": true,
           "add": {
             "left": [
@@ -2024,81 +2024,81 @@
             "text": "Scarlet Witch",
             "locText": "Scarlet Witch"
           },
-          "specialEffect": {
-            "title": {
-              "text": "Reality Warping",
-              "locText": "Deformación De La Realidad"
-            },
-            "description": {
-              "text": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand.",
-              "locText": "Las cartas de Plan Maestro bocabajo se barajan de nuevo en el mazo. Coloca a los Héroes en su Lugar inicial. Cada Héroe con menos de 3 cartas en la mano roba cartas desde el inicio de la Trama hasta que tenga 3 en la mano."
-            }
-          },
-          "M": 0,
-          "movementText": {
-            "text": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health.",
-            "locText": "Coloca a Scarlet Witch & Quicksilver en su Lugar inicial con toda su Vida."
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
           "cardType": "plan",
-          "img": "villains/Scarlet-Witch-MP9.jpg",
+          "img": "villains/Scarlet-Witch-MP10.jpg",
           "title": {
             "text": "Scarlet Witch",
             "locText": "Scarlet Witch"
           },
-          "specialEffect": {
-            "title": {
-              "text": "Reality Warping",
-              "locText": "Deformación De La Realidad"
-            },
-            "description": {
-              "text": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand.",
-              "locText": "Las cartas de Plan Maestro bocabajo se barajan de nuevo en el mazo. Coloca a los Héroes en su Lugar inicial. Cada Héroe con menos de 3 cartas en la mano roba cartas desde el inicio de la Trama hasta que tenga 3 en la mano."
-            }
-          },
-          "M": 0,
-          "movementText": {
-            "text": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health.",
-            "locText": "Coloca a Scarlet Witch & Quicksilver en su Lugar inicial con toda su Vida."
+          "M": 3,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
           "cardType": "plan",
           "img": "villains/Scarlet-Witch-MP11.jpg",
           "title": {
-            "text": "Quicksilver",
-            "locText": "Quicksilver"
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
           },
-          "M": 6,
-          "specialEffect": {
-            "title": {
-              "text": "Superhuman Speed",
-              "locText": "Velocidad Sobrehumana"
-            },
-            "description": {
-              "text": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn.",
-              "locText": "Inflige 1 punto de daño a cada Héroe en el juego. Quicksilver no puede recibir ningún daño hasta el siguiente turno del Villano."
-            }
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
           "cardType": "plan",
-          "img": "villains/Scarlet-Witch-MP11.jpg",
+          "img": "villains/Scarlet-Witch-MP12.jpg",
           "title": {
-            "text": "Quicksilver",
-            "locText": "Quicksilver"
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
           },
-          "M": 6,
-          "specialEffect": {
-            "title": {
-              "text": "Superhuman Speed",
-              "locText": "Velocidad Sobrehumana"
-            },
-            "description": {
-              "text": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn.",
-              "locText": "Inflige 1 punto de daño a cada Héroe en el juego. Quicksilver no puede recibir ningún daño hasta el siguiente turno del Villano."
-            }
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         }
       ],

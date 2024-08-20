@@ -1680,11 +1680,11 @@
           "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
             "text": "DARKHOLD PAGE",
-            "locText": "DARKHOLD PAGE"
+            "locText": "Página Del Darkhold"
           },
           "description": {
             "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
-            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
+            "locText": ""
           },
           "actions": [
             "C",
@@ -1697,11 +1697,11 @@
           "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
             "text": "DARKHOLD PAGE",
-            "locText": "DARKHOLD PAGE"
+            "locText": "Página Del Darkhold"
           },
           "description": {
             "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
-            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
+            "locText": ""
           },
           "actions": [
             "C",
@@ -1714,11 +1714,11 @@
           "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
             "text": "DARKHOLD PAGE",
-            "locText": "DARKHOLD PAGE"
+            "locText": "Página Del Darkhold"
           },
           "description": {
             "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
-            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
+            "locText": ""
           },
           "actions": [
             "C",
@@ -1731,11 +1731,11 @@
           "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
             "text": "DARKHOLD PAGE",
-            "locText": "DARKHOLD PAGE"
+            "locText": "Página Del Darkhold"
           },
           "description": {
             "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
-            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
+            "locText": ""
           },
           "actions": [
             "C",
@@ -1748,11 +1748,11 @@
           "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
             "text": "DARKHOLD PAGE",
-            "locText": "DARKHOLD PAGE"
+            "locText": "Página Del Darkhold"
           },
           "description": {
             "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
-            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
+            "locText": ""
           },
           "actions": [
             "C",
@@ -1765,11 +1765,11 @@
           "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
             "text": "DARKHOLD PAGE",
-            "locText": "DARKHOLD PAGE"
+            "locText": "Página Del Darkhold"
           },
           "description": {
             "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
-            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
+            "locText": ""
           },
           "actions": [
             "C",
@@ -1782,18 +1782,18 @@
           "img": "en/villains/Scarlet-Witch-MP1.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 0,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Possessed By Chthon",
-              "locText": "Possessed By Chthon"
+              "locText": ""
             },
             "description": {
               "text": "As long as this card is faceup in the Storyline, Heroes can't interact with Threats in any way.",
-              "locText": "As long as this card is faceup in the Storyline, Heroes can't interact with Threats in any way."
+              "locText": ""
             }
           },
           "add": {
@@ -1815,18 +1815,18 @@
           "img": "en/villains/Scarlet-Witch-MP2.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 5,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Broodlings Of Chthon",
-              "locText": "Broodlings Of Chthon"
+              "locText": ""
             },
             "description": {
               "text": "Deal 1 damage to each Hero anywhere.",
-              "locText": "Deal 1 damage to each Hero anywhere."
+              "locText": ""
             }
           },
           "add": {
@@ -1846,18 +1846,18 @@
           "img": "en/villains/Scarlet-Witch-MP3.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 4,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Darkholders",
-              "locText": "Darkholders"
+              "locText": ""
             },
             "description": {
               "text": "Deal 1 damage to each Hero in Locations with 1 or more [THUG].",
-              "locText": "Deal 1 damage to each Hero in Locations with 1 or more [THUG]."
+              "locText": ""
             }
           },
           "add": {
@@ -1877,18 +1877,18 @@
           "img": "en/villains/Scarlet-Witch-MP4.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 3,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Reality Warping",
-              "locText": "Reality Warping"
+              "locText": ""
             },
             "description": {
               "text": "Each Hero must turn facedown their earliest Hero card in the Storyline with a Special Effect.",
-              "locText": "Each Hero must turn facedown their earliest Hero card in the Storyline with a Special Effect."
+              "locText": ""
             }
           },
           "add": {
@@ -1908,18 +1908,18 @@
           "img": "en/villains/Scarlet-Witch-MP5.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 2,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Bending Will",
-              "locText": "Bending Will"
+              "locText": ""
             },
             "description": {
               "text": "Until the next Villain turn, Heroes can't enter Scarlet Witch's Location.",
-              "locText": "Until the next Villain turn, Heroes can't enter Scarlet Witch's Location."
+              "locText": ""
             }
           },
           "add": {
@@ -1939,18 +1939,18 @@
           "img": "en/villains/Scarlet-Witch-MP6.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 1,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Conjuring Darkforce",
-              "locText": "Conjuring Darkforce"
+              "locText": ""
             },
             "description": {
               "text": "Each Hero in Scarlet Witch's and both adjacent Locations must discard 1 card from their hand. Scarlet Witch gains 1 Health for each of these cards (may go above starting value).",
-              "locText": "Each Hero in Scarlet Witch's and both adjacent Locations must discard 1 card from their hand. Scarlet Witch gains 1 Health for each of these cards (may go above starting value)."
+              "locText": ""
             }
           },
           "add": {
@@ -1970,18 +1970,18 @@
           "img": "en/villains/Scarlet-Witch-MP7.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
           "M": 0,
           "bam": true,
           "specialEffect": {
             "title": {
               "text": "Growing Power",
-              "locText": "Growing Power"
+              "locText": ""
             },
             "description": {
               "text": "Add 1 Crisis token to each Threat with no Crisis tokens.",
-              "locText": "Add 1 Crisis token to each Threat with no Crisis tokens."
+              "locText": ""
             }
           },
           "add": {
@@ -2001,9 +2001,9 @@
           "img": "en/villains/Scarlet-Witch-MP8.jpg",
           "title": {
             "text": "Scarlet Witch",
-            "locText": "Scarlet Witch"
+            "locText": "Bruja Escarlata"
           },
-          "M": 1,
+          "M": 4,
           "bam": true,
           "add": {
             "left": [
@@ -2024,81 +2024,81 @@
             "text": "Scarlet Witch",
             "locText": "Scarlet Witch"
           },
-          "specialEffect": {
-            "title": {
-              "text": "Reality Warping",
-              "locText": "Reality Warping"
-            },
-            "description": {
-              "text": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand.",
-              "locText": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand."
-            }
-          },
-          "M": 0,
-          "movementText": {
-            "text": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health.",
-            "locText": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health."
+          "M": 5,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Scarlet-Witch-MP9.jpg",
+          "img": "en/villains/Scarlet-Witch-MP10.jpg",
           "title": {
             "text": "Scarlet Witch",
             "locText": "Scarlet Witch"
           },
-          "specialEffect": {
-            "title": {
-              "text": "Reality Warping",
-              "locText": "Reality Warping"
-            },
-            "description": {
-              "text": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand.",
-              "locText": "Facedown Master Plan cards are shuffled back into the deck. Place Heroes in their starting Location. Each Hero with less than 3 cards in hand draws cards from the start of the Storyline until they have 3 in hand."
-            }
-          },
-          "M": 0,
-          "movementText": {
-            "text": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health.",
-            "locText": "Scarlet Witch & Quicksilver are placed in their stating Location at full Health."
+          "M": 3,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         },
         {
           "cardType": "plan",
           "img": "en/villains/Scarlet-Witch-MP11.jpg",
           "title": {
-            "text": "Quicksilver",
-            "locText": "Quicksilver"
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
           },
-          "M": 6,
-          "specialEffect": {
-            "title": {
-              "text": "Superhuman Speed",
-              "locText": "Superhuman Speed"
-            },
-            "description": {
-              "text": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn.",
-              "locText": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn."
-            }
+          "M": 2,
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
           }
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Scarlet-Witch-MP11.jpg",
+          "img": "en/villains/Scarlet-Witch-MP12.jpg",
           "title": {
-            "text": "Quicksilver",
-            "locText": "Quicksilver"
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
           },
-          "M": 6,
-          "specialEffect": {
-            "title": {
-              "text": "Superhuman Speed",
-              "locText": "Superhuman Speed"
-            },
-            "description": {
-              "text": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn.",
-              "locText": "Deal 1 damage to each Hero in the game. Quicksilver can't take any damage until the next Villain turn."
-            }
+          "M": 1,
+          "bam": true,
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
           }
         }
       ],
