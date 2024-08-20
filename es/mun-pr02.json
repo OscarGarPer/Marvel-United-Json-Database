@@ -287,13 +287,13 @@
             "text": "CHARM RUNE",
             "locText": ""
           },
-          "img": "heroes/Agatha-Harkness-T1A.jpg",
+          "img": "villains/Agatha-Harkness-T1A.jpg",
           "description": {
             "text": "When this Rune is activated: If Agatha Harkness is in a Location with no Heroes, place 1 [CIVILIAN] from the pool in the Witch Trial Mission.",
             "locText": ""
           },
           "back": {
-            "img": "heroes/Agatha-Harkness-T1B.jpg",
+            "img": "villains/Agatha-Harkness-T1B.jpg",
             "description": {
               "text": "When this Rune is activated: Each Hero must discard 1 card with Special Effects from their hand, if any, to the bottom of their deck.",
               "locText": ""
@@ -310,13 +310,13 @@
             "text": "ENERGY RUNE",
             "locText": ""
           },
-          "img": "heroes/Agatha-Harkness-T2A.jpg",
+          "img": "villains/Agatha-Harkness-T2A.jpg",
           "description": {
             "text": "When this Rune is activated: Deal 1 damage to each Hero anywhere.",
             "locText": ""
           },
           "back": {
-            "img": "heroes/Agatha-Harkness-T2B.jpg",
+            "img": "villains/Agatha-Harkness-T2B.jpg",
             "description": {
               "text": "When this Rune is activated: Deal 2 damage to 1 Hero in Agatha Harkness' and in each adjacent Location. Then, move these Heroes 1 Location away from her.",
               "locText": ""
@@ -333,13 +333,13 @@
             "text": "HYPNOTIC RUNE",
             "locText": ""
           },
-          "img": "heroes/Agatha-Harkness-T3A.jpg",
+          "img": "villains/Agatha-Harkness-T3A.jpg",
           "description": {
             "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes must play their Hero card randomly.",
             "locText": ""
           },
           "back": {
-            "img": "heroes/Agatha-Harkness-T3B.jpg",
+            "img": "villains/Agatha-Harkness-T3B.jpg",
             "description": {
               "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes can't use the symbols at the bottom of the previous Hero card in the Storyline.",
               "locText": ""
@@ -356,13 +356,13 @@
             "text": "PROBABILITY RUNE",
             "locText": ""
           },
-          "img": "heroes/Agatha-Harkness-T4A.jpg",
+          "img": "villains/Agatha-Harkness-T4A.jpg",
           "description": {
             "text": "When this Rune is activated: If Agatha Harkness is in a Location with no Heroes, accelerate the next Villain turn by 1.",
             "locText": ""
           },
           "back": {
-            "img": "heroes/Agatha-Harkness-T4B.jpg",
+            "img": "villains/Agatha-Harkness-T4B.jpg",
             "description": {
               "text": "When this Rune is activated: Each Hero must reveal the top card of their deck. If it has 2 symbols at the bottom or a Special Effect, they must put it at the bottom of their deck.",
               "locText": ""
@@ -379,13 +379,13 @@
             "text": "WARDING RUNE",
             "locText": ""
           },
-          "img": "heroes/Agatha-Harkness-T5A.jpg",
+          "img": "villains/Agatha-Harkness-T5A.jpg",
           "description": {
             "text": "When this Rune is activated: Until the beginning of the next Villain turn, each [CIVILIAN] requires 1 extra [HEROIC] to be rescued",
             "locText": ""
           },
           "back": {
-            "img": "heroes/Agatha-Harkness-T5B.jpg",
+            "img": "villains/Agatha-Harkness-T5B.jpg",
             "description": {
               "text": "When this Rune is activated: Until the beginning of the next Villain turn, when a Hero enters Agatha Harkness' Location, she immediately moves clockwise to the next Location.",
               "locText": ""
@@ -402,13 +402,13 @@
             "text": "WEAKENING RUNE",
             "locText": ""
           },
-          "img": "heroes/Agatha-Harkness-T6A.jpg",
+          "img": "villains/Agatha-Harkness-T6A.jpg",
           "description": {
             "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes treat Special Effects on their Hero cards as blank.",
             "locText": ""
           },
           "back": {
-            "img": "heroes/Agatha-Harkness-T6B.jpg",
+            "img": "villains/Agatha-Harkness-T6B.jpg",
             "description": {
               "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes must ignore 1 [MOVE] action in their turn.",
               "locText": ""
