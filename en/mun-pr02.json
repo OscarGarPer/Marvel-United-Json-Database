@@ -22,6 +22,743 @@
       "bio": {
         "text": "Agatha Harkness, one of the surviving witches from the Salem Witch trials, is an immensely powerful sorceress who has accumulated centuries of arcane knowledge. Accompanied by her cat, Ebony, she has aided many heroes in their battles against various foes. However, as the decades passed, she began pursuing her own ambition orchestrating conflicts among superheroes in hopes of creating a new Darkhold. Her motives for doing so remain shrouded in mystery.",
         "locText": "Agatha Harkness, one of the surviving witches from the Salem Witch trials, is an immensely powerful sorceress who has accumulated centuries of arcane knowledge. Accompanied by her cat, Ebony, she has aided many heroes in their battles against various foes. However, as the decades passed, she began pursuing her own ambition orchestrating conflicts among superheroes in hopes of creating a new Darkhold. Her motives for doing so remain shrouded in mystery."
+      },
+      "cards": [
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness1.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Magical Protection",
+              "locText": "Magical Protection"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, you can't be forced to play your card randomly.",
+              "locText": "As long as this card is faceup in the Storyline, you can't be forced to play your card randomly."
+            }
+          },
+          "actions": [
+            "M",
+            "H"
+          ],
+          "startingHand": true
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness2.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Pyrokinesis",
+              "locText": "Pyrokinesis"
+            },
+            "description": {
+              "text": "[ATTACK] in each adjacent Location.",
+              "locText": "[ATTACK] in each adjacent Location."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness3.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Hydrokinesis",
+              "locText": "Hydrokinesis"
+            },
+            "description": {
+              "text": "Move a Villain, Hero, or Water token anywhere to a Location adjacent to them.",
+              "locText": "Move a Villain, Hero, or Water token anywhere to a Location adjacent to them."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness4.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Force Field",
+              "locText": "Force Field"
+            },
+            "description": {
+              "text": "During the next Villain turn, Heroes in your Location can't take any damage.",
+              "locText": "During the next Villain turn, Heroes in your Location can't take any damage."
+            }
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness5.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Dimensional Manipulation",
+              "locText": "Dimensional Manipulation"
+            },
+            "description": {
+              "text": "If you're not in the Villain's starting Location, replace your Location with any other not in play (move everything from your Location to the new one).",
+              "locText": "If you're not in the Villain's starting Location, replace your Location with any other not in play (move everything from your Location to the new one)."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness6.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Ebony",
+              "locText": "Ebony"
+            },
+            "description": {
+              "text": "[ATTACK] against up to 2 different targets in an adjacent Location.",
+              "locText": "[ATTACK] against up to 2 different targets in an adjacent Location."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness7.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Aerokinesis",
+              "locText": "Aerokinesis"
+            },
+            "description": {
+              "text": "Relocate or discard a total of up to 3 [CIVILIAN] and/or [THUG] between your and adjacent Locations.",
+              "locText": "Relocate or discard a total of up to 3 [CIVILIAN] and/or [THUG] between your and adjacent Locations."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness8.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Binding",
+              "locText": "Binding"
+            },
+            "description": {
+              "text": "A Villain in your Location has their Movement set to 0 on the next Villain turn.",
+              "locText": "A Villain in your Location has their Movement set to 0 on the next Villain turn."
+            }
+          },
+          "actions": [
+            "M",
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness9.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Electrokinesis",
+              "locText": "Electrokinesis"
+            },
+            "description": {
+              "text": "[ATTACK][ATTACK] against a single target in an adjacent Location.",
+              "locText": "[ATTACK][ATTACK] against a single target in an adjacent Location."
+            }
+          },
+          "actions": [
+            "M"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness10.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "specialEffect": {
+            "title": {
+              "text": "Purification",
+              "locText": "Purification"
+            },
+            "description": {
+              "text": "A Hero in your Location discards all the Crisis tokens they have.",
+              "locText": "A Hero in your Location discards all the Crisis tokens they have."
+            }
+          },
+          "actions": [
+            "H"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness11.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "actions": [
+            "W"
+          ]
+        },
+        {
+          "cardType": "hero",
+          "img": "en/heroes/Agatha-Harkness12.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "actions": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "cardType": "equipment",
+          "title": {
+            "text": "DARKHOLD",
+            "locText": "DARKHOLD"
+          },
+          "img": "en/heroes/Agatha-Harkness-E1A.jpg",
+          "description": {
+            "text": "USE on your turn: Reveal the top card of any deck. Then, turn this facedown.",
+            "locText": "USE on your turn: Reveal the top card of any deck. Then, turn this facedown."
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-E1B.jpg",
+            "description": {
+              "text": "RECHARGE: At the beginning of your turn, discard 1 [CIVILIAN] or [THUG] token from the corresponding Mission, if not yet completed, to turn this faceup.",
+              "locText": "RECHARGE: At the beginning of your turn, discard 1 [CIVILIAN] or [THUG] token from the corresponding Mission, if not yet completed, to turn this faceup."
+            }
+          },
+          "reusable": true
+        },
+        {
+          "cardType": "rune",
+          "title": {
+            "text": "CHARM RUNE",
+            "locText": "CHARM RUNE"
+          },
+          "img": "en/heroes/Agatha-Harkness-T1A.jpg",
+          "description": {
+            "text": "When this Rune is activated: If Agatha Harkness is in a Location with no Heroes, place 1 [CIVILIAN] from the pool in the Witch Trial Mission.",
+            "locText": "When this Rune is activated: If Agatha Harkness is in a Location with no Heroes, place 1 [CIVILIAN] from the pool in the Witch Trial Mission."
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-T1B.jpg",
+            "description": {
+              "text": "When this Rune is activated: Each Hero must discard 1 card with Special Effects from their hand, if any, to the bottom of their deck.",
+              "locText": "When this Rune is activated: Each Hero must discard 1 card with Special Effects from their hand, if any, to the bottom of their deck."
+            }
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "rune",
+          "title": {
+            "text": "ENERGY RUNE",
+            "locText": "ENERGY RUNE"
+          },
+          "img": "en/heroes/Agatha-Harkness-T2A.jpg",
+          "description": {
+            "text": "When this Rune is activated: Deal 1 damage to each Hero anywhere.",
+            "locText": "When this Rune is activated: Deal 1 damage to each Hero anywhere."
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-T2B.jpg",
+            "description": {
+              "text": "When this Rune is activated: Deal 2 damage to 1 Hero in Agatha Harkness' and in each adjacent Location. Then, move these Heroes 1 Location away from her.",
+              "locText": "When this Rune is activated: Deal 2 damage to 1 Hero in Agatha Harkness' and in each adjacent Location. Then, move these Heroes 1 Location away from her."
+            }
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "rune",
+          "title": {
+            "text": "HYPNOTIC RUNE",
+            "locText": "HYPNOTIC RUNE"
+          },
+          "img": "en/heroes/Agatha-Harkness-T3A.jpg",
+          "description": {
+            "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes must play their Hero card randomly.",
+            "locText": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes must play their Hero card randomly."
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-T3B.jpg",
+            "description": {
+              "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes can't use the symbols at the bottom of the previous Hero card in the Storyline.",
+              "locText": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes can't use the symbols at the bottom of the previous Hero card in the Storyline."
+            }
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "rune",
+          "title": {
+            "text": "PROBABILITY RUNE",
+            "locText": "PROBABILITY RUNE"
+          },
+          "img": "en/heroes/Agatha-Harkness-T4A.jpg",
+          "description": {
+            "text": "When this Rune is activated: If Agatha Harkness is in a Location with no Heroes, accelerate the next Villain turn by 1.",
+            "locText": "When this Rune is activated: If Agatha Harkness is in a Location with no Heroes, accelerate the next Villain turn by 1."
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-T4B.jpg",
+            "description": {
+              "text": "When this Rune is activated: Each Hero must reveal the top card of their deck. If it has 2 symbols at the bottom or a Special Effect, they must put it at the bottom of their deck.",
+              "locText": "When this Rune is activated: Each Hero must reveal the top card of their deck. If it has 2 symbols at the bottom or a Special Effect, they must put it at the bottom of their deck."
+            }
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "rune",
+          "title": {
+            "text": "WARDING RUNE",
+            "locText": "WARDING RUNE"
+          },
+          "img": "en/heroes/Agatha-Harkness-T5A.jpg",
+          "description": {
+            "text": "When this Rune is activated: Until the beginning of the next Villain turn, each [CIVILIAN] requires 1 extra [HEROIC] to be rescued",
+            "locText": "When this Rune is activated: Until the beginning of the next Villain turn, each [CIVILIAN] requires 1 extra [HEROIC] to be rescued"
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-T5B.jpg",
+            "description": {
+              "text": "When this Rune is activated: Until the beginning of the next Villain turn, when a Hero enters Agatha Harkness' Location, she immediately moves clockwise to the next Location.",
+              "locText": "When this Rune is activated: Until the beginning of the next Villain turn, when a Hero enters Agatha Harkness' Location, she immediately moves clockwise to the next Location."
+            }
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "rune",
+          "title": {
+            "text": "WEAKENING RUNE",
+            "locText": "WEAKENING RUNE"
+          },
+          "img": "en/heroes/Agatha-Harkness-T6A.jpg",
+          "description": {
+            "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes treat Special Effects on their Hero cards as blank.",
+            "locText": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes treat Special Effects on their Hero cards as blank."
+          },
+          "back": {
+            "img": "en/heroes/Agatha-Harkness-T6B.jpg",
+            "description": {
+              "text": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes must ignore 1 [MOVE] action in their turn.",
+              "locText": "When this Rune is activated: Until the beginning of the next Villain turn, Heroes must ignore 1 [MOVE] action in their turn."
+            }
+          },
+          "actions": [
+            "H",
+            "H"
+          ]
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP1.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 0,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Witch Hunt Begins",
+              "locText": "Witch Hunt Begins"
+            },
+            "description": {
+              "text": "Add 1 [CIVILIAN] and 1 [THUG] to every Location.",
+              "locText": "Add 1 [CIVILIAN] and 1 [THUG] to every Location."
+            }
+          },
+          "startingHand": true
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP2.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "It Was Her All Along",
+              "locText": "It Was Her All Along"
+            },
+            "description": {
+              "text": "Turn all [THUG] in play into [CIVILIAN]",
+              "locText": "Turn all [THUG] in play into [CIVILIAN]"
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP3.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 3,
+          "bam": false,
+          "specialEffect": {
+            "title": {
+              "text": "Ebony",
+              "locText": "Ebony"
+            },
+            "description": {
+              "text": "In Agatha Harkness' and the opposite Location: Deal 1 damage to each Hero there and move 1 [CIVILIAN] there to the Witch Trial Mission.",
+              "locText": "In Agatha Harkness' and the opposite Location: Deal 1 damage to each Hero there and move 1 [CIVILIAN] there to the Witch Trial Mission."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP4.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 5,
+          "runes": [
+            "CHARM",
+            "WARDING"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP5.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 5,
+          "runes": [
+            "ENERGY",
+            "WEAKENING"
+          ],
+          "bam": true,
+          "add": {
+            "left": [],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP6.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 4,
+          "runes": [
+            "CHARM",
+            "HYPNOTIC"
+          ],
+          "bam": true,
+          "add": {
+            "left": [],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP7.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 4,
+          "runes": [
+            "PROBABILITY",
+            "WARDING"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP8.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 2,
+          "runes": [
+            "CHARM",
+            "WEAKENING"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP9.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 2,
+          "runes": [
+            "PROBABILITY",
+            "HYPNOTIC"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": []
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP10.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 1,
+          "runes": [
+            "ENERGY",
+            "WARDING"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T",
+              "C"
+            ],
+            "right": []
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP11.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 1,
+          "runes": [
+            "PROBABILITY",
+            "WEAKENING"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Agatha-Harkness-MP12.jpg",
+          "title": {
+            "text": "Agatha Harkness",
+            "locText": "Agatha Harkness"
+          },
+          "M": 0,
+          "runes": [
+            "ENERGY",
+            "HYPNOTIC"
+          ],
+          "bam": true,
+          "add": {
+            "left": [
+              "T",
+              "C"
+            ],
+            "center": [],
+            "right": [
+              "T",
+              "C"
+            ]
+          }
+        }
+      ],
+      "dashboard": {
+        "front": {
+          "img": "en/en/villains/Agatha-Harkness-A.jpg",
+          "specialRules": {
+            "text": "When Agatha Harkness becomes Under Pressure, flip all Rune Threat cards to their B side. For each damage Agatha Harkness is dealt, check the Witch Trial Mission. If there are 7 or more [CIVILIAN] there, remove 1 [CIVILIAN] from that card instead of removing 1 of her Health tokens. Each time a Hero is KO'd, Agatha Harkness doesn't activate her BAM! Instead, add 1 [CIVILIAN] token from the pool to the Witch Trial Mission.",
+            "locText": "When Agatha Harkness becomes Under Pressure, flip all Rune Threat cards to their B side. For each damage Agatha Harkness is dealt, check the Witch Trial Mission. If there are 7 or more [CIVILIAN] there, remove 1 [CIVILIAN] from that card instead of removing 1 of her Health tokens. Each time a Hero is KO'd, Agatha Harkness doesn't activate her BAM! Instead, add 1 [CIVILIAN] token from the pool to the Witch Trial Mission."
+          },
+          "overflow": {
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, add 1 [CIVILIAN] token from the pool to the Witch Trial Mission.",
+            "locText": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, add 1 [CIVILIAN] token from the pool to the Witch Trial Mission."
+          },
+          "bam": {
+            "text": "Move 1 [CIVILIAN] from Agatha Harkness' Location and each Location adjacent to it to the Witch Trial Mission. Activate the Rune Threats with symbols matching those on the Master Plan card.",
+            "locText": "Move 1 [CIVILIAN] from Agatha Harkness' Location and each Location adjacent to it to the Witch Trial Mission. Activate the Rune Threats with symbols matching those on the Master Plan card."
+          },
+          "plot": {
+            "text": "The Heroes lose when the Witch Trial Mission is complete.",
+            "locText": "The Heroes lose when the Witch Trial Mission is complete."
+          },
+          "lifePoints": {
+            "twoHeroes": 2,
+            "threeHeroes": 2,
+            "fourHeroes": 2
+          }
+        },
+        "back": {
+          "img": "en/en/villains/Agatha-Harkness-B.jpg",
+          "specialSetup": {
+            "text": "Place the Witch Trial Mission within reach of the players. Place all Rune Threat cards on their A side. Set aside the Witch Hunt Begins Master Plan card and place it on top of the deck after shuffling it.",
+            "locText": "Place the Witch Trial Mission within reach of the players. Place all Rune Threat cards on their A side. Set aside the Witch Hunt Begins Master Plan card and place it on top of the deck after shuffling it."
+          },
+          "superVillain": [
+            "M", "M", "H", "H"
+          ]
+        }
       }
     },
     {
@@ -66,8 +803,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force2.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -88,8 +825,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force3.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "actions": [
             "W"
@@ -99,8 +836,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force4.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "actions": [
             "W",
@@ -111,8 +848,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force5.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "mandatory": true,
@@ -134,8 +871,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force5.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "mandatory": true,
@@ -157,8 +894,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force7.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -178,8 +915,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force7.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -199,8 +936,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force9.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -221,8 +958,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force9.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -243,8 +980,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force11.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -264,8 +1001,8 @@
           "cardType": "hero",
           "img": "en/heroes/Deadpool-X-Force11.jpg",
           "title": {
-            "text": "Deadpool (x-force)",
-            "locText": "Deadpool (x-force)"
+            "text": "Deadpool (X-Force)",
+            "locText": "Deadpool (X-Force)"
           },
           "specialEffect": {
             "title": {
@@ -940,159 +1677,331 @@
       "cards": [
         {
           "cardType": "threat",
-          "img": "en/villains/Twins-T2.jpg",
+          "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
-            "text": "Sibling Bond",
-            "locText": "Sibling Bond"
+            "text": "DARKHOLD PAGE",
+            "locText": "DARKHOLD PAGE"
           },
           "description": {
-            "text": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead.",
-            "locText": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead."
+            "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
+            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
           },
           "actions": [
-            "H",
-            "H",
-            "H"
+            "C",
+            "C",
+            "C"
           ]
         },
         {
           "cardType": "threat",
-          "img": "en/villains/Twins-T2.jpg",
+          "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
-            "text": "Sibling Bond",
-            "locText": "Sibling Bond"
+            "text": "DARKHOLD PAGE",
+            "locText": "DARKHOLD PAGE"
           },
           "description": {
-            "text": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead.",
-            "locText": "As long as this Threat is in play, whenever Scarlet Witch or Quicksilver would be defeated, they go back to 1 Health instead."
+            "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
+            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
           },
           "actions": [
-            "H",
-            "H",
-            "H"
+            "C",
+            "C",
+            "C"
           ]
         },
         {
           "cardType": "threat",
-          "img": "en/villains/Twins-T3.jpg",
+          "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
-            "text": "Troubled Loyalty",
-            "locText": "Troubled Loyalty"
+            "text": "DARKHOLD PAGE",
+            "locText": "DARKHOLD PAGE"
           },
           "description": {
-            "text": "When this Threat is cleared, delay the next Villain turn by 1 card.",
-            "locText": "When this Threat is cleared, delay the next Villain turn by 1 card."
+            "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
+            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
           },
           "actions": [
-            "H",
-            "H",
-            "H",
-            "H"
+            "C",
+            "C",
+            "C"
           ]
         },
         {
           "cardType": "threat",
-          "img": "en/villains/Twins-T3.jpg",
+          "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
-            "text": "Troubled Loyalty",
-            "locText": "Troubled Loyalty"
+            "text": "DARKHOLD PAGE",
+            "locText": "DARKHOLD PAGE"
           },
           "description": {
-            "text": "When this Threat is cleared, delay the next Villain turn by 1 card.",
-            "locText": "When this Threat is cleared, delay the next Villain turn by 1 card."
+            "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
+            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
           },
           "actions": [
-            "H",
-            "H",
-            "H",
-            "H"
+            "C",
+            "C",
+            "C"
           ]
         },
         {
           "cardType": "threat",
-          "img": "en/villains/Twins-T4.jpg",
+          "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
-            "text": "Chaos Magic",
-            "locText": "Chaos Magic"
+            "text": "DARKHOLD PAGE",
+            "locText": "DARKHOLD PAGE"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card.",
-            "locText": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card."
+            "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
+            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
           },
           "actions": [
-            "H",
-            "H",
-            "H",
-            "H"
+            "C",
+            "C",
+            "C"
           ]
         },
         {
           "cardType": "threat",
-          "img": "en/villains/Twins-T4.jpg",
+          "img": "en/villains/Scarlet-Witch-T2.jpg",
           "title": {
-            "text": "Chaos Magic",
-            "locText": "Chaos Magic"
+            "text": "DARKHOLD PAGE",
+            "locText": "DARKHOLD PAGE"
           },
           "description": {
-            "text": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card.",
-            "locText": "Heroes starting their turn in this Location must play their card randomly. Then, place 1 [HEROIC] token from the pool on this card."
+            "text": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode).",
+            "locText": "When this has 3 Crisis token on it, it is cleared and Scarlet Witch gains 2 Health (may go above starting value). Put 1 Threat token on the Clear Threats Mission (for both Teams in Team vs Team mode)."
           },
           "actions": [
-            "H",
-            "H",
-            "H",
-            "H"
+            "C",
+            "C",
+            "C"
           ]
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Twins-MP1.jpg",
+          "img": "en/villains/Scarlet-Witch-MP1.jpg",
           "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
           },
           "M": 0,
           "bam": true,
-          "add": {
-            "left": [
-              "T"
-            ],
-            "center": [
-              "T"
-            ],
-            "right": [
-              "T"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "en/villains/Twins-MP2.jpg",
-          "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
+          "specialEffect": {
+            "title": {
+              "text": "Possessed By Chthon",
+              "locText": "Possessed By Chthon"
+            },
+            "description": {
+              "text": "As long as this card is faceup in the Storyline, Heroes can't interact with Threats in any way.",
+              "locText": "As long as this card is faceup in the Storyline, Heroes can't interact with Threats in any way."
+            }
           },
-          "M": 1,
-          "bam": true,
           "add": {
             "left": [
-              "T"
+              "C"
             ],
             "center": [
               "T",
               "T"
             ],
             "right": [
+              "C"
+            ]
+          },
+          "startingHand": true
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Scarlet-Witch-MP2.jpg",
+          "title": {
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
+          },
+          "M": 5,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Broodlings Of Chthon",
+              "locText": "Broodlings Of Chthon"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero anywhere.",
+              "locText": "Deal 1 damage to each Hero anywhere."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
               "T"
             ]
           }
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Twins-MP3.jpg",
+          "img": "en/villains/Scarlet-Witch-MP3.jpg",
           "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
+          },
+          "M": 4,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Darkholders",
+              "locText": "Darkholders"
+            },
+            "description": {
+              "text": "Deal 1 damage to each Hero in Locations with 1 or more [THUG].",
+              "locText": "Deal 1 damage to each Hero in Locations with 1 or more [THUG]."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Scarlet-Witch-MP4.jpg",
+          "title": {
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
+          },
+          "M": 3,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Reality Warping",
+              "locText": "Reality Warping"
+            },
+            "description": {
+              "text": "Each Hero must turn facedown their earliest Hero card in the Storyline with a Special Effect.",
+              "locText": "Each Hero must turn facedown their earliest Hero card in the Storyline with a Special Effect."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Scarlet-Witch-MP5.jpg",
+          "title": {
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
+          },
+          "M": 2,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Bending Will",
+              "locText": "Bending Will"
+            },
+            "description": {
+              "text": "Until the next Villain turn, Heroes can't enter Scarlet Witch's Location.",
+              "locText": "Until the next Villain turn, Heroes can't enter Scarlet Witch's Location."
+            }
+          },
+          "add": {
+            "left": [
+              "T"
+            ],
+            "center": [
+              "C"
+            ],
+            "right": [
+              "T"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Scarlet-Witch-MP6.jpg",
+          "title": {
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
+          },
+          "M": 1,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Conjuring Darkforce",
+              "locText": "Conjuring Darkforce"
+            },
+            "description": {
+              "text": "Each Hero in Scarlet Witch's and both adjacent Locations must discard 1 card from their hand. Scarlet Witch gains 1 Health for each of these cards (may go above starting value).",
+              "locText": "Each Hero in Scarlet Witch's and both adjacent Locations must discard 1 card from their hand. Scarlet Witch gains 1 Health for each of these cards (may go above starting value)."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Scarlet-Witch-MP7.jpg",
+          "title": {
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
+          },
+          "M": 0,
+          "bam": true,
+          "specialEffect": {
+            "title": {
+              "text": "Growing Power",
+              "locText": "Growing Power"
+            },
+            "description": {
+              "text": "Add 1 Crisis token to each Threat with no Crisis tokens.",
+              "locText": "Add 1 Crisis token to each Threat with no Crisis tokens."
+            }
+          },
+          "add": {
+            "left": [
+              "C"
+            ],
+            "center": [
+              "T"
+            ],
+            "right": [
+              "C"
+            ]
+          }
+        },
+        {
+          "cardType": "plan",
+          "img": "en/villains/Scarlet-Witch-MP8.jpg",
+          "title": {
+            "text": "Scarlet Witch",
+            "locText": "Scarlet Witch"
           },
           "M": 1,
           "bam": true,
@@ -1101,114 +2010,6 @@
               "C"
             ],
             "center": [
-              "C",
-              "C"
-            ],
-            "right": [
-              "C"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "en/villains/Twins-MP4.jpg",
-          "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
-          },
-          "M": 2,
-          "bam": true,
-          "add": {
-            "left": [
-              "C"
-            ],
-            "center": [
-              "C",
-              "C"
-            ],
-            "right": [
-              "C"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "en/villains/Twins-MP5.jpg",
-          "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
-          },
-          "M": 2,
-          "bam": true,
-          "add": {
-            "left": [
-              "T"
-            ],
-            "center": [
-              "T",
-              "T"
-            ],
-            "right": [
-              "T"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "en/villains/Twins-MP6.jpg",
-          "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
-          },
-          "M": 3,
-          "bam": true,
-          "add": {
-            "left": [
-              "C"
-            ],
-            "center": [
-              "C"
-            ],
-            "right": [
-              "C"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "en/villains/Twins-MP7.jpg",
-          "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
-          },
-          "M": 3,
-          "bam": true,
-          "add": {
-            "left": [
-              "T"
-            ],
-            "center": [
-              "T"
-            ],
-            "right": [
-              "T"
-            ]
-          }
-        },
-        {
-          "cardType": "plan",
-          "img": "en/villains/Twins-MP8.jpg",
-          "title": {
-            "text": "Scarlet Witch & Quicksilver",
-            "locText": "Scarlet Witch & Quicksilver"
-          },
-          "M": 1,
-          "bam": true,
-          "add": {
-            "left": [
-              "C"
-            ],
-            "center": [
               "T"
             ],
             "right": [
@@ -1218,7 +2019,7 @@
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Twins-MP9.jpg",
+          "img": "en/villains/Scarlet-Witch-MP9.jpg",
           "title": {
             "text": "Scarlet Witch",
             "locText": "Scarlet Witch"
@@ -1241,7 +2042,7 @@
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Twins-MP9.jpg",
+          "img": "en/villains/Scarlet-Witch-MP9.jpg",
           "title": {
             "text": "Scarlet Witch",
             "locText": "Scarlet Witch"
@@ -1264,7 +2065,7 @@
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Twins-MP11.jpg",
+          "img": "en/villains/Scarlet-Witch-MP11.jpg",
           "title": {
             "text": "Quicksilver",
             "locText": "Quicksilver"
@@ -1283,7 +2084,7 @@
         },
         {
           "cardType": "plan",
-          "img": "en/villains/Twins-MP11.jpg",
+          "img": "en/villains/Scarlet-Witch-MP11.jpg",
           "title": {
             "text": "Quicksilver",
             "locText": "Quicksilver"
@@ -1303,36 +2104,37 @@
       ],
       "dashboard": {
         "front": {
-          "img": "villains/Twins-A.jpg",
+          "img": "en/villains/Scarlet-Witch-A.jpg",
           "specialRules": {
-            "text": "[THUG] and [CIVILIAN] are added based on Quicksilver's Location. When Scarlet Witch or Quicksilver are defeated, they remain in play and act normally. The Heroes only win if both of them are defeated. When a Hero is KO'd Scarlet Witch and Quicksilver don't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline.",
-            "locText": "[THUG] and [CIVILIAN] are added based on Quicksilver's Location. When Scarlet Witch or Quicksilver are defeated, they remain in play and act normally. The Heroes only win if both of them are defeated. When a Hero is KO'd Scarlet Witch and Quicksilver don't activate their BAM! Instead, draw a Master Plan card and add it facedown to the Storyline."
+            "text": "Heroes can also damage Scarlet Witch using [HEROIC]. Each time a Mission is completed, each player may put one of their set aside Hero cards on top of their deck. Each time a Hero is KO'd, Scarlet Witch doesn't activate her BAM! Instead, remove the top card from the Master Plan deck.",
+            "locText": "Heroes can also damage Scarlet Witch using [HEROIC]. Each time a Mission is completed, each player may put one of their set aside Hero cards on top of their deck. Each time a Hero is KO'd, Scarlet Witch doesn't activate her BAM! Instead, remove the top card from the Master Plan deck."
           },
           "overflow": {
-            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline.",
-            "locText": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, draw a Master Plan card and add it facedown in the Storyline."
+            "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, add 1 Crisis token to the Threat there. If there is no Threat there, add it to the first clockwise Threat.",
+            "locText": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, add 1 Crisis token to the Threat there. If there is no Threat there, add it to the first clockwise Threat."
           },
           "bam": {
-            "text": "Deal 1 damage to each Hero in Locations Quicksilver left, entered, or moved through this turn.",
-            "locText": "Deal 1 damage to each Hero in Locations Quicksilver left, entered, or moved through this turn."
+            "text": "Add 1 Crisis token to the Darkhold Page Threats in Scarlet Witch's and both adjacent Locations. Each Hero in Scarlet Witch's and both adjacent Locations must discard 1 card from their hand.",
+            "locText": "Add 1 Crisis token to the Darkhold Page Threats in Scarlet Witch's and both adjacent Locations. Each Hero in Scarlet Witch's and both adjacent Locations must discard 1 card from their hand."
+          },
+          "plot": {
+            "text": "The Heroes lose when there are no Threats left in play.",
+            "locText": "The Heroes lose when there are no Threats left in play."
           },
           "lifePoints": {
-            "twoHeroes": 3,
-            "threeHeroes": 4,
-            "fourHeroes": 6
+            "twoHeroes": 2,
+            "threeHeroes": 2,
+            "fourHeroes": 2
           }
         },
         "back": {
-          "img": "villains/Twins-B.jpg",
+          "img": "en/villains/Scarlet-Witch-B.jpg",
           "specialSetup": {
-            "text": "Scarlet Witch and Quicksilver start the game in the same Location.",
-            "locText": "Scarlet Witch and Quicksilver start the game in the same Location."
+            "text": "Set aside the Possessed by Chthon Master Plan card and place it on top of the deck after shuffling it. Set aside 3 cards with Special Effects from the deck of each Hero in play.",
+            "locText": "Set aside the Possessed by Chthon Master Plan card and place it on top of the deck after shuffling it. Set aside 3 cards with Special Effects from the deck of each Hero in play."
           },
           "superVillain": [
-            "W",
-            "W",
-            "A",
-            "A"
+            "M", "H", "A", "W"
           ]
         }
       }

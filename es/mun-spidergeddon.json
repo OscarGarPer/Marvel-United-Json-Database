@@ -2856,7 +2856,8 @@
               "T"
             ]
           }
-        }],
+        }
+      ],
       "dashboard": {
         "front": {
           "img": "villains/Spot-A.jpg",
