@@ -1,0 +1,71 @@
+{
+  "img": "",
+  "campaignName": {
+    "text": "X-Cutioner’s Song",
+    "locText": ""
+  },
+  "campaignGames": [
+    {
+      "gameNumber": 0,
+      "gameTitle": {
+        "text": "",
+        "locText": ""
+      },
+      "setup": {
+        "villain": {
+          "text": "",
+          "locText": ""
+        },
+        "roster": {
+          "text": "",
+          "locText": "",
+          "attributedText": ""
+        },
+        "specialSetup": [
+          {
+            "text": "",
+            "locText": "",
+            "attributedText": ""
+          }
+        ],
+        "img": ""
+      },
+      "rules": {
+        "intro": {
+          "text": "",
+          "locText": "",
+          "attributedText": ""
+        },
+        "lossConditions": [
+          {
+            "text": "",
+            "locText": "",
+            "attributedText": ""
+          }
+        ],
+        "winConditions": [
+          {
+            "text": "",
+            "locText": "",
+            "attributedText": ""
+          }
+        ]
+      }
+    }
+  ],
+  "campaignEvents": [
+    {
+      "gameNumber": 0,
+      "gameTitle": {
+        "text": "",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": ""
+    }
+  ]
+}
