@@ -2,11 +2,17 @@
   "img": "",
   "campaignName": {
     "text": "Age of Ultron",
-    "locText": ""
+    "locText": "La Era de Ultrón"
+  },
+  "style": {
+    "mainColor": "#4795AD",
+    "titleColor": "#D7CAC0",
+    "backgroundColor": "#D87038",
+    "whiteDots": true
   },
   "campaignGames": [
     {
-      "gameNumber": 0,
+      "gameId": "0",
       "gameTitle": {
         "text": "",
         "locText": ""
@@ -55,8 +61,8 @@
   ],
   "campaignEvents": [
     {
-      "gameNumber": 0,
-      "gameTitle": {
+      "eventNumber": "0",
+      "eventTitle": {
         "text": "",
         "locText": ""
       },

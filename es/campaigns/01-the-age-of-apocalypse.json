@@ -2,28 +2,338 @@
   "img": "",
   "campaignName": {
     "text": "The Age of Apocalypse",
-    "locText": ""
+    "locText": "La Era de Apocalipsis"
+  },
+  "style": {
+    "mainColor": "#B23834",
+    "titleColor": "#F7D79C",
+    "backgroundColor": "#66B0B7",
+    "whiteDots": true
   },
   "campaignGames": [
     {
-      "gameNumber": 0,
+      "gameId": "1",
       "gameTitle": {
-        "text": "",
+        "text": "SURPRISE ATTACK",
+        "locText": "ATAQUE SORPRESA"
+      },
+      "setup": {
+        "villain": {
+          "text": "Nemesis",
+          "locText": "Nemesis"
+        },
+        "roster": {
+          "text": "Scarlet Witch, Jean Grey, Storm, Wolverine, Rogue, Colossus, Iceman, Magneto (AoA), Morph.",
+          "locText": "Scarlet Witch, Jean Grey, Storm, Wolverine, Rogue, Colossus, Iceman, Magneto (EdA), Morph.",
+          "attributedText": "Scarlet Witch, Jean Grey, Storm, Wolverine, Rogue, Colossus, Iceman, Magneto (EdA), Morph."
+        },
+        "specialSetup": [
+          {
+            "text": "Villain starting Location: CAPE CITADEL",
+            "locText": "Lugar inicial del Villano: CAPE CITADEL",
+            "attributedText": "Lugar inicial del Villano: CAPE CITADEL"
+          },
+          {
+            "text": "Heroes starting Location: MOUNT WUNDAGORE",
+            "locText": "Lugar inicial de los Héroes: MOUNT WUNDAGORE",
+            "attributedText": "Lugar inicial de los Héroes: MOUNT WUNDAGORE"
+          }
+        ],
+        "img": "clear/s3/Nemesis.png"
+      },
+      "rules": {
+        "intro": {
+          "text": "HEROES DEFEAT THE SABRETOOTH HENCHMAN: Reveal EVENT 01",
+          "locText": "LOS HÉROES DERROTAN AL SECUAZ SABRETOOTH: Mira el EVENTO 01",
+          "attributedText": "LOS HÉROES DERROTAN AL SECUAZ SABRETOOTH:\n[ARROW] Mira el <e>EVENTO 01</e>"
+        },
+        "lossConditions": [
+          {
+            "text": "CAN'T PLAY CARD LOSS: Reveal EVENT 02",
+            "locText": "DERROTA POR NO PODER JUGAR CARTA: Mira el EVENTO 02",
+            "attributedText": "<l>DERROTA</l> POR NO PODER JUGAR CARTA:\n[ARROW] Mira el <e>EVENTO 02</e>"
+          },
+          {
+            "text": "VILLAINOUS PLOT LOSS: Reveal EVENT 03",
+            "locText": "DERROTA POR COMPLOT MALIGNO: Mira el EVENTO 03",
+            "attributedText": "<l>DERROTA</l> POR NO COMPLOT MALIGNO:\n[ARROW] Mira el <e>EVENTO 03</e>"
+          }
+        ],
+        "winConditions": [
+          {
+            "text": "HEROES WIN: If no Hero was KO'd during this game, reveal EVENT 15 and add 1 Crisis token to it. PROCEED TO GAME 2.",
+            "locText": "VICTORIA DE LOS HÉROES: Si ningún Héroe quedó Fuera de combate durante esta partida, mira el EVENTO 15 y coloca 1 ficha de Crisis en él. PROCEDE A LA PARTIDA 2.",
+            "attributedText": "<w>VICTORIA</w> DE LOS HÉROES:\n[ARROW] Si ningún Héroe quedó Fuera de combate durante esta partida, mira el <e>EVENTO 15</e> y coloca 1 ficha de Crisis en él.\n[ARROW] PROCEDE A LA PARTIDA 2."
+          }
+        ]
+      }
+    },
+    {
+      "gameId": "2",
+      "gameTitle": {
+        "text": "A SECRET AGENDA",
+        "locText": "UN PLAN OCULTO"
+      },
+      "setup": {
+        "villain": {
+          "text": "Mister Sinister",
+          "locText": "Mister Sinister"
+        },
+        "roster": {
+          "text": "Add Blink to the Campaign Roster.",
+          "locText": "Añade a Blink a la Lista de Campaña.",
+          "attributedText": "Añade a <b>Blink</b> a la Lista de Campaña."
+        },
+        "img": "clear/s2/Mister-Sinister.png"
+      },
+      "rules": {
+        "intro": {
+          "text": "THE FIRST TIME MISTER SINISTER GAINS HIS 4th DNA SAMPLE TOKEN: Reveal EVENT 04",
+          "locText": "LA PRIMERA VEZ QUE MISTER SINISTER OBTENGA SU CUARTA FICHA DE MUESTRA DE ADN: Mira el EVENTO 04",
+          "attributedText": "LA PRIMERA VEZ QUE <b>MISTER SINISTER</b> OBTENGA SU 4ª FICHA DE MUESTRA DE ADN: Mira el <e>EVENTO 04</e>"
+        },
+        "lossConditions": [
+          {
+            "text": "CAN'T PLAY CARD LOSS: Reveal EVENT 05",
+            "locText": "DERROTA POR NO PODER JUGAR CARTA: Mira el EVENTO 05",
+            "attributedText": "<l>DERROTA</l> POR NO PODER JUGAR CARTA:\nMira el <e>EVENTO 05</e>"
+          },
+          {
+            "text": "VILLAINOUS PLOT LOSS: Reveal EVENT 06",
+            "locText": "DERROTA POR COMPLOT MALIGNO: Mira el EVENTO 06",
+            "attributedText": "<l>DERROTA</l> POR NO COMPLOT MALIGNO:\nMira el <e>EVENTO 06</e>"
+          }
+        ],
+        "winConditions": [
+          {
+            "text": "HEROES WIN: Reveal EVENT 07. Then, reveal EVENT 15, if not al already revealed, and add 1 Crisis token to it.",
+            "locText": "VICTORIA DE LOS HÉROES: Mira el EVENTO 07. Entonces, mira el EVENTO 15, si todavía no lo habías hecho, y coloca 1 ficha de Crisis en él.",
+            "attributedText": "VICTORIA DE LOS HÉROES:\n[ARROW] Mira el <e>EVENTO 07</e>\n[ARROW] Entonces, mira el <e>EVENTO 15</e>, si todavía no lo habías hecho, y coloca 1 ficha de Crisis en él."
+          }
+        ]
+      }
+    },
+    {
+      "gameId": "2B",
+      "gameTitle": {
+        "text": "PERFECTING THE MUTANT RACE",
+        "locText": "PERFECCIONANDO LA RAZA MUTANTE"
+      },
+      "setup": {
+        "villain": {
+          "text": "Dark Beast",
+          "locText": "Dark Beast"
+        },
+        "roster": {
+          "text": "Any Heroes in the Campaign Roster can be used in this game.",
+          "locText": "Puedes usar cualquier Héroe de la Lista de Campaña en esta partida.",
+          "attributedText": "Puedes usar cualquier Héroe de la Lista de Campaña en esta partida."
+        },
+        "img": "clear/s3/dark-beast.png"
+      },
+      "rules": {
+        "lossConditions": [
+          {
+            "text": "The Campaign is OVER",
+            "locText": "La Campaña se ha ACABADO.",
+            "attributedText": "La <b>Campaña se ha</b><l>ACABADO</l>."
+          }
+        ],
+        "winConditions": [
+          {
+            "text": "HEROES WIN: Reveal EVENT 07. Then, reveal EVENT 15, if not al already revealed, and add 1 Crisis token to it.",
+            "locText": "VICTORIA DE LOS HÉROES: Mira el EVENTO 07. Entonces, mira el EVENTO 15, si todavía no lo habías hecho, y coloca 1 ficha de Crisis en él.",
+            "attributedText": "VICTORIA DE LOS HÉROES:\n[ARROW] Mira el <e>EVENTO 07</e>\n[ARROW] Entonces, mira el <e>EVENTO 15</e>, si todavía no lo habías hecho, y coloca 1 ficha de Crisis en él."
+          }
+        ]
+      }
+    },
+    {
+      "gameId": "3",
+      "gameTitle": {
+        "text": "DUEL OF ASSASSINS",
+        "locText": "DUELO DE ASESINOS"
+      },
+      "setup": {
+        "villain": {
+          "text": "Deadpool",
+          "locText": "Deadpool"
+        },
+        "roster": {
+          "text": "Add Mystique and Nightcrawler to the Campaign Roster.",
+          "locText": "Añade a Mystique y a Nightcrawler a la Lista de Campaña.",
+          "attributedText": "Añade a <b>Mystique</b> y a <b>Nightcrawler<b> a la Lista de Campaña."
+        },
+        "specialSetup": [
+          {
+            "text": "Mystique and Nightcrawler are mandatory Heroes for this game.",
+            "locText": "Mystique y Nightcrawler son Héroes obligatorios para esta partida.",
+            "attributedText": "<b>Mystique</b> y <b>Nightcrawler</b> son Héroes <b>obligatorios</b> para esta partida."
+          },
+          {
+            "text": "Villain starting Location: AVALON",
+            "locText": "Lugar inicial del Villano: AVALON",
+            "attributedText": "Lugar inicial del Villano: AVALON"
+          },
+          {
+            "text": "Heroes starting Location: MORLOCK TUNNELS",
+            "locText": "Lugar inicial de los Héroes: MORLOCK TUNNELS",
+            "attributedText": "Lugar inicial de los Héroes: MORLOCK TUNNELS"
+          },
+          {
+            "text": "Deadpool's Special Setup rules only apply to the 4 other random Locations.",
+            "locText": "Las reglas de Preparación especial de Deadpool solo aplican a los 4 Lugares aleatorios.",
+            "attributedText": "Las reglas de Preparación especial de Deadpool solo aplican a los 4 Lugares aleatorios."
+          }
+        ],
+        "img": ""
+      },
+      "rules": {
+        "intro": {
+          "text": "If Nightcrawler is KO'd, he is not removed from the game. He simply resumes play as in regular games. Only Heroes that are part of the Campaign Roster can be used to resume play after a Hero is KO'd. If there are no Heroes left in the Campaign Roster after a Hero (other than Nightcrawler) is KO'd, the Campaign is OVER. DEADPOOL PLAYED HIS 4TH MASTER PLAN CARD: Reveal EVENT 08",
+          "locText": "Si Nightcrawler queda Fuera de combate, no lo retires de la partida. Sigue jugando como en una partida normal. Solo los Héroes que forman parte de la Lista de Campaña pueden usarse para reanudar la partida después de que un Héroe quede Fuera de combate. Si no quedan Héroe en la Lista de Campaña tras quedar un Héroe (que no sea Nightcrawler) Fuera de combate, la Campaña ha ACABADO. DEADPOOL JUEGA SU CUARTA CARTA DE PLAN MAESTRO: Mira el EVENTO 08",
+          "attributedText": "Si <b>Nightcrawler</b> queda Fuera de combate, no lo retires de la partida. Sigue jugando como en una partida normal.\nSolo los Héroes que forman parte de la Lista de Campaña pueden usarse para reanudar la partida después de que un Héroe quede Fuera de combate. Si no quedan Héroe en la Lista de Campaña tras quedar un Héroe (que no sea <b>Nightcrawler</b>) Fuera de combate, la <b>Campaña ha</b> <l>ACABADO</l>.\n<b>DEADPOOL</b> JUEGA SU CUARTA CARTA DE PLAN MAESTRO:\n[ARROW] Mira el <e>EVENTO 08</e>"
+        }
+      }
+    },
+    {
+      "gameId": "4",
+      "gameTitle": {
+        "text": "GUARDIAN OF THE M'KRAAN CRYSTAL",
+        "locText": "GUARDIÁN DEL CRISTAL M'KRAAN"
+      },
+      "setup": {
+        "villain": {
+          "text": "Gladiator",
+          "locText": "Gladiator"
+        },
+        "roster": {
+          "text": "Add <b>Gambit</b>, <b>Jubilee</b>, <b>Strong Guy</b>, and <b>Sunspot</b> to the Campaign Roster.",
+          "locText": "Añade a Gambit, Jubilee, Strong Guy, y Sunspot a la Lista de Campaña",
+          "attributedText": "Añade a <b>Gambit</b>, <b>Jubilee</b>, <b>Strong Guy</b>, y <b>Sunspot</b> a la Lista de Campaña."
+        },
+        "specialSetup": [
+          {
+            "text": "Gambit and Strong Guy are mandatory Heroes in this game.",
+            "locText": "Gambit y Strong Guy son Héroes obligatorios para esta partida.",
+            "attributedText": "<b>Gambit</b> y <b>Strong Guy</b> son Héroes <b>obligatorios</b> para esta partida."
+          },
+          {
+            "text": "Villain starting Location: CHANDILAR",
+            "locText": "Lugar inicial del Villano: CHANDILAR",
+            "attributedText": "Lugar inicial del Villano: CHANDILAR"
+          },
+          {
+            "text": "Take as many Allegiance cards (from the Traitor Challenge) equal to the number of Heroes in the game (one of them must be the Traitor card). Shuffle them, and assign 1 facedown to each Hero. Players can't look at Allegiance cards during the game (the Traitor Challenge rules are not used).",
+            "locText": "Baraja las cartas de Lealtad (del Desafío del Traidor) y dale una carta bocabajo a cada Héroe (una de ellas debe ser la carta del Traidor). Los Jugadores no pueden mirar las cartas de Lealtad durante la partida (no se aplican las reglas del Desafío del Traidor).",
+            "attributedText": "Baraja las cartas de <b>Lealtad</b> (del Desafío del Traidor) y dale una carta bocabajo a cada Héroe (una de ellas debe ser la carta del <b>Traidor</b>). Los Jugadores no pueden mirar las cartas de <b>Lealtad</b> durante la partida (no se aplican las reglas del Desafío del Traidor)."
+          },
+          {
+            "text": "Heroes can choose together if they want to use the Plan B Challenge for this game.",
+            "locText": "Los Héroes deciden juntos si quieren usar el Desafío de Plan B en esta partida.",
+            "attributedText": "Los Héroes deciden juntos si quieren usar el Desafío de <b>Plan B</b> en esta partida."
+          }
+        ],
+        "img": ""
+      },
+      "rules": {
+        "intro": {
+          "text": "SECOND MISSION COMPLETED: Reveal EVENT 09",
+          "locText": "SEGUNDA MISIÓN COMPLETADA: Mira el EVENTO 09",
+          "attributedText": "SEGUNDA MISIÓN COMPLETADA:\n[ARROW] Mira el <e>EVENTO 09</e>"
+        },
+        "lossConditions": [
+          {
+            "text": "CAN'T PLAY CARD LOSS: Reveal EVENT 10",
+            "locText": "DERROTA POR NO PODER JUGAR CARTA: Mira el EVENTO 10",
+            "attributedText": "<l>DERROTA</l> POR NO PODER JUGAR CARTA:\n[ARROW] Mira el <e>EVENTO 10</e>"
+          },
+          {
+            "text": "VILLAINOUS PLOT LOSS: Reveal EVENT 11",
+            "locText": "",
+            "attributedText": ""
+          }
+        ],
+        "winConditions": [
+          {
+            "text": "HEROIC GOAL WIN: Reveal EVENT 12",
+            "locText": "",
+            "attributedText": ""
+          },
+          {
+            "text": "PLAN B WIN: Reveal EVENT 13",
+            "locText": "",
+            "attributedText": ""
+          }
+        ]
+      }
+    },
+    {
+      "gameId": "5",
+      "gameTitle": {
+        "text": "RESCUING ILYANA",
         "locText": ""
       },
       "setup": {
         "villain": {
-          "text": "",
-          "locText": ""
+          "text": "Shadow King",
+          "locText": "Shadow King"
         },
         "roster": {
-          "text": "",
+          "text": "Add Kitty Pryde, Chamber, and Husk to the Campaign Roster.",
           "locText": "",
           "attributedText": ""
         },
         "specialSetup": [
           {
-            "text": "",
+            "text": "Villain starting Location: THE CORE (Seattle Slave Camp)",
+            "locText": "",
+            "attributedText": ""
+          }
+        ],
+        "img": ""
+      },
+      "rules": {
+        "intro": {
+          "text": "FIRST MISSION COMPLETED: Reveal EVENT 14",
+          "locText": "",
+          "attributedText": ""
+        },
+        "lossConditions": [
+          {
+            "text": "LOSS: Remove 1 of the defeated Heroes (players choose) from the Campaign Roster. If there are still at least 4 Heroes in the Campaign Roster, play Game 5 again. Otherwise, the Campaign is OVER.",
+            "locText": "",
+            "attributedText": ""
+          }
+        ],
+        "winConditions": [
+          {
+            "text": "HEROES WIN: Add Magik to the Campaign Roster. Add 1 Crisis token to EVENT 15. PROCEED TO GAME 6.",
+            "locText": "",
+            "attributedText": ""
+          }
+        ]
+      }
+    },
+    {
+      "gameId": "6",
+      "gameTitle": {
+        "text": "FINAL SHOWDOWN",
+        "locText": ""
+      },
+      "setup": {
+        "villain": {
+          "text": "Apocalypse (AoA)",
+          "locText": ""
+        },
+        "roster": {
+          "text": "If there are at least 3 Crisis tokens on EVENT 15 add X-Man to the Campaign Roster.",
+          "locText": "",
+          "attributedText": ""
+        },
+        "specialSetup": [
+          {
+            "text": "If there are 4+ Crisis tokens on EVENT 15, distribute 1 token for each Crisis token above 3 among the Heroes.",
             "locText": "",
             "attributedText": ""
           }
@@ -38,14 +348,14 @@
         },
         "lossConditions": [
           {
-            "text": "",
+            "text": "LOSS: Remove all defeated Heroes from the Campaign Roster. If there are still at least 4 or more Heroes in the Campaign Roster, play Game 6 again, giving 1 additional [MOVE], [HEROIC] or [ATTACK] token of their choice to each Hero. Otherwise, the Campaign is OVER.",
             "locText": "",
             "attributedText": ""
           }
         ],
         "winConditions": [
           {
-            "text": "",
+            "text": "HEROES WIN: You have defeated Apocalypse and restored the timeline! CONGRATULATIONS!",
             "locText": "",
             "attributedText": ""
           }
@@ -55,17 +365,218 @@
   ],
   "campaignEvents": [
     {
-      "gameNumber": 0,
-      "gameTitle": {
-        "text": "",
+      "eventNumber": "01",
+      "eventTitle": {
+        "text": "I SAW THE LIGHT",
+        "locText": "HE VISTO LA LUZ"
+      },
+      "eventDescription": {
+        "text": "If the Heroes win the game, add Sabretooth & Wildchild to the Campaign Roster.",
+        "locText": "Si los Héroes ganan la partida, añade a Sabretooth & Wildchild a la Lista de Campaña.",
+        "attributedText": "Si los Héroes ganan la partida, añade a <b>Sabretooth & Wildchild</b> a la Lista de Campaña."
+      },
+      "img": "clear/s3/Sabretooth-And-Wildchild.png"
+    },
+    {
+      "eventNumber": "02",
+      "eventTitle": {
+        "text": "A NEMESIS TO MANKIND",
         "locText": ""
       },
       "eventDescription": {
-        "text": "",
+        "text": "Remove 1 of the defeated Heroes from the Campaign Roster (players chause). If the Sabretooth Henchman was defeated and there are still at least 4 Heroes in the Campaign Roster, play Game 1 again with each Hero starting with 1 [HEROIC] token. Otherwise, the Campaign is OVER.",
         "locText": "",
         "attributedText": ""
       },
-      "img": ""
+      "img": "clear/s2/Wolverine.png"
+    },
+    {
+      "eventNumber": "03",
+      "eventTitle": {
+        "text": "THE DREAM IS DEAD",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Remove all defeated Heroes from the Campaign Roster. If the Sabretooth Henchman was defeated and there are still at least 4 Heroes in the Campaign Roster, play Game 1 again with each Hero starting with 1 [HEROIC] token. Otherwise, the Campaign is OVER.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Rogue.png"
+    },
+    {
+      "eventNumber": "04",
+      "eventTitle": {
+        "text": "THE ONLY WITNESS",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Replace the Hero with the fewest DNA Sample tokens with Bishop. They start in the same Location with 3 DNA Sample tokens taken from Mister Sinister's pool. If the replaced Hero had no DNA Sample tokens left, remove that Heroe from the Campaign Roster. Add Bishop to the Campaign Roster. Reveal EVENT 16 and place it over the Overflow and Villainous Plot boxes of Mister Sinister's dashboard.",
+        "locText": "",
+        "attributedText": ""
+      }
+    },
+    {
+      "eventNumber": "05",
+      "eventTitle": {
+        "text": "CREATING THE PERFECT BLOODLINE",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Remove all defeated Heroes with no DNA Sample tokens left from the Campaign Roster. If there are still at least 4 Heroes in the Campaign Roster, play Game 2 again. Otherwise the Campaign is OVER.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Mister-Sinister.png"
+    },
+    {
+      "eventNumber": "06",
+      "eventTitle": {
+        "text": "NOT THE ONLY ONE WITH A SECRET AGENDA",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Remove all defeated Heroes with no DNA Sample tokens left from the Campaign Roster. If there are still at least 4 Heroes in the Campaign Roster, play Game 2B again. Otherwise the Campaign is OVER.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Mister-Sinister.png"
+    },
+    {
+      "eventNumber": "07",
+      "eventTitle": {
+        "text": "HORSEMAN DOWN",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "If Bishop is not already in the Campaign Roster, add him. Players may return 1 previously removed Hero to the Campaign Roster. PROCEED TO GAME 3.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Bishop.png"
+    },
+    {
+      "eventNumber": "08",
+      "eventTitle": {
+        "text": "GUTEN TAG!",
+        "locText": ""
+      },
+      "heroicGoal": {
+        "text": "If Nightcrawler deals [ATTACK][ATTACK] to Deadpool in a single turn, Heroes win the game: PROCEED TO GAME 4",
+        "locText": "",
+        "attributedText": ""
+      },
+      "eventDescription": {
+        "text": "When the Heroes win the game: If they rescued 8+ [CIVILIAN], Heroes can distribute 2 [HEROIC] tokens among them during Game 6 setup. If they defeated 8+ [THUG], Heroes can distribute 2 [ATTACK] tokens among them during Game 6 setup. If thet cleared 2+ Threats, Heroes can distribute 2 [MOVE] tokens among them during Game 6 setup. If no Heroes were removed from the game, add 1 Crisis token to EVENT 15. Keep this card revealed aside until the start of Game 6.",
+        "locText": "",
+        "attributedText": ""
+      }
+    },
+    {
+      "eventNumber": "09",
+      "eventTitle": {
+        "text": "YOU DON'T UNDERSTAND. IT'S COMPLICATED.",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "At the end of the game, reveal all Allegiance cards. The Traitor Hero is removed from the Campaign Roster. (Its player continues playing on the side of the other Heroes.)",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Jubilee.png"
+    },
+    {
+      "eventNumber": "10",
+      "eventTitle": {
+        "text": "WE'RE STILL ALIVE AT LEAST...",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Remove all defeated Heroes from the Campaign Roster. If there are still at least 4 Heroes in the Campaign Roster, play Game 4 again. Otherwise the Campaign is OVER.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Gambit.png"
+    },
+    {
+      "eventNumber": "11",
+      "eventTitle": {
+        "text": "PROTECTOR OF THE SHIAR EMPIRE",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "If there are still at least 4 Heroes in the Campaign Roster, play Game 4 again. Otherwise the Campaign is OVER.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Strong-Guy.png"
+    },
+    {
+      "eventNumber": "12",
+      "eventTitle": {
+        "text": "A NOBLE AND WORTHY CAUSE",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Add Gladiator to the Campaign Roster. PROCEED TO GAME 5.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s3/Gladiator.png"
+    },
+    {
+      "eventNumber": "13",
+      "eventTitle": {
+        "text": "WE WON, DIDN'T WE?",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Add 1 Crisis token to EVENT 15. PROCEED TO GAME 5. Keep this card revealed aside. During Game 5, any Hero can remove this card from the game during their turn to discard 1 of their Crisis tokens.",
+        "locText": "",
+        "attributedText": ""
+      },
+      "img": "clear/s2/Sunspot.png"
+    },
+    {
+      "eventNumber": "14",
+      "eventTitle": {
+        "text": "HELLO, LITTLE SNOWFLAKE",
+        "locText": ""
+      },
+      "eventDescription": {
+        "text": "Place Magik in the same Location as Shadow King. From now on, whenever Shadow King moves, move Magik to the Location where he ends his movement. A Hero in the Same Location as Magik can free her by spending [HEROIC][HEROIC] in a single turn. When Magik is freed, remove her from the game. The Heroes can't win the game until they free Magik.",
+        "locText": "",
+        "attributedText": ""
+      }
+    },
+    {
+      "eventNumber": "15",
+      "eventTitle": {
+        "text": "THE ONE",
+        "locText": ""
+      },
+      "tokens": [
+        "CRISIS",
+        "CRISIS",
+        "CRISIS",
+        "CRISIS",
+        "CRISIS"
+      ]
+    },
+    {
+      "eventNumber": "16",
+      "eventTitle": {
+        "text": "THE CULLING",
+        "locText": ""
+      },
+      "overflow": {
+        "text": "If 1 or more [CIVILIAN]/[THUG] tokens can't be added to a Location, take 1 DNA Sample token from 1 Hero there.",
+        "locText": ""
+      },
+      "plot": {
+        "background": "#DD362D",
+        "text": "The Heroes immediately lose if Mister Sinister has collected 6 DNA Sample tokens (excluding the 3 given to Bishop).",
+        "locText": ""
+      }
     }
   ]
 }

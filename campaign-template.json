@@ -1,14 +1,15 @@
 {
   "img": "",
   "campaignName": {
-    "text": "Avengers vs. X-Men",
+    "text": "",
     "locText": ""
   },
   "style": {
-    "mainColor": "#547699",
-    "titleColor": "#F9D262",
-    "backgroundColor": "#B76C94",
-    "whiteDots": true
+    "mainColor": "",
+    "titleColor": "",
+    "decorationColor": "",
+    "backgroundColor": "",
+    "tintColor": ""
   },
   "campaignGames": [
     {
